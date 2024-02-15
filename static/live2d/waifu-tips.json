@@ -1,6 +1,6 @@
 {
 	"mouseover": [{
-        "selector": "[href=/radio/]",
+        "selector": "[href=\"/radio/\"]",
         "text": ["要看看 <span style=\"color:#0099cc;\">{text}</span> 么？"]
         },{
 		"selector": "#waifu-tool-hitokoto",
@@ -154,7 +154,7 @@
 		"selector": ".vsubmit",
 		"text": ["输入验证码就可以提交评论啦～"]
 	}, {
-		"selector": "a[title=#]",
+		"selector": "a[title='#']",
 		"text": ["我还不会说外语呢"]
 	}],
 	"seasons": [{
