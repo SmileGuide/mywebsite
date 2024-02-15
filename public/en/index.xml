@@ -1,0 +1,2031 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>U&#39;Marine Meteoroid</title>
+    <link>https://smileguide.github.io/en/</link>
+    <description>We are all in the gutter, but some of us are looking at the stars.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>:copyright: 2024 JIN Shenghao</copyright>
+    <lastBuildDate>Fri, 16 Feb 2024 00:00:39 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Classical</title>
+      <link>https://smileguide.github.io/en/radio/classical/</link>
+      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/radio/classical/</guid>
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
+&lt;span style=&#34;color:#111827&#34;&gt;
+&lt;meting-js server=&#34;netease&#34; type=&#34;playlist&#34; id=&#34;9177890344&#34; autoplay=&#34;true&#34; listFolded=&#34;true&#34;&gt;&lt;/meting-js&gt;
+&lt;/span&gt;&lt;hr/&gt;
+
+&lt;section class=&#34;space-y-10 w-full&#34;&gt;
+    
+    
+&lt;/section&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/radio/classical/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Relationship</title>
+      <link>https://smileguide.github.io/en/docs/myoc/relationship/</link>
+      <pubDate>Mon, 05 Jun 2023 14:36:30 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/docs/myoc/relationship/</guid>
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;script type=&#34;module&#34;&gt;
+  import mermaid from &#39;https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs&#39;;
+&lt;/script&gt;
+&lt;style&gt;
+/*@font-face{ 
+  font-family: &#34;NotoSerifJP&#34;;
+  src:  url(&#39;../fonts/Noto_Serif_JP/NotoSerifJP-SemiBold.otf&#39;);
+}
+@font-face{ 
+  font-family: &#34;ZhiMangXing&#34;;
+  src:  url(&#39;../fonts/Zhi_Mang_Xing/ZhiMangXing-Regular.ttf&#39;);
+}
+@font-face{ 
+  font-family: &#34;YujiSyuku&#34;;
+  src:  url(&#39;../fonts/Yuji_Syuku/YujiSyuku-Regular.ttf&#39;);
+}
+@font-face{ 
+  font-family: &#34;ShipporiMincho&#34;;
+  src:  url(&#39;../fonts/Shippori_Mincho/ShipporiMincho-Regular.ttf&#39;);
+}
+@font-face{ 
+  font-family: &#34;CastoroTitling&#34;;
+  src:  url(&#39;../fonts/Castoro_Titling/CastoroTitling-Regular.ttf&#39;);
+}*/
+
+
+@import url(&#39;https://fonts.googleapis.com/css2?family=Castoro+Titling&amp;family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&amp;family=Shippori+Mincho:wght@400;500;600;700;800&amp;family=Yuji+Syuku&amp;family=Zhi+Mang+Xing&amp;display=swap&#39;);
+
+font-family: &#39;Castoro Titling&#39;, cursive;
+font-family: &#39;Noto Serif JP&#39;, serif;
+font-family: &#39;Shippori Mincho&#39;, serif;
+font-family: &#39;Yuji Syuku&#39;, serif;
+font-family: &#39;Zhi Mang Xing&#39;, cursive;
+&lt;/style&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;Characters 
+    &lt;div id=&#34;characters&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#characters&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;div class=&#34;mermaid&#34; align=&#34;middle&#34;&gt;
+	graph TD
+	dad[[Jin Chengmin]]:::jp--&gt;hy
+	mum((Seiko Amano)):::jp--&gt;hy((&#34; &#34;)):::hybrid
+	hy----&gt;hero[[Karlukle Amano]]:::herojp
+	hy----&gt;brother[[Hunosuke Amano]]:::jp
+	hy----&gt;sister((Mirai Amano)):::jp
+	brother-.-.r1(elder-younger brothers):::cont
+	hero-.-.r1
+	hero-.-.r2
+	sister-.-.r2(elder brother - younger sister):::cont
+	classDef hybrid fill:#C1DBDA
+	classDef herojp fill:#FAE78A
+	classDef cont font-weight:700,stroke-dasharray: 5 5,stroke-width:0px,fill:#f0f0f0
+	click dad &#34;/en/docs/myoc/characters/#chengmin&#34;
+	click mum &#34;/en/docs/myoc/characters/#seiko&#34;
+	click hero &#34;/en/docs/myoc/characters/#karlukle&#34;
+	click brother &#34;/en/docs/myoc/characters/#hunosuke&#34;
+	click sister &#34;/en/docs/myoc/characters/#mirai&#34;
+&lt;/div&gt;
+&lt;div class=&#34;mermaid&#34; align=&#34;right&#34;&gt;
+	graph TD
+	subgraph Legends
+		dad(&#34; &#34;)--&gt;hy((&#34; &#34;))
+	mum(&#34; &#34;)--&gt;hy:::hybrid
+	hy--&#34; &#34;--&gt;he(&#34; &#34;)
+	hy--Matchmaking and Childbirth Symbol--&gt;brother(&#34; &#34;)
+	hy--&#34; &#34;--&gt;sister(&#34; &#34;)
+	lg1[[Male]]-.-.relationship(&#34;【relationship】&#34;):::cont
+	lg2((Female))-.-.relationship
+	hero[[the Protagonist]]:::herojp
+	end
+	classDef cont stroke-dasharray: 5 5,stroke-width:0px,fill:#f0f0f0
+	classDef herojp fill:#FAE78A
+	classDef hybrid fill:#C1DBDA
+&lt;/div&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;World View 
+    &lt;div id=&#34;world-view&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#world-view&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;div class=&#34;mermaid&#34; align=&#34;middle&#34;&gt;
+	graph LR
+	earthlyworld[(Earthly World)]:::world
+	leafworld[(Leaf World)]:::world
+	eltraveller([E-L Traveller]):::onel--lives in--&gt;earthlyworld
+	eltraveller--transforms in--&gt;leafworld
+	subgraph el[ ]
+	earthlyworld2[(Earthly World)]:::world--产--&gt;husoul
+	leafworld2[(Leaf World)]:::world--产--&gt;leafsoul
+	husoul[Mankind Motosoul]:::rei-.-eltraveller
+	earthlyworld2--gives birth to--&gt;tay
+	tay([Tai]):::rei--becomes--&gt;eltraveller
+	leafsoul[Leaf Motosoul]:::rei-.-eltraveller
+	end
+	classDef world fill:#FAE78A
+	click earthlyworld &#34;/en/docs/myoc/pedia/#earthlyworld&#34;
+	click leafworld &#34;/en/docs/myoc/pedia/#leafworld&#34;
+	click eltraveller &#34;/en/docs/myoc/pedia/#eltraveller&#34;
+	click earthlyworld2 &#34;/en/docs/myoc/pedia/#earthlyworld&#34;
+	click leafworld2 &#34;/en/docs/myoc/pedia/#leafworld&#34;
+	click tay &#34;/en/docs/myoc/pedia/#tay&#34;
+	click leafsoul &#34;/en/docs/myoc/pedia/#leafsoul&#34;
+	click husoul &#34;/en/docs/myoc/pedia/#husoul&#34;
+	&lt;/div&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;Timeline 
+    &lt;div id=&#34;timeline&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#timeline&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;div class=&#34;mermaid&#34; align=&#34;middle&#34;&gt;
+	%%{init: { &#39;logLevel&#39;: &#39;debug&#39;, &#39;theme&#39;: &#39;forest&#39; } }%%
+timeline
+    2000s : 2000&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chengmin Met Seiko
+    	: 2005&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chengmin Married Seiko
+    	: 2007&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Hunosuke Was Born
+    2010s: 2013&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Marlukle Was Born
+    	: 2014&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Mirai Was Born
+    	: 2019&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Grandma passed away, Mirai Moved to Countryside
+    2020s : 2020&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;The family moved to Dalian, with Mirai left
+    	: 2021&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;The Dream of Leaf World, Mirai died
+    	: Present&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;What can&#39;t be stopped is only time...
+&lt;/div&gt;
+&lt;!--当前2022--&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Glass (Completed)</title>
+      <link>https://smileguide.github.io/en/docs/vb/glass/</link>
+      <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/docs/vb/glass/</guid>
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;p&gt;This is a tool that can simulate transparent glass on the screen, while supporting fancy features such as multi-opening, coloring, resizing, and creating glass in color sequences.&lt;/p&gt;
+&lt;style&gt;
+	.DDot{
+		text-decoration:underline;
+		text-decoration-style:dotted;
+		float:left;
+		color:#b5b5b5;
+	}
+&lt;/style&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;Download source code: &lt;br/&gt; 
+    &lt;div id=&#34;download-source-code-br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#download-source-code-br&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/glass.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;If you&amp;rsquo;re having trouble with it, feel free to ask questions in the comments section!&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>New Age</title>
+      <link>https://smileguide.github.io/en/radio/newage/</link>
+      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/radio/newage/</guid>
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
+&lt;span style=&#34;color:#111827&#34;&gt;
+&lt;meting-js server=&#34;netease&#34; type=&#34;playlist&#34; id=&#34;9178337946&#34; autoplay=&#34;true&#34; listFolded=&#34;true&#34;&gt;&lt;/meting-js&gt;
+&lt;/span&gt;&lt;hr/&gt;
+
+&lt;section class=&#34;space-y-10 w-full&#34;&gt;
+    
+    
+&lt;/section&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/radio/newage/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Characters</title>
+      <link>https://smileguide.github.io/en/docs/myoc/characters/</link>
+      <pubDate>Tue, 06 Jun 2023 09:13:09 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/docs/myoc/characters/</guid>
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;style&gt;
+/@font-face{ 
+  font-family: &#34;NotoSerifJP&#34;;
+  src:  url(&#39;../fonts/Noto_Serif_JP/NotoSerifJP-SemiBold.otf&#39;);
+}
+@font-face{ 
+  font-family: &#34;ZhiMangXing&#34;;
+  src:  url(&#39;../fonts/Zhi_Mang_Xing/ZhiMangXing-Regular.ttf&#39;);
+}
+@font-face{ 
+  font-family: &#34;YujiSyuku&#34;;
+  src:  url(&#39;../fonts/Yuji_Syuku/YujiSyuku-Regular.ttf&#39;);
+}
+@font-face{ 
+  font-family: &#34;ShipporiMincho&#34;;
+  src:  url(&#39;../fonts/Shippori_Mincho/ShipporiMincho-Regular.ttf&#39;);
+}
+
+@import url(&#39;https://fonts.googleapis.com/css2?family=Castoro+Titling&amp;family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&amp;family=Shippori+Mincho:wght@400;500;600;700;800&amp;family=Yuji+Syuku&amp;family=Zhi+Mang+Xing&amp;display=swap&#39;);
+
+font-family: &#39;Castoro Titling&#39;, cursive;
+font-family: &#39;Noto Serif JP&#39;, serif;
+font-family: &#39;Shippori Mincho&#39;, serif;
+font-family: &#39;Yuji Syuku&#39;, serif;
+font-family: &#39;Zhi Mang Xing&#39;, cursive;
+
+
+
+
+
+
+
+&lt;/style&gt;
+&lt;style&gt;
+  .card{
+  border-radius: 5px;
+}
+.c1{
+
+  width: 323px;
+background:linear-gradient(to top left,#0091C8,#6244b2);
+}
+.c2{
+  width: 290px;
+  background:linear-gradient(to top left,#2bae72,#75f572);
+}
+.c3{
+background:linear-gradient(to top left,#ff626e,#ffeda4);
+  width: 240px;
+}.c4{
+background:linear-gradient(to top left,#3e048a,#c84b7d);
+  width: 240px;
+}.c5{
+background:linear-gradient(to top left,#d39340,#ffd194);
+  width: 240px;
+}
+&lt;/style&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;div id=&#34;karlukle&#34;&gt;Karlukle Amano ♂&lt;/div&gt; 
+    &lt;div id=&#34;div-idkarluklekarlukle-amano-div&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#div-idkarluklekarlukle-amano-div&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p class=&#34;card c1&#34;&gt;
+&lt;span style=&#34;line-height: 0px;color:rgb(255,255,255,0.85);&#34;&gt;
+&lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px;&#34;&gt;
+  &lt;span style=&#34;font-family: Yuji Syuku;color:#74ceff&#34;&gt;天野&lt;/span&gt;
+  &lt;rp&gt;(&lt;/rp&gt;
+  &lt;rt&gt;アマノ&lt;/rt&gt;
+  &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px;&#34;&gt;
+  &lt;span style=&#34;font-family: Yuji Syuku;;color:#74ceff&#34;&gt;カルクル&lt;/span&gt;
+&lt;/ruby&gt;
+&lt;br/&gt;
+&lt;span style=&#34;font-family: Castoro Titling;font-size: 20px;&#34;&gt;&amp;nbsp;&amp;nbsp;Amano&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Karlukle&lt;/span&gt;
+&lt;/span&gt;
+&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;The main character of the story, an 8-year-old second grade student in the elementary school division of an international school. Although originally from Saitama, Tokyo, he moved to Zhongshan District in Dalian with his parents and brother at the age of 6. At 7 years old, he unintentionally entered the Leaf World in a dream and became a tai, then transformed into an EL traveler after withstanding the Heavenly Torture. Now able to freely explore the Leaf World in his dreams, he wanders the Earthly World under the name Karlukle.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;div id=&#34;hunosuke&#34;&gt;Hunosuke Amano ♂&lt;/div&gt; 
+    &lt;div id=&#34;div-idhunosukehunosuke-amano-div&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#div-idhunosukehunosuke-amano-div&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p class=&#34;card c2&#34;&gt;
+&lt;span style=&#34;line-height: 0px;color:rgb(255,255,255,0.85);&#34;&gt;
+&lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px;&#34;&gt;
+  &lt;span style=&#34;font-family: Yuji Syuku;;color:#0081D9&#34;&gt;天野&lt;/span&gt;
+  &lt;rp&gt;(&lt;/rp&gt;
+  &lt;rt&gt;アマノ&lt;/rt&gt;
+  &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px;&#34;&gt;
+  &lt;span style=&#34;font-family: Yuji Syuku;;color:#0081D9&#34;&gt;風之助&lt;/span&gt;
+  &lt;rp&gt;(&lt;/rp&gt;
+  &lt;rt&gt;フウノスケ&lt;/rt&gt;
+  &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt; 
+&lt;br/&gt;
+&lt;span style=&#34;font-family: Castoro Titling;font-size: 20px;&#34;&gt;&amp;nbsp;&amp;nbsp;Amano&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Hūnosuke&lt;/span&gt; 
+&lt;/span&gt;
+&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;Karlukle&#39;s brother, 15 years old, a third-year student at the junior high school division of an international school.He is kind, attentive, and responsible, often providing care and companionship to ease Karlukle&#39;s loneliness in the absence of their busy parents.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;div id=&#34;mirai&#34;&gt;Mirai Amano ♀&lt;/div&gt; 
+    &lt;div id=&#34;div-idmiraimirai-amano-div&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#div-idmiraimirai-amano-div&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p class=&#34;card c3&#34;&gt;
+&lt;span style=&#34;line-height: 0px;color:rgb(255,255,255,0.85)&#34;&gt;
+&lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px;&#34;&gt;
+  &lt;span style=&#34;font-family: Yuji Syuku;;color:#cc2d03&#34;&gt;天野&lt;/span&gt;
+  &lt;rp&gt;(&lt;/rp&gt;
+  &lt;rt&gt;アマノ&lt;/rt&gt;
+  &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px;&#34;&gt;
+  &lt;span style=&#34;font-family: Yuji Syuku;;color:#cc2d03&#34;&gt;未来&lt;/span&gt;
+  &lt;rp&gt;(&lt;/rp&gt;
+  &lt;rt&gt;ミライ&lt;/rt&gt;
+  &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt; 
+&lt;br/&gt;
+&lt;span style=&#34;font-family: Castoro Titling;font-size: 20px;&#34;&gt;&amp;nbsp;Amano&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Mirai&lt;/span&gt;
+&lt;/span&gt;
+&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;Karlukle&#39;s sister ,7 (at the time of death). At just 5 years old, she went to live with their grandmother in rural Fukushima after their grandfather&#39;s passing. One night, despite being thousands of miles apart, she and Karlukle shared the same dream where she witnessed him enduring the &#34;Heavenly Torture&#34; needed to become an EL traveler. Learning that he needed to withstand double the pain to transform, she selflessly sacrificed herself to help Karlukle overcome the difficulty and die in the dream. Since that night, Karlukle has kept the memories of their dream hidden in his heart. &lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;div id=&#34;seiko&#34;&gt;Seiko Amano ♀&lt;/div&gt; 
+    &lt;div id=&#34;div-idseikoseiko-amano-div&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#div-idseikoseiko-amano-div&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p class=&#34;card c4&#34;&gt;
+&lt;span style=&#34;line-height: 0px;;color:rgb(255,255,255,0.85)&#34;&gt;
+&lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px&#34;&gt;
+  &lt;span style=&#34;font-family: Yuji Syuku;;color:#14cbcf&#34;&gt;天野&lt;/span&gt;
+  &lt;rp&gt;(&lt;/rp&gt;
+  &lt;rt&gt;アマノ&lt;/rt&gt;
+  &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px;line-height: 0.2em;&#34;&gt;
+  &lt;span style=&#34;font-family: Yuji Syuku;;color:#14cbcf&#34;&gt;聖子&lt;/span&gt;
+  &lt;rp&gt;(&lt;/rp&gt;
+  &lt;rt&gt;セイコ&lt;/rt&gt;
+  &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt; 
+&lt;br/&gt;
+&lt;span style=&#34;font-family: Castoro Titling;font-size: 20px&#34;&gt;&amp;nbsp;Amano&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Seiko&lt;/span&gt;
+&lt;/span&gt;
+&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;Karlukle&#39;s mother, 36, born in Fukushima, a foreign teacher at a high school in Dalian.&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;div id=&#34;chengmin&#34;&gt;Jin Chengmin ♂&lt;/div&gt; 
+    &lt;div id=&#34;div-idchengminjin-chengmin-div&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#div-idchengminjin-chengmin-div&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p class=&#34;card c5&#34;&gt;
+&lt;span style=&#34;line-height: 0px;color:rgb(255,255,255,0.85)&#34;&gt;&amp;nbsp;&amp;nbsp;
+&lt;ruby style=&#34;font-family: Noto Serif SC;font-size: 50px;&#34;&gt;
+  &lt;span style=&#34;font-family: Yuji Syuku;;color:#444d56&#34;&gt;金&lt;/span&gt;
+  &lt;rp&gt;(&lt;/rp&gt;
+  &lt;rt style=&#34;font-weight:900;&#34;&gt;ㄐㄧㄋ&lt;/rt&gt;
+  &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&lt;ruby style=&#34;font-family: Noto Serif SC;font-size: 50px;&#34;&gt;
+  &lt;span style=&#34;font-family: Yuji Syuku;;color:#444d56&#34;&gt;丞旻&lt;/span&gt;
+  &lt;rp&gt;(&lt;/rp&gt;
+  &lt;rt style=&#34;font-weight:900;&#34;&gt;ㄔㄥㄇㄧㄋ&lt;/rt&gt;
+  &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt; 
+&lt;br/&gt;
+&lt;span style=&#34;font-family: Castoro Titling;font-size: 20px;&#34;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Jin&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chengmin&lt;/span&gt;
+&lt;/span&gt;
+&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;Karlukle&#39;s father, 40 years old, born in Dalian. Having spent his early years abroad, he is now a software engineer for Japan in Dalian.&lt;/p&gt;
+&lt;hr/&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Drawing Board (completed)</title>
+      <link>https://smileguide.github.io/en/docs/vb/board/</link>
+      <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/docs/vb/board/</guid>
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;p&gt;This is a tool that allows you to draw on a blank canvas or picture, and specifically provides a quick feature for teachers to grade papers using red handwriting.&lt;/p&gt;
+&lt;style&gt;
+	.DDot{
+		text-decoration:underline;
+		text-decoration-style:dotted;
+		float:left;
+		color:#b5b5b5;
+	}
+&lt;/style&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;Download source code: &lt;br/&gt; 
+    &lt;div id=&#34;download-source-code-br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#download-source-code-br&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/board.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;If you&amp;rsquo;re having trouble with it, feel free to ask questions in the comments section!&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>PanPop</title>
+      <link>https://smileguide.github.io/en/radio/panpop/</link>
+      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/radio/panpop/</guid>
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
+&lt;span style=&#34;color:#111827&#34;&gt;
+&lt;meting-js server=&#34;netease&#34; type=&#34;playlist&#34; id=&#34;9177267468&#34; autoplay=&#34;true&#34; listFolded=&#34;true&#34;&gt;&lt;/meting-js&gt;
+&lt;/span&gt;&lt;hr/&gt;
+
+&lt;section class=&#34;space-y-10 w-full&#34;&gt;
+    
+    
+&lt;/section&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/radio/panpop/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Conception Illustration</title>
+      <link>https://smileguide.github.io/en/docs/myoc/pedia/</link>
+      <pubDate>Tue, 06 Jun 2023 21:23:49 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/docs/myoc/pedia/</guid>
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;h2 class=&#34;relative group&#34;&gt;&lt;span id=&#34;earthlyworld&#34;&gt;Earthly World&lt;/span&gt; 
+    &lt;div id=&#34;span-idearthlyworldearthly-worldspan&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#span-idearthlyworldearthly-worldspan&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;The world we live in.&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;span id=&#34;husoul&#34;&gt;Mankind&amp;rsquo;s Motosoul 
+    &lt;div id=&#34;span-idhusoulmankinds-motosoul&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#span-idhusoulmankinds-motosoul&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Moto&lt;/em&gt; is a Japanese word that means &lt;em&gt;original&lt;/em&gt;.Mankind&amp;rsquo;s Motosoul is the original soul of a person.&lt;/p&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;Sufaddition of Motosoul 
+    &lt;div id=&#34;sufaddition-of-motosoul&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#sufaddition-of-motosoul&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;When two Owners of Mankind&amp;rsquo;s&amp;rsquo;s True Soul are subjected to the Heavenly Torture, due to the fact that two EL Travellers cannot exist simultaneously, the pain is halved. The first to arrive will successfully become an EL Traveller, with double the spiritual energy bonus, while the other&amp;rsquo;s soul will be shattered.&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;span id=&#34;leafworld&#34;&gt;Leaf World 
+    &lt;div id=&#34;span-idleafworldleaf-world&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#span-idleafworldleaf-world&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Parallel worlds in the fourth dimension. The World of Leaves can establish connections and communicate with the Owners of Mankind&amp;rsquo;s Motosoul through mental control. Dreams are the only way to travel between Our World and the World of Leaves through the four-dimensional axis. It is said that only children can have such a &lt;em&gt;dream of the Leaf World&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;span id=&#34;leafsoul&#34;&gt;Leaf Motosoul 
+    &lt;div id=&#34;span-idleafsoulleaf-motosoul&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#span-idleafsoulleaf-motosoul&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;The projection of the soul of Owners of Mankind&amp;rsquo;s Motosoul in the Leaf World.&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;span id=&#34;tay&#34;&gt;tai 
+    &lt;div id=&#34;span-idtaytai&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#span-idtaytai&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;After arriving in the World of Leaves, the owner of Mankind&amp;rsquo;s Motosoul loses their freedom and cannot return until they become an EL Traveller. Such a person who loses their freedom is called a tai (meaning &lt;em&gt;body&lt;/em&gt; in Japanese)&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;span id=&#34;eltraveller&#34;&gt;EL Traveller 
+    &lt;div id=&#34;span-ideltravellerel-traveller&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#span-ideltravellerel-traveller&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;An Owner of Mankind&amp;rsquo;s Motosoul who can travel back and forth between Our World and the Leaf World through dreams. Karlukle is an EL Traveller who gains L-abilities every night by sleepwalking in the Leaf World and lands in various corners of Earthly World to engage in conversations.&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;em&gt;GOTENSAMA&lt;/em&gt; 
+    &lt;div id=&#34;gotensama&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#gotensama&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;The personification of Leaf World, which means &lt;em&gt;Heaven Lord&lt;/em&gt; in Japanese.&lt;/p&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;&lt;span id=&#34;gotensamastorture&#34;&gt;Heavenly Torture 
+    &lt;div id=&#34;span-idgotensamastortureheavenly-torture&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#span-idgotensamastortureheavenly-torture&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;The torture of Leaf World which involves both physical and mental torment. When being subjected to the Heavenly Torture, there is a slow-splitting pain  in the body and great despair in the mind. To gain freedom, one must endure the torture and become an EL Traveller.&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;Owner of Mankind&amp;rsquo;s Motosoul 
+    &lt;div id=&#34;owner-of-mankinds-motosoul&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#owner-of-mankinds-motosoul&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Humans(those who possess souls).&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Online class gadgets - clipboard save picture tool (completed)</title>
+      <link>https://smileguide.github.io/en/docs/vb/screenshot/</link>
+      <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/docs/vb/screenshot/</guid>
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;p&gt;This is a tool that makes it easy to capture screenshots copied to the clipboard by pressing the PrintScreen key and save them to a specified directory with a timestamped filename.&lt;/p&gt;
+&lt;style&gt;
+	.DDot{
+		text-decoration:underline;
+		text-decoration-style:dotted;
+		float:right;
+		color:#b5b5b5;
+	}
+&lt;/style&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;Download source code: &lt;br/&gt; 
+    &lt;div id=&#34;download-source-code-br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#download-source-code-br&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/screenshot.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;If you&amp;rsquo;re having trouble with it, feel free to ask questions in the comments section!&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Rocks</title>
+      <link>https://smileguide.github.io/en/radio/rocks/</link>
+      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/radio/rocks/</guid>
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
+&lt;span style=&#34;color:#111827&#34;&gt;
+&lt;meting-js server=&#34;netease&#34; type=&#34;playlist&#34; id=&#34;9178226536&#34; autoplay=&#34;true&#34; listFolded=&#34;true&#34;&gt;&lt;/meting-js&gt;
+&lt;/span&gt;&lt;hr/&gt;
+
+&lt;section class=&#34;space-y-10 w-full&#34;&gt;
+    
+    
+        
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  &lt;a class=&#34;flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://smileguide.github.io/en/player/&#34;&gt;
+    
+        
+        &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom &#34; style=&#34;background-image:url(/en/player/feature_hu3d03a01dcc18bc5be0e67db3d8d209a6_2282854_600x0_resize_q75_box.jpg);&#34;&gt;&lt;/div&gt;
+        
+      &lt;div class=&#34; p-4&#34;&gt;
+      &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;https://smileguide.github.io/en/player/&#34;&gt;About Music on This Site&lt;/div&gt;
+        
+        
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  &lt;time datetime=&#34;2024-01-26 10:11:15 &amp;#43;0800 CST&#34;&gt;26 January 2024&lt;/time&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span&gt;247 words&lt;/span&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span title=&#34;Reading time&#34;&gt;2 mins&lt;/span&gt;
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/en/tags/music/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    Music
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+      &lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/a&gt;
+        
+    
+&lt;/section&gt;
+</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/radio/rocks/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Background Q&amp;A</title>
+      <link>https://smileguide.github.io/en/docs/myoc/questionaire/</link>
+      <pubDate>Tue, 06 Jun 2023 23:00:25 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/docs/myoc/questionaire/</guid>
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;h2 class=&#34;relative group&#34;&gt;Why use the family name &amp;ldquo;Amano(天野)&amp;rdquo;? 
+    &lt;div id=&#34;why-use-the-family-name-amano天野&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#why-use-the-family-name-amano%e5%a4%a9%e9%87%8e&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;I have been searching for a family that sounds catchy in English. The word &amp;ldquo;Ama(天)&amp;rdquo; related to the theme of this story attracted me.&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;What is the origin of the name &amp;ldquo;Karlukle(カルクル)&amp;rdquo;? 
+    &lt;div id=&#34;what-is-the-origin-of-the-name-karlukleカルクル&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-the-origin-of-the-name-karlukle%e3%82%ab%e3%83%ab%e3%82%af%e3%83%ab&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;I first gave the protagonist an English name &amp;ldquo;Karlukle&amp;rdquo;.
+Karlukle consists of two parts, &lt;em&gt;Karl&lt;/em&gt; is a Germanic and Scandinavian variant of &amp;ldquo;Charles&amp;rdquo;, and &lt;em&gt;Ukle&lt;/em&gt; is taken from &lt;em&gt;Ukulele&lt;/em&gt;.
+At the same time, when translating Karlukle into Katakana, I learned from the name of Howl&amp;rsquo;s apprentice in Studio Ghibli&amp;rsquo;s anime film &lt;em&gt;Howl&amp;rsquo;s Moving Castle(ハウルの動く城, 2004)&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;What is the meaning of the name &lt;em&gt;Jin Chengmin(金丞旻)&lt;/em&gt;? 
+    &lt;div id=&#34;what-is-the-meaning-of-the-name-jin-chengmin金丞旻&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-the-meaning-of-the-name-jin-chengmin%e9%87%91%e4%b8%9e%e6%97%bb&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Min(旻)&lt;/em&gt; means sky, corresponding to &lt;em&gt;Amano&lt;/em&gt;.&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;Why is it the &lt;em&gt;Leaf&lt;/em&gt; World? 
+    &lt;div id=&#34;why-is-it-the-leaf-world&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#why-is-it-the-leaf-world&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;The Parallel universe is connected by the fourth dimension, which easily reminds people of countless parallel leaves on a branch.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Online Class Widget - Course Schedule (incomplete)</title>
+      <link>https://smileguide.github.io/en/docs/vb/schedule/</link>
+      <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/docs/vb/schedule/</guid>
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;p&gt;This is a utility that allows you to plan your time during online classes, differentiate between weeks and set alarms by course, plus support for built-in command line operations, and a variety of skins to choose from.&lt;/p&gt;
+&lt;style&gt;
+	.DDot{
+		text-decoration:underline;
+		text-decoration-style:dotted;
+		float:left;
+		color:#b5b5b5;
+	}
+&lt;/style&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;Download source code: &lt;br/&gt; 
+    &lt;div id=&#34;download-source-code-br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#download-source-code-br&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/schedule.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;If you&amp;rsquo;re having trouble with it, feel free to ask questions in the comments section!&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Murmurs of Earth</title>
+      <link>https://smileguide.github.io/en/radio/murmurs/</link>
+      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/radio/murmurs/</guid>
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
+&lt;span style=&#34;color:#111827&#34;&gt;
+&lt;meting-js server=&#34;netease&#34; type=&#34;album&#34; id=&#34;2848433&#34; autoplay=&#34;true&#34; listFolded=&#34;true&#34;&gt;&lt;/meting-js&gt;
+&lt;/span&gt;&lt;hr/&gt;
+
+&lt;section class=&#34;space-y-10 w-full&#34;&gt;
+    
+    
+&lt;/section&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/radio/murmurs/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Student Information Management System for the 31st Middle School (Completed)</title>
+      <link>https://smileguide.github.io/en/docs/vb/31infsystem/</link>
+      <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/docs/vb/31infsystem/</guid>
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;p&gt;This is a data management system that allows you to look up information about the class of 2019 at the Thirty-first Middle School in Zhuanghe City, with wildcard lookups, clipboard recognition for automatic lookups, and more. You can also change this work to your organization&amp;rsquo;s information management system.&lt;/p&gt;
+&lt;style&gt;
+	.DDot{
+		text-decoration:underline;
+		text-decoration-style:dotted;
+		float:right;
+		color:#b5b5b5;
+	}
+&lt;/style&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;Download source code: &lt;br/&gt; 
+    &lt;div id=&#34;download-source-code-br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#download-source-code-br&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/31infsystem.rar.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;If you&amp;rsquo;re having trouble with it, feel free to ask questions in the comments section!&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Plaintext-to-Ciphertext Conversion Tool (incomplete)</title>
+      <link>https://smileguide.github.io/en/docs/vb/cipher/</link>
+      <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/docs/vb/cipher/</guid>
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;p&gt;This is a tool that can encrypt and decrypt text based on a customized key, with multiple fancy features under development.&lt;/p&gt;
+&lt;style&gt;
+	.DDot{
+		text-decoration:underline;
+		text-decoration-style:dotted;
+		float:left;
+		color:#b5b5b5;
+	}
+&lt;/style&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;Download source code: &lt;br/&gt; 
+    &lt;div id=&#34;download-source-code-br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#download-source-code-br&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/cipher.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;If you&amp;rsquo;re having trouble with it, feel free to ask questions in the comments section!&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Friend Links</title>
+      <link>https://smileguide.github.io/en/friends/</link>
+      <pubDate>Mon, 05 Feb 2024 09:09:28 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/friends/</guid>
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;style&gt;
+	.place-self-center{
+		cursor:pointer;
+	}
+&lt;/style&gt;
+&lt;div tag=&#34;friends&#34;&gt;
+	&lt;hr/&gt;
+	&lt;div class=&#34;flex author&#34;&gt;
+		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;https://smileguide.github.io/avatar.png&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
+		&lt;div class=&#34;place-self-center&#34;&gt;
+			&lt;div class=&#34;font-semibold leading-6 text-neutral-800 dark:text-neutral-300 decoration-primary-500 hover:underline hover:underline-offset-2 &#34;&gt;
+				U&#39;Marine Meteoroid (this site)
+			&lt;/div&gt;
+			&lt;div class=&#34;text-[0.8rem] leading-3 text-neutral-500 dark:text-neutral-400&#34;&gt;
+We are all in the gutter, but some of us are looking at the stars.
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;style&gt;
+	.place-self-center{
+		cursor:pointer;
+	}
+
+	.author:hover img{
+ transition: 0.9s !important;
+ -webkit-transition: 0.9s !important;
+ -moz-transition: 0.9s !important;
+ -o-transition: 0.9s !important;
+ -ms-transition: 0.9s !important;
+ transform: rotate(360deg) !important;
+ -webkit-transform: rotate(360deg) !important;
+ -moz-transform: rotate(360deg) !important;
+ -o-transform: rotate(360deg) !important;
+ -ms-transform: rotate(360deg) !important;
+}
+&lt;/style&gt;
+ 
+&lt;div&gt;
+	&lt;hr/&gt;
+	&lt;div class=&#34;flex author&#34;&gt;
+		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;https://i0.hdslb.com/bfs/face/a2bb7859939871165f438ab2f96d72b8343dae41.jpg&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
+		&lt;div class=&#34;place-self-center&#34; onclick=&#39;window.open(&amp;#34;https://pinpe.top&amp;#34;)&#39;&gt;
+			&lt;div class=&#34;font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral-300&#34;&gt;
+				Pinpe&amp;#39;s Cloud
+			&lt;/div&gt;
+			&lt;div class=&#34;text-[0.8rem] leading-3 text-neutral-500 dark:text-neutral-400&#34;&gt;
+				My own cloud
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+	.place-self-center{
+		cursor:pointer;
+	}
+
+	.author:hover img{
+ transition: 0.9s !important;
+ -webkit-transition: 0.9s !important;
+ -moz-transition: 0.9s !important;
+ -o-transition: 0.9s !important;
+ -ms-transition: 0.9s !important;
+ transform: rotate(360deg) !important;
+ -webkit-transform: rotate(360deg) !important;
+ -moz-transform: rotate(360deg) !important;
+ -o-transform: rotate(360deg) !important;
+ -ms-transform: rotate(360deg) !important;
+}
+&lt;/style&gt;
+ 
+&lt;div&gt;
+	&lt;hr/&gt;
+	&lt;div class=&#34;flex author&#34;&gt;
+		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;https://bu.dusays.com/2023/12/23/65867c3357bb6.jpg&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
+		&lt;div class=&#34;place-self-center&#34; onclick=&#39;window.open(&amp;#34;https://kegongteng.cn/&amp;#34;)&#39;&gt;
+			&lt;div class=&#34;font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral-300&#34;&gt;
+				Kegongteng
+			&lt;/div&gt;
+			&lt;div class=&#34;text-[0.8rem] leading-3 text-neutral-500 dark:text-neutral-400&#34;&gt;
+				Blogger / Technophile / Student
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+	.place-self-center{
+		cursor:pointer;
+	}
+
+	.author:hover img{
+ transition: 0.9s !important;
+ -webkit-transition: 0.9s !important;
+ -moz-transition: 0.9s !important;
+ -o-transition: 0.9s !important;
+ -ms-transition: 0.9s !important;
+ transform: rotate(360deg) !important;
+ -webkit-transform: rotate(360deg) !important;
+ -moz-transform: rotate(360deg) !important;
+ -o-transform: rotate(360deg) !important;
+ -ms-transform: rotate(360deg) !important;
+}
+&lt;/style&gt;
+ 
+&lt;div&gt;
+	&lt;hr/&gt;
+	&lt;div class=&#34;flex author&#34;&gt;
+		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;https://potteto11.github.io/home/yuublog_files/IMG_2852.jpeg&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
+		&lt;div class=&#34;place-self-center&#34; onclick=&#39;window.open(&amp;#34;https://potteto11.github.io/home/about/index.html&amp;#34;)&#39;&gt;
+			&lt;div class=&#34;font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral-300&#34;&gt;
+				yuublog
+			&lt;/div&gt;
+			&lt;div class=&#34;text-[0.8rem] leading-3 text-neutral-500 dark:text-neutral-400&#34;&gt;
+				High school student blogger. Struggling everyday to achieve the fastest results in the age of 2025!
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+	.place-self-center{
+		cursor:pointer;
+	}
+
+	.author:hover img{
+ transition: 0.9s !important;
+ -webkit-transition: 0.9s !important;
+ -moz-transition: 0.9s !important;
+ -o-transition: 0.9s !important;
+ -ms-transition: 0.9s !important;
+ transform: rotate(360deg) !important;
+ -webkit-transform: rotate(360deg) !important;
+ -moz-transform: rotate(360deg) !important;
+ -o-transform: rotate(360deg) !important;
+ -ms-transform: rotate(360deg) !important;
+}
+&lt;/style&gt;
+ 
+&lt;div&gt;
+	&lt;hr/&gt;
+	&lt;div class=&#34;flex author&#34;&gt;
+		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;https://bu.dusays.com/2022/12/28/63ac2812183aa.png&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
+		&lt;div class=&#34;place-self-center&#34; onclick=&#39;window.open(&amp;#34;https://blog.zhheo.com/&amp;#34;)&#39;&gt;
+			&lt;div class=&#34;font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral-300&#34;&gt;
+				Heo
+			&lt;/div&gt;
+			&lt;div class=&#34;text-[0.8rem] leading-3 text-neutral-500 dark:text-neutral-400&#34;&gt;
+				Sharing Design and Technology for Life
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+	.place-self-center{
+		cursor:pointer;
+	}
+
+	.author:hover img{
+ transition: 0.9s !important;
+ -webkit-transition: 0.9s !important;
+ -moz-transition: 0.9s !important;
+ -o-transition: 0.9s !important;
+ -ms-transition: 0.9s !important;
+ transform: rotate(360deg) !important;
+ -webkit-transform: rotate(360deg) !important;
+ -moz-transform: rotate(360deg) !important;
+ -o-transform: rotate(360deg) !important;
+ -ms-transform: rotate(360deg) !important;
+}
+&lt;/style&gt;
+ 
+&lt;div&gt;
+	&lt;hr/&gt;
+	&lt;div class=&#34;flex author&#34;&gt;
+		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;https://bu.dusays.com/2023/11/29/6567122d3f4a6.jpg&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
+		&lt;div class=&#34;place-self-center&#34; onclick=&#39;window.open(&amp;#34;https://blog.marice.top/link/&amp;#34;)&#39;&gt;
+			&lt;div class=&#34;font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral-300&#34;&gt;
+				Ice and Fire
+			&lt;/div&gt;
+			&lt;div class=&#34;text-[0.8rem] leading-3 text-neutral-500 dark:text-neutral-400&#34;&gt;
+				Ice-cold faith forges fiery ambitions
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+	.place-self-center{
+		cursor:pointer;
+	}
+
+	.author:hover img{
+ transition: 0.9s !important;
+ -webkit-transition: 0.9s !important;
+ -moz-transition: 0.9s !important;
+ -o-transition: 0.9s !important;
+ -ms-transition: 0.9s !important;
+ transform: rotate(360deg) !important;
+ -webkit-transform: rotate(360deg) !important;
+ -moz-transform: rotate(360deg) !important;
+ -o-transform: rotate(360deg) !important;
+ -ms-transform: rotate(360deg) !important;
+}
+&lt;/style&gt;
+ 
+&lt;div&gt;
+	&lt;hr/&gt;
+	&lt;div class=&#34;flex author&#34;&gt;
+		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;https://josephz.top/image/avatar.webp&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
+		&lt;div class=&#34;place-self-center&#34; onclick=&#39;window.open(&amp;#34;https://josephz.top/&amp;#34;)&#39;&gt;
+			&lt;div class=&#34;font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral-300&#34;&gt;
+				Yunji
+			&lt;/div&gt;
+			&lt;div class=&#34;text-[0.8rem] leading-3 text-neutral-500 dark:text-neutral-400&#34;&gt;
+				All hesitation must be eradicated here.
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+	.place-self-center{
+		cursor:pointer;
+	}
+
+	.author:hover img{
+ transition: 0.9s !important;
+ -webkit-transition: 0.9s !important;
+ -moz-transition: 0.9s !important;
+ -o-transition: 0.9s !important;
+ -ms-transition: 0.9s !important;
+ transform: rotate(360deg) !important;
+ -webkit-transform: rotate(360deg) !important;
+ -moz-transform: rotate(360deg) !important;
+ -o-transform: rotate(360deg) !important;
+ -ms-transform: rotate(360deg) !important;
+}
+&lt;/style&gt;
+ 
+&lt;div&gt;
+	&lt;hr/&gt;
+	&lt;div class=&#34;flex author&#34;&gt;
+		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;https://bkryofu.xyz/resources/avatar.webp&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
+		&lt;div class=&#34;place-self-center&#34; onclick=&#39;window.open(&amp;#34;https://bkryofu.xyz/&amp;#34;)&#39;&gt;
+			&lt;div class=&#34;font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral-300&#34;&gt;
+				Minus-K
+			&lt;/div&gt;
+			&lt;div class=&#34;text-[0.8rem] leading-3 text-neutral-500 dark:text-neutral-400&#34;&gt;
+				Despair is the same as hope for fabrication.
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+	.place-self-center{
+		cursor:pointer;
+	}
+
+	.author:hover img{
+ transition: 0.9s !important;
+ -webkit-transition: 0.9s !important;
+ -moz-transition: 0.9s !important;
+ -o-transition: 0.9s !important;
+ -ms-transition: 0.9s !important;
+ transform: rotate(360deg) !important;
+ -webkit-transform: rotate(360deg) !important;
+ -moz-transform: rotate(360deg) !important;
+ -o-transform: rotate(360deg) !important;
+ -ms-transform: rotate(360deg) !important;
+}
+&lt;/style&gt;
+ 
+&lt;div&gt;
+	&lt;hr/&gt;
+	&lt;div class=&#34;flex author&#34;&gt;
+		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;https://img.snowy.moe/head.png&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
+		&lt;div class=&#34;place-self-center&#34; onclick=&#39;window.open(&amp;#34;https://blog.snowy.moe&amp;#34;)&#39;&gt;
+			&lt;div class=&#34;font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral-300&#34;&gt;
+				SnowyMoe Observatory
+			&lt;/div&gt;
+			&lt;div class=&#34;text-[0.8rem] leading-3 text-neutral-500 dark:text-neutral-400&#34;&gt;
+				Discover the star in the alley
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+	.place-self-center{
+		cursor:pointer;
+	}
+
+	.author:hover img{
+ transition: 0.9s !important;
+ -webkit-transition: 0.9s !important;
+ -moz-transition: 0.9s !important;
+ -o-transition: 0.9s !important;
+ -ms-transition: 0.9s !important;
+ transform: rotate(360deg) !important;
+ -webkit-transform: rotate(360deg) !important;
+ -moz-transform: rotate(360deg) !important;
+ -o-transform: rotate(360deg) !important;
+ -ms-transform: rotate(360deg) !important;
+}
+&lt;/style&gt;
+ 
+&lt;div&gt;
+	&lt;hr/&gt;
+	&lt;div class=&#34;flex author&#34;&gt;
+		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;https://bu.dusays.com/2023/10/01/6519291503349.jpg&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
+		&lt;div class=&#34;place-self-center&#34; onclick=&#39;window.open(&amp;#34;https://byer.top/&amp;#34;)&#39;&gt;
+			&lt;div class=&#34;font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral-300&#34;&gt;
+				Star Field
+			&lt;/div&gt;
+			&lt;div class=&#34;text-[0.8rem] leading-3 text-neutral-500 dark:text-neutral-400&#34;&gt;
+				I&amp;#39;m young with passion of youth
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+	.place-self-center{
+		cursor:pointer;
+	}
+
+	.author:hover img{
+ transition: 0.9s !important;
+ -webkit-transition: 0.9s !important;
+ -moz-transition: 0.9s !important;
+ -o-transition: 0.9s !important;
+ -ms-transition: 0.9s !important;
+ transform: rotate(360deg) !important;
+ -webkit-transform: rotate(360deg) !important;
+ -moz-transform: rotate(360deg) !important;
+ -o-transform: rotate(360deg) !important;
+ -ms-transform: rotate(360deg) !important;
+}
+&lt;/style&gt;
+ 
+&lt;div&gt;
+	&lt;hr/&gt;
+	&lt;div class=&#34;flex author&#34;&gt;
+		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
+		&lt;div class=&#34;place-self-center&#34; onclick=&#39;window.open(&amp;#34;https://blog.anheyu.com/&amp;#34;)&#39;&gt;
+			&lt;div class=&#34;font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral-300&#34;&gt;
+				Anzhiyu
+			&lt;/div&gt;
+			&lt;div class=&#34;text-[0.8rem] leading-3 text-neutral-500 dark:text-neutral-400&#34;&gt;
+				Life is bright, everything is lovely
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+	.place-self-center{
+		cursor:pointer;
+	}
+
+	.author:hover img{
+ transition: 0.9s !important;
+ -webkit-transition: 0.9s !important;
+ -moz-transition: 0.9s !important;
+ -o-transition: 0.9s !important;
+ -ms-transition: 0.9s !important;
+ transform: rotate(360deg) !important;
+ -webkit-transform: rotate(360deg) !important;
+ -moz-transform: rotate(360deg) !important;
+ -o-transform: rotate(360deg) !important;
+ -ms-transform: rotate(360deg) !important;
+}
+&lt;/style&gt;
+ 
+&lt;div&gt;
+	&lt;hr/&gt;
+	&lt;div class=&#34;flex author&#34;&gt;
+		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;https://npm.elemecdn.com/lvbyte-cdn/20230104/%E8%8B%B9%E6%9E%9C.156l7bksen40.jpg&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
+		&lt;div class=&#34;place-self-center&#34; onclick=&#39;window.open(&amp;#34;https://blog.lvbyte.top/&amp;#34;)&#39;&gt;
+			&lt;div class=&#34;font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral-300&#34;&gt;
+				Mr Byte
+			&lt;/div&gt;
+			&lt;div class=&#34;text-[0.8rem] leading-3 text-neutral-500 dark:text-neutral-400&#34;&gt;
+				Love is boundless, life has its limits
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+	.place-self-center{
+		cursor:pointer;
+	}
+
+	.author:hover img{
+ transition: 0.9s !important;
+ -webkit-transition: 0.9s !important;
+ -moz-transition: 0.9s !important;
+ -o-transition: 0.9s !important;
+ -ms-transition: 0.9s !important;
+ transform: rotate(360deg) !important;
+ -webkit-transform: rotate(360deg) !important;
+ -moz-transform: rotate(360deg) !important;
+ -o-transform: rotate(360deg) !important;
+ -ms-transform: rotate(360deg) !important;
+}
+&lt;/style&gt;
+ 
+&lt;div&gt;
+	&lt;hr/&gt;
+	&lt;div class=&#34;flex author&#34;&gt;
+		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;https://cdn.jsdelivr.net/gh/Todreamr/img-cloud/img/202402072106574.png&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
+		&lt;div class=&#34;place-self-center&#34; onclick=&#39;window.open(&amp;#34;https://todreamr.github.io/&amp;#34;)&#39;&gt;
+			&lt;div class=&#34;font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral-300&#34;&gt;
+				Rainy-Heights
+			&lt;/div&gt;
+			&lt;div class=&#34;text-[0.8rem] leading-3 text-neutral-500 dark:text-neutral-400&#34;&gt;
+				In spring the river rises as high as the sea, and with the river’s tide uprises the moon bright.
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;1. About Friend Links 
+    &lt;div id=&#34;1-about-friend-links&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#1-about-friend-links&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;The Internet is a big web, and links are the thread that connects this site to the vast community of bloggers. Through the links, you can find more personal websites.&lt;/p&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;1.1 How to make my link appear here? 
+    &lt;div id=&#34;11-how-to-make-my-link-appear-here&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#11-how-to-make-my-link-appear-here&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;There are two ways to get your link to appear here:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Email me via &lt;a href=&#34;mailto:3556932400@qq.com?body=name%3A%20%0Alink%3A%20%0Aavatar%3A%20%0Adescrition%3A%20&#34;  &gt;
+    3556932400@qq.com&lt;/a&gt; or &lt;a href=&#34;mailto:smileguide@163.com?body=name%3A%20%0Alink%3A%20%0Aavatar%3A%20%0Adescrition%3A%20&#34;  &gt;
+    smileguide@163.com&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Leave a message in the comments area (not recommended)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Accordingly, if your site also has a friend link section, please &lt;strong&gt;put this site in&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;1.2 Required Information 
+    &lt;div id=&#34;12-required-information&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#12-required-information&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Your email or message needs to contain the following fields:&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;name&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;The name of your site&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;link&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;The URL of your site&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;avatar&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;The URL of the image that will appear as an avatar&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;description&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;The description of your site&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;It is worth noting that since this site is available in three languages, you can provide the site&amp;rsquo;s &lt;strong&gt;Name&lt;/strong&gt; and &lt;strong&gt;Introduction&lt;/strong&gt; in three languages, in the order &lt;code&gt;Chinese/English/Japanese&lt;/code&gt;. If &lt;strong&gt;Default&lt;/strong&gt;, the foreign language of these two items will be translated by me.&lt;br&gt;
+Alternatively, if your site is available in English and Japanese, the &lt;code&gt;link&lt;/code&gt; field can also be filled with &lt;strong&gt;multiple entries&lt;/strong&gt;.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Example of a trilingual field:&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;name&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;网站名&lt;br&gt;Website name&lt;br&gt;ウェブサイトの名&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;link&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;网站链接&lt;br&gt;(Link)&lt;br&gt;(リンク)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;avatar&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;头像地址&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;description&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;介绍&lt;br&gt;Description&lt;br&gt;紹介&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;1.3 Information on This Site 
+    &lt;div id=&#34;13-information-on-this-site&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#13-information-on-this-site&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;1.3.1&lt;/th&gt;
+&lt;th&gt;The information on this site is as follows:&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;name&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;U&amp;rsquo;Marine Meteoroid&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;link &lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://karlukle.site/en&#34;   target=&#34;_blank&#34;&gt;
+    https://karlukle.site/en&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;avatar&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://karlukle.site/avatar.png&#34;   target=&#34;_blank&#34;&gt;
+    https://karlukle.site/avatar.png&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;description&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;We are all in the gutter, but some of us are looking at the stars.&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;1.3.2&lt;/th&gt;
+&lt;th&gt;The trilingual version of the information on this site is as follows:&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;name&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;群青流星&lt;br&gt;U&amp;rsquo;Marine Meteoroid&lt;br&gt;群青流れ星&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;link&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://karlukle.site&#34;   target=&#34;_blank&#34;&gt;
+    https://karlukle.site&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://karlukle.site/en&#34;   target=&#34;_blank&#34;&gt;
+    https://karlukle.site/en&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://karlukle.site/ja&#34;   target=&#34;_blank&#34;&gt;
+    https://karlukle.site/ja&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;avatar&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://karlukle.site/avatar.png&#34;   target=&#34;_blank&#34;&gt;
+    https://karlukle.site/avatar.png&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;description&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;我喜欢听花开的声音，更想自由地深情地呼吸&lt;br&gt;We are all in the gutter, but some of us are looking at the stars.&lt;br&gt;花が咲く音が好きで、心から自由に息をしたい。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;2. Prerequisites 
+    &lt;div id=&#34;2-prerequisites&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#2-prerequisites&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;For the sake of simplicity and elegance, please fill in the &lt;code&gt;description&lt;/code&gt; field in a concise manner.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>About Music on This Site</title>
+      <link>https://smileguide.github.io/en/player/</link>
+      <pubDate>Fri, 26 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/player/</guid>
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;p&gt;The music system of this website is divided into two parts: &lt;a href=&#34;#hover-player&#34;  &gt;
+    Hover Player&lt;/a&gt; and &lt;a href=&#34;#music-station&#34;  &gt;
+    Music Station&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;Hover Player 
+    &lt;div id=&#34;hover-player&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#hover-player&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;The semi-transparent control at the bottom of the page is the Hover Player, which has the &lt;strong&gt;Continuous Play Across Pages&lt;/strong&gt; feature and loads quickly.&lt;/p&gt;
+&lt;p&gt;Several of the songs in the hover player are stored in &lt;strong&gt;lossless&lt;/strong&gt; (FLAC) form on the site&amp;rsquo;s back-end servers. They are the &lt;strong&gt;essence&lt;/strong&gt; of the site&amp;rsquo;s music, and are great for listening to while reading. The music is either monumental or my latest favorite.&lt;/p&gt;
+&lt;p&gt;You can &lt;strong&gt;put on your headphones&lt;/strong&gt; and listen attentively to these rare sources of high quality music.&lt;/p&gt;
+&lt;p&gt;After expanding the control, tap 
+
+  &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
+    &lt;?xml version=&#34;1.0&#34;?&gt;&lt;svg  fill=&#34;currentColor&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;  viewBox=&#34;0 0 30 30&#34; width=&#34;30px&#34; height=&#34;30px&#34;&gt;&lt;path d=&#34;M26.667 5.333h-21.333c-0 0-0.001 0-0.001 0-1.472 0-2.666 1.194-2.666 2.666 0 0 0 0.001 0 0.001v-0 16c0 0 0 0.001 0 0.001 0 1.472 1.194 2.666 2.666 2.666 0 0 0.001 0 0.001 0h21.333c0 0 0.001 0 0.001 0 1.472 0 2.666-1.194 2.666-2.666 0-0 0-0.001 0-0.001v0-16c0-0 0-0.001 0-0.001 0-1.472-1.194-2.666-2.666-2.666-0 0-0.001 0-0.001 0h0zM5.333 16h5.333v2.667h-5.333v-2.667zM18.667 24h-13.333v-2.667h13.333v2.667zM26.667 24h-5.333v-2.667h5.333v2.667zM26.667 18.667h-13.333v-2.667h13.333v2.667z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+
+ to toggle the lyrics on and off, and tap 
+
+  &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
+    &lt;?xml version=&#34;1.0&#34;?&gt;&lt;svg fill=&#34;currentColor&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;  viewBox=&#34;0 0 30 30&#34; width=&#34;30px&#34; height=&#34;30px&#34;&gt;&lt;path d=&#34;M20.8 14.4q0.704 0 1.152 0.48t0.448 1.12-0.48 1.12-1.12 0.48h-19.2q-0.64 0-1.12-0.48t-0.48-1.12 0.448-1.12 1.152-0.48h19.2zM1.6 11.2q-0.64 0-1.12-0.48t-0.48-1.12 0.448-1.12 1.152-0.48h19.2q0.704 0 1.152 0.48t0.448 1.12-0.48 1.12-1.12 0.48h-19.2zM20.8 20.8q0.704 0 1.152 0.48t0.448 1.12-0.48 1.12-1.12 0.48h-19.2q-0.64 0-1.12-0.48t-0.48-1.12 0.448-1.12 1.152-0.48h19.2z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+
+ to expand the playlist to manually select a song.&lt;/p&gt;
+
+  
+  
+  
+  
+
+
+
+&lt;div
+  
+    class=&#34;flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900&#34;
+  &gt;
+
+  &lt;span
+    
+      class=&#34;text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center&#34;
+    &gt;
+
+    
+
+  &lt;span class=&#34;relative block icon&#34;&gt;
+    &lt;?xml version=&#34;1.0&#34;?&gt;&lt;svg fill=&#34;currentColor&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;  viewBox=&#34;0 0 30 30&#34; width=&#34;30px&#34; height=&#34;30px&#34;&gt;    &lt;path d=&#34;M25.565,9.785c-0.123,0.077-3.051,1.702-3.051,5.305c0.138,4.109,3.695,5.55,3.756,5.55 c-0.061,0.077-0.537,1.963-1.947,3.94C23.204,26.283,21.962,28,20.076,28c-1.794,0-2.438-1.135-4.508-1.135 c-2.223,0-2.852,1.135-4.554,1.135c-1.886,0-3.22-1.809-4.4-3.496c-1.533-2.208-2.836-5.673-2.882-9 c-0.031-1.763,0.307-3.496,1.165-4.968c1.211-2.055,3.373-3.45,5.734-3.496c1.809-0.061,3.419,1.242,4.523,1.242 c1.058,0,3.036-1.242,5.274-1.242C21.394,7.041,23.97,7.332,25.565,9.785z M15.001,6.688c-0.322-1.61,0.567-3.22,1.395-4.247 c1.058-1.242,2.729-2.085,4.17-2.085c0.092,1.61-0.491,3.189-1.533,4.339C18.098,5.937,16.488,6.872,15.001,6.688z&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+
+
+  &lt;/span&gt;
+
+  &lt;span
+    
+      class=&#34;dark:text-neutral-300&#34;
+    &gt;Since Apple does not allow background autoplay and backend cache, the hover player&amp;rsquo;s &lt;strong&gt;Continuous Play Across Pages&lt;/strong&gt; feature is &lt;strong&gt;invalid&lt;/strong&gt; in Safari.&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;Music Station 
+    &lt;div id=&#34;music-station&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#music-station&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;Music Station can be accessed from the &lt;strong&gt;menu bar&lt;/strong&gt; at the top of the page. The songs in Music Station are pulled from NetEase Cloud Music, the audio quality is &lt;strong&gt;average&lt;/strong&gt; and most of the music can only be listened to in &lt;strong&gt;clips&lt;/strong&gt; due to copyright restrictions.&lt;/p&gt;
+&lt;p&gt;The music station is divided into several columns, diversified to reflect my listening style.&lt;/p&gt;
+&lt;p&gt;Because of the restrictions on playback on external music platforms, the main purpose of the music station is to provide music lists that serve as &lt;strong&gt;recommendations&lt;/strong&gt; and &lt;strong&gt;auditions&lt;/strong&gt;.&lt;/p&gt;
+</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/player/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Music Information (In Player ↙)</title>
+      <link>https://smileguide.github.io/en/radio/pick/</link>
+      <pubDate>Fri, 26 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/radio/pick/</guid>
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-md&#34; data-lang=&#34;md&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;1.&lt;/span&gt; 正解(混声三部合唱) Seikai – RADWIMPS
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;2.&lt;/span&gt; カイコ (蚕) Kaiko – RADWIMPS
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;3.&lt;/span&gt; シザースタンド (Scissor Stand) – RADWIMPS
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;4.&lt;/span&gt; 狭心症 Kyoshinsyo – RADWIMPS
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;5.&lt;/span&gt; 蝶々結び Cyocyomusubi – Aimer
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;6.&lt;/span&gt; カタオモイ Kata Omoi– Aimer
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;7.&lt;/span&gt; 夏土産 Natsu Miyage – 中島みゆき
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;8.&lt;/span&gt; I Could Never Say Goodbye – Enya
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;9.&lt;/span&gt; おくりびと ~memory~ – 久石譲
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;10.&lt;/span&gt; いつも何度でも – 久石让 / 木村弓
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/radio/pick/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Poem &#34;Gothic Stake&#34;</title>
+      <link>https://smileguide.github.io/en/blogs/gothic-stake/</link>
+      <pubDate>Sun, 21 Jan 2024 22:50:23 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/blogs/gothic-stake/</guid>
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;h3 class=&#34;relative group&#34;&gt;The Chinese-English version is as follows: 
+    &lt;div id=&#34;the-chinese-english-version-is-as-follows&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#the-chinese-english-version-is-as-follows&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;太阳埋葬了我的乐园&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The sun buries my paradise.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;蜡黄的枯草间奔跑者花开一样的火焰&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;A flame like a blossom runs through the waxen grass.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;昨天还微笑着唤醒花开的孩子&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The child who yesterday smiled and awakened the blossoms&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;躺在干涸的河床边&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Lying by the dry riverbed&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;温柔的双眼萎缩成坚硬的石头&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Tender eyes shriveled to hard stone.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;稚嫩的双手炭化成黝黑的木柴&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Delicacy hands charred into blackened firewood.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;他像千年前&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;He looks like&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;尼罗河边上被遗忘的老者&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;An forgotten old man on the Nile&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;但灵魂得不到神圣的祝福&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;But the soul has no divine blessing.&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;蔓延的烈火&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The roaring fire&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;贪婪地吮吸最后的汁液&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Greedily sucking the last of the sap.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;如果他的生命还没有在火光中弥散&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;If his life hadn&amp;rsquo;t been dispersed in the flames.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;他会伤心地哭&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;He would have wept sadly&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;从前&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In the past&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;泪珠会打湿他可爱的脸颊&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Teardrops would wet his lovely cheeks&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;勉强上扬的嘴角让人泪下&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;With a heartbreaking forced smile.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;现在&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;But now&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;干瘪的泪腺挤不出一粒灰烬&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Withered tear ducts can&amp;rsquo;t squeeze out a speck of ash&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;皱缩的皮肤换不来半点怜悯&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The wrinkled skin can&amp;rsquo;t exchange for half a mercy&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;他是太阳的敌人&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;He is the enemy of the sun&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;烈火在太阳的指使下置办她的佳肴&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The fire cooks her delicacies at the sun&amp;rsquo;s behest.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;从焦黑的眼窝里&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;From the blackened sockets of his eyes&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;还能想象出他拥有过的&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I can still imagine&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;纯真得可怜的过往&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;the pathetic innocence past he had&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;他曾深情地期待着花开&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;He had fondly looked forward to the blossoms&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;和他一样茁壮成长的花儿&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Flowers that thrieved as him, though&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;现在为他陪葬&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;are buried with him&lt;/p&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;撑一把锈伞&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;With a rusty umbrella&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;踏上失火的故土&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Stepping onto the land of past&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;他的灰烬和月光都溶在雨水里&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;His ashes and moonlight dissolve in the rain.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;阳台上幻化着色彩的&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The glass bottle&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;玻璃瓶&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;on the balcony with colors changing&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;是他小小的坟墓&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;is his tiny tomb&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我看见瓶里盛开的&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I see in the bottle&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;太阳帮他创造的&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;a smile like a blossom&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;花开一样的笑脸&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;that the sun created for him.&lt;/p&gt;
+&lt;p&gt;&amp;ndash;END&amp;ndash;&lt;/p&gt;
+</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/blogs/gothic-stake/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Poem &#34;Memoriam Within the Walls&#34;</title>
+      <link>https://smileguide.github.io/en/blogs/memoriam/</link>
+      <pubDate>Sat, 20 Jan 2024 20:13:20 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/blogs/memoriam/</guid>
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;h3 class=&#34;relative group&#34;&gt;The Chinese-English version is as follows: 
+    &lt;div id=&#34;the-chinese-english-version-is-as-follows&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#the-chinese-english-version-is-as-follows&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我是文明之邦的第三代皇帝&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I am the third emperor of a civilized nation&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;每天复习四分之三的领土和四分之一的初心&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Reviewing three-quarters of the territory and a quarter of the beginning every day.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;灰色的天空下&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Under the gray sky&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;高墙忘记了拭去泪光&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The high walls forget to wipe away the tears&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;悲伤的苔藓&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The moss of sorrow&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;无力地遮住石头故乡&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Powerless to cover the stone homeland.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;纪念碑上消逝的表音文字&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The fading epigraphs on the monument&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;筑起了我们的巴别塔&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Built our Tower of Babel&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;也歌颂着&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;And also glorify&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;奥斯忒拉穆林大帝&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Ostromurin the Great&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;从红色星球归来时&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;When he returned from the red planet&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;眼里的荣光&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The glory in his eyes&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;和嘴里的凝血&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;And the clotted blood in his mouth.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;纪念碑是他的墓碑&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The monument is his tombstone.&lt;/p&gt;
+</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/blogs/memoriam/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>When I whisk away dusts in my childhood...</title>
+      <link>https://smileguide.github.io/en/blogs/childhood-photography/</link>
+      <pubDate>Wed, 22 Feb 2023 14:58:34 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/blogs/childhood-photography/</guid>
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;h2 id=&#34;info&#34;&gt;Info&lt;/h2&gt;
+&lt;p&gt;This photo was taken in Shiboyuan, Shenyang, China in 2011. The shooting time is 14:15 on May 1, UTC+8. I photoshopped it and made A PPT report.
+&lt;img src=&#34;https://smileguide.github.io/en/blogs/childhood-photography/childhood_ph.jpg&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;about-the-ppt&#34;&gt;About the PPT&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.123pan.com/s/eNTzVv-lohg3.html&#34;&gt;Click to DOWNLOAD (token: di4u)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There is also a PPT on image processing results that contains more. ↓&lt;br&gt;
+&lt;a href=&#34;https://www.123pan.com/s/eNTzVv-Tmhg3.html&#34;&gt;Click to DOWNLOAD (token: di4u)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;These ppts are produced by Microsoft Office PowerPoint. Please use Microsoft Office PowerPoint (Windows, Android, iOS) app to open it.&lt;/p&gt;
+</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/blogs/childhood-photography/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Hello World🎉</title>
+      <link>https://smileguide.github.io/en/blogs/hello-world/</link>
+      <pubDate>Sun, 19 Feb 2023 09:06:11 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/en/blogs/hello-world/</guid>
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;h2 class=&#34;relative group&#34;&gt;My first blog. 
+    &lt;div id=&#34;my-first-blog&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#my-first-blog&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;This is the first blog I published on my personal site.&lt;br&gt;
+I mainly share my thoughts on blogs and exchange technology.&lt;br&gt;
+From now on, I will record my thoughts and bring help and good feelings to everyone.&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;How is this site made? 
+    &lt;div id=&#34;how-is-this-site-made&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#how-is-this-site-made&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;My personal site was created by Github&amp;rsquo;s personal static page hosting service and Hugo, a static page building tool.&lt;br&gt;
+For more information, please search the following keywords on google:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub pages&lt;/li&gt;
+&lt;li&gt;Hugo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;My Heart Will Go On, by Céline Dion  (Test Text) 
+    &lt;div id=&#34;my-heart-will-go-on-by-céline-dion--test-text&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#my-heart-will-go-on-by-c%c3%a9line-dion--test-text&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;div id=&#34;typeit-dd0b34172664abcadcaf3127b218febd&#34;&gt;&lt;/div&gt;
+
+&lt;script&gt;
+    document.addEventListener(&#34;DOMContentLoaded&#34;, function () {
+      new TypeIt(&#34;#typeit-dd0b34172664abcadcaf3127b218febd&#34;, {
+        strings: [&#34;&#34;,&#34;Every night in my dreams  &#34;,&#34;I see you,I feel you  &#34;,&#34;That is how I know you go on  &#34;,&#34;Far across the distance  &#34;,&#34;And spaces between us  &#34;,&#34;You have come to show you go on  &#34;,&#34;Near far  &#34;,&#34;Wherever you are  &#34;,&#34;I believe  &#34;,&#34;That the heart does go on  &#34;,&#34;Once more you open the door  &#34;,&#34;And you&#39;re here in my heart  &#34;,&#34;And my heart will go on and on  &#34;,&#34;Love can touch us one time  &#34;,&#34;And last for a lifetime  &#34;,&#34;And never let go till we&#39;re gone  &#34;,&#34;Love was when I loved you  &#34;,&#34;One true time I hold to  &#34;,&#34;In my life we&#39;ll always go on  &#34;,&#34;Near far  &#34;,&#34;Wherever you are  &#34;,&#34;I believe  &#34;,&#34;That the heart does go on  &#34;,&#34;Once more you open the door  &#34;,&#34;And you&#39;re here in my heart  &#34;,&#34;And my heart will go on and on  &#34;,&#34;you&#39;re here  &#34;,&#34;There&#39;s nothing I fear  &#34;,&#34;And I know  &#34;,&#34;That my heart will go on  &#34;,&#34;We&#39;ll stay forever this way  &#34;,&#34;You are safe in my heart  &#34;,&#34;And my heart will go on and on  &#34;,&#34;&#34;],
+        speed:  100 ,
+        lifeLike:  true ,
+        startDelay:  0 ,
+        breakLines:  true ,
+        waitUntilVisible:  true ,
+        loop:  false 
+      }).go();
+    });
+&lt;/script&gt;
+</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/blogs/hello-world/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

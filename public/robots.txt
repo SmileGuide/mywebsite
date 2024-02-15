@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://smileguide.github.io/sitemap.xml

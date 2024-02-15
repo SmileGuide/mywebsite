@@ -10,7 +10,7 @@ isCJKLanguage: true
 ## 照片信息
 这张照片摄于2011年的沈阳市世博园附近。拍摄时间是UTC+8 5月1日14:15。
 
-![](/img/childhood_ph.png)
+![](childhood_ph.jpg)
 
 ## 关于这张照片的幻灯片🐶
 

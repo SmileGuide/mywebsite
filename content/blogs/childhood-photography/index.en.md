@@ -10,7 +10,7 @@ draft: false
 
 ## Info
 This photo was taken in Shiboyuan, Shenyang, China in 2011. The shooting time is 14:15 on May 1, UTC+8. I photoshopped it and made A PPT report.
-![](/img/childhood_ph.png)
+![](childhood_ph.jpg)
 
 ## About the PPT
 

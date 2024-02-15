@@ -11,7 +11,7 @@ isCJKLanguage: true
 
 ## 写真情報
 この写真は2011年の沈陽市世博園で撮影された。撮影時間はUTC+8 5月1日14:15。  
-![](/img/childhood_ph.png)  
+![](childhood_ph.jpg)  
 
 ## この写真のPPTについて
 

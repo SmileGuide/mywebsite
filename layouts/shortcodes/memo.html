@@ -10,9 +10,9 @@
 <span style="display: inline-block;margin-left: 2.5%;" align="left">
 <div class="article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md" style='width:{{ .Get "width" }}' >
   <div class="p-6">
-{{ if eq page.IsHome true }}{{ if not ($.Scratch.Get "noTitleLink") }}<a href="/shuoshuo" class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral" style="text-decoration-color: rgba(var(--color-primary-500),1);">{{ end }}
+{{ if eq page.IsHome true }}{{ if not ($.Scratch.Get "noTitleLink") }}<a href="/shuoshuo" class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral" style="text-decoration-color: rgba(var(--color-primary-500),1);">{{ end }}{{ end }}
 <h1  class="font-semibold">{{ .Get "title" }}</h1>
-{{ if eq page.IsHome true }}</a>{{ end }}{{ end }}
+{{ if eq page.IsHome true }}</a>{{ end }}
 <div class="dark:text-neutral overflow-auto" style="height: auto; word-wrap:break-word; word-break:break-all; overflow: hidden;">
   {{ .Inner }}
 </div>
