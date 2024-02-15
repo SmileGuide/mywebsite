@@ -259,10 +259,10 @@ $(element).wrap("<a href='{{i18n "pathAppendix"}}/radio/pick/'></a>");
             <div
                 class="{{ if .Site.Params.footer.showScrollToTop | default true -}} ltr:mr-14 rtl:ml-14 {{- end }} cursor-pointer text-sm text-neutral-700 hover:text-primary-600 dark:text-neutral dark:hover:text-primary-400">
                 <button id="appearance-switcher" aria-label="Dark mode switcher" type="button">
-                    <div class="flex items-center justify-center h-12 dark:hidden">
+                    <div class="appearance-switcher flex items-center justify-center h-12 dark:hidden">
                         {{ partial "icon.html" "moon" }}
                     </div>
-                    <div class="items-center justify-center hidden h-12 dark:flex">
+                    <div class="appearance-switcher items-center justify-center hidden h-12 dark:flex">
                         {{ partial "icon.html" "sun" }}
                     </div>
                 </button>
@@ -286,10 +286,10 @@ $(element).wrap("<a href='{{i18n "pathAppendix"}}/radio/pick/'></a>");
             {{/* Appearance switch */}}
             {{ if .Site.Params.footer.showAppearanceSwitcher | default false }}
             <button id="appearance-switcher-mobile" aria-label="Dark mode switcher" type="button" style="margin-right:5px">
-                <div class="flex items-center justify-center h-12 dark:hidden">
+                <div class="appearance-switcher flex items-center justify-center h-12 dark:hidden">
                     {{ partial "icon.html" "moon" }}
                 </div>
-                <div class="items-center justify-center hidden h-12 dark:flex">
+                <div class="appearance-switcher items-center justify-center hidden h-12 dark:flex">
                     {{ partial "icon.html" "sun" }}
                 </div>
             </button>
