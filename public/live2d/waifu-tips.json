@@ -1,16 +1,22 @@
 {
 	"mouseover": [{
         "selector": "[href=\"/radio/\"]",
-        "text": ["要看看 <span style=\"color:#0099cc;\">音乐站</span> 么？"]
+        "text": ["要去 <span style=\"color:#0099cc;\">音乐站</span> 看看么？","在这里看看主人的歌品怎么样。"]
         },{
 		"selector": "#waifu-tool-hitokoto",
 		"text": ["我从青蛙王子那里听到了不少人生经验。"]
+	},{
+        "selector": ".min-h-full",
+        "text": ["点击来阅读全文哦"]
+        },{
+		"selector": "#TableOfContents",
+		"text": ["这是目录"]
 	}, {
 		"selector": "#waifu-tool-asteroids",
 		"text": ["要不要来玩飞机大战？"]
 	}, {
 		"selector": "#waifu-tool-switch-model",
-		"text": ["要切换人物吗？"]
+		"text": ["要换人吗？"]
 	}, {
 		"selector": "#waifu-tool-switch-texture",
 		"text": ["变装！"]
@@ -27,35 +33,29 @@
 		"selector": ".to-home",
 		"text": ["点击前往首页，想回到上一页可以使用浏览器的后退功能哦。", "点它就可以到首页去啦！", "去首页看看吧。"]
 	}, {
-		"selector": ".notice",
+		"selector": "#notice",
 		"text": ["这是首页公告哦"]
 	}, {
 		"selector": ".intro",
 		"text": ["你想知道我家主人是谁吗？"]
 	}, {
 		"selector": ".tags",
-		"text": ["文章都分类好啦～", "点击来查看文章分类哦。"]
+		"text": ["文章都分类好啦～", "点击来查看该文章列表哦。"]
 	}, {
 		"selector": "[title=友情链接]",
 		"text": ["这是我的朋友们哦ヾ(◍°∇°◍)ﾉﾞ", "要去大佬们的家看看吗？", "要去拜访一下我的朋友们吗？"]
 	}, {
 		"selector": "[aria-label=Search]",
-		"text": ["找不到想看的内容？搜索看看吧！", "要找什么东西呢，需要帮忙吗？"]
+		"text": ["找不到想看的内容？搜索看看吧！", "要找什么东西呢"]
 	}, {
 		"selector": "[title=日志],[title=文档]",
 		"text": ["快看看这里都有什么呢？","这里有很多好东西哦！"]
 	}, {
-		"selector": "[.dark/:hidden]",
-		"text": ["点这里可以切换到夜间模式哦！"]
+		"selector": "#appearance-switcher",
+		"text": ["点这里可以切换日夜间模式哦！"]
 	}, {
-		"selector": "[alt=金圣皓]",
+		"selector": "[alt=金圣皓],[alt=\"JIN Shenghao\"],[alt=\"金聖皓\"]",
 		"text": ["我家主人好看吗？", "这是我家主人(*´∇｀*)"]
-	}, {
-		"selector": ".feed-link a",
-		"text": ["这里可以使用 RSS 订阅呢！", "利用 feed 订阅器，就能快速知道博客有没有更新了呢。"]
-	}, {
-		"selector": ".cc-opacity, .post-copyright-author",
-		"text": ["要记得规范转载哦。", "所有文章均采用 CC BY-NC-SA 4.0 许可协议～", "转载前要先注意下文章的版权协议呢。"]
 	}, {
 		"selector": ".contact",
 		"text": ["这里有主人的联系方式！"]
@@ -78,12 +78,6 @@
 		"selector": "a[href^='/blogs/']",
 		"text": ["要看看 <span>{text}</span> 这篇文章吗？"]
 	}, {
-		"selector": "a[rel='contents']",
-		"text": ["点击来阅读全文哦。"]
-	}, {
-		"selector": "a[itemprop='discussionUrl']",
-		"text": ["要去看看评论吗？"]
-	}, {
 		"selector": ".beian ",
 		"text": ["我也是有户口的人哦。", "我的主人可是遵纪守法的好主人。"]
 	}, {
@@ -91,16 +85,13 @@
 		"text": ["要去看看 <span>{text}</span> 么？", "去 <span>{text}</span> 逛逛吧。", "到 <span>{text}</span> 看看吧。"]
 	}, {
 		"selector": "a[href='#the-top']",
-		"text": ["点它就可以回到顶部啦！", "又回到最初的起点～", "要回到开始的地方么？"]
+		"text": ["点它就可以回到顶部啦！", "要回到开始的地方么？"]
 	}, {
 		"selector": "#needsharebutton-postbottom .btn",
 		"text": ["好东西要让更多人知道才行哦。", "觉得文章有帮助的话，可以分享给更多需要的朋友呢。"]
 	}, {
-		"selector": "a[href^='twitter']",
+		"selector": "a[href^=\"twitter\"]",
 		"text": ["Twitter？好像是不存在的东西？"]
-	}, {
-		"selector": ".need-share-button_facebook",
-		"text": ["emmm…FB 好像也是不存在的东西？"]
 	}, {
 		"selector": ".post-nav-item a[rel='next']",
 		"text": ["来看看下一篇文章吧。", "点它可以看下一篇文章哦！", "要翻到下一篇文章吗？"]
@@ -108,45 +99,39 @@
 		"selector": ".post-nav-item a[rel='prev']",
 		"text": ["来看看上一篇文章吧。", "点它可以看上一篇文章哦！", "要翻到上一篇文章吗？"]
 	}, {
-		"selector": ".extend.next",
-		"text": ["去下一页看看吧。", "点它可以前进哦！", "要翻到下一页吗？"]
-	}, {
-		"selector": ".extend.prev",
-		"text": ["去上一页看看吧。", "点它可以后退哦！", "要翻到上一页吗？"]
-	}, {
 		"selector": "#wl-nick",
 		"text": ["该怎么称呼你呢？", "留下你的尊姓大名！","留下你的昵称，要不就是无名人士了！"]
 	}, {
 		"selector": "#wl-mail",
-		"text": ["为了方便通知你最新的回复，一定要留下邮箱！"]
+		"text": ["为了方便通知你最新的回复，一定要留下邮箱哦！"]
 	}, {
 		"selector": "#wl-link",
-		"text": ["(选填)快快告诉我你的家在哪里，好让我去参观参观！"]
+		"text": ["（选填）快快告诉我你的家在哪里，好让我去参观参观！"]
 	}, {
 		"selector": "#vcomments",
 		"text": ["想要去评论些什么吗？", "要说点什么吗？", "觉得博客不错？快来留言和主人交流吧！"]
 	}, {
 		"selector": ".wl-editor",
-		"text": ["你会不会熟练使用 Markdown 呀？", "使用 Markdown 让评论更美观吧～"]
+		"text": ["你会不会熟练使用 Markdown 呀？", "使用 Markdown 让评论更美观吧～","左下角按钮依次为：插入表情、插入动图、插入图片、预览"]
 	}, {
-		"selector": "[title='表情']",
-		"text": ["要插入一个萌萌的表情吗？", "要来一发表情吗？"]
+		"selector": ".wl-emoji-popup",
+		"text": ["选择一个表情吧","Σ(O_O)竟然是透明底……"]
 	}, {
-		"selector": "[title='表情包']",
-		"text": ["来个动图吗？"]
-	},{
-		"selector": ".vpreview-btn",
-		"text": ["要预览一下你的发言吗？", "快看看你的评论有多少负熵！"]
+		"selector": "wl-gif-popup",
+		"text": ["选择一个表情包吧","Σ(O_O)竟然是透明底……"]
+	}, {
+		"selector": ".wl-action",
+		"text": []
 	}, {
 		"selector": "[type=submit]",
-		"text": ["评论有审核，要对自己的发言负责哦～", "要提交了吗，请耐心等待回复哦～"]
+		"text": ["要对自己的发言负责哦～", "要提交了吗，请耐心等待回复哦～"]
 	}, {
 		"selector": ".vcontent",
 		"text": ["哇，快看看这个精彩评论！", "如果有疑问，请尽快留言哦～"]
 	}],
 	"click": [{
 		"selector": "#live2d",
-		"text": ["是…是故意的还是不小心？", "你看到我的小熊了吗？","别摸我！"]
+		"text": ["你看到我的小熊了吗？","别摸我！"]
 	}, {
 		"selector": "[type=button]",
 		"text": ["只有登录了才能知道你是谁哦", "如果不登录就提交，下次再来就会把你忘掉"]
@@ -154,10 +139,10 @@
 		"selector": ".vsubmit",
 		"text": ["输入验证码就可以提交评论啦～"]
 	}, {
-		"selector": "a[title='#']",
+		"selector": "a[href|=\"en\"]",
 		"text": ["我还不会说外语呢"]
 	},{
-		"selector":"title='喜欢'",
+		"selector":"[title=喜欢]",
 		"text":["如果你喜欢这条评论，就点个赞吧"]
 	}],
 	"seasons": [{
@@ -220,10 +205,10 @@
 		"text": ["已经这么晚了呀，早点休息吧，晚安～", "深夜时要爱护眼睛呀！"]
 	}, {
 		"hour": "0-4",
-		"text": "你是夜猫子呀？这么晚还不睡觉，明天起得来嘛？"
+		"text": "你是夜猫子吗？"
 	}],
 	"message": {
-		"default": ["好久不见，日子过得好快呢……", "嗨～快来逗我玩吧！","记得把本站加入收藏夹哦！"],
+		"default": ["好久不见，日子过得好快呢……", "嗨～快来逗我玩吧！","记得把本站加入收藏夹哦！","使用 RSS （订阅地址为根目录后加<span style=\"color:#0099cc;\">/index.xml）</span>，快速获取网站更新"],
 		"console": "哈哈，你打开了控制台，是想要看看我的小秘密吗？",
 		"copy": "你都复制了些什么呀，转载要记得加上出处哦！",
 		"visibilitychange": "哇，你终于回来了～"
