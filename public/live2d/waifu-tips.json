@@ -1,7 +1,7 @@
 {
 	"mouseover": [{
         "selector": "[href=\"/radio/\"]",
-        "text": ["要看看 <span style=\"color:#0099cc;\">{text}</span> 么？"]
+        "text": ["要看看 <span style=\"color:#0099cc;\">音乐站</span> 么？"]
         },{
 		"selector": "#waifu-tool-hitokoto",
 		"text": ["我从青蛙王子那里听到了不少人生经验。"]
@@ -129,10 +129,10 @@
 		"selector": ".wl-editor",
 		"text": ["你会不会熟练使用 Markdown 呀？", "使用 Markdown 让评论更美观吧～"]
 	}, {
-		"selector": "[title=表情]",
+		"selector": "[title='表情']",
 		"text": ["要插入一个萌萌的表情吗？", "要来一发表情吗？"]
 	}, {
-		"selector": "[title=表情包]",
+		"selector": "[title='表情包']",
 		"text": ["来个动图吗？"]
 	},{
 		"selector": ".vpreview-btn",
