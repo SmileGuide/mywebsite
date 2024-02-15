@@ -1,0 +1,129 @@
+# -- Main Menu --
+# The main menu is displayed in the header at the top of the page.
+# Acceptable parameters are name, pageRef, page, url, title, weight.
+# 
+# The simplest menu configuration is to provide:
+#   name = The name to be displayed for this menu link
+#   pageRef = The identifier of the page or section to link to
+#
+# By default the menu is ordered alphabetically. This can be
+# overridden by providing a weight value. The menu will then be
+# ordered by weight from lowest to highest.
+
+[[main]]
+ name = "日志"
+ pageRef = "blogs"
+ weight = 10
+
+[[main]]
+ name = "说说"
+ pageRef = "shuoshuo"
+ weight = 20
+
+[[main]]
+ name = "音乐站"
+ pageRef = "/radio"
+ weight = 30
+
+[[main]]
+ name = "摇滚 Rocks"
+ parent = "音乐站"
+ pageRef = "/radio/rocks"
+ weight = 31
+
+
+[[main]]
+ name = "泛流行 PanPop"
+ parent = "音乐站"
+ pageRef = "/radio/panpop"
+ weight = 32
+
+
+[[main]]
+ name = "新世纪音乐 New Age"
+ parent = "音乐站"
+ pageRef = "/radio/newage"
+ weight = 33
+
+[[main]]
+ name = "古典乐 Classical"
+ parent = "音乐站"
+ pageRef = "/radio/classical"
+ weight = 34
+
+ [[main]]
+ name = "地球呢喃 Murmurs of Earth"
+ parent = "音乐站"
+ pageRef = "/radio/murmurs"
+ weight = 35
+
+ [[main]]
+ name = "About：精选音乐"
+ parent = "音乐站"
+ pageRef = "/radio/pick"
+ weight = 36
+
+
+ [[main]]
+ name = "友链"
+ pageRef = "/friends"
+ weight = 40
+
+ [[main]]
+ name = "文档"
+ pageRef = "/docs"
+ weight = 50
+
+
+#[[main]]
+#  name = "Parent"
+#  weight = 20
+
+#[[main]]
+#  name = "example sub-menu 1"
+#  parent = "Parent"
+#  pageRef = "posts"
+#  weight = 20
+
+#[[main]]
+#  name = "example sub-menu 2"
+#  parent = "Parent"
+#  pageRef = "posts"
+#  weight = 20
+
+#[[subnavigation]]
+#  name = "An interesting topic"
+#  pageRef = "tags/interesting-topic"
+#  weight = 10
+
+#[[subnavigation]]
+#  name = "My Awesome Category"
+#  pre = "github"
+#  pageRef = "categories/awesome"
+#  weight = 20
+
+#[[main]]
+#  name = "Categories"
+#  pageRef = "categories"
+#  weight = 20
+
+#[[main]]
+#  name = "Tags"
+#  pageRef = "tags"
+#  weight = 30
+
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+
+
+[[footer]]
+  name = "Tags标签"
+  pageRef = "tags"
+  weight = 10
+
+[[footer]]
+  name = "Series选集"
+  pageRef = "series"
+  weight = 20

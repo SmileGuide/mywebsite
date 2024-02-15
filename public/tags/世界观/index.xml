@@ -1,0 +1,576 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>群青流星</title>
+    <link>https://smileguide.github.io/tags/%E4%B8%96%E7%95%8C%E8%A7%82/</link>
+    <description>我喜欢听花开的声音，更想自由地深情地呼吸</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>:copyright: 2024 JIN Shenghao</copyright>
+    <lastBuildDate>Thu, 15 Feb 2024 11:41:24 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/tags/%E4%B8%96%E7%95%8C%E8%A7%82/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关系框图</title>
+      <link>https://smileguide.github.io/docs/myoc/relationship/</link>
+      <pubDate>Mon, 05 Jun 2023 14:36:30 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/docs/myoc/relationship/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;script type=&#34;module&#34;&gt;
+  import mermaid from &#39;https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs&#39;;
+&lt;/script&gt;
+&lt;style&gt;
+/*@font-face{ 
+  font-family: &#34;NotoSerifJP&#34;;
+  src:  url(&#39;../fonts/Noto_Serif_JP/NotoSerifJP-SemiBold.otf&#39;);
+}
+@font-face{ 
+  font-family: &#34;ZhiMangXing&#34;;
+  src:  url(&#39;../fonts/Zhi_Mang_Xing/ZhiMangXing-Regular.ttf&#39;);
+}
+@font-face{ 
+  font-family: &#34;YujiSyuku&#34;;
+  src:  url(&#39;../fonts/Yuji_Syuku/YujiSyuku-Regular.ttf&#39;);
+}
+@font-face{ 
+  font-family: &#34;ShipporiMincho&#34;;
+  src:  url(&#39;../fonts/Shippori_Mincho/ShipporiMincho-Regular.ttf&#39;);
+}
+@font-face{ 
+  font-family: &#34;CastoroTitling&#34;;
+  src:  url(&#39;../fonts/Castoro_Titling/CastoroTitling-Regular.ttf&#39;);
+}*/
+
+
+@import url(&#39;https://fonts.googleapis.com/css2?family=Castoro+Titling&amp;family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&amp;family=Shippori+Mincho:wght@400;500;600;700;800&amp;family=Yuji+Syuku&amp;family=Zhi+Mang+Xing&amp;display=swap&#39;);
+
+font-family: &#39;Castoro Titling&#39;, cursive;
+font-family: &#39;Noto Serif JP&#39;, serif;
+font-family: &#39;Shippori Mincho&#39;, serif;
+font-family: &#39;Yuji Syuku&#39;, serif;
+font-family: &#39;Zhi Mang Xing&#39;, cursive;
+&lt;/style&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;人物架构 
+    &lt;div id=&#34;人物架构&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e4%ba%ba%e7%89%a9%e6%9e%b6%e6%9e%84&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;div class=&#34;mermaid&#34; align=&#34;middle&#34;&gt;
+	graph TD
+	dad[[金丞旻]]:::jp--&gt;hy
+	mum((天野聖子)):::jp--&gt;hy((&#34; &#34;)):::hybrid
+	hy----&gt;hero[[天野カルクル]]:::herojp
+	hy----&gt;brother[[天野風之助]]:::jp
+	hy----&gt;sister((天野未来)):::jp
+	brother-.-.r1(兄 - 弟):::cont
+	hero-.-.r1
+	hero-.-.r2
+	sister-.-.r2(兄 - 妹):::cont
+	classDef hybrid fill:#C1DBDA
+	classDef jp font-family:Yuji Syuku
+	classDef herojp font-family:Yuji Syuku,fill:#FAE78A
+	classDef cn font-family:Noto Serif JP
+	classDef cont font-family:Noto Serif SC,font-weight:700,stroke-dasharray: 5 5,stroke-width:0px,fill:#f0f0f0
+	click dad &#34;/docs/myoc/characters/#chengmin&#34;
+	click mum &#34;/docs/myoc/characters/#seiko&#34;
+	click hero &#34;/docs/myoc/characters/#karlukle&#34;
+	click brother &#34;/docs/myoc/characters/#hunosuke&#34;
+	click sister &#34;/docs/myoc/characters/#mirai&#34;
+&lt;/div&gt;
+&lt;div class=&#34;mermaid&#34; align=&#34;right&#34;&gt;
+	graph TD
+	subgraph 图例
+		dad(&#34; &#34;)--&gt;hy((&#34; &#34;))
+	mum(&#34; &#34;)--&gt;hy:::hybrid
+	hy--&#34; &#34;--&gt;he(&#34; &#34;)
+	hy--婚配生子符号--&gt;brother(&#34; &#34;)
+	hy--&#34; &#34;--&gt;sister(&#34; &#34;)
+	lg1[[男]]-.-.relationship(&#34;【关系】&#34;):::cont
+	lg2((女))-.-.relationship
+	hero[[主人公]]:::herojp
+	end
+	classDef cont stroke-dasharray: 5 5,stroke-width:0px,fill:#f0f0f0
+	classDef herojp fill:#FAE78A
+	classDef hybrid fill:#C1DBDA
+&lt;/div&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;世界观 
+    &lt;div id=&#34;世界观&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e4%b8%96%e7%95%8c%e8%a7%82&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;div class=&#34;mermaid&#34; align=&#34;middle&#34;&gt;
+	graph LR
+	earthlyworld[(地上世界)]:::world
+	leafworld[(葉の世界)]:::world
+	eltraveller([葉世旅人]):::onel--居于--&gt;earthlyworld
+	eltraveller--变于--&gt;leafworld
+	subgraph el[ ]
+	earthlyworld2[(地上世界)]:::world--产--&gt;husoul
+	leafworld2[(葉の世界)]:::world--产--&gt;leafsoul
+	husoul[人間本霊]:::rei-.-eltraveller
+	earthlyworld2--产--&gt;tay
+	tay([体]):::rei--化为--&gt;eltraveller
+	leafsoul[葉の本霊]:::rei-.-eltraveller
+	end
+	classDef one font-family:Yuji Syuku
+	classDef onel font-family:Yuji Syuku
+	classDef rei font-family:Shippori Mincho,font-weight:600
+	classDef world font-family:Yuji Syuku,fill:#FAE78A
+	click earthlyworld &#34;/docs/myoc/pedia/#earthlyworld&#34;
+	click leafworld &#34;/docs/myoc/pedia/#leafworld&#34;
+	click eltraveller &#34;/docs/myoc/pedia/#eltraveller&#34;
+	click earthlyworld2 &#34;/docs/myoc/pedia/#earthlyworld&#34;
+	click leafworld2 &#34;/docs/myoc/pedia/#leafworld&#34;
+	click tay &#34;/docs/myoc/pedia/#tay&#34;
+	click leafsoul &#34;/docs/myoc/pedia/#leafsoul&#34;
+	click husoul &#34;/docs/myoc/pedia/#husoul&#34;
+	&lt;/div&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;时间线 
+    &lt;div id=&#34;时间线&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e6%97%b6%e9%97%b4%e7%ba%bf&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;div class=&#34;mermaid&#34; align=&#34;middle&#34;&gt;
+	%%{init: { &#39;logLevel&#39;: &#39;debug&#39;, &#39;theme&#39;: &#39;forest&#39; } }%%
+timeline
+    2000年代 : 2000 金丞旻结识天野聖子
+    	: 2005 金丞旻与天野聖子结婚
+    	: 2007 天野風之助出生
+    21世纪10年代 : 2013 天野カルクル出生
+    	: 2014 &amp;nbsp;&amp;nbsp;&amp;nbsp;天野未来出生
+    	: 2019 &amp;nbsp;&amp;nbsp;&amp;nbsp;外公去世，妹妹移居乡下
+    21世纪20年代 : 2020 一家人移居,妹妹留守
+    	: 2021&amp;nbsp;&amp;nbsp;&amp;nbsp;叶世界之梦,天野未来去世
+    	: 当前&amp;nbsp;&amp;nbsp;&amp;nbsp;唯一不可阻挡的是时间...
+&lt;/div&gt;
+&lt;!--当前2022--&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>人物介绍</title>
+      <link>https://smileguide.github.io/docs/myoc/characters/</link>
+      <pubDate>Tue, 06 Jun 2023 09:13:09 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/docs/myoc/characters/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;style&gt;
+/*@font-face{ 
+  font-family: &#34;NotoSerifJP&#34;;
+  src:  url(&#39;../fonts/Noto_Serif_JP/NotoSerifJP-SemiBold.otf&#39;);
+}
+@font-face{ 
+  font-family: &#34;ZhiMangXing&#34;;
+  src:  url(&#39;../fonts/Zhi_Mang_Xing/ZhiMangXing-Regular.ttf&#39;);
+}
+@font-face{ 
+  font-family: &#34;YujiSyuku&#34;;
+  src:  url(&#39;../fonts/Yuji_Syuku/YujiSyuku-Regular.ttf&#39;);
+}
+@font-face{ 
+  font-family: &#34;ShipporiMincho&#34;;
+  src:  url(&#39;../fonts/Shippori_Mincho/ShipporiMincho-Regular.ttf&#39;);
+}
+@font-face{ 
+  font-family: &#34;CastoroTitling&#34;;
+  src:  url(&#39;../fonts/Castoro_Titling/CastoroTitling-Regular.ttf&#39;);
+}*/
+
+
+@import url(&#39;https://fonts.googleapis.com/css2?family=Castoro+Titling&amp;family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&amp;family=Shippori+Mincho:wght@400;500;600;700;800&amp;family=Yuji+Syuku&amp;family=Zhi+Mang+Xing&amp;display=swap&#39;);
+
+font-family: &#39;Castoro Titling&#39;, cursive;
+font-family: &#39;Noto Serif JP&#39;, serif;
+font-family: &#39;Shippori Mincho&#39;, serif;
+font-family: &#39;Yuji Syuku&#39;, serif;
+font-family: &#39;Zhi Mang Xing&#39;, cursive;
+
+
+
+
+
+
+
+&lt;/style&gt;
+&lt;style&gt;
+  .card{
+  border-radius: 5px;
+}
+.c1{
+
+  width: 323px;
+background:linear-gradient(to top left,#0091C8,#6244b2);
+}
+.c2{
+  width: 290px;
+  background:linear-gradient(to top left,#2bae72,#75f572);
+}
+.c3{
+background:linear-gradient(to top left,#ff626e,#ffeda4);
+  width: 240px;
+}.c4{
+background:linear-gradient(to top left,#3e048a,#c84b7d);
+  width: 240px;
+}.c5{
+background:linear-gradient(to top left,#d39340,#ffd194);
+  width: 240px;
+}
+&lt;/style&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;div id=&#34;karlukle&#34;&gt;天野カルクル(天野卡鲁克)♂&lt;/div&gt; 
+    &lt;div id=&#34;div-idkarlukle天野カルクル天野卡鲁克div&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#div-idkarlukle%e5%a4%a9%e9%87%8e%e3%82%ab%e3%83%ab%e3%82%af%e3%83%ab%e5%a4%a9%e9%87%8e%e5%8d%a1%e9%b2%81%e5%85%8bdiv&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p class=&#34;card c1&#34;&gt;
+&lt;span style=&#34;line-height: 0px;color:rgb(255,255,255,0.85);&#34;&gt;
+&lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px;&#34;&gt;
+  &lt;span style=&#34;font-family: Yuji Syuku;color:#74ceff&#34;&gt;天野&lt;/span&gt;
+  &lt;rp&gt;(&lt;/rp&gt;
+  &lt;rt&gt;アマノ&lt;/rt&gt;
+  &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px;&#34;&gt;
+  &lt;span style=&#34;font-family: Yuji Syuku;;color:#74ceff&#34;&gt;カルクル&lt;/span&gt;
+&lt;/ruby&gt;
+&lt;br/&gt;
+&lt;span style=&#34;font-family: Castoro Titling;font-size: 20px;&#34;&gt;&amp;nbsp;&amp;nbsp;Amano&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Karlukle&lt;/span&gt;
+&lt;/span&gt;
+&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;故事主人公，8岁，国际学校小学部二年级。7岁时由于在梦境中误前往叶之世界而成为“体”，受“御天樣之凌”后成为叶之世界的旅人，能在梦境中前往叶之世界更衣，以“カルクル(Karlukle宽式标音/kɑːlʊkl/)”的身份在地上世界游荡。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;div id=&#34;hunosuke&#34;&gt;天野风之助♂&lt;/div&gt; 
+    &lt;div id=&#34;div-idhunosuke天野风之助div&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#div-idhunosuke%e5%a4%a9%e9%87%8e%e9%a3%8e%e4%b9%8b%e5%8a%a9div&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p class=&#34;card c2&#34;&gt;
+&lt;span style=&#34;line-height: 0px;color:rgb(255,255,255,0.85);&#34;&gt;
+&lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px;&#34;&gt;
+  &lt;span style=&#34;font-family: Yuji Syuku;;color:#0081D9&#34;&gt;天野&lt;/span&gt;
+  &lt;rp&gt;(&lt;/rp&gt;
+  &lt;rt&gt;アマノ&lt;/rt&gt;
+  &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px;&#34;&gt;
+  &lt;span style=&#34;font-family: Yuji Syuku;;color:#0081D9&#34;&gt;風之助&lt;/span&gt;
+  &lt;rp&gt;(&lt;/rp&gt;
+  &lt;rt&gt;フウノスケ&lt;/rt&gt;
+  &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt; 
+&lt;br/&gt;
+&lt;span style=&#34;font-family: Castoro Titling;font-size: 20px;&#34;&gt;&amp;nbsp;&amp;nbsp;Amano&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Hūnosuke&lt;/span&gt; 
+&lt;/span&gt;
+&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;卡鲁克的哥哥，15岁，国际学校初中部三年级。温和细心，有责任感。父母工作忙，他用关爱和陪伴消弭卡鲁克的孤单。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;div id=&#34;mirai&#34;&gt;天野未来♀&lt;/div&gt; 
+    &lt;div id=&#34;div-idmirai天野未来div&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#div-idmirai%e5%a4%a9%e9%87%8e%e6%9c%aa%e6%9d%a5div&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p class=&#34;card c3&#34;&gt;
+&lt;span style=&#34;line-height: 0px;color:rgb(255,255,255,0.85)&#34;&gt;
+&lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px;&#34;&gt;
+  &lt;span style=&#34;font-family: Yuji Syuku;;color:#cc2d03&#34;&gt;天野&lt;/span&gt;
+  &lt;rp&gt;(&lt;/rp&gt;
+  &lt;rt&gt;アマノ&lt;/rt&gt;
+  &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px;&#34;&gt;
+  &lt;span style=&#34;font-family: Yuji Syuku;;color:#cc2d03&#34;&gt;未来&lt;/span&gt;
+  &lt;rp&gt;(&lt;/rp&gt;
+  &lt;rt&gt;ミライ&lt;/rt&gt;
+  &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt; 
+&lt;br/&gt;
+&lt;span style=&#34;font-family: Castoro Titling;font-size: 20px;&#34;&gt;&amp;nbsp;Amano&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Mirai&lt;/span&gt;
+&lt;/span&gt;
+&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;卡鲁克的妹妹，7岁（去世时）。5岁时外公去世，她去和乡下的外婆住在一起。那天夜里，她和卡鲁克相隔千里，却做着同一个梦。她来晚了，看见卡鲁克正受“御天樣之凌”。得知卡鲁克要承受双倍痛苦来换“叶之本灵”和“人间本灵”以化为旅人后，她以生命的泯灭为代价作“人间本灵”，助卡鲁克渡过难关，并在梦中死去。卡鲁克一直把梦境中的往事藏在心里。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;div id=&#34;seiko&#34;&gt;天野圣子♀&lt;/div&gt; 
+    &lt;div id=&#34;div-idseiko天野圣子div&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#div-idseiko%e5%a4%a9%e9%87%8e%e5%9c%a3%e5%ad%90div&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p class=&#34;card c4&#34;&gt;
+&lt;span style=&#34;line-height: 0px;;color:rgb(255,255,255,0.85)&#34;&gt;
+&lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px&#34;&gt;
+  &lt;span style=&#34;font-family: Yuji Syuku;;color:#14cbcf&#34;&gt;天野&lt;/span&gt;
+  &lt;rp&gt;(&lt;/rp&gt;
+  &lt;rt&gt;アマノ&lt;/rt&gt;
+  &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px;line-height: 0.2em;&#34;&gt;
+  &lt;span style=&#34;font-family: Yuji Syuku;;color:#14cbcf&#34;&gt;聖子&lt;/span&gt;
+  &lt;rp&gt;(&lt;/rp&gt;
+  &lt;rt&gt;セイコ&lt;/rt&gt;
+  &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt; 
+&lt;br/&gt;
+&lt;span style=&#34;font-family: Castoro Titling;font-size: 20px&#34;&gt;&amp;nbsp;Amano&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Seiko&lt;/span&gt;
+&lt;/span&gt;
+&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;卡鲁克的母亲，36岁。现为某中学外籍教师。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;div id=&#34;chengmin&#34;&gt;金丞旻♂&lt;/div&gt; 
+    &lt;div id=&#34;div-idchengmin金丞旻div&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#div-idchengmin%e9%87%91%e4%b8%9e%e6%97%bbdiv&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p class=&#34;card c5&#34;&gt;
+&lt;span style=&#34;line-height: 0px;color:rgb(255,255,255,0.85)&#34;&gt;&amp;nbsp;&amp;nbsp;
+&lt;ruby style=&#34;font-family: Noto Serif SC;font-size: 50px;&#34;&gt;
+  &lt;span style=&#34;font-family: Yuji Syuku;;color:#444d56&#34;&gt;金&lt;/span&gt;
+  &lt;rp&gt;(&lt;/rp&gt;
+  &lt;rt style=&#34;font-weight:900;&#34;&gt;ㄐㄧㄋ&lt;/rt&gt;
+  &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&lt;ruby style=&#34;font-family: Noto Serif SC;font-size: 50px;&#34;&gt;
+  &lt;span style=&#34;font-family: Yuji Syuku;;color:#444d56&#34;&gt;丞旻&lt;/span&gt;
+  &lt;rp&gt;(&lt;/rp&gt;
+  &lt;rt style=&#34;font-weight:900;&#34;&gt;ㄔㄥㄇㄧㄋ&lt;/rt&gt;
+  &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt; 
+&lt;br/&gt;
+&lt;span style=&#34;font-family: Castoro Titling;font-size: 20px;&#34;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Jin&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chengmin&lt;/span&gt;
+&lt;/span&gt;
+&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;卡鲁克的父亲，40岁。早年漂泊异国。&lt;/p&gt;
+&lt;hr/&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>概念阐释</title>
+      <link>https://smileguide.github.io/docs/myoc/pedia/</link>
+      <pubDate>Tue, 06 Jun 2023 21:23:49 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/docs/myoc/pedia/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;h2 class=&#34;relative group&#34;&gt;地上世界 
+    &lt;div id=&#34;地上世界&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%9c%b0%e4%b8%8a%e4%b8%96%e7%95%8c&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;“地上”是日语词，意为人间。地上世界就是我们所生活的世界。&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;人間本霊（人间本灵） 
+    &lt;div id=&#34;人間本霊人间本灵&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e4%ba%ba%e9%96%93%e6%9c%ac%e9%9c%8a%e4%ba%ba%e9%97%b4%e6%9c%ac%e7%81%b5&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;“人間”是日语词，意为人类。人间本灵就是人的魂魄。&lt;/p&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;後ろ本霊の補償（后本灵补偿） 
+    &lt;div id=&#34;後ろ本霊の補償后本灵补偿&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%be%8c%e3%82%8d%e6%9c%ac%e9%9c%8a%e3%81%ae%e8%a3%9c%e5%84%9f%e5%90%8e%e6%9c%ac%e7%81%b5%e8%a1%a5%e5%81%bf&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;由于不允许两个&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#eltraveller&#34;  &gt;
+    叶世旅人&lt;/a&gt;同时存在，当有两个人间本灵所有者受&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#gotensamastorture&#34;  &gt;
+    御天樣之凌&lt;/a&gt;时，痛苦减轻一半，先行者将顺利成为叶世旅人并承载双倍的本灵能量加成，但另一人的魂魄将灰飞烟灭。&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;葉の世界 
+    &lt;div id=&#34;葉の世界&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e8%91%89%e3%81%ae%e4%b8%96%e7%95%8c&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;第四维度上的平行世界。叶之世界可以通过意念控制的方式与&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#owner&#34;  &gt;
+    人间本灵所有者&lt;/a&gt;产生联系、进行交流。梦境是通过四维轴往返于地上世界和叶之世界的唯一途径。据说只有小孩才会有这样的“叶世界之梦”。&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;葉の本霊（叶之本灵） 
+    &lt;div id=&#34;葉の本霊叶之本灵&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e8%91%89%e3%81%ae%e6%9c%ac%e9%9c%8a%e5%8f%b6%e4%b9%8b%e6%9c%ac%e7%81%b5&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#owner&#34;  &gt;
+    人间本灵所有者&lt;/a&gt;的魂魄在叶之世界的投影。&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;体 
+    &lt;div id=&#34;体&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e4%bd%93&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#owner&#34;  &gt;
+    人间本灵所有者&lt;/a&gt;来到&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#leafworld&#34;  &gt;
+    叶之世界&lt;/a&gt;后就会失去自由，直至化为&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#eltraveller&#34;  &gt;
+    叶世旅人&lt;/a&gt;才会获得返回的能力。这样的失去自由者称为“体”。&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;葉世旅人（叶世旅人） 
+    &lt;div id=&#34;葉世旅人叶世旅人&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e8%91%89%e4%b8%96%e6%97%85%e4%ba%ba%e5%8f%b6%e4%b8%96%e6%97%85%e4%ba%ba&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;能够在&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#earthlyworld&#34;  &gt;
+    地上世界&lt;/a&gt;和&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#leafworld&#34;  &gt;
+    叶之世界&lt;/a&gt;由梦境往返的&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#owner&#34;  &gt;
+    人间本灵所有者&lt;/a&gt;。&lt;a href=&#34;https://smileguide.github.io/docs/myoc/characters/#karlukle&#34;  &gt;
+    天野カルクル&lt;/a&gt;是一名葉世旅人，他每晚通过梦游叶之世界获得叶世旅人能力，降临在地上世界的各个角落与人对话。&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;ご天樣（御天樣） 
+    &lt;div id=&#34;ご天樣御天樣&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e3%81%94%e5%a4%a9%e6%a8%a3%e5%be%a1%e5%a4%a9%e6%a8%a3&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;叶之世界的人格化。&lt;/p&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;ご天樣の凌（御天樣之凌） 
+    &lt;div id=&#34;ご天樣の凌御天樣之凌&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e3%81%94%e5%a4%a9%e6%a8%a3%e3%81%ae%e5%87%8c%e5%be%a1%e5%a4%a9%e6%a8%a3%e4%b9%8b%e5%87%8c&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;叶之世界的苦刑，有肉体与精神的双重折磨。受御天樣之凌时，有身体缓慢裂解般的疼痛和万念俱灰的绝望。&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#tay&#34;  &gt;
+    体&lt;/a&gt;想要获得自由，必须受御天樣之凌，成为&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#eltraveller&#34;  &gt;
+    叶世旅人&lt;/a&gt;。&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;人間本霊所有者（人间本灵所有者） 
+    &lt;div id=&#34;人間本霊所有者人间本灵所有者&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e4%ba%ba%e9%96%93%e6%9c%ac%e9%9c%8a%e6%89%80%e6%9c%89%e8%80%85%e4%ba%ba%e9%97%b4%e6%9c%ac%e7%81%b5%e6%89%80%e6%9c%89%e8%80%85&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;拥有魂魄者，即人类。&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>创作背景问答</title>
+      <link>https://smileguide.github.io/docs/myoc/questionaire/</link>
+      <pubDate>Tue, 06 Jun 2023 23:00:25 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/docs/myoc/questionaire/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;h2 class=&#34;relative group&#34;&gt;为什么采用“天野”这个姓？ 
+    &lt;div id=&#34;为什么采用天野这个姓&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e4%b8%ba%e4%bb%80%e4%b9%88%e9%87%87%e7%94%a8%e5%a4%a9%e9%87%8e%e8%bf%99%e4%b8%aa%e5%a7%93&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;我一直在寻找一个用英语读来朗朗上口的姓氏。与本故事主题相关的“天”字吸引了我。&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;“カルクル”这个名字的由来是怎样的？ 
+    &lt;div id=&#34;カルクル这个名字的由来是怎样的&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e3%82%ab%e3%83%ab%e3%82%af%e3%83%ab%e8%bf%99%e4%b8%aa%e5%90%8d%e5%ad%97%e7%9a%84%e7%94%b1%e6%9d%a5%e6%98%af%e6%80%8e%e6%a0%b7%e7%9a%84&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;我首先为主人公起了一个英语名字，它是“Karlukle”。&lt;br&gt;
+Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的纳维亚半岛变体，“Ukle”取自“Ukulele（尤克里里）”。&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;“金丞旻”这个名字有什么寓意吗？ 
+    &lt;div id=&#34;金丞旻这个名字有什么寓意吗&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e9%87%91%e4%b8%9e%e6%97%bb%e8%bf%99%e4%b8%aa%e5%90%8d%e5%ad%97%e6%9c%89%e4%bb%80%e4%b9%88%e5%af%93%e6%84%8f%e5%90%97&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;“旻”的意思是“天空”，与苗字“天野”相照应。&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;为什么叫“叶”之世界？ 
+    &lt;div id=&#34;为什么叫叶之世界&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e4%b8%ba%e4%bb%80%e4%b9%88%e5%8f%ab%e5%8f%b6%e4%b9%8b%e4%b8%96%e7%95%8c&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;平行宇宙由第四维串联起来，这很容易使人想到一根树枝上无数平行的叶子。&lt;/p&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,2675 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>群青流星</title>
+    <link>https://smileguide.github.io/authors/%E9%87%91%E5%9C%A3%E7%9A%93/</link>
+    <description>我喜欢听花开的声音，更想自由地深情地呼吸</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>:copyright: 2024 JIN Shenghao</copyright>
+    <lastBuildDate>Thu, 15 Feb 2024 11:41:24 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/authors/%E9%87%91%E5%9C%A3%E7%9A%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>古典乐 Classical</title>
+      <link>https://smileguide.github.io/radio/classical/</link>
+      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/radio/classical/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
+&lt;span style=&#34;color:#111827&#34;&gt;
+&lt;meting-js server=&#34;netease&#34; type=&#34;playlist&#34; id=&#34;9177890344&#34; autoplay=&#34;true&#34; listFolded=&#34;true&#34;&gt;&lt;/meting-js&gt;
+&lt;/span&gt;&lt;hr/&gt;
+
+&lt;section class=&#34;space-y-10 w-full&#34;&gt;
+    
+    
+        
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  &lt;a class=&#34;flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://smileguide.github.io/player/&#34;&gt;
+    
+        
+        &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom &#34; style=&#34;background-image:url(/player/feature_hu3d03a01dcc18bc5be0e67db3d8d209a6_2282854_600x0_resize_q75_box.jpg);&#34;&gt;&lt;/div&gt;
+        
+      &lt;div class=&#34; p-4&#34;&gt;
+      &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;https://smileguide.github.io/player/&#34;&gt;关于网站音乐系统&lt;/div&gt;
+        
+        
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  &lt;time datetime=&#34;2024-01-26 10:11:15 &amp;#43;0800 CST&#34;&gt;2024年1月26日&lt;/time&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span&gt;386 字&lt;/span&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span title=&#34;预计阅读&#34;&gt;1 分钟&lt;/span&gt;
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/%E9%9F%B3%E4%B9%90/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    音乐
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+      &lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/a&gt;
+        
+    
+&lt;/section&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/radio/classical/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>关系框图</title>
+      <link>https://smileguide.github.io/docs/myoc/relationship/</link>
+      <pubDate>Mon, 05 Jun 2023 14:36:30 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/docs/myoc/relationship/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;script type=&#34;module&#34;&gt;
+  import mermaid from &#39;https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs&#39;;
+&lt;/script&gt;
+&lt;style&gt;
+/*@font-face{ 
+  font-family: &#34;NotoSerifJP&#34;;
+  src:  url(&#39;../fonts/Noto_Serif_JP/NotoSerifJP-SemiBold.otf&#39;);
+}
+@font-face{ 
+  font-family: &#34;ZhiMangXing&#34;;
+  src:  url(&#39;../fonts/Zhi_Mang_Xing/ZhiMangXing-Regular.ttf&#39;);
+}
+@font-face{ 
+  font-family: &#34;YujiSyuku&#34;;
+  src:  url(&#39;../fonts/Yuji_Syuku/YujiSyuku-Regular.ttf&#39;);
+}
+@font-face{ 
+  font-family: &#34;ShipporiMincho&#34;;
+  src:  url(&#39;../fonts/Shippori_Mincho/ShipporiMincho-Regular.ttf&#39;);
+}
+@font-face{ 
+  font-family: &#34;CastoroTitling&#34;;
+  src:  url(&#39;../fonts/Castoro_Titling/CastoroTitling-Regular.ttf&#39;);
+}*/
+
+
+@import url(&#39;https://fonts.googleapis.com/css2?family=Castoro+Titling&amp;family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&amp;family=Shippori+Mincho:wght@400;500;600;700;800&amp;family=Yuji+Syuku&amp;family=Zhi+Mang+Xing&amp;display=swap&#39;);
+
+font-family: &#39;Castoro Titling&#39;, cursive;
+font-family: &#39;Noto Serif JP&#39;, serif;
+font-family: &#39;Shippori Mincho&#39;, serif;
+font-family: &#39;Yuji Syuku&#39;, serif;
+font-family: &#39;Zhi Mang Xing&#39;, cursive;
+&lt;/style&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;人物架构 
+    &lt;div id=&#34;人物架构&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e4%ba%ba%e7%89%a9%e6%9e%b6%e6%9e%84&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;div class=&#34;mermaid&#34; align=&#34;middle&#34;&gt;
+	graph TD
+	dad[[金丞旻]]:::jp--&gt;hy
+	mum((天野聖子)):::jp--&gt;hy((&#34; &#34;)):::hybrid
+	hy----&gt;hero[[天野カルクル]]:::herojp
+	hy----&gt;brother[[天野風之助]]:::jp
+	hy----&gt;sister((天野未来)):::jp
+	brother-.-.r1(兄 - 弟):::cont
+	hero-.-.r1
+	hero-.-.r2
+	sister-.-.r2(兄 - 妹):::cont
+	classDef hybrid fill:#C1DBDA
+	classDef jp font-family:Yuji Syuku
+	classDef herojp font-family:Yuji Syuku,fill:#FAE78A
+	classDef cn font-family:Noto Serif JP
+	classDef cont font-family:Noto Serif SC,font-weight:700,stroke-dasharray: 5 5,stroke-width:0px,fill:#f0f0f0
+	click dad &#34;/docs/myoc/characters/#chengmin&#34;
+	click mum &#34;/docs/myoc/characters/#seiko&#34;
+	click hero &#34;/docs/myoc/characters/#karlukle&#34;
+	click brother &#34;/docs/myoc/characters/#hunosuke&#34;
+	click sister &#34;/docs/myoc/characters/#mirai&#34;
+&lt;/div&gt;
+&lt;div class=&#34;mermaid&#34; align=&#34;right&#34;&gt;
+	graph TD
+	subgraph 图例
+		dad(&#34; &#34;)--&gt;hy((&#34; &#34;))
+	mum(&#34; &#34;)--&gt;hy:::hybrid
+	hy--&#34; &#34;--&gt;he(&#34; &#34;)
+	hy--婚配生子符号--&gt;brother(&#34; &#34;)
+	hy--&#34; &#34;--&gt;sister(&#34; &#34;)
+	lg1[[男]]-.-.relationship(&#34;【关系】&#34;):::cont
+	lg2((女))-.-.relationship
+	hero[[主人公]]:::herojp
+	end
+	classDef cont stroke-dasharray: 5 5,stroke-width:0px,fill:#f0f0f0
+	classDef herojp fill:#FAE78A
+	classDef hybrid fill:#C1DBDA
+&lt;/div&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;世界观 
+    &lt;div id=&#34;世界观&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e4%b8%96%e7%95%8c%e8%a7%82&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;div class=&#34;mermaid&#34; align=&#34;middle&#34;&gt;
+	graph LR
+	earthlyworld[(地上世界)]:::world
+	leafworld[(葉の世界)]:::world
+	eltraveller([葉世旅人]):::onel--居于--&gt;earthlyworld
+	eltraveller--变于--&gt;leafworld
+	subgraph el[ ]
+	earthlyworld2[(地上世界)]:::world--产--&gt;husoul
+	leafworld2[(葉の世界)]:::world--产--&gt;leafsoul
+	husoul[人間本霊]:::rei-.-eltraveller
+	earthlyworld2--产--&gt;tay
+	tay([体]):::rei--化为--&gt;eltraveller
+	leafsoul[葉の本霊]:::rei-.-eltraveller
+	end
+	classDef one font-family:Yuji Syuku
+	classDef onel font-family:Yuji Syuku
+	classDef rei font-family:Shippori Mincho,font-weight:600
+	classDef world font-family:Yuji Syuku,fill:#FAE78A
+	click earthlyworld &#34;/docs/myoc/pedia/#earthlyworld&#34;
+	click leafworld &#34;/docs/myoc/pedia/#leafworld&#34;
+	click eltraveller &#34;/docs/myoc/pedia/#eltraveller&#34;
+	click earthlyworld2 &#34;/docs/myoc/pedia/#earthlyworld&#34;
+	click leafworld2 &#34;/docs/myoc/pedia/#leafworld&#34;
+	click tay &#34;/docs/myoc/pedia/#tay&#34;
+	click leafsoul &#34;/docs/myoc/pedia/#leafsoul&#34;
+	click husoul &#34;/docs/myoc/pedia/#husoul&#34;
+	&lt;/div&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;时间线 
+    &lt;div id=&#34;时间线&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e6%97%b6%e9%97%b4%e7%ba%bf&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;div class=&#34;mermaid&#34; align=&#34;middle&#34;&gt;
+	%%{init: { &#39;logLevel&#39;: &#39;debug&#39;, &#39;theme&#39;: &#39;forest&#39; } }%%
+timeline
+    2000年代 : 2000 金丞旻结识天野聖子
+    	: 2005 金丞旻与天野聖子结婚
+    	: 2007 天野風之助出生
+    21世纪10年代 : 2013 天野カルクル出生
+    	: 2014 &amp;nbsp;&amp;nbsp;&amp;nbsp;天野未来出生
+    	: 2019 &amp;nbsp;&amp;nbsp;&amp;nbsp;外公去世，妹妹移居乡下
+    21世纪20年代 : 2020 一家人移居,妹妹留守
+    	: 2021&amp;nbsp;&amp;nbsp;&amp;nbsp;叶世界之梦,天野未来去世
+    	: 当前&amp;nbsp;&amp;nbsp;&amp;nbsp;唯一不可阻挡的是时间...
+&lt;/div&gt;
+&lt;!--当前2022--&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>玻璃（已完结）</title>
+      <link>https://smileguide.github.io/docs/vb/glass/</link>
+      <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/docs/vb/glass/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;这是一个可以模拟屏幕上的透明玻璃的工具，同时支持多开、染色、调整大小、按颜色序列创建玻璃等花样功能。&lt;/p&gt;
+&lt;style&gt;
+	.DDot{
+		text-decoration:underline;
+		text-decoration-style:dotted;
+		float:left;
+		color:#b5b5b5;
+	}
+&lt;/style&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;源代码下载：&lt;br/&gt; 
+    &lt;div id=&#34;源代码下载br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e6%ba%90%e4%bb%a3%e7%a0%81%e4%b8%8b%e8%bd%bdbr&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/glass.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;如果你在使用过程中遇到问题，欢迎在评论区提问！&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>新世纪音乐 New Age</title>
+      <link>https://smileguide.github.io/radio/newage/</link>
+      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/radio/newage/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
+&lt;span style=&#34;color:#111827&#34;&gt;
+&lt;meting-js server=&#34;netease&#34; type=&#34;playlist&#34; id=&#34;9178337946&#34; autoplay=&#34;true&#34; listFolded=&#34;true&#34;&gt;&lt;/meting-js&gt;
+&lt;/span&gt;&lt;hr/&gt;
+
+&lt;section class=&#34;space-y-10 w-full&#34;&gt;
+    
+    
+        
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  &lt;a class=&#34;flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://smileguide.github.io/player/&#34;&gt;
+    
+        
+        &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom &#34; style=&#34;background-image:url(/player/feature_hu3d03a01dcc18bc5be0e67db3d8d209a6_2282854_600x0_resize_q75_box.jpg);&#34;&gt;&lt;/div&gt;
+        
+      &lt;div class=&#34; p-4&#34;&gt;
+      &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;https://smileguide.github.io/player/&#34;&gt;关于网站音乐系统&lt;/div&gt;
+        
+        
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  &lt;time datetime=&#34;2024-01-26 10:11:15 &amp;#43;0800 CST&#34;&gt;2024年1月26日&lt;/time&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span&gt;386 字&lt;/span&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span title=&#34;预计阅读&#34;&gt;1 分钟&lt;/span&gt;
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/%E9%9F%B3%E4%B9%90/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    音乐
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+      &lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/a&gt;
+        
+    
+&lt;/section&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/radio/newage/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>人物介绍</title>
+      <link>https://smileguide.github.io/docs/myoc/characters/</link>
+      <pubDate>Tue, 06 Jun 2023 09:13:09 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/docs/myoc/characters/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;style&gt;
+/*@font-face{ 
+  font-family: &#34;NotoSerifJP&#34;;
+  src:  url(&#39;../fonts/Noto_Serif_JP/NotoSerifJP-SemiBold.otf&#39;);
+}
+@font-face{ 
+  font-family: &#34;ZhiMangXing&#34;;
+  src:  url(&#39;../fonts/Zhi_Mang_Xing/ZhiMangXing-Regular.ttf&#39;);
+}
+@font-face{ 
+  font-family: &#34;YujiSyuku&#34;;
+  src:  url(&#39;../fonts/Yuji_Syuku/YujiSyuku-Regular.ttf&#39;);
+}
+@font-face{ 
+  font-family: &#34;ShipporiMincho&#34;;
+  src:  url(&#39;../fonts/Shippori_Mincho/ShipporiMincho-Regular.ttf&#39;);
+}
+@font-face{ 
+  font-family: &#34;CastoroTitling&#34;;
+  src:  url(&#39;../fonts/Castoro_Titling/CastoroTitling-Regular.ttf&#39;);
+}*/
+
+
+@import url(&#39;https://fonts.googleapis.com/css2?family=Castoro+Titling&amp;family=Noto+Serif+JP:wght@200;300;400;500;600;700;900&amp;family=Shippori+Mincho:wght@400;500;600;700;800&amp;family=Yuji+Syuku&amp;family=Zhi+Mang+Xing&amp;display=swap&#39;);
+
+font-family: &#39;Castoro Titling&#39;, cursive;
+font-family: &#39;Noto Serif JP&#39;, serif;
+font-family: &#39;Shippori Mincho&#39;, serif;
+font-family: &#39;Yuji Syuku&#39;, serif;
+font-family: &#39;Zhi Mang Xing&#39;, cursive;
+
+
+
+
+
+
+
+&lt;/style&gt;
+&lt;style&gt;
+  .card{
+  border-radius: 5px;
+}
+.c1{
+
+  width: 323px;
+background:linear-gradient(to top left,#0091C8,#6244b2);
+}
+.c2{
+  width: 290px;
+  background:linear-gradient(to top left,#2bae72,#75f572);
+}
+.c3{
+background:linear-gradient(to top left,#ff626e,#ffeda4);
+  width: 240px;
+}.c4{
+background:linear-gradient(to top left,#3e048a,#c84b7d);
+  width: 240px;
+}.c5{
+background:linear-gradient(to top left,#d39340,#ffd194);
+  width: 240px;
+}
+&lt;/style&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;div id=&#34;karlukle&#34;&gt;天野カルクル(天野卡鲁克)♂&lt;/div&gt; 
+    &lt;div id=&#34;div-idkarlukle天野カルクル天野卡鲁克div&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#div-idkarlukle%e5%a4%a9%e9%87%8e%e3%82%ab%e3%83%ab%e3%82%af%e3%83%ab%e5%a4%a9%e9%87%8e%e5%8d%a1%e9%b2%81%e5%85%8bdiv&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p class=&#34;card c1&#34;&gt;
+&lt;span style=&#34;line-height: 0px;color:rgb(255,255,255,0.85);&#34;&gt;
+&lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px;&#34;&gt;
+  &lt;span style=&#34;font-family: Yuji Syuku;color:#74ceff&#34;&gt;天野&lt;/span&gt;
+  &lt;rp&gt;(&lt;/rp&gt;
+  &lt;rt&gt;アマノ&lt;/rt&gt;
+  &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px;&#34;&gt;
+  &lt;span style=&#34;font-family: Yuji Syuku;;color:#74ceff&#34;&gt;カルクル&lt;/span&gt;
+&lt;/ruby&gt;
+&lt;br/&gt;
+&lt;span style=&#34;font-family: Castoro Titling;font-size: 20px;&#34;&gt;&amp;nbsp;&amp;nbsp;Amano&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Karlukle&lt;/span&gt;
+&lt;/span&gt;
+&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;故事主人公，8岁，国际学校小学部二年级。7岁时由于在梦境中误前往叶之世界而成为“体”，受“御天樣之凌”后成为叶之世界的旅人，能在梦境中前往叶之世界更衣，以“カルクル(Karlukle宽式标音/kɑːlʊkl/)”的身份在地上世界游荡。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;div id=&#34;hunosuke&#34;&gt;天野风之助♂&lt;/div&gt; 
+    &lt;div id=&#34;div-idhunosuke天野风之助div&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#div-idhunosuke%e5%a4%a9%e9%87%8e%e9%a3%8e%e4%b9%8b%e5%8a%a9div&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p class=&#34;card c2&#34;&gt;
+&lt;span style=&#34;line-height: 0px;color:rgb(255,255,255,0.85);&#34;&gt;
+&lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px;&#34;&gt;
+  &lt;span style=&#34;font-family: Yuji Syuku;;color:#0081D9&#34;&gt;天野&lt;/span&gt;
+  &lt;rp&gt;(&lt;/rp&gt;
+  &lt;rt&gt;アマノ&lt;/rt&gt;
+  &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px;&#34;&gt;
+  &lt;span style=&#34;font-family: Yuji Syuku;;color:#0081D9&#34;&gt;風之助&lt;/span&gt;
+  &lt;rp&gt;(&lt;/rp&gt;
+  &lt;rt&gt;フウノスケ&lt;/rt&gt;
+  &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt; 
+&lt;br/&gt;
+&lt;span style=&#34;font-family: Castoro Titling;font-size: 20px;&#34;&gt;&amp;nbsp;&amp;nbsp;Amano&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Hūnosuke&lt;/span&gt; 
+&lt;/span&gt;
+&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;卡鲁克的哥哥，15岁，国际学校初中部三年级。温和细心，有责任感。父母工作忙，他用关爱和陪伴消弭卡鲁克的孤单。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;div id=&#34;mirai&#34;&gt;天野未来♀&lt;/div&gt; 
+    &lt;div id=&#34;div-idmirai天野未来div&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#div-idmirai%e5%a4%a9%e9%87%8e%e6%9c%aa%e6%9d%a5div&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p class=&#34;card c3&#34;&gt;
+&lt;span style=&#34;line-height: 0px;color:rgb(255,255,255,0.85)&#34;&gt;
+&lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px;&#34;&gt;
+  &lt;span style=&#34;font-family: Yuji Syuku;;color:#cc2d03&#34;&gt;天野&lt;/span&gt;
+  &lt;rp&gt;(&lt;/rp&gt;
+  &lt;rt&gt;アマノ&lt;/rt&gt;
+  &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px;&#34;&gt;
+  &lt;span style=&#34;font-family: Yuji Syuku;;color:#cc2d03&#34;&gt;未来&lt;/span&gt;
+  &lt;rp&gt;(&lt;/rp&gt;
+  &lt;rt&gt;ミライ&lt;/rt&gt;
+  &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt; 
+&lt;br/&gt;
+&lt;span style=&#34;font-family: Castoro Titling;font-size: 20px;&#34;&gt;&amp;nbsp;Amano&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Mirai&lt;/span&gt;
+&lt;/span&gt;
+&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;卡鲁克的妹妹，7岁（去世时）。5岁时外公去世，她去和乡下的外婆住在一起。那天夜里，她和卡鲁克相隔千里，却做着同一个梦。她来晚了，看见卡鲁克正受“御天樣之凌”。得知卡鲁克要承受双倍痛苦来换“叶之本灵”和“人间本灵”以化为旅人后，她以生命的泯灭为代价作“人间本灵”，助卡鲁克渡过难关，并在梦中死去。卡鲁克一直把梦境中的往事藏在心里。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;div id=&#34;seiko&#34;&gt;天野圣子♀&lt;/div&gt; 
+    &lt;div id=&#34;div-idseiko天野圣子div&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#div-idseiko%e5%a4%a9%e9%87%8e%e5%9c%a3%e5%ad%90div&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p class=&#34;card c4&#34;&gt;
+&lt;span style=&#34;line-height: 0px;;color:rgb(255,255,255,0.85)&#34;&gt;
+&lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px&#34;&gt;
+  &lt;span style=&#34;font-family: Yuji Syuku;;color:#14cbcf&#34;&gt;天野&lt;/span&gt;
+  &lt;rp&gt;(&lt;/rp&gt;
+  &lt;rt&gt;アマノ&lt;/rt&gt;
+  &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px;line-height: 0.2em;&#34;&gt;
+  &lt;span style=&#34;font-family: Yuji Syuku;;color:#14cbcf&#34;&gt;聖子&lt;/span&gt;
+  &lt;rp&gt;(&lt;/rp&gt;
+  &lt;rt&gt;セイコ&lt;/rt&gt;
+  &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt; 
+&lt;br/&gt;
+&lt;span style=&#34;font-family: Castoro Titling;font-size: 20px&#34;&gt;&amp;nbsp;Amano&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Seiko&lt;/span&gt;
+&lt;/span&gt;
+&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;卡鲁克的母亲，36岁。现为某中学外籍教师。&lt;/p&gt;
+&lt;hr/&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;div id=&#34;chengmin&#34;&gt;金丞旻♂&lt;/div&gt; 
+    &lt;div id=&#34;div-idchengmin金丞旻div&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#div-idchengmin%e9%87%91%e4%b8%9e%e6%97%bbdiv&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p class=&#34;card c5&#34;&gt;
+&lt;span style=&#34;line-height: 0px;color:rgb(255,255,255,0.85)&#34;&gt;&amp;nbsp;&amp;nbsp;
+&lt;ruby style=&#34;font-family: Noto Serif SC;font-size: 50px;&#34;&gt;
+  &lt;span style=&#34;font-family: Yuji Syuku;;color:#444d56&#34;&gt;金&lt;/span&gt;
+  &lt;rp&gt;(&lt;/rp&gt;
+  &lt;rt style=&#34;font-weight:900;&#34;&gt;ㄐㄧㄋ&lt;/rt&gt;
+  &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt;
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;
+&lt;ruby style=&#34;font-family: Noto Serif SC;font-size: 50px;&#34;&gt;
+  &lt;span style=&#34;font-family: Yuji Syuku;;color:#444d56&#34;&gt;丞旻&lt;/span&gt;
+  &lt;rp&gt;(&lt;/rp&gt;
+  &lt;rt style=&#34;font-weight:900;&#34;&gt;ㄔㄥㄇㄧㄋ&lt;/rt&gt;
+  &lt;rp&gt;)&lt;/rp&gt;
+&lt;/ruby&gt; 
+&lt;br/&gt;
+&lt;span style=&#34;font-family: Castoro Titling;font-size: 20px;&#34;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Jin&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chengmin&lt;/span&gt;
+&lt;/span&gt;
+&lt;/p&gt;
+&lt;p&gt;&amp;nbsp;&amp;nbsp;卡鲁克的父亲，40岁。早年漂泊异国。&lt;/p&gt;
+&lt;hr/&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>绘图板（已完结）</title>
+      <link>https://smileguide.github.io/docs/vb/board/</link>
+      <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/docs/vb/board/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;这是一个可以在空白画布或图片上作画的工具，特别提供教师使用红色笔迹进行评卷的快捷功能。&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;入口 
+    &lt;div id=&#34;入口&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%85%a5%e5%8f%a3&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;style&gt;
+	.DDot{
+		text-decoration:underline;
+		text-decoration-style:dotted;
+		float:left;
+		color:#b5b5b5;
+	}
+&lt;/style&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;源代码下载：&lt;br/&gt; 
+    &lt;div id=&#34;源代码下载br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e6%ba%90%e4%bb%a3%e7%a0%81%e4%b8%8b%e8%bd%bdbr&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/board.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;如果你在使用过程中遇到问题，欢迎在评论区提问！&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>泛流行 PanPop</title>
+      <link>https://smileguide.github.io/radio/panpop/</link>
+      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/radio/panpop/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
+&lt;span style=&#34;color:#111827&#34;&gt;
+&lt;meting-js server=&#34;netease&#34; type=&#34;playlist&#34; id=&#34;9177267468&#34; autoplay=&#34;true&#34; listFolded=&#34;true&#34;&gt;&lt;/meting-js&gt;
+&lt;/span&gt;&lt;hr/&gt;
+
+&lt;section class=&#34;space-y-10 w-full&#34;&gt;
+    
+    
+        
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  &lt;a class=&#34;flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://smileguide.github.io/player/&#34;&gt;
+    
+        
+        &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom &#34; style=&#34;background-image:url(/player/feature_hu3d03a01dcc18bc5be0e67db3d8d209a6_2282854_600x0_resize_q75_box.jpg);&#34;&gt;&lt;/div&gt;
+        
+      &lt;div class=&#34; p-4&#34;&gt;
+      &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;https://smileguide.github.io/player/&#34;&gt;关于网站音乐系统&lt;/div&gt;
+        
+        
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  &lt;time datetime=&#34;2024-01-26 10:11:15 &amp;#43;0800 CST&#34;&gt;2024年1月26日&lt;/time&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span&gt;386 字&lt;/span&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span title=&#34;预计阅读&#34;&gt;1 分钟&lt;/span&gt;
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/%E9%9F%B3%E4%B9%90/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    音乐
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+      &lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/a&gt;
+        
+    
+&lt;/section&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/radio/panpop/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>概念阐释</title>
+      <link>https://smileguide.github.io/docs/myoc/pedia/</link>
+      <pubDate>Tue, 06 Jun 2023 21:23:49 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/docs/myoc/pedia/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;h2 class=&#34;relative group&#34;&gt;地上世界 
+    &lt;div id=&#34;地上世界&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%9c%b0%e4%b8%8a%e4%b8%96%e7%95%8c&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;“地上”是日语词，意为人间。地上世界就是我们所生活的世界。&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;人間本霊（人间本灵） 
+    &lt;div id=&#34;人間本霊人间本灵&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e4%ba%ba%e9%96%93%e6%9c%ac%e9%9c%8a%e4%ba%ba%e9%97%b4%e6%9c%ac%e7%81%b5&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;“人間”是日语词，意为人类。人间本灵就是人的魂魄。&lt;/p&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;後ろ本霊の補償（后本灵补偿） 
+    &lt;div id=&#34;後ろ本霊の補償后本灵补偿&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%be%8c%e3%82%8d%e6%9c%ac%e9%9c%8a%e3%81%ae%e8%a3%9c%e5%84%9f%e5%90%8e%e6%9c%ac%e7%81%b5%e8%a1%a5%e5%81%bf&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;由于不允许两个&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#eltraveller&#34;  &gt;
+    叶世旅人&lt;/a&gt;同时存在，当有两个人间本灵所有者受&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#gotensamastorture&#34;  &gt;
+    御天樣之凌&lt;/a&gt;时，痛苦减轻一半，先行者将顺利成为叶世旅人并承载双倍的本灵能量加成，但另一人的魂魄将灰飞烟灭。&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;葉の世界 
+    &lt;div id=&#34;葉の世界&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e8%91%89%e3%81%ae%e4%b8%96%e7%95%8c&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;第四维度上的平行世界。叶之世界可以通过意念控制的方式与&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#owner&#34;  &gt;
+    人间本灵所有者&lt;/a&gt;产生联系、进行交流。梦境是通过四维轴往返于地上世界和叶之世界的唯一途径。据说只有小孩才会有这样的“叶世界之梦”。&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;葉の本霊（叶之本灵） 
+    &lt;div id=&#34;葉の本霊叶之本灵&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e8%91%89%e3%81%ae%e6%9c%ac%e9%9c%8a%e5%8f%b6%e4%b9%8b%e6%9c%ac%e7%81%b5&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#owner&#34;  &gt;
+    人间本灵所有者&lt;/a&gt;的魂魄在叶之世界的投影。&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;体 
+    &lt;div id=&#34;体&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e4%bd%93&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#owner&#34;  &gt;
+    人间本灵所有者&lt;/a&gt;来到&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#leafworld&#34;  &gt;
+    叶之世界&lt;/a&gt;后就会失去自由，直至化为&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#eltraveller&#34;  &gt;
+    叶世旅人&lt;/a&gt;才会获得返回的能力。这样的失去自由者称为“体”。&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;葉世旅人（叶世旅人） 
+    &lt;div id=&#34;葉世旅人叶世旅人&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e8%91%89%e4%b8%96%e6%97%85%e4%ba%ba%e5%8f%b6%e4%b8%96%e6%97%85%e4%ba%ba&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;能够在&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#earthlyworld&#34;  &gt;
+    地上世界&lt;/a&gt;和&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#leafworld&#34;  &gt;
+    叶之世界&lt;/a&gt;由梦境往返的&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#owner&#34;  &gt;
+    人间本灵所有者&lt;/a&gt;。&lt;a href=&#34;https://smileguide.github.io/docs/myoc/characters/#karlukle&#34;  &gt;
+    天野カルクル&lt;/a&gt;是一名葉世旅人，他每晚通过梦游叶之世界获得叶世旅人能力，降临在地上世界的各个角落与人对话。&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;ご天樣（御天樣） 
+    &lt;div id=&#34;ご天樣御天樣&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e3%81%94%e5%a4%a9%e6%a8%a3%e5%be%a1%e5%a4%a9%e6%a8%a3&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;叶之世界的人格化。&lt;/p&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;ご天樣の凌（御天樣之凌） 
+    &lt;div id=&#34;ご天樣の凌御天樣之凌&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e3%81%94%e5%a4%a9%e6%a8%a3%e3%81%ae%e5%87%8c%e5%be%a1%e5%a4%a9%e6%a8%a3%e4%b9%8b%e5%87%8c&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;叶之世界的苦刑，有肉体与精神的双重折磨。受御天樣之凌时，有身体缓慢裂解般的疼痛和万念俱灰的绝望。&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#tay&#34;  &gt;
+    体&lt;/a&gt;想要获得自由，必须受御天樣之凌，成为&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#eltraveller&#34;  &gt;
+    叶世旅人&lt;/a&gt;。&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;人間本霊所有者（人间本灵所有者） 
+    &lt;div id=&#34;人間本霊所有者人间本灵所有者&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e4%ba%ba%e9%96%93%e6%9c%ac%e9%9c%8a%e6%89%80%e6%9c%89%e8%80%85%e4%ba%ba%e9%97%b4%e6%9c%ac%e7%81%b5%e6%89%80%e6%9c%89%e8%80%85&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;拥有魂魄者，即人类。&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>网课小工具-剪贴板存图工具（已完结）</title>
+      <link>https://smileguide.github.io/docs/vb/screenshot/</link>
+      <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/docs/vb/screenshot/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;这是一个可以方便地把按下PrintScreen键复制到剪贴板的截图捕获、并以时间戳文件名保存到指定目录内的工具。&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;入口 
+    &lt;div id=&#34;入口&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%85%a5%e5%8f%a3&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;style&gt;
+	.DDot{
+		text-decoration:underline;
+		text-decoration-style:dotted;
+		float:right;
+		color:#b5b5b5;
+	}
+&lt;/style&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;源代码下载：&lt;br/&gt; 
+    &lt;div id=&#34;源代码下载br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e6%ba%90%e4%bb%a3%e7%a0%81%e4%b8%8b%e8%bd%bdbr&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/screenshot.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;如果你在使用过程中遇到问题，欢迎在评论区提问！&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>摇滚 Rocks</title>
+      <link>https://smileguide.github.io/radio/rocks/</link>
+      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/radio/rocks/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
+&lt;span style=&#34;color:#111827&#34;&gt;
+&lt;meting-js server=&#34;netease&#34; type=&#34;playlist&#34; id=&#34;9178226536&#34; autoplay=&#34;true&#34; listFolded=&#34;true&#34;&gt;&lt;/meting-js&gt;
+&lt;/span&gt;&lt;hr/&gt;
+
+&lt;section class=&#34;space-y-10 w-full&#34;&gt;
+    
+    
+        
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  &lt;a class=&#34;flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://smileguide.github.io/player/&#34;&gt;
+    
+        
+        &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom &#34; style=&#34;background-image:url(/player/feature_hu3d03a01dcc18bc5be0e67db3d8d209a6_2282854_600x0_resize_q75_box.jpg);&#34;&gt;&lt;/div&gt;
+        
+      &lt;div class=&#34; p-4&#34;&gt;
+      &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;https://smileguide.github.io/player/&#34;&gt;关于网站音乐系统&lt;/div&gt;
+        
+        
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  &lt;time datetime=&#34;2024-01-26 10:11:15 &amp;#43;0800 CST&#34;&gt;2024年1月26日&lt;/time&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span&gt;386 字&lt;/span&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span title=&#34;预计阅读&#34;&gt;1 分钟&lt;/span&gt;
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/%E9%9F%B3%E4%B9%90/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    音乐
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+      &lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/a&gt;
+        
+    
+&lt;/section&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/radio/rocks/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>创作背景问答</title>
+      <link>https://smileguide.github.io/docs/myoc/questionaire/</link>
+      <pubDate>Tue, 06 Jun 2023 23:00:25 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/docs/myoc/questionaire/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;h2 class=&#34;relative group&#34;&gt;为什么采用“天野”这个姓？ 
+    &lt;div id=&#34;为什么采用天野这个姓&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e4%b8%ba%e4%bb%80%e4%b9%88%e9%87%87%e7%94%a8%e5%a4%a9%e9%87%8e%e8%bf%99%e4%b8%aa%e5%a7%93&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;我一直在寻找一个用英语读来朗朗上口的姓氏。与本故事主题相关的“天”字吸引了我。&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;“カルクル”这个名字的由来是怎样的？ 
+    &lt;div id=&#34;カルクル这个名字的由来是怎样的&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e3%82%ab%e3%83%ab%e3%82%af%e3%83%ab%e8%bf%99%e4%b8%aa%e5%90%8d%e5%ad%97%e7%9a%84%e7%94%b1%e6%9d%a5%e6%98%af%e6%80%8e%e6%a0%b7%e7%9a%84&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;我首先为主人公起了一个英语名字，它是“Karlukle”。&lt;br&gt;
+Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的纳维亚半岛变体，“Ukle”取自“Ukulele（尤克里里）”。&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;“金丞旻”这个名字有什么寓意吗？ 
+    &lt;div id=&#34;金丞旻这个名字有什么寓意吗&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e9%87%91%e4%b8%9e%e6%97%bb%e8%bf%99%e4%b8%aa%e5%90%8d%e5%ad%97%e6%9c%89%e4%bb%80%e4%b9%88%e5%af%93%e6%84%8f%e5%90%97&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;“旻”的意思是“天空”，与苗字“天野”相照应。&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;为什么叫“叶”之世界？ 
+    &lt;div id=&#34;为什么叫叶之世界&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e4%b8%ba%e4%bb%80%e4%b9%88%e5%8f%ab%e5%8f%b6%e4%b9%8b%e4%b8%96%e7%95%8c&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;平行宇宙由第四维串联起来，这很容易使人想到一根树枝上无数平行的叶子。&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>网课小工具-课程表（未完结）</title>
+      <link>https://smileguide.github.io/docs/vb/schedule/</link>
+      <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/docs/vb/schedule/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;这是一个可以在网课期间规划时间、区分星期地按课程设定闹铃的实用工具，另支持内置的命令行操作，并有多种皮肤可选。&lt;/p&gt;
+&lt;style&gt;
+	.DDot{
+		text-decoration:underline;
+		text-decoration-style:dotted;
+		float:left;
+		color:#b5b5b5;
+	}
+&lt;/style&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;源代码下载：&lt;br/&gt; 
+    &lt;div id=&#34;源代码下载br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e6%ba%90%e4%bb%a3%e7%a0%81%e4%b8%8b%e8%bd%bdbr&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/schedule.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;如果你在使用过程中遇到问题，欢迎在评论区提问！&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>地球呢喃 Murmurs of Earth</title>
+      <link>https://smileguide.github.io/radio/murmurs/</link>
+      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/radio/murmurs/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
+&lt;span style=&#34;color:#111827&#34;&gt;
+&lt;meting-js server=&#34;netease&#34; type=&#34;album&#34; id=&#34;2848433&#34; autoplay=&#34;true&#34; listFolded=&#34;true&#34;&gt;&lt;/meting-js&gt;
+&lt;/span&gt;&lt;hr/&gt;
+
+&lt;section class=&#34;space-y-10 w-full&#34;&gt;
+    
+    
+        
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  &lt;a class=&#34;flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://smileguide.github.io/player/&#34;&gt;
+    
+        
+        &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom &#34; style=&#34;background-image:url(/player/feature_hu3d03a01dcc18bc5be0e67db3d8d209a6_2282854_600x0_resize_q75_box.jpg);&#34;&gt;&lt;/div&gt;
+        
+      &lt;div class=&#34; p-4&#34;&gt;
+      &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;https://smileguide.github.io/player/&#34;&gt;关于网站音乐系统&lt;/div&gt;
+        
+        
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  &lt;time datetime=&#34;2024-01-26 10:11:15 &amp;#43;0800 CST&#34;&gt;2024年1月26日&lt;/time&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span&gt;386 字&lt;/span&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span title=&#34;预计阅读&#34;&gt;1 分钟&lt;/span&gt;
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/%E9%9F%B3%E4%B9%90/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    音乐
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+      &lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/a&gt;
+        
+    
+&lt;/section&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/radio/murmurs/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>三十一中学生信息管理系统（已完结）</title>
+      <link>https://smileguide.github.io/docs/vb/31infsystem/</link>
+      <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/docs/vb/31infsystem/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;这是一个可以查询庄河市第三十一初级中学2019届学生信息的数据管理系统，并有通配符查找、剪贴板识别自动查找等功能。你也可以将本作品更改成你单位的信息管理系统。&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;入口 
+    &lt;div id=&#34;入口&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%85%a5%e5%8f%a3&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;style&gt;
+	.DDot{
+		text-decoration:underline;
+		text-decoration-style:dotted;
+		float:right;
+		color:#b5b5b5;
+	}
+&lt;/style&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;源代码下载：&lt;br/&gt; 
+    &lt;div id=&#34;源代码下载br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e6%ba%90%e4%bb%a3%e7%a0%81%e4%b8%8b%e8%bd%bdbr&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/31infsystem.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;如果你在使用过程中遇到问题，欢迎在评论区提问！&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>明文密文转换工具（未完结）</title>
+      <link>https://smileguide.github.io/docs/vb/cipher/</link>
+      <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/docs/vb/cipher/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;这是一个可以根据自定义的密钥加密解密文本的工具，多种花样功能正在开发中。&lt;/p&gt;
+&lt;style&gt;
+	.DDot{
+		text-decoration:underline;
+		text-decoration-style:dotted;
+		float:left;
+		color:#b5b5b5;
+	}
+&lt;/style&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;源代码下载：&lt;br/&gt; 
+    &lt;div id=&#34;源代码下载br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e6%ba%90%e4%bb%a3%e7%a0%81%e4%b8%8b%e8%bd%bdbr&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/cipher.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;如果你在使用过程中遇到问题，欢迎在评论区提问！&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>关于网站音乐系统</title>
+      <link>https://smileguide.github.io/player/</link>
+      <pubDate>Fri, 26 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/player/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;本网站的音乐系统分为两部分：&lt;a href=&#34;#%e6%82%ac%e6%b5%ae%e6%92%ad%e6%94%be%e5%99%a8&#34;  &gt;
+    悬浮播放器&lt;/a&gt; 和 &lt;a href=&#34;#%e9%9f%b3%e4%b9%90%e7%ab%99&#34;  &gt;
+    音乐站&lt;/a&gt; 。&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;悬浮播放器 
+    &lt;div id=&#34;悬浮播放器&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e6%82%ac%e6%b5%ae%e6%92%ad%e6%94%be%e5%99%a8&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;网页下方的半透明控件即悬浮播放器，具备&lt;strong&gt;跨网页连续播放&lt;/strong&gt;功能，加载速度快。&lt;/p&gt;
+&lt;p&gt;悬浮播放器中的几首歌曲都是以&lt;strong&gt;无损&lt;/strong&gt;（FLAC）形式存储在网站的后端服务器中的，它们是网站音乐的&lt;strong&gt;精华&lt;/strong&gt;，很适合边读边听。这些音乐或是有纪念意义的音乐，或是我最近喜欢的音乐。&lt;/p&gt;
+&lt;p&gt;你可以&lt;strong&gt;戴上耳机&lt;/strong&gt;，用心聆听这些难得的高品质音乐资源。&lt;/p&gt;
+&lt;p&gt;展开控件后，轻点
+
+  &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
+    &lt;?xml version=&#34;1.0&#34;?&gt;&lt;svg  fill=&#34;currentColor&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;  viewBox=&#34;0 0 30 30&#34; width=&#34;30px&#34; height=&#34;30px&#34;&gt;&lt;path d=&#34;M26.667 5.333h-21.333c-0 0-0.001 0-0.001 0-1.472 0-2.666 1.194-2.666 2.666 0 0 0 0.001 0 0.001v-0 16c0 0 0 0.001 0 0.001 0 1.472 1.194 2.666 2.666 2.666 0 0 0.001 0 0.001 0h21.333c0 0 0.001 0 0.001 0 1.472 0 2.666-1.194 2.666-2.666 0-0 0-0.001 0-0.001v0-16c0-0 0-0.001 0-0.001 0-1.472-1.194-2.666-2.666-2.666-0 0-0.001 0-0.001 0h0zM5.333 16h5.333v2.667h-5.333v-2.667zM18.667 24h-13.333v-2.667h13.333v2.667zM26.667 24h-5.333v-2.667h5.333v2.667zM26.667 18.667h-13.333v-2.667h13.333v2.667z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+
+可切换歌词的显隐状态，轻点 
+
+  &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
+    &lt;?xml version=&#34;1.0&#34;?&gt;&lt;svg fill=&#34;currentColor&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;  viewBox=&#34;0 0 30 30&#34; width=&#34;30px&#34; height=&#34;30px&#34;&gt;&lt;path d=&#34;M20.8 14.4q0.704 0 1.152 0.48t0.448 1.12-0.48 1.12-1.12 0.48h-19.2q-0.64 0-1.12-0.48t-0.48-1.12 0.448-1.12 1.152-0.48h19.2zM1.6 11.2q-0.64 0-1.12-0.48t-0.48-1.12 0.448-1.12 1.152-0.48h19.2q0.704 0 1.152 0.48t0.448 1.12-0.48 1.12-1.12 0.48h-19.2zM20.8 20.8q0.704 0 1.152 0.48t0.448 1.12-0.48 1.12-1.12 0.48h-19.2q-0.64 0-1.12-0.48t-0.48-1.12 0.448-1.12 1.152-0.48h19.2z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+
+可展开播放列表手动选歌。&lt;/p&gt;
+
+  
+  
+  
+  
+
+
+
+&lt;div
+  
+    class=&#34;flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900&#34;
+  &gt;
+
+  &lt;span
+    
+      class=&#34;text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center&#34;
+    &gt;
+
+    
+
+  &lt;span class=&#34;relative block icon&#34;&gt;
+    &lt;?xml version=&#34;1.0&#34;?&gt;&lt;svg fill=&#34;currentColor&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;  viewBox=&#34;0 0 30 30&#34; width=&#34;30px&#34; height=&#34;30px&#34;&gt;    &lt;path d=&#34;M25.565,9.785c-0.123,0.077-3.051,1.702-3.051,5.305c0.138,4.109,3.695,5.55,3.756,5.55 c-0.061,0.077-0.537,1.963-1.947,3.94C23.204,26.283,21.962,28,20.076,28c-1.794,0-2.438-1.135-4.508-1.135 c-2.223,0-2.852,1.135-4.554,1.135c-1.886,0-3.22-1.809-4.4-3.496c-1.533-2.208-2.836-5.673-2.882-9 c-0.031-1.763,0.307-3.496,1.165-4.968c1.211-2.055,3.373-3.45,5.734-3.496c1.809-0.061,3.419,1.242,4.523,1.242 c1.058,0,3.036-1.242,5.274-1.242C21.394,7.041,23.97,7.332,25.565,9.785z M15.001,6.688c-0.322-1.61,0.567-3.22,1.395-4.247 c1.058-1.242,2.729-2.085,4.17-2.085c0.092,1.61-0.491,3.189-1.533,4.339C18.098,5.937,16.488,6.872,15.001,6.688z&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+
+
+  &lt;/span&gt;
+
+  &lt;span
+    
+      class=&#34;dark:text-neutral-300&#34;
+    &gt;由于Apple限制后台缓存和自动播放，悬浮播放器的&lt;strong&gt;跨网页连续播放&lt;/strong&gt;功能在Safari浏览器中&lt;strong&gt;无效&lt;/strong&gt;。&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;音乐站 
+    &lt;div id=&#34;音乐站&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e9%9f%b3%e4%b9%90%e7%ab%99&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;从网页上方的&lt;strong&gt;菜单栏&lt;/strong&gt;可以进入音乐站。音乐站中的歌曲是从网易云音乐拉取的，音频质量&lt;strong&gt;一般&lt;/strong&gt;，且由于版权限制，大部分音乐只能听&lt;strong&gt;片段&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;音乐站分为多个专栏，多元地反应我的听歌风格。&lt;/p&gt;
+&lt;p&gt;正由于外音乐平台的播放限制，音乐站的主要目的是提供音乐列表，起&lt;strong&gt;推荐&lt;/strong&gt;和&lt;strong&gt;试听&lt;/strong&gt;作用。&lt;/p&gt;
+</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/player/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>精选音乐信息 (悬浮播放器↙)</title>
+      <link>https://smileguide.github.io/radio/pick/</link>
+      <pubDate>Fri, 26 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/radio/pick/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;h2 class=&#34;relative group&#34;&gt;音乐信息 
+    &lt;div id=&#34;音乐信息&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e9%9f%b3%e4%b9%90%e4%bf%a1%e6%81%af&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;1. 正解(混声三部合唱) &amp;ndash; RADWIMPS 
+    &lt;div id=&#34;1-正解混声三部合唱----radwimps&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#1-%e6%ad%a3%e8%a7%a3%e6%b7%b7%e5%a3%b0%e4%b8%89%e9%83%a8%e5%90%88%e5%94%b1----radwimps&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;img src=&#39;https://lc-gluttony.s3.amazonaws.com/dRYJBlSN7EF3/VoCPlwWAoRbycMbMpkk8rO3nFSY2RvVe/%E6%AD%A3%E8%A7%A3.jpg&#39; style=&#39;height: 100px;&#39; /&gt;
+&lt;p&gt;EP发行于2024年1月24日。&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;为2018年 NHK 《RADWIMPS18祭》而创作并在节目中首次亮相的 RADWIMPS 新曲《正解》音源正式公开！歌曲与1000名18岁的年轻人一起进行了一次一夜限定的表演，引发了广泛的关注。每年毕业季这首歌都会在“毕业歌曲”排行榜上名列前茅，如今已成为毕业季的经典歌曲。以《RADWIMPS 18祭》的现场表演录制的音源《正解 (18FES ver .)》曾收录于2018年12月发行的专辑《 ANTI ANTI
+GENERATION 》中。&lt;/p&gt;
+&lt;p&gt;此次 RADWIMPS 决定发布《正解》的正式录音室版本以及正式合唱音源＋谱面（男女混声3声部，女声3声部）。 RADWIMPS 请到了以10代为主的300名合唱部学生，得以录制出非常美妙的歌曲。&lt;br&gt;
+&lt;br/&gt;
+野田洋次郎：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;以节目为契机制作并演唱了《正解》，现已过去5年了。&lt;/p&gt;
+&lt;p&gt;那时候与18岁的朋友们一起齐声合唱，感受到无法言说的心情，对我而言是一次无比特别的体验。&lt;/p&gt;
+&lt;p&gt;其间歌曲被不断传唱，现如今听到很多&amp;quot;在毕业典礼上唱了这首歌&amp;quot;的声音，又再次因能制作出这首歌而感到喜悦。&lt;/p&gt;
+&lt;p&gt;其实当时曾为了制作正式录音音源进行过多次讨论，但曾经的1000人合唱体验非常鲜明生动，似乎怎样的录音都无法比拟，所以最终没能实现就结束了。在后来的5年里我数次在巡演中唱过这首歌，也听到了许多学校学生的合唱版本，感觉好像逐渐找到了理想中的《正解》的录音方向。&lt;/p&gt;
+&lt;p&gt;另外，从教师朋友那听说《正解》的合唱用乐谱存在多个版本，不知道以哪个为准才好，还听说了学校音乐老师亲自在乐谱上重新编曲的故事。
+因此这次同时发布了《正解》的正式录音音源以及正式合唱音源＋谱面（男女混声3声部，女声3声部）。合唱录音请到了以10代为主的300名合唱部学生，得以录制出非常美妙的歌曲。除了我演唱的原版外，专辑也收录了只有学生们的歌声的合唱音源，并进行了细致的谱曲、歌唱、和声构建、编曲等。&lt;/p&gt;
+&lt;p&gt;希望大家参考这个音源和乐谱练习，并且长久地传唱下去。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;2. カイコ (蚕) &amp;ndash; RADWIMPS 
+    &lt;div id=&#34;2-カイコ-蚕----radwimps&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#2-%e3%82%ab%e3%82%a4%e3%82%b3-%e8%9a%95----radwimps&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;img src=&#39;https://lc-gluttony.s3.amazonaws.com/dRYJBlSN7EF3/sAYPwSEiCi6COEP5gi0iz6bHLXlf9Xcn/%E3%82%AB%E3%82%A4%E3%82%B3.jpg&#39; style=&#39;height: 100px;&#39; /&gt;
+&lt;p&gt;EP发行于2014年3月11日。&lt;/p&gt;
+&lt;p&gt;野田洋次郎：&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;今年，我们将在这一天献上另一首歌曲。&lt;br&gt;
+歌名是《カイコ (蚕)》。&lt;br&gt;
+这首歌是为了纪念三年前发生的 事件&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt; 而创作的，虽然不确定是否适合这一天。请务必聆听。&lt;/p&gt;
+&lt;p&gt;从那天起已经过去了三年。已经三年了。终于迎来了三年。但仍然是三年。&lt;br&gt;
+我认为能够改变的是那些活在当下的人们。&lt;br&gt;
+无论是赋予那个事件意义，还是选择忽略它。&lt;br&gt;
+如果那种痛苦伴随着所播下的种子，我想，至少要好好让它绽放。&lt;/p&gt;
+&lt;p&gt;录音和影像，一如往年由正刚菅井先生和Kotori Film的大家负责。  非常感谢你们。大哥，今年又让你通宵了。真的很感谢。&lt;br&gt;
+还有在影像中用蜡烛的图像参与的朋友们，非常感谢。&lt;br&gt;
+愿这些感慨传达到那些不再在这里的灵魂。&lt;br&gt;
+今年视频中的天空是今天的天空，通透得一直透明澄澈。三年过去了，天空依然湛蓝如初。&lt;br&gt;
+愿这片天空永远持续下去。&lt;/p&gt;
+&lt;p&gt;对政府在为灾民和灾区提供重建援助，以及为生活在临时住所的人们提供福利措施方面的缓慢进展，我们提出抗议。希望能够做好当前需要做的事情。&lt;/p&gt;
+&lt;p&gt;最后，向三年前地震中失去的所有生命，
+以及今天仍受灾难影响的人致以合十。&lt;/p&gt;
+&lt;p&gt;洋次郎&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;官方英文歌词：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“God lives in us equally” says who?
+As it grabs the heart by the throat&lt;/p&gt;
+&lt;p&gt;Why cite it when it&amp;rsquo;s obvious
+Like stuffing more raw meat into an already full stomach?&lt;/p&gt;
+&lt;p&gt;As if it wants to upset me, it&amp;rsquo;s really annoying
+As if it doubts me, “Whose side are you?”&lt;/p&gt;
+&lt;p&gt;The world has had it
+It can&amp;rsquo;t take it anymore
+Though it took the weight of sorrow on its shoulders
+And created this universe all alone&lt;/p&gt;
+&lt;p&gt;The world has had it
+Hearing people sigh and sigh
+It can quickly fill up the entire galaxy
+Look who’s complaining now&lt;/p&gt;
+&lt;p&gt;All their sighs, screams and gasps
+Are here to be soaked up and spit out as another beautiful day&lt;/p&gt;
+&lt;p&gt;On that tree grows this human-looking creature
+What can I call you? This cancer, this germ?&lt;/p&gt;
+&lt;p&gt;Have yourself a solitude, more greed if you like
+Ever-changing colors and shapes
+Find your favorite taste, live life to the fullest but wipe your drool&lt;/p&gt;
+&lt;p&gt;The world has had it
+It can&amp;rsquo;t take it anymore
+The loneliness of the universe is the lesser evil
+Look who’s raising hands now&lt;/p&gt;
+&lt;p&gt;The world has had it
+All it can do is to let it break
+Let us show you
+How the parents murder their own child&lt;/p&gt;
+&lt;p&gt;Was there a day when no-one in the world didn&amp;rsquo;t even cry?
+Was there a day when no-one in the world didn&amp;rsquo;t even scream?&lt;/p&gt;
+&lt;p&gt;“God lives in us equally” says who?
+As it grabs you by the throat&lt;/p&gt;
+&lt;p&gt;The world has had it
+It can&amp;rsquo;t take it anymore
+Though it took the weight of sorrow on its shoulders
+And created this universe all alone&lt;/p&gt;
+&lt;p&gt;The world has had it
+Seeing people regret and regret
+It can easily blow up the entire galaxy
+Look who’s covering faces now&lt;/p&gt;
+&lt;p&gt;The world has had it
+It can&amp;rsquo;t take it anymore
+Here’s to the calmness of the universe duly recovered
+The last gala should be as grand as the first&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;3. シザースタンド (Scissor Stand) &amp;ndash; RADWIMPS 
+    &lt;div id=&#34;3-シザースタンド-scissor-stand----radwimps&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#3-%e3%82%b7%e3%82%b6%e3%83%bc%e3%82%b9%e3%82%bf%e3%83%b3%e3%83%89-scissor-stand----radwimps&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;img src=&#39;https://lc-gluttony.s3.amazonaws.com/dRYJBlSN7EF3/9P3GhzgkceJDeWMHqvrHcrKMeYT1qKJ3/Scissor%20Stand.jpg&#39; style=&#39;height: 100px;&#39; /&gt; 
+&lt;p&gt;EP发行于2023年3月27日。Scissor Stand 是剪刀架。&lt;/p&gt;
+&lt;p&gt;这是单曲《ドリーマーズ・ハイ(Dreamer&amp;rsquo;s High)》的副歌曲。&lt;sup id=&#34;fnref:4&#34;&gt;&lt;a href=&#34;#fn:4&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;br&gt;
+在初次出道时，成员们曾说：“在制作单曲时，副歌曲的位置很难确定。”听到这样的说法，我也是这样认为的。&lt;br&gt;
+副歌曲基本上不会收录在专辑中，只是EP中的曲目。尽管不会收录在专辑中，并不意味着可以在制作时松懈。而如果全力以赴，反而可能因为太好而想要收录在专辑中。
+虽然没有解决这个矛盾，但有人曾提出，可以将副歌曲视为一个实验空间，为前进的下一个阶段做准备。或许可以考虑这个角度。有人曾说过这样的话。&lt;br&gt;
+也许是因为这个原因，或者是其他原因，RADWIMPS的副歌曲中常常有令人振奋的佳作。有时候明明是为了作为副歌曲而制作的，但由于太出色，最终还是紧急制作了其他副歌曲，把新的副歌曲收录在EP中。&lt;/p&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;4. 狭心症 &amp;ndash; RADWIMPS 
+    &lt;div id=&#34;4-狭心症----radwimps&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#4-%e7%8b%ad%e5%bf%83%e7%97%87----radwimps&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;img src=&#39;https://lc-gluttony.s3.amazonaws.com/dRYJBlSN7EF3/ExWBkB5XRY8osQTM2c2wtRgjy08MFYOd/%E7%8B%AD%E5%BF%83%E7%97%87.jpg&#39; style=&#39;height: 100px;&#39; /&gt; 
+&lt;p&gt;EP发行于2011年2月9日。&lt;/p&gt;
+&lt;p&gt;这首单曲《狭心症》延续了1月发售的单曲《DADA》的主题，以个人对世界、点对点外的视角进行歌词描绘。&lt;sup id=&#34;fnref:5&#34;&gt;&lt;a href=&#34;#fn:5&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;在生活中，那些我们宁愿不碰触的部分，但偶尔会伸出手去理解的情感成为歌曲的基础。&lt;/p&gt;
+&lt;p&gt;在前一张专辑《アルトコロニーの定理》中，呈现了经过精心编织的复杂音乐，而在这首歌曲中则强调了排除技巧的重要性，专注于军鼓和和弦切割的精要编排。&lt;/p&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;5. 蝶々結び &amp;ndash; Aimer 
+    &lt;div id=&#34;5-蝶々結び----aimer&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#5-%e8%9d%b6%e3%80%85%e7%b5%90%e3%81%b3----aimer&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;img src=&#39;https://lc-gluttony.s3.amazonaws.com/dRYJBlSN7EF3/OQaFrdqT2Yiuzcmtx2uIlsLG8GjD6ok3/%E8%9D%B6%E3%80%85%E7%B5%90%E3%81%B3.jpg&#39; style=&#39;height: 100px;&#39; /&gt; 
+&lt;p&gt;EP发行于2016年8月17日。&lt;/p&gt;
+&lt;p&gt;由RADWIMPS的野田洋次郎提供音乐并担任制作的这张专辑《蝶々結び》，相比之前沉重的摇滚风格不同，转而呈现出感人至深的抒情歌曲。第10张单曲《insane dream / us》以来的浓烈摇滚声转变成了现在这样的风格。&lt;sup id=&#34;fnref:6&#34;&gt;&lt;a href=&#34;#fn:6&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;野田洋次郎不仅参与了音乐提供和制作，还以和声的形式加入音乐。此外，ハナレグミ（Haneregumi）也以吉他和和声的方式加入，这两位迷人的男性歌手为Aimer的歌声增添了芬芳。&lt;/p&gt;
+&lt;p&gt;野田洋次郎：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我大约3、4年前第一次听到Aimer的声音，是从一位朋友那里得到了一张CD。仅仅是听到她的声音，我就不禁喜欢上了她。在录音过程中能多次听到她的声音让我感到非常幸福。而且能够让Aime演唱这首珍贵的歌曲，让我感到非常高兴。Aimer，谢谢你。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;6. カタオモイ &amp;ndash; Aimer 
+    &lt;div id=&#34;6-カタオモイ----aimer&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#6-%e3%82%ab%e3%82%bf%e3%82%aa%e3%83%a2%e3%82%a4----aimer&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;img src=&#39;https://lc-gluttony.s3.amazonaws.com/dRYJBlSN7EF3/J3hKOoFOzLrCjkkMHlkgWz3Q8gpOUD1B/%E3%82%AB%E3%82%BF%E3%82%AA%E3%83%A2%E3%82%A4.jpg&#39; style=&#39;height: 100px;&#39; /&gt; 
+&lt;p&gt;所属专辑《デイドリーム》（Daydream）发行于于2016年9月21日。&lt;/p&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;7. 夏土産 &amp;ndash; 中島みゆき 
+    &lt;div id=&#34;7-夏土産----中島みゆき&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#7-%e5%a4%8f%e5%9c%9f%e7%94%a3----%e4%b8%ad%e5%b3%b6%e3%81%bf%e3%82%86%e3%81%8d&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;img src=&#39;https://lc-gluttony.s3.amazonaws.com/dRYJBlSN7EF3/6TA5pkQeYGNg2trlQo2KAbG5KAF9r2QE/%E5%A4%8F%E5%9C%9F%E7%94%A3.jpg&#39; style=&#39;height: 100px;&#39; /&gt; 
+&lt;p&gt;所属专辑《予感》发行于2001年4月18日。&lt;/p&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;8. I Could Never Say Goodbye &amp;ndash; Enya 
+    &lt;div id=&#34;8-i-could-never-say-goodbye----enya&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#8-i-could-never-say-goodbye----enya&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;img src=&#39;https://lc-gluttony.s3.amazonaws.com/dRYJBlSN7EF3/XrbMcPOkvJ4ywqDirpGNjaoj3iy9Uj1G/I%20Could%20Never%20Say%20Goodbye.jpg&#39; style=&#39;height: 100px;&#39; /&gt; 
+&lt;p&gt;这是一首爱尔兰哀歌，采用了“稀疏的赞美诗式编曲”。 &lt;br&gt;
+所属专辑《Dark Sky Island》发行于2015年11月20日。&lt;/p&gt;
+&lt;p&gt;专辑《Dark Sky Island》介绍：&lt;/p&gt;
+&lt;p&gt;上一张专辑《And Winter Came……》（2008 年）发行后，Enya 不确定自己下一步的事业发展方向，因此决定暂停音乐创作，这一暂停持续了三年。2012 年春天，她开始与合作多年的制作人兼编曲人 Nicky Ryan 和他的妻子、作词人 Roma Ryan 一起为新专辑创作和录制新素材。2011 年，英吉利海峡群岛的萨克岛（Sark）被指定为夜空保护区，Roma Ryan 则收集了一些关于岛屿的诗歌。Enya  从这些诗歌中获得了创作灵感，从而创作出了这张专辑。&lt;/p&gt;
+&lt;p&gt;该专辑在英国专辑排行榜上名列第四位，是 Enya 自《 Paint the Sky with Stars》（1997 年）以来在该排行榜上的最高排名，在美国 Billboard 200 榜上名列第八 位。在其他九个国家，该专辑进入了前五名。&lt;/p&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;9. おくりびと ~memory~ &amp;ndash; 久石譲 
+    &lt;div id=&#34;9-おくりびと-memory----久石譲&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#9-%e3%81%8a%e3%81%8f%e3%82%8a%e3%81%b3%e3%81%a8-memory----%e4%b9%85%e7%9f%b3%e8%ad%b2&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;img src=&#39;https://lc-gluttony.s3.amazonaws.com/dRYJBlSN7EF3/WheuQdu3cwbN78tzyywnAyvVXTiiFkFL/%E3%81%8A%E3%81%8F%E3%82%8A%E3%81%B3%E3%81%A8.jpg&#39; style=&#39;height: 100px;&#39; /&gt; 
+电影《おくりびと》(Departures，2008年)原声带中的配乐。原声带发行于2008年9月10日。  
+&lt;h3 class=&#34;relative group&#34;&gt;10. いつも何度でも &amp;ndash; 久石让 / 木村弓 
+    &lt;div id=&#34;10-いつも何度でも----久石让--木村弓&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#10-%e3%81%84%e3%81%a4%e3%82%82%e4%bd%95%e5%ba%a6%e3%81%a7%e3%82%82----%e4%b9%85%e7%9f%b3%e8%ae%a9--%e6%9c%a8%e6%9d%91%e5%bc%93&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;img src=&#39;https://lc-gluttony.s3.amazonaws.com/dRYJBlSN7EF3/Q8YE65RJkT67h9spDzpVh7pdOYQljG04/%E5%8D%83%E3%81%A8%E5%8D%83%E5%B0%8B%E3%81%AE%E7%A5%9E%E9%9A%A0%E3%81%97.jpg&#39; style=&#39;height: 100px;&#39; /&gt;   
+电影《千と千尋の神隠し》(Spirited Away，2001年)原声带中的主题曲。原声带发行于2001年7月18日。  
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;播放列表 
+    &lt;div id=&#34;播放列表&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e6%92%ad%e6%94%be%e5%88%97%e8%a1%a8&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-md&#34; data-lang=&#34;md&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;1.&lt;/span&gt; 正解(混声三部合唱) – RADWIMPS
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;2.&lt;/span&gt; カイコ (蚕) – RADWIMPS
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;3.&lt;/span&gt; シザースタンド (Scissor Stand) – RADWIMPS
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;4.&lt;/span&gt; 狭心症 – RADWIMPS
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;5.&lt;/span&gt; 蝶々結び – Aimer
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;6.&lt;/span&gt; カタオモイ – Aimer
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;7.&lt;/span&gt; 夏土産 – 中島みゆき
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;8.&lt;/span&gt; I Could Never Say Goodbye – Enya
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;9.&lt;/span&gt; おくりびと ~memory~ – 久石譲
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;10.&lt;/span&gt; いつも何度でも – 久石譲 / 木村弓
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;关于悬浮播放器 
+    &lt;div id=&#34;关于悬浮播放器&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%85%b3%e4%ba%8e%e6%82%ac%e6%b5%ae%e6%92%ad%e6%94%be%e5%99%a8&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;想了解悬浮播放器，请看这篇文章：&lt;br&gt;
+
+&lt;section class=&#34;space-y-10 w-full&#34;&gt;
+    
+    
+        
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  &lt;a class=&#34;flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://smileguide.github.io/player/&#34;&gt;
+    
+        
+        &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom &#34; style=&#34;background-image:url(/player/feature_hu3d03a01dcc18bc5be0e67db3d8d209a6_2282854_600x0_resize_q75_box.jpg);&#34;&gt;&lt;/div&gt;
+        
+      &lt;div class=&#34; p-4&#34;&gt;
+      &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;https://smileguide.github.io/player/&#34;&gt;关于网站音乐系统&lt;/div&gt;
+        
+        
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  &lt;time datetime=&#34;2024-01-26 10:11:15 &amp;#43;0800 CST&#34;&gt;2024年1月26日&lt;/time&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span&gt;386 字&lt;/span&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span title=&#34;预计阅读&#34;&gt;1 分钟&lt;/span&gt;
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/%E9%9F%B3%E4%B9%90/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    音乐
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+      &lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/a&gt;
+        
+    
+&lt;/section&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;本文选自QQ音乐介绍页&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;这段话发布于RADWIMPS官方网站上，原文为日文，由我翻译。&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;指东日本大地震。——译者注&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:4&#34;&gt;
+&lt;p&gt;本文选自RADWIMPS官网日文歌曲信息，由我翻译。&amp;#160;&lt;a href=&#34;#fnref:4&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:5&#34;&gt;
+&lt;p&gt;本文选自RADWIMPS官网日文歌曲信息，由我翻译。&amp;#160;&lt;a href=&#34;#fnref:5&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:6&#34;&gt;
+&lt;p&gt;以下三段皆选自Aimer官方网站，原文为日文，由我翻译。&amp;#160;&lt;a href=&#34;#fnref:6&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/radio/pick/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>我早期的Visual Baisc编程作品</title>
+      <link>https://smileguide.github.io/docs/vb/</link>
+      <pubDate>Tue, 02 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/docs/vb/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;style&gt;
+	.DDot{
+		text-decoration:underline;
+		text-decoration-style:dotted;
+		color:#FF9966;
+	}
+&lt;/style&gt;
+&lt;p&gt;这里存放着我的Visual Basic编程作品的源代码。这些源代码都处于持续更新状态，欢迎大家借鉴交流。&lt;/p&gt;
+&lt;p&gt;需要注意的是，在查看这些源代码之前，你的计算机需要安装Microsoft Visual Basic 6.0。&lt;a href=&#34;https://www.baidu.com/s?wd=VB6.0%E4%B8%8B%E8%BD%BD&#34; class=&#34;DDot&#34;&gt;点击此处可以在搜索引擎搜索以下载。&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;另外，如果你使用高分辨率显示器，你需要在EXE的『属性——兼容性——更改高DPI设置』中，选中『替代高DPI缩放行为。缩放执行：』，然后点击『确定』。这样你能获得更清晰的UI体验。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/docs/vb/glass&#34;&gt;第一个项目：玻璃 &amp;gt; &lt;/a&gt;&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>联系我</title>
+      <link>https://smileguide.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/contact/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/></description>
+      
+    </item>
+    
+    <item>
+      <title>日志</title>
+      <link>https://smileguide.github.io/blogs/</link>
+      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/blogs/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/></description>
+      
+    </item>
+    
+    <item>
+      <title>文档</title>
+      <link>https://smileguide.github.io/docs/</link>
+      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/docs/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/></description>
+      
+    </item>
+    
+    <item>
+      <title>我的QQ号</title>
+      <link>https://smileguide.github.io/contact/myqq/</link>
+      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/contact/myqq/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>
+  
+  
+  
+  
+
+
+
+&lt;div
+  
+    class=&#34;flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900&#34;
+  &gt;
+
+  &lt;span
+    
+      class=&#34;ltr:pr-3 rtl:pl-3 flex items-center&#34;
+      style=&#34;color: #086dcc&#34;
+    &gt;
+
+    
+
+  &lt;span class=&#34;relative block icon&#34;&gt;
+    &lt;svg fill=&#34;currentColor&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;  viewBox=&#34;0 0 32 32&#34; width=&#34;512px&#34; height=&#34;512px&#34;&gt;&lt;path d=&#34;M 16 5.886719 C 22.085938 5.886719 22.394531 11.324219 22.730469 12.394531 C 22.730469 12.394531 23.210938 12.929688 23.324219 13.746094 C 23.398438 14.273438 23.097656 14.871094 23.097656 14.871094 C 23.097656 14.871094 25.042969 17.492188 25.042969 19.550781 C 25.042969 20.835938 24.664063 21.5 24.222656 21.5 C 23.777344 21.5 23.128906 20.140625 23.128906 20.140625 C 23.128906 20.140625 22.113281 22.308594 21.605469 22.621094 C 21.097656 22.929688 23.4375 23.269531 23.4375 24.28125 C 23.4375 25.296875 21.578125 25.746094 20.058594 25.746094 C 18.535156 25.746094 16.113281 24.957031 16.113281 24.957031 L 15.238281 24.929688 C 15.238281 24.929688 14.5625 25.886719 11.773438 25.886719 C 8.984375 25.886719 7.773438 25.128906 7.773438 24.226563 C 7.773438 23.011719 9.550781 22.847656 9.550781 22.847656 C 9.550781 22.847656 8.417969 22.53125 7.460938 19.851563 C 7.460938 19.851563 6.796875 21.296875 5.859375 21.296875 C 5.859375 21.296875 5.464844 21.0625 5.464844 19.746094 C 5.464844 17.023438 7.421875 15.695313 8.265625 14.878906 C 8.265625 14.878906 8.125 14.523438 8.199219 14.082031 C 8.28125 13.589844 8.574219 13.292969 8.574219 13.292969 C 8.574219 13.292969 8.464844 12.703125 8.875 12.226563 C 8.957031 10.902344 9.914063 5.886719 16 5.886719 M 16 3.886719 C 9.601563 3.886719 7.332031 8.476563 6.929688 11.554688 C 6.738281 11.929688 6.628906 12.316406 6.585938 12.679688 C 6.433594 12.96875 6.296875 13.324219 6.226563 13.746094 C 6.207031 13.851563 6.195313 13.960938 6.1875 14.0625 C 5.078125 15.082031 3.464844 16.820313 3.464844 19.746094 C 3.464844 21.777344 4.210938 22.644531 4.839844 23.015625 L 5.308594 23.296875 L 5.859375 23.296875 C 5.875 23.296875 5.890625 23.296875 5.910156 23.296875 C 5.820313 23.582031 5.773438 23.890625 5.773438 24.226563 C 5.773438 25.085938 6.207031 27.890625 11.773438 27.890625 C 13.8125 27.890625 15.085938 27.449219 15.867188 26.976563 C 16.6875 27.222656 18.605469 27.746094 20.054688 27.746094 C 23.324219 27.746094 25.4375 26.386719 25.4375 24.28125 C 25.4375 23.90625 25.363281 23.574219 25.242188 23.277344 C 26.207031 22.839844 27.039063 21.710938 27.039063 19.550781 C 27.039063 17.65625 25.992188 15.667969 25.28125 14.535156 C 25.335938 14.210938 25.355469 13.847656 25.304688 13.472656 C 25.1875 12.632813 24.851563 11.964844 24.582031 11.546875 C 24.574219 11.507813 24.566406 11.46875 24.558594 11.429688 C 23.511719 6.421875 20.628906 3.886719 16 3.886719 Z&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+
+
+  &lt;/span&gt;
+
+  &lt;span
+    
+      class=&#34;dark:text-neutral-300&#34;
+    &gt;&lt;p&gt;&lt;button type=&#34;button&#34; id=&#34;cpy&#34;&gt;&lt;em&gt;&lt;strong&gt;3556932400&lt;/strong&gt;&lt;/em&gt;&lt;div id=&#34;cpyd&#34;&gt;点击复制&lt;/div&gt;&lt;/button&gt;&lt;/p&gt;
+&lt;script src=&#34;https://cdn.staticfile.org/clipboard.js/2.0.4/clipboard.min.js&#34;&gt;&lt;/script&gt;
+&lt;script&gt;
+new ClipboardJS(&#39;#cpy&#39;, {
+    text: function(trigger) {
+        return &#34;3556932400&#34;;
+    }
+}).on(&#39;success&#39;, function(e) {
+	// clearInterval(function);
+   document.getElementById(&#34;cpyd&#34;).innerHTML=&#34;复制成功&#34;;
+   e.clearSelection();
+   setTimeout(function(){document.getElementById(&#34;cpyd&#34;).innerHTML=&#34;点击复制&#34;;},1000);
+}).on(&#39;error&#39;, function(e) {
+	// clearInterval(function);
+    document.getElementById(&#34;cpyd&#34;).innerHTML=&#34;复制失败&#34;;
+});
+&lt;/script&gt;&lt;/span&gt;
+&lt;/div&gt;
+
+</description>
+      
+    </item>
+    
+    <item>
+      <title>我的微信号</title>
+      <link>https://smileguide.github.io/contact/myweixin/</link>
+      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/contact/myweixin/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>
+  
+  
+  
+  
+
+
+
+&lt;div
+  
+    class=&#34;flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900&#34;
+  &gt;
+
+  &lt;span
+    
+      class=&#34;ltr:pr-3 rtl:pl-3 flex items-center&#34;
+      style=&#34;color: #2aa167&#34;
+    &gt;
+
+    
+
+  &lt;span class=&#34;relative block icon&#34;&gt;
+    &lt;svg fill=&#34;currentColor&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;  viewBox=&#34;0 0 50 50&#34; width=&#34;500px&#34; height=&#34;500px&#34;&gt;&lt;path d=&#34;M 19 6 C 9.625 6 2 12.503906 2 20.5 C 2 24.769531 4.058594 28.609375 7.816406 31.390625 L 5.179688 39.304688 L 13.425781 34.199219 C 15.714844 34.917969 18.507813 35.171875 21.203125 34.875 C 23.390625 39.109375 28.332031 42 34 42 C 35.722656 42 37.316406 41.675781 38.796875 41.234375 L 45.644531 45.066406 L 43.734375 38.515625 C 46.3125 36.375 48 33.394531 48 30 C 48 23.789063 42.597656 18.835938 35.75 18.105469 C 34.40625 11.152344 27.367188 6 19 6 Z M 13 14 C 14.101563 14 15 14.898438 15 16 C 15 17.101563 14.101563 18 13 18 C 11.898438 18 11 17.101563 11 16 C 11 14.898438 11.898438 14 13 14 Z M 25 14 C 26.101563 14 27 14.898438 27 16 C 27 17.101563 26.101563 18 25 18 C 23.898438 18 23 17.101563 23 16 C 23 14.898438 23.898438 14 25 14 Z M 34 20 C 40.746094 20 46 24.535156 46 30 C 46 32.957031 44.492188 35.550781 42.003906 37.394531 L 41.445313 37.8125 L 42.355469 40.933594 L 39.105469 39.109375 L 38.683594 39.25 C 37.285156 39.71875 35.6875 40 34 40 C 27.253906 40 22 35.464844 22 30 C 22 24.535156 27.253906 20 34 20 Z M 29.5 26 C 28.699219 26 28 26.699219 28 27.5 C 28 28.300781 28.699219 29 29.5 29 C 30.300781 29 31 28.300781 31 27.5 C 31 26.699219 30.300781 26 29.5 26 Z M 38.5 26 C 37.699219 26 37 26.699219 37 27.5 C 37 28.300781 37.699219 29 38.5 29 C 39.300781 29 40 28.300781 40 27.5 C 40 26.699219 39.300781 26 38.5 26 Z&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+
+
+  &lt;/span&gt;
+
+  &lt;span
+    
+      class=&#34;dark:text-neutral-300&#34;
+    &gt;&lt;p&gt;&lt;button type=&#34;button&#34; id=&#34;cpy&#34;&gt;&lt;em&gt;&lt;strong&gt;Karlukle&lt;/strong&gt;&lt;/em&gt;&lt;div id=&#34;cpyd&#34;&gt;点击复制&lt;/div&gt;&lt;/button&gt;&lt;/p&gt;
+&lt;script src=&#34;https://cdn.staticfile.org/clipboard.js/2.0.4/clipboard.min.js&#34;&gt;&lt;/script&gt;
+&lt;script&gt;
+new ClipboardJS(&#39;#cpy&#39;, {
+    text: function(trigger) {
+        return &#34;Karlukle&#34;;
+    }
+}).on(&#39;success&#39;, function(e) {
+	// clearInterval(function);
+   document.getElementById(&#34;cpyd&#34;).innerHTML=&#34;复制成功&#34;;
+   e.clearSelection();
+   setTimeout(function(){document.getElementById(&#34;cpyd&#34;).innerHTML=&#34;点击复制&#34;;},1000);
+}).on(&#39;error&#39;, function(e) {
+	// clearInterval(function);
+    document.getElementById(&#34;cpyd&#34;).innerHTML=&#34;复制失败&#34;;
+});
+&lt;/script&gt;&lt;/span&gt;
+&lt;/div&gt;
+
+</description>
+      
+    </item>
+    
+    <item>
+      <title>音乐站</title>
+      <link>https://smileguide.github.io/radio/</link>
+      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/radio/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>关于我曾经的个性签名</title>
+      <link>https://smileguide.github.io/blogs/my-pre-slogan/</link>
+      <pubDate>Sat, 25 Mar 2023 23:08:18 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/blogs/my-pre-slogan/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;
+  
+
+
+
+&lt;div
+  
+    class=&#34;flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900&#34;
+  &gt;
+
+  &lt;span
+    
+      class=&#34;text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center&#34;
+    &gt;
+
+    
+
+  &lt;span class=&#34;relative block icon&#34;&gt;
+    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z&#34;/&gt;&lt;/svg&gt;
+
+  &lt;/span&gt;
+
+
+  &lt;/span&gt;
+
+  &lt;span
+    
+      class=&#34;dark:text-neutral-300&#34;
+    &gt;这篇文章完成于数年前，由QQ空间移植而来。&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;br/&gt;
+&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  保尔思伊 / 疾苦已满楼 / 以一币摁须
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;这是说保尔·柯察金对他的爱人思念之至，愁绪多到能填满一座楼（化无形为有形），而沉浸在极度的悲苦中的人看起来总是平静的，于是他漫无目的地夹起桌上的硬币，贴在人中上（舒爽~）…  😝&lt;/p&gt;
+&lt;p&gt;寥寥数语，表现命运斗士面对挫折的从容不迫，精彩而真实！ &lt;br&gt;
+只要你昂起头，世界就不会辜负你！！！&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;p&gt;（编不下去）&lt;/p&gt;
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;事实上，这是一句密文。 
+    &lt;div id=&#34;事实上这是一句密文&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e4%ba%8b%e5%ae%9e%e4%b8%8a%e8%bf%99%e6%98%af%e4%b8%80%e5%8f%a5%e5%af%86%e6%96%87&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;保尔思伊 / 疾苦已满楼 / 以一币摁须&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;把它的标点去掉：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;保尔思伊疾苦已满楼以一币摁须&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;把“满”改为异体字“満”：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;保尔思伊疾苦已満楼以一币摁须&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;把“摁”片面地拉丁化成“n”后，换成发音相似的日语拨音ん：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;保尔思伊疾苦已満楼以一币ん须&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;已经看出来，除掉平假名ん后的密文是日文万叶假名！&lt;/p&gt;
+&lt;p&gt;——何为万叶假名？&lt;/p&gt;
+&lt;p&gt;——万叶假名是日本语曾用的标记日文汉字的音读（模仿汉语的发音）和训读（日本自造发音）的符号。直接取用汉字（如“安”“加”“左”等）是万叶假名的特点。然而，它现已被平假名取代，只在地名等中有保留。因此，万叶假名和平假名存在对应关系（不是一一对应，是多对一）。&lt;/p&gt;
+&lt;p&gt;在本密文中：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;保对应ほ&lt;/li&gt;
+&lt;li&gt;尔对应に&lt;/li&gt;
+&lt;li&gt;思对应そ&lt;/li&gt;
+&lt;li&gt;伊对应い&lt;/li&gt;
+&lt;li&gt;疾对应と&lt;/li&gt;
+&lt;li&gt;苦对应く&lt;/li&gt;
+&lt;li&gt;已对应い&lt;/li&gt;
+&lt;li&gt;満对应ま&lt;/li&gt;
+&lt;li&gt;楼对应る&lt;/li&gt;
+&lt;li&gt;以对应い&lt;/li&gt;
+&lt;li&gt;一对应い&lt;/li&gt;
+&lt;li&gt;币对应ぺ&lt;/li&gt;
+&lt;li&gt;ん是它本身&lt;/li&gt;
+&lt;li&gt;须对应す&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;以上连缀起来：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ほにそいとくいまるいいぺんす&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;把这些平假名赫本式罗马化&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ho ni so i to ku i ma ru ī  &lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt; pe n su&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;把“ku”化为英语同音的“qu”，“ru”化为英语发音几乎一致的“lu”：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ho ni so i to qu i ma lu ī pe n su&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;为了将其转写成有闭音节的语言，进行部分修饰，调整由于日语无闭音节而产生的假借（“to”变“-t”，“lu”变“-l”，“su”变“-se”）：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;ho ni so it ku i mal ī pe nse&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;把长音“ī”变为“y”，同时进行拼词：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;honi soit qui mal y pense&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这便是解密后的结果。&lt;/p&gt;
+&lt;p&gt;那么这是什么？&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Honi soit qui mal y pense.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这是英王徽&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;（Royal coat of arms of the United Kingdom，下图）上的格言，是一句拉丁化的古法语，意为“心怀邪念者蒙羞（Shame on him who thinks evil of it）”，来自嘉得骑士团勋章。  此句话有典故：金雀花王朝的第七位国王爱德华三世与索尔茲伯里女伯爵玛格丽特·金雀花跳舞时，玛格丽特的吊袜带突然落下（这是十分欠庄重的），引起宫廷贵族的笑声，而爱德华三世却将这根吊袜带拾起系在自己腿上，并当众宣布“Honi soit qui mal y pense”。这句话后来成为格言，被镌刻在嘉德骑士团勋章（The Most Noble Order of the Garter）上，接着就变成了英王徽上的格言。至于为何是古法语，ええ…法语在古代英国上层社会很流行。&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;罗马化”是指把非拉丁字母拼写语言用拉丁字母拼写的过程；汉语拼音即是一种罗马化&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;文中“ī”是日语罗马化中长音的简略表示，相当于“ii”&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;文中关于英王徽文字的介绍参考于Wikipedia-Royal coat of arms of the United Kingdom，English Version&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/my-pre-slogan/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>关于两张照片</title>
+      <link>https://smileguide.github.io/blogs/2-photos/</link>
+      <pubDate>Sat, 25 Mar 2023 15:42:59 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/blogs/2-photos/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>
+  
+
+
+
+&lt;div
+  
+    class=&#34;flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900&#34;
+  &gt;
+
+  &lt;span
+    
+      class=&#34;text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center&#34;
+    &gt;
+
+    
+
+  &lt;span class=&#34;relative block icon&#34;&gt;
+    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z&#34;/&gt;&lt;/svg&gt;
+
+  &lt;/span&gt;
+
+
+  &lt;/span&gt;
+
+  &lt;span
+    
+      class=&#34;dark:text-neutral-300&#34;
+    &gt;这篇文章完成于数年前，由QQ空间移植而来。&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;p style=&#34;text-align:center;&#34;&gt;· 一 ·&lt;/p&gt; 
+    &lt;div id=&#34;p-styletext-aligncenter-一-p&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#p-styletext-aligncenter-%e4%b8%80-p&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/10.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;↑这是一张合成的照片。背景摄于2022年7月24日，拍摄对象为大连市沙河口区星海广场。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is a merged photo. The background was shot on July 24, 2022, the shooting spot of which located at Xinghai Square, Shahekou District, Dalian.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;背景素材： 
+    &lt;div id=&#34;背景素材&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e8%83%8c%e6%99%af%e7%b4%a0%e6%9d%90&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/20.png&#34;&gt;&lt;/img&gt;
+设备: VOG-AL10（华为自带长焦镜头）&lt;br&gt;
+焦距: 105mm(等效35mm胶片焦距)&lt;br&gt;
+拍摄位置:&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;br&gt;
+经纬度: g121.58709347,38.87754517(GCJ-02坐标&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;)&lt;br&gt;
+凯立德K码: 8ti6fb01x&lt;br&gt;
+&lt;img src=&#34;https://smileguide.github.io/2photos/30.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;而前景的拍摄时间较为久远，摄于2012年9月11日，拍摄对象为6岁的我。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;But the foreground was not shot recently, which was on Sep. 11, 2012 and whose object was six-year-old ME.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/40.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;↓这是素材的来源图像，图中右一人物是杉&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;This is the source material,and the child on the right is my あね&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/50.png&#34; width=&#34;300px&#34;&gt;&lt;/img&gt;
+（↑这张照片由于拍摄时曝光不足而被我手动修复，所以颜色有点怪）&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;(This photo was recovered for underexposing, so the hue is kind of strange.)&lt;br&gt;
+设备: iPhone 4&lt;br&gt;
+焦距: 4mm(等效35mm胶片焦距)&lt;br&gt;
+拍摄位置:&lt;br&gt;
+经纬度: g122.96740383,39.69392652(GCJ-02坐标)&lt;br&gt;
+凯立德K码: 8aifgresx&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/60.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;而当我准备创作这张照片时，恰逢2022年9月12日——原照片摄像10年。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;While I was preparing for photoshopping, I accidentally found that it was just the 10th anniversary of shooting the original photo.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;10年の時を隔てて、人と風景が交錯する。あの時の若い僕はタイムマシンに乗ってタイムスギップしたようだ。&lt;/p&gt;
+&lt;p&gt;『读音：jinen no toki &lt;em&gt;wo&lt;/em&gt; o pedatete, hito to hūkei (n)ga kōsaku suru, wakaii ano ji no boku wa taimumashin ni no’tte taimusuki&amp;rsquo;ppushita youda&lt;/p&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;第一句话中 
+    &lt;div id=&#34;第一句话中&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e7%ac%ac%e4%b8%80%e5%8f%a5%e8%af%9d%e4%b8%ad&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;“の”(音no，以下括号内若无特殊说明，都是标音)表示领属，即“之”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“時”(toki) “隔”(peda)是名词&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“てて”(tete)是助词&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“と”(to)是连词“和”&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“が”(nga或ga)是助词，提示并强调主题&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“交錯する”(kōsaku suru)是二类动词&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;第二句话中 
+    &lt;div id=&#34;第二句话中&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e7%ac%ac%e4%ba%8c%e5%8f%a5%e8%af%9d%e4%b8%ad&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;“あの”(ano)是“那个”，あれ的接体形&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“若い”(wakaii)是形容词，其中“若”即“弱”，意思是幼小的。
+这不禁使我们想到了汉语的日语外来语（和制汉语）、生物学名词“若虫”。这是对不完全变态发育的昆虫幼体的称呼，它与“若い”中“若”的意义相同。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“僕”(boku)是男子青少年自称&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“は”(ha，读wa)是助词，提示主题&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“タイムマシン”(taimumashin)是片假名转写的英语外来语，词源是“time machine”&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;“に”(ni)是介词，表示在&amp;hellip;之上&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;“乗って”(no&amp;rsquo;tte)是动词原形“乗る”的て形&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“タイムスギップ”(taimusuripu)是片假名转写的英语外来语，词源是“time skip”
+它加上“した”(shita)变成过去式&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;“&amp;hellip;ようだ”(yūda或youda)表示“好像&amp;hellip;”&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;粗暴地连起来就是：
+十年 时 隔，人 和 风景 交错。幼小的那个我 时光机上 乘坐 穿梭时间了 好像。&lt;/p&gt;
+&lt;p&gt;由于日语的SOV语序，调整谓宾，再把状语放到恰当的位置，你就能理解😇
+此之谓“像翻译文言文一样翻译外语” 』&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;&lt;p style=&#34;text-align:center;&#34;&gt;· 二 ·&lt;/p&gt; 
+    &lt;div id=&#34;p-styletext-aligncenter-二-p&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#p-styletext-aligncenter-%e4%ba%8c-p&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/70.png&#34;&gt;&lt;/img&gt;
+设备: VOG-AL10（华为自带短焦镜头）&lt;br&gt;
+焦距: 主体6mm(等效35mm胶片焦距)&lt;br&gt;
+拍摄位置:&lt;br&gt;
+经纬度: g121.58676624,38.87595195(GCJ-02坐标)&lt;br&gt;
+凯立德K码: 8fi6fny0x&lt;br&gt;
+&lt;img src=&#34;https://smileguide.github.io/2photos/80.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;看到如此巨大的月亮，经常拍摄夜景的你一定觉得不可思议。通常，在拍摄城市与月亮的合影时，月亮总是渺小得几乎是照片上的一个点。这自然是有原因的：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;It is almost incredible to see such a immense moon! Sure, but there are scientific reasons of the phenomena:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/90.png&#34;&gt;&lt;/img&gt;（对照图中画幅为默认）&lt;/p&gt;
+&lt;p&gt;在有参照物的情况下，参照物和对象的视角大小之比决定着对象的观感大小。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In the case of a reference object, the ratio of the viewing angle of the reference object to the particular object determines the sensory size.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;以镜头焦距6mm为例，倘若在该条件下拍摄月亮（对象）与地面景物（参照物）的合影，地面景物的视角大于114°；而在地球上，镜头里月亮的视角通常只有0.5°。二者相差228倍，根本不在一个数量级上。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Taking the lens focal length of 6mm as an example, if the moon (object) and the ground scene (reference object) are taken under this condition, the angle of view of the ground scene is greater than 114 °; On Earth, the angle of view of the moon in the lens is usually only 0.5 °. The difference between the two is 228 times, which is not in the same order of magnitude.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我们要尽量减小参照物的视角（即增大焦距）。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We should try to reduce the angle of view of the reference object (that is, increase the focal length).&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;那么如何增大焦距？很简单，尽量增大镜头与参照物的距离，并使用长焦镜头来确保预定焦距在镜头可变焦距范围内。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;So how to increase the focal length?Increase the distance between the lens and the reference object as much as possible, and use a telephoto lens to ensure that the predetermined focal length is within the zoom range of the lens.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/100.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;如上图（来源于网络），它的实际拍摄位置与画面中的教堂相距超过2km（如下图）&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;As above (from the network), its actual shooting spot is more than 2km away from the church(as is on the map below) .&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/110.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;显然，手机内置摄像头的焦距是无法满足要求的 。对于我的情况，如果用手机自带的长焦镜头拍摄，效果可能是这样的↓&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Obviously, the focal length of the built-in camera of the cellphone cannot meet the requirements. For my case, if I use the telephoto lens of my phone, the effect may be like this ↓&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/120.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;况且，由于6月5日月亮要等到凌晨2:20左右才会到达东方地平面上，要到达如图中的正南位置时，已经是次日9时；同时，我也没有能力找到一个星海广场以北遥远的拍摄地点。因此，我只能采用拍摄两张照片后合成的方式了。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Moreover, since the moon will not reach the eastern ground level until around 2:20 a.m. the next day on June 5, while it will be 9:00 the next day before it reaches the due south position as shown in the picture ,and, at the same time, I can&amp;rsquo;t find a shooting place far north of Xinghai Square. Therefore, I can only take two photos and then merge them.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;因此，拍摄分为两个部分： 
+    &lt;div id=&#34;因此拍摄分为两个部分&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%9b%a0%e6%ad%a4%e6%8b%8d%e6%91%84%e5%88%86%e4%b8%ba%e4%b8%a4%e4%b8%aa%e9%83%a8%e5%88%86&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Thus, the shooting is divided into two parts:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;20时，在星海广场，拍摄星海湾跨海大桥；&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;At 20:00, at Xinghai Square, shooting Xinghai Bay Bridge;&lt;br&gt;
+&lt;img src=&#34;https://smileguide.github.io/2photos/130.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;凌晨，在大连东港，用200mm长焦镜头拍摄从东方升起的月亮。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In the early dawning, shooting the moon rose from the east with a 200mm telephoto lens in Donggang Business District, Dalian.&lt;br&gt;
+&lt;img src=&#34;https://smileguide.github.io/2photos/140.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;为了美观，改变月亮的朝向与夜空的颜色，加以裁剪，于是：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;For the sake of beauty,I change the orientation of the moon and the color of the night sky, and cut them, so:&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/150.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;↑星海湾大桥的炫目灯光映在海面上，上凸的梁体彰显工业的美感；&lt;br&gt;
+天幕中的弯月明亮夺目，胜过任何一个夜晚。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The dazzling lights of the Xinghai Bay Bridge are reflected on the sea, the convex beam body shows the aesthetic of industry, and,  in my eyes, the crescent moon is seemingly brighter than that in any other nights.🎇&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;文中地图均来源于中国四维地球电子地图，位置信息来源于JPEG图片中设备自动记录的经纬&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:2&#34;&gt;
+&lt;p&gt;GCJ-02是由中国国家测绘局制订的地理信息系统的坐标系统，它是一种对经纬度数据的加密算法，即强制性加入随机偏差，因此本文给出的经纬度必然是不精确的&amp;#160;&lt;a href=&#34;#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li id=&#34;fn:3&#34;&gt;
+&lt;p&gt;あね(ane，姉)  是向别人称呼自己的姐姐所使用的词汇。对自己的姐姐应该使用おねえちゃん/さん（onēcyan/san,お姉ちゃん/さん），前者更亲昵&amp;#160;&lt;a href=&#34;#fnref:3&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/2-photos/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>旧照换新颜</title>
+      <link>https://smileguide.github.io/blogs/childhood-photography/</link>
+      <pubDate>Wed, 22 Feb 2023 14:58:34 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/blogs/childhood-photography/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;h2 id=&#34;照片信息&#34;&gt;照片信息&lt;/h2&gt;
+&lt;p&gt;这张照片摄于2011年的沈阳市世博园附近。拍摄时间是UTC+8 5月1日14:15。&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;h2 id=&#34;关于这张照片的幻灯片&#34;&gt;关于这张照片的幻灯片🐶&lt;/h2&gt;
+&lt;h3 id=&#34;幻灯片下载&#34;&gt;幻灯片下载&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.123pan.com/s/eNTzVv-lohg3.html&#34;&gt;点击跳转到PPT下载页(提取码:di4u)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;还有一个关于图像处理成果的PPT，包含更多的内容。↓&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.123pan.com/s/eNTzVv-Tmhg3.html&#34;&gt;点击跳转到PPT下载页(提取码:di4u)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;本幻灯片采用Microsoft Office PowerPoint制作，建议使用Microsoft Office PowerPoint（Windows版、Android版、iOS版）应用打开。如果你使用非Windows设备，你必须下载PowerPoint应用才能拥有最好的体验。&lt;/p&gt;
+&lt;h3 id=&#34;powerpoint应用下载&#34;&gt;PowerPoint应用下载&lt;/h3&gt;
+&lt;p&gt;   &lt;a href=&#34;https://apps.apple.com/cn/app/microsoft-powerpoint/id586449534&#34;&gt;苹果手机和iPad  &lt;/a&gt;&lt;br/&gt;
+   &lt;a href=&#34;http://dd.myapp.com/sjy.00004/16891/apk/6A464096B40224BDC2EC6169D2550552.apk?fsname=com.microsoft.office.powerpoint_16.0.16026.20116_2004316291.apk&#34;&gt;安卓&lt;/a&gt;&lt;br/&gt;
+（Windows 已内置PowerPoint应用）&lt;/p&gt;
+</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/childhood-photography/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>My Original Characters</title>
+      <link>https://smileguide.github.io/docs/myoc/</link>
+      <pubDate>Tue, 06 Jun 2023 23:00:25 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/docs/myoc/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;br/&gt;
+&amp;nbsp;He was made to be the angel of the world.  
+&lt;br/&gt;
+&lt;div id=&#34;typeit-9ef2f32fbccfd3e844de0db941e61d2b&#34;&gt;&lt;/div&gt;
+
+&lt;script&gt;
+    document.addEventListener(&#34;DOMContentLoaded&#34;, function () {
+      new TypeIt(&#34;#typeit-9ef2f32fbccfd3e844de0db941e61d2b&#34;, {
+        strings: [&#34;&#34;,&#34;\u003cspan style=\&#34;font-family:Yuji Syuku;\&#34;\u003eカルクルちゃんは生まれつき世界のアンジエルだ。\u003c/span\u003e &#34;],
+        speed:  83 ,
+        lifeLike:  false ,
+        startDelay:  0 ,
+        breakLines:  false ,
+        waitUntilVisible:  true ,
+        loop:  false 
+      }).go();
+    });
+&lt;/script&gt;
+&lt;br/&gt;
+&lt;br/&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>

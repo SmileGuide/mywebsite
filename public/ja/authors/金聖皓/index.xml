@@ -1,0 +1,711 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>群青流れ星</title>
+    <link>https://smileguide.github.io/ja/authors/%E9%87%91%E8%81%96%E7%9A%93/</link>
+    <description>花が咲く音が好きで、心から自由に息をしたい。</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <copyright>:copyright: 2024 JIN Shenghao</copyright>
+    <lastBuildDate>Thu, 15 Feb 2024 11:41:24 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/ja/authors/%E9%87%91%E8%81%96%E7%9A%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Classical</title>
+      <link>https://smileguide.github.io/ja/radio/classical/</link>
+      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/ja/radio/classical/</guid>
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
+&lt;span style=&#34;color:#111827&#34;&gt;
+&lt;meting-js server=&#34;netease&#34; type=&#34;playlist&#34; id=&#34;9177890344&#34; autoplay=&#34;true&#34; listFolded=&#34;true&#34;&gt;&lt;/meting-js&gt;
+&lt;/span&gt;
+&lt;hr/&gt;
+
+&lt;section class=&#34;space-y-10 w-full&#34;&gt;
+    
+    
+&lt;/section&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/ja/radio/classical/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>ガラス（完成品）</title>
+      <link>https://smileguide.github.io/ja/docs/vb/glass/</link>
+      <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/ja/docs/vb/glass/</guid>
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;画面上で透明なガラスをシミュレートできるツールで、マルチオープニング、着色、サイズ変更、カラーシーケンスによるガラスの作成などの高度な機能もサポートしています。&lt;/p&gt;
+&lt;style&gt;
+	.DDot{
+		text-decoration:underline;
+		text-decoration-style:dotted;
+		float:left;
+		color:#b5b5b5;
+	}
+&lt;/style&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;ソースコードのダウンロード:&lt;br/&gt; 
+    &lt;div id=&#34;ソースコードのダウンロードbr&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%b3%e3%83%bc%e3%83%89%e3%81%ae%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89br&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/glass.rar&#34; class=&#34;DDot&#34;&gt;クリックしてダウンロード&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;使用中に問題が発生した場合は、コメント欄で質問してください。&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>New Age</title>
+      <link>https://smileguide.github.io/ja/radio/newage/</link>
+      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/ja/radio/newage/</guid>
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
+&lt;span style=&#34;color:#111827&#34;&gt;
+&lt;meting-js server=&#34;netease&#34; type=&#34;playlist&#34; id=&#34;9178337946&#34; autoplay=&#34;true&#34; listFolded=&#34;true&#34;&gt;&lt;/meting-js&gt;
+&lt;/span&gt;&lt;hr/&gt;
+
+&lt;section class=&#34;space-y-10 w-full&#34;&gt;
+    
+    
+&lt;/section&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/ja/radio/newage/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>お絵かきボード(完成品)</title>
+      <link>https://smileguide.github.io/ja/docs/vb/board/</link>
+      <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/ja/docs/vb/board/</guid>
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;これは、空白のキャンバスや絵に描画できるツールで、教師が赤い手書きでマークを付けるための簡単な機能を提供します。&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;入口 
+    &lt;div id=&#34;入口&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%85%a5%e5%8f%a3&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;style&gt;
+	.DDot{
+		text-decoration:underline;
+		text-decoration-style:dotted;
+		float:left;
+		color:#b5b5b5;
+	}
+&lt;/style&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;ソースコードのダウンロード：br/&amp;gt; 
+    &lt;div id=&#34;ソースコードのダウンロードbr&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%b3%e3%83%bc%e3%83%89%e3%81%ae%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89br&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/board.rar&#34; class=&#34;DDot&#34;&gt;クリックしてダウンロード&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;使用中に問題が発生した場合は、コメント欄で質問してください。&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>PanPop</title>
+      <link>https://smileguide.github.io/ja/radio/panpop/</link>
+      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/ja/radio/panpop/</guid>
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
+&lt;span style=&#34;color:#111827&#34;&gt;
+&lt;meting-js server=&#34;netease&#34; type=&#34;playlist&#34; id=&#34;9177267468&#34; autoplay=&#34;true&#34; listFolded=&#34;true&#34;&gt;&lt;/meting-js&gt;
+&lt;/span&gt;&lt;hr/&gt;
+
+&lt;section class=&#34;space-y-10 w-full&#34;&gt;
+    
+    
+&lt;/section&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/ja/radio/panpop/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>オンラインコースガジェット～クリップボード画像保存ツール（完成品）</title>
+      <link>https://smileguide.github.io/ja/docs/vb/screenshot/</link>
+      <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/ja/docs/vb/screenshot/</guid>
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;PrintScreenキーを押してクリップボードにコピーしたスクリーンショットを簡単にキャプチャし、指定したディレクトリにタイムスタンプ付きのファイル名で保存できるツールです。&lt;/p&gt;
+&lt;style&gt;
+	.DDot{
+		text-decoration:underline;
+		text-decoration-style:dotted;
+		float:right;
+		color:#b5b5b5;
+	}
+&lt;/style&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;ソースコードのダウンロード：&lt;br/&gt; 
+    &lt;div id=&#34;ソースコードのダウンロードbr&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%b3%e3%83%bc%e3%83%89%e3%81%ae%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89br&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/screenshot.rar&#34; class=&#34;DDot&#34;&gt;クリックしてダウンロード&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;使用中に問題が発生した場合は、コメント欄で質問してください。&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Rocks</title>
+      <link>https://smileguide.github.io/ja/radio/rocks/</link>
+      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/ja/radio/rocks/</guid>
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
+&lt;span style=&#34;color:#111827&#34;&gt;
+&lt;meting-js server=&#34;netease&#34; type=&#34;playlist&#34; id=&#34;9178226536&#34; autoplay=&#34;true&#34; listFolded=&#34;true&#34;&gt;&lt;/meting-js&gt;
+&lt;/span&gt;&lt;hr/&gt;
+
+&lt;section class=&#34;space-y-10 w-full&#34;&gt;
+    
+    
+        
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  &lt;a class=&#34;flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://smileguide.github.io/ja/player/&#34;&gt;
+    
+        
+        &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom &#34; style=&#34;background-image:url(/ja/player/feature_hu3d03a01dcc18bc5be0e67db3d8d209a6_2282854_600x0_resize_q75_box.jpg);&#34;&gt;&lt;/div&gt;
+        
+      &lt;div class=&#34; p-4&#34;&gt;
+      &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
+        
+        &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
+          href=&#34;https://smileguide.github.io/ja/player/&#34;&gt;サイトの音楽について&lt;/div&gt;
+        
+        
+        
+      &lt;/div&gt;
+      &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+        
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  &lt;time datetime=&#34;2024-01-26 10:11:15 &amp;#43;0800 CST&#34;&gt;2024年1月26日&lt;/time&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span&gt;619 文字&lt;/span&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span title=&#34;読むのに必要な時間&#34;&gt;2 分&lt;/span&gt;
+  
+
+  
+  
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/ja/tags/%E9%9F%B3%E6%A5%BD/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+    音楽
+  &lt;/span&gt;
+&lt;/span&gt;
+  &lt;/span&gt;
+  
+  
+  
+  
+&lt;/div&gt;
+
+
+
+      &lt;/div&gt;
+      
+    &lt;/div&gt;
+  &lt;/a&gt;
+        
+    
+&lt;/section&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/ja/radio/rocks/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>オンライン クラス ガジェット～コース スケジュール (未完成)</title>
+      <link>https://smileguide.github.io/ja/docs/vb/schedule/</link>
+      <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/ja/docs/vb/schedule/</guid>
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;これは、オンライン授業中の時間を計画したり、週ごとのクラスごとにアラームを設定したりするために使用できる実用的なツールで、組み込みのコマンド ライン操作もサポートしており、さまざまなスキンから選択できます。&lt;/p&gt;
+&lt;style&gt;
+	.DDot{
+		text-decoration:underline;
+		text-decoration-style:dotted;
+		float:left;
+		color:#b5b5b5;
+	}
+&lt;/style&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;ソースコードのダウンロード:&lt;br/&gt; 
+    &lt;div id=&#34;ソースコードのダウンロードbr&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%b3%e3%83%bc%e3%83%89%e3%81%ae%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89br&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/schedule.rar&#34; class=&#34;DDot&#34;&gt;クリックしてダウンロード&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;使用中に問題が発生した場合は、コメント欄で質問してください。&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Murmurs of Earth</title>
+      <link>https://smileguide.github.io/ja/radio/murmurs/</link>
+      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/ja/radio/murmurs/</guid>
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
+&lt;span style=&#34;color:#111827&#34;&gt;
+&lt;meting-js server=&#34;netease&#34; type=&#34;album&#34; id=&#34;2848433&#34; autoplay=&#34;true&#34; listFolded=&#34;true&#34;&gt;&lt;/meting-js&gt;
+&lt;/span&gt;&lt;hr/&gt;
+
+&lt;section class=&#34;space-y-10 w-full&#34;&gt;
+    
+    
+&lt;/section&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/ja/radio/murmurs/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>31中 学生情報管理システム（完成品）</title>
+      <link>https://smileguide.github.io/ja/docs/vb/31infsystem/</link>
+      <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/ja/docs/vb/31infsystem/</guid>
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;荘河第三一中学校の2019年度クラスの生徒情報を照会できるデータ管理システムで、ワイルドカード検索やクリップボード認識による自動検索などの機能を備えています。 この作業を組織の情報管理システムに組み込むこともできます。&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;入口 
+    &lt;div id=&#34;入口&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%85%a5%e5%8f%a3&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;style&gt;
+	.DDot{
+		text-decoration:underline;
+		text-decoration-style:dotted;
+		float:right;
+		color:#b5b5b5;
+	}
+&lt;/style&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;ソースコードのダウンロード:&lt;br/&gt; 
+    &lt;div id=&#34;ソースコードのダウンロードbr&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%b3%e3%83%bc%e3%83%89%e3%81%ae%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89br&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/31infsystem.rar&#34; class=&#34;DDot&#34;&gt;クリックしてダウンロード&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;使用中に問題が発生した場合は、コメント欄で質問してください。&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>平文と暗号文の変換ツール（未完成）</title>
+      <link>https://smileguide.github.io/ja/docs/vb/cipher/</link>
+      <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/ja/docs/vb/cipher/</guid>
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;カスタムキーに基づいてテキストを暗号化および復号化できるツールで、さまざまな機能が開発中です。&lt;/p&gt;
+&lt;style&gt;
+	.DDot{
+		text-decoration:underline;
+		text-decoration-style:dotted;
+		float:left;
+		color:#b5b5b5;
+	}
+&lt;/style&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;クリックしてダウンロード：&lt;br/&gt; 
+    &lt;div id=&#34;クリックしてダウンロードbr&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e3%82%af%e3%83%aa%e3%83%83%e3%82%af%e3%81%97%e3%81%a6%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89br&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/cipher.rar&#34; class=&#34;DDot&#34;&gt;クリックしてダウンロード&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;使用中に問題が発生した場合は、コメント欄で質問してください。&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>サイトの音楽について</title>
+      <link>https://smileguide.github.io/ja/player/</link>
+      <pubDate>Fri, 26 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/ja/player/</guid>
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;このウェブサイトの音楽システムは、&lt;a href=&#34;#%e3%83%9b%e3%83%90%e3%83%bc%e3%83%97%e3%83%ac%e3%82%a4%e3%83%a4%e3%83%bc&#34;  &gt;
+    ホバー・プレイヤー&lt;/a&gt; と &lt;a href=&#34;#%e9%9f%b3%e6%a5%bd%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3&#34;  &gt;
+    音楽ステーション&lt;/a&gt;の2つの部分に分かれています。&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;ホバー・プレイヤー 
+    &lt;div id=&#34;ホバープレイヤー&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e3%83%9b%e3%83%90%e3%83%bc%e3%83%97%e3%83%ac%e3%82%a4%e3%83%a4%e3%83%bc&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;ページ下部の半透明のコントロールがホバー・プレーヤーで、&lt;strong&gt;ページをまたいだ連続再生&lt;/strong&gt;が可能で、読み込み速度も速い。&lt;/p&gt;
+&lt;p&gt;ホバー・プレーヤーのいくつかの曲は、サイトのバックエンド・サーバーに&lt;strong&gt;ロスレス&lt;/strong&gt;（FLAC）形式で保存されています。 これらはサイトの音楽の&lt;strong&gt;エッセンス&lt;/strong&gt;であり、読書中に聴くのに最適です。 音楽は記念碑的なものか、私の最近のお気に入りだ。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;ヘッドフォン&lt;/strong&gt;を装着して、これらの貴重な高音質音源に耳を傾けることができます。&lt;/p&gt;
+&lt;p&gt;コントロールを展開した後、
+
+  &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
+    &lt;?xml version=&#34;1.0&#34;?&gt;&lt;svg  fill=&#34;currentColor&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;  viewBox=&#34;0 0 30 30&#34; width=&#34;30px&#34; height=&#34;30px&#34;&gt;&lt;path d=&#34;M26.667 5.333h-21.333c-0 0-0.001 0-0.001 0-1.472 0-2.666 1.194-2.666 2.666 0 0 0 0.001 0 0.001v-0 16c0 0 0 0.001 0 0.001 0 1.472 1.194 2.666 2.666 2.666 0 0 0.001 0 0.001 0h21.333c0 0 0.001 0 0.001 0 1.472 0 2.666-1.194 2.666-2.666 0-0 0-0.001 0-0.001v0-16c0-0 0-0.001 0-0.001 0-1.472-1.194-2.666-2.666-2.666-0 0-0.001 0-0.001 0h0zM5.333 16h5.333v2.667h-5.333v-2.667zM18.667 24h-13.333v-2.667h13.333v2.667zM26.667 24h-5.333v-2.667h5.333v2.667zM26.667 18.667h-13.333v-2.667h13.333v2.667z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+
+をタップして歌詞のオンオフを切り替え、 
+
+  &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
+    &lt;?xml version=&#34;1.0&#34;?&gt;&lt;svg fill=&#34;currentColor&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;  viewBox=&#34;0 0 30 30&#34; width=&#34;30px&#34; height=&#34;30px&#34;&gt;&lt;path d=&#34;M20.8 14.4q0.704 0 1.152 0.48t0.448 1.12-0.48 1.12-1.12 0.48h-19.2q-0.64 0-1.12-0.48t-0.48-1.12 0.448-1.12 1.152-0.48h19.2zM1.6 11.2q-0.64 0-1.12-0.48t-0.48-1.12 0.448-1.12 1.152-0.48h19.2q0.704 0 1.152 0.48t0.448 1.12-0.48 1.12-1.12 0.48h-19.2zM20.8 20.8q0.704 0 1.152 0.48t0.448 1.12-0.48 1.12-1.12 0.48h-19.2q-0.64 0-1.12-0.48t-0.48-1.12 0.448-1.12 1.152-0.48h19.2z&#34;&gt;&lt;/path&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+
+をタップしてプレイリストを展開し、手動で曲を選択します。&lt;/p&gt;
+
+  
+  
+  
+  
+
+
+
+&lt;div
+  
+    class=&#34;flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900&#34;
+  &gt;
+
+  &lt;span
+    
+      class=&#34;text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center&#34;
+    &gt;
+
+    
+
+  &lt;span class=&#34;relative block icon&#34;&gt;
+    &lt;?xml version=&#34;1.0&#34;?&gt;&lt;svg fill=&#34;currentColor&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;  viewBox=&#34;0 0 30 30&#34; width=&#34;30px&#34; height=&#34;30px&#34;&gt;    &lt;path d=&#34;M25.565,9.785c-0.123,0.077-3.051,1.702-3.051,5.305c0.138,4.109,3.695,5.55,3.756,5.55 c-0.061,0.077-0.537,1.963-1.947,3.94C23.204,26.283,21.962,28,20.076,28c-1.794,0-2.438-1.135-4.508-1.135 c-2.223,0-2.852,1.135-4.554,1.135c-1.886,0-3.22-1.809-4.4-3.496c-1.533-2.208-2.836-5.673-2.882-9 c-0.031-1.763,0.307-3.496,1.165-4.968c1.211-2.055,3.373-3.45,5.734-3.496c1.809-0.061,3.419,1.242,4.523,1.242 c1.058,0,3.036-1.242,5.274-1.242C21.394,7.041,23.97,7.332,25.565,9.785z M15.001,6.688c-0.322-1.61,0.567-3.22,1.395-4.247 c1.058-1.242,2.729-2.085,4.17-2.085c0.092,1.61-0.491,3.189-1.533,4.339C18.098,5.937,16.488,6.872,15.001,6.688z&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+
+
+  &lt;/span&gt;
+
+  &lt;span
+    
+      class=&#34;dark:text-neutral-300&#34;
+    &gt;Apple はバックグラウンドでの自動再生とバックエンドキャッシュを許可していないため、ホバー・プレーヤの &lt;strong&gt;ページをまたいだ連続再生&lt;/strong&gt;機能は Safari デバイスでは&lt;strong&gt;無効&lt;/strong&gt;です。&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;音楽ステーション 
+    &lt;div id=&#34;音楽ステーション&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e9%9f%b3%e6%a5%bd%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;音楽ステーションはページ上部の&lt;strong&gt;メニューバー&lt;/strong&gt;からアクセスできます。 音楽ステーションの曲は NetEase Cloud Music から取り込まれ、音質は&lt;strong&gt;平均的&lt;/strong&gt;で、ほとんどの音楽は著作権の制限により&lt;strong&gt;クリップ&lt;/strong&gt;でしか聴くことができません。&lt;/p&gt;
+&lt;p&gt;音楽ステーションは、私のリスニングスタイルを反映するために、いくつかのコラムに分かれています。&lt;/p&gt;
+&lt;p&gt;音楽ステーションの主な目的は、外部音楽プラットフォームの再生制限のため、音楽リスト、&lt;strong&gt;おすすめ&lt;/strong&gt;、&lt;strong&gt;試聴&lt;/strong&gt;を提供することです。&lt;/p&gt;
+</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/ja/player/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>私の初期の Visual Basic プログラミング作品</title>
+      <link>https://smileguide.github.io/ja/docs/vb/</link>
+      <pubDate>Tue, 02 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/ja/docs/vb/</guid>
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;style&gt;
+	.DDot{
+		text-decoration:underline;
+		text-decoration-style:dotted;
+		color:#FF9966;
+	}
+&lt;/style&gt;
+&lt;p&gt;私の Visual Basic プログラミング作業のソース コードはここに保存されています。 これらのソース コードは継続的に更新されており、誰もがソース コードから学び、交換することができます。&lt;/p&gt;
+&lt;p&gt;これらのソース コードを表示するには、コンピュータに Microsoft Visual Basic 6.0 がインストールされている必要があることに注意してください。&lt;a href=&#34;https://search.yahoo.co.jp/search?p=VB6.0+%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89&amp;x=wrt&amp;aq=-1&amp;ai=8537fa5f-bfe8-48f0-87dd-2c01cdd9cd93&amp;ts=6488&amp;ei=UTF-8&amp;fr=top_ga1_ext1_bookmark_sa&#34; class=&#34;DDot&#34;&gt;ダウンロードを検索するにはここをクリックしてください。&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/ja/docs/vb/glass&#34;&gt;最初のプロジェクト: ガラス &amp;gt; &lt;/a&gt;&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>ドキュメント</title>
+      <link>https://smileguide.github.io/ja/docs/</link>
+      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/ja/docs/</guid>
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/></description>
+      
+    </item>
+    
+    <item>
+      <title>ボログ</title>
+      <link>https://smileguide.github.io/ja/blogs/</link>
+      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/ja/blogs/</guid>
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/></description>
+      
+    </item>
+    
+    <item>
+      <title>音楽ステーション</title>
+      <link>https://smileguide.github.io/ja/radio/</link>
+      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/ja/radio/</guid>
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>PHOTO大変身——少年時代の写真の処理</title>
+      <link>https://smileguide.github.io/ja/blogs/childhood-photography/</link>
+      <pubDate>Wed, 22 Feb 2023 14:58:34 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/ja/blogs/childhood-photography/</guid>
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;h2 id=&#34;写真情報&#34;&gt;写真情報&lt;/h2&gt;
+&lt;p&gt;この写真は2011年の沈陽市世博園で撮影された。撮影時間はUTC+8 5月1日14:15。&lt;br&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;この写真のpptについて&#34;&gt;この写真のPPTについて&lt;/h2&gt;
+&lt;h3 id=&#34;ダウンロードして見るなら&#34;&gt;ダウンロードして見るなら&amp;hellip;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.123pan.com/s/eNTzVv-lohg3.html&#34;&gt;クリックしてPPTをダウンロード(「取り出しコード」は di4u)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;画像処理結果のプレゼンテーションに関するPPTがもう一つある。↓ &lt;br&gt;
+&lt;a href=&#34;https://www.123pan.com/s/eNTzVv-Tmhg3.html&#34;&gt;クリックしてPPTをダウンロード(「取り出しコード」は di4u)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;これらのPPTはMicrosoft Office PowerPointを使用して作成されており、Microsoft Office PowerPoint（Windows版、Android版、iOS版）アプリケーションを使用して開くことを推奨しています。Windows以外のデバイスを使用する場合は、最高の体験を得るためにPowerPointアプリをダウンロードする必要があります。&lt;/p&gt;
+</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/ja/blogs/childhood-photography/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Hello World🎉</title>
+      <link>https://smileguide.github.io/ja/blogs/hello-world/</link>
+      <pubDate>Sun, 19 Feb 2023 09:06:11 +0800</pubDate>
+      
+      <guid>https://smileguide.github.io/ja/blogs/hello-world/</guid>
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;h2 class=&#34;relative group&#34;&gt;こんにちは。これは僕の最初のブログです。 
+    &lt;div id=&#34;こんにちはこれは僕の最初のブログです&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e3%81%93%e3%82%93%e3%81%ab%e3%81%a1%e3%81%af%e3%81%93%e3%82%8c%e3%81%af%e5%83%95%e3%81%ae%e6%9c%80%e5%88%9d%e3%81%ae%e3%83%96%e3%83%ad%e3%82%b0%e3%81%a7%e3%81%99&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;div id=&#34;typeit-00be73afddf8249653edcd3f27ed62c8&#34;&gt;&lt;/div&gt;
+
+&lt;script&gt;
+    document.addEventListener(&#34;DOMContentLoaded&#34;, function () {
+      new TypeIt(&#34;#typeit-00be73afddf8249653edcd3f27ed62c8&#34;, {
+        strings: [&#34;&#34;,&#34;よろしくお願いいたします。  &#34;,&#34;これは僕が個人サイトで発表した最初のブログです。  &#34;,&#34;僕は主にブログで僕の思考を共有したり、技術を交流したりします。  &#34;,&#34;これからは、自分の考えを心を込めて記録し、皆さんに助けと良い気持ちをもたらしていきたいと思います。  &#34;,&#34;&#34;],
+        speed:  100 ,
+        lifeLike:  true ,
+        startDelay:  0 ,
+        breakLines:  true ,
+        waitUntilVisible:  true ,
+        loop:  false 
+      }).go();
+    });
+&lt;/script&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;このサイトはどのように作られていますか? 
+    &lt;div id=&#34;このサイトはどのように作られていますか&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e3%81%93%e3%81%ae%e3%82%b5%e3%82%a4%e3%83%88%e3%81%af%e3%81%a9%e3%81%ae%e3%82%88%e3%81%86%e3%81%ab%e4%bd%9c%e3%82%89%e3%82%8c%e3%81%a6%e3%81%84%e3%81%be%e3%81%99%e3%81%8b&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;僕の個人用サイトは、GitHubの個人用静的ページホスティングサービスと静的ページ構築ツールHugoを組み合わせて作成されました。&lt;br&gt;
+詳細については、次のキーワードを検索してください:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub Pages&lt;/li&gt;
+&lt;li&gt;Hugo&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;銀の龍の背に乗って——中島みゆき（テストテキスト） 
+    &lt;div id=&#34;銀の龍の背に乗って中島みゆきテストテキスト&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e9%8a%80%e3%81%ae%e9%be%8d%e3%81%ae%e8%83%8c%e3%81%ab%e4%b9%97%e3%81%a3%e3%81%a6%e4%b8%ad%e5%b3%b6%e3%81%bf%e3%82%86%e3%81%8d%e3%83%86%e3%82%b9%e3%83%88%e3%83%86%e3%82%ad%e3%82%b9%e3%83%88&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;あの&lt;ruby&gt;蒼&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;あお&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;ざめた&lt;ruby&gt;海&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;うみ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;彼方&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;かなた&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;で&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;今&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;いま&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;まさに&lt;ruby&gt;誰&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;だれ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;かが&lt;ruby&gt;傷&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;いた&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;んでいる&lt;/p&gt;
+&lt;p&gt;まだ&lt;ruby&gt;飛&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;と&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;べない&lt;ruby&gt;雛&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ひな&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;たちみたいに&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;僕&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ぼく&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;はこの&lt;ruby&gt;非力&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ひりき&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;を&lt;ruby&gt;嘆&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;なげ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;いている&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;急&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;いそ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;げ&lt;ruby&gt;悲&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;かな&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;しみ &lt;ruby&gt;翼&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;つばさ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;に&lt;ruby&gt;変&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;か&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;われ&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;急&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;いそ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;げ&lt;ruby&gt;傷跡&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;きずあと&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; &lt;ruby&gt;羅針盤&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;らしんばん&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;になれ&lt;/p&gt;
+&lt;p&gt;まだ&lt;ruby&gt;飛&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;と&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;べない&lt;ruby&gt;雛&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ひな&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;たちみたいに&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;僕&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ぼく&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;はこの&lt;ruby&gt;非力&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ひりき&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;を&lt;ruby&gt;嘆&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;なげ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;いている&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;夢&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ゆめ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;が&lt;ruby&gt;迎&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;むか&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;えに&lt;ruby&gt;来&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;き&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;てくれるまで&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;震&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ふる&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;えて&lt;ruby&gt;待&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ま&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;ってるだけだった&lt;ruby&gt;昨日&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;きのう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;明日&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;あした&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;　&lt;ruby&gt;僕&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ぼく&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;は&lt;ruby&gt;龍&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;りゅう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;足元&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;あしもと&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;へ&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;崖&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;がけ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;を &lt;ruby&gt;登&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;のぼ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;り&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;呼&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;よ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;ぶよ「さあ、&lt;ruby&gt;行&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ゆ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;こうぜ」&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;銀&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ぎん&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;龍&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;りゅう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;背&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;せ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;に&lt;ruby&gt;乗&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;の&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;って&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;届&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;とど&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;けに&lt;ruby&gt;行&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ゆ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;こう &lt;ruby&gt;命&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;いのち&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;砂漠&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;さばく&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;へ&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;銀&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ぎん&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;龍&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;りゅう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;背&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;せ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;に&lt;ruby&gt;乗&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;の&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;って&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;運&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;はこ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;んで&lt;ruby&gt;行&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ゆ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;こう &lt;ruby&gt;雨雲&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;あまぐも&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;渦&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;うず&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;を&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;失&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;うしな&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;うものさえ&lt;ruby&gt;失&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;うしな&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;ってなお&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;人&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ひと&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;はまだ&lt;ruby&gt;誰&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;だれ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;かの&lt;ruby&gt;指&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ゆび&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;にすがる&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;柔&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;やわ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;らかな&lt;ruby&gt;皮膚&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ひふ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;しかない&lt;ruby&gt;理由&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;わけ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;は&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;人&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ひと&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;が&lt;ruby&gt;人&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ひと&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;痛&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;いた&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;みを&lt;ruby&gt;聴&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;き&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;くためだ&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;急&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;いそ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;げ&lt;ruby&gt;悲&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;かな&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;しみ &lt;ruby&gt;翼&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;つばさ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;に&lt;ruby&gt;変&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;か&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;われ&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;急&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;いそ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;げ&lt;ruby&gt;傷跡&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;きずあと&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt; &lt;ruby&gt;羅針盤&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;らしんばん&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;になれ&lt;/p&gt;
+&lt;p&gt;まだ&lt;ruby&gt;飛&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;と&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;べない&lt;ruby&gt;雛&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ひな&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;たちみたいに&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;僕&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ぼく&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;はこの&lt;ruby&gt;非力&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ひりき&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;を&lt;ruby&gt;嘆&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;なげ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;いている&lt;/p&gt;
+&lt;p&gt;わたボコリみたいな&lt;ruby&gt;翼&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;つばさ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;でも&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;木&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;き&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;芽&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;め&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;みたいな&lt;ruby&gt;頼&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;たよ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;りない&lt;ruby&gt;爪&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;つめ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;でも&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;明日&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;あした&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;　&lt;ruby&gt;僕&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ぼく&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;は&lt;ruby&gt;龍&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;りゅう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;足元&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;あしもと&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;へ&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;崖&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;がけ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;を &lt;ruby&gt;登&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;のぼ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;り&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;呼&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;よ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;ぶよ「さあ、&lt;ruby&gt;行&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ゆ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;こうぜ」&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;銀&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ぎん&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;龍&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;りゅう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;背&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;せ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;に&lt;ruby&gt;乗&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;の&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;って&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;届&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;とど&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;けに&lt;ruby&gt;行&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ゆ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;こう &lt;ruby&gt;命&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;いのち&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;砂漠&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;さばく&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;へ&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;銀&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ぎん&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;龍&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;りゅう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;背&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;せ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;に&lt;ruby&gt;乗&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;の&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;って&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;運&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;はこ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;んで&lt;ruby&gt;行&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ゆ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;こう &lt;ruby&gt;雨雲&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;あまぐも&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;渦&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;うず&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;を&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;銀&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ぎん&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;龍&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;りゅう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;背&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;せ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;に&lt;ruby&gt;乗&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;の&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;って&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;運&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;はこ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;んで&lt;ruby&gt;行&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ゆ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;こう &lt;ruby&gt;雨雲&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;あまぐも&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;渦&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;うず&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;を&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;銀&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ぎん&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;龍&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;りゅう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;背&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;せ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;に&lt;ruby&gt;乗&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;の&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;って&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;銀&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ぎん&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;龍&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;りゅう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;背&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;せ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;に&lt;ruby&gt;乗&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;の&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;って&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;銀&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ぎん&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;龍&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;りゅう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;背&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;せ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;に&lt;ruby&gt;乗&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;の&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;って&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;銀&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ぎん&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;龍&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;りゅう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;背&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;せ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;に&lt;ruby&gt;乗&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;の&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;って&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;銀&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ぎん&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;龍&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;りゅう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;背&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;せ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;に&lt;ruby&gt;乗&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;の&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;って&lt;/p&gt;
+&lt;p&gt;&lt;ruby&gt;銀&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ぎん&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;龍&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;りゅう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;背&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;せ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;に&lt;ruby&gt;乗&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;の&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;って&lt;/p&gt;
+</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/ja/blogs/hello-world/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>

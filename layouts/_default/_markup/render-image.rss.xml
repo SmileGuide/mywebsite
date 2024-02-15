@@ -1,0 +1,7 @@
+{{- $url := urls.Parse .Destination -}}
+{{- if not (or (eq $url.Scheme "http") (eq $url.Scheme "https")) -}}
+    {{- $result := .Page.Resources.GetMatch (printf "%s" (.Destination | safeURL)) -}}
+    {{- with $result -}}
+        <img src="{{ .RelPermalink | absURL }}" alt="{{ $.Text }}" {{ with $.Title}} title="{{ . }}"{{ end }} />
+    {{- end -}}
+{{- end -}}

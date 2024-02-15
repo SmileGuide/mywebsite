@@ -1,0 +1,180 @@
+<footer id="site-footer" class="py-10 print:hidden">
+<!--          <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://cdn.bootcss.com/JQuery-Snowfall/1.7.4/snowfall.jquery.min.js">
+
+</script>
+
+
+
+<style>
+.snowfall-flakes{animation:sakura 1s linear 0s infinite;}
+@keyframes sakura{
+0% {transform:rotate3d(0, 0, 0, 0deg);}
+25%{transform:rotate3d(1, 1, 0, 60deg);}
+50%{transform:rotate3d(1, 1, 0, 0deg);}
+75%{transform:rotate3d(1, 0, 0, 60deg);}
+100% {transform:rotate3d(1, 0, 0, 0deg);}
+}
+</style>
+<script>
+$(document).snowfall('clear');
+$(document).snowfall({image:"/snowflake.png", flakeCount:90, minSpeed:1, minSize:10, maxSize:25,});
+</script>
+
+ -->
+
+<script src="/live2d/autoload.js"></script>
+<!-- Live2D，网页上的小人，可以修改live2d_config.js来修改模型，模型都在static/live2d_models里面 -->
+<!-- 你也可以把js文件下载下来，放到static/js/目录下，就不依赖别人的服务了 -->
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/live2d-widget@3.1.4/lib/L2Dwidget.min.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/live2d-widget@3.1.4/lib/L2Dwidget.0.min.js"></script>
+
+<!-- <script type="text/javascript">
+    L2Dwidget.init({
+        model: {
+            scale: 1,
+            hHeadPos: 0.5,
+            vHeadPos: 0.618,
+            jsonPath: '/live2d-api/',       // xxx.model.json 的路径,换人物修改这个
+        },
+        display: {
+            superSample: 3,     // 超采样等级
+            width: 120,         // canvas的宽度
+            height: 300,        // canvas的高度
+            position: 'left',   // 显示位置：左或右
+            hOffset: 0,         // canvas水平偏移
+            vOffset: 0,         // canvas垂直偏移
+        },
+        mobile: {
+            show: true,         // 是否在移动设备上显示
+            scale: 1,           // 移动设备上的缩放
+            motion: true,       // 移动设备是否开启重力感应
+        },
+        react: {
+            opacityDefault: 1,  // 默认透明度
+            opacityOnHover: 1,  // 鼠标移上透明度
+        },
+     });
+</script> -->
+
+
+  {{/* Footer menu */}}
+  {{ if .Site.Params.footer.showMenu | default true }}
+    {{ if .Site.Menus.footer }}
+    <nav class="flex flex-row pb-4 text-base font-medium text-neutral-500 dark:text-neutral-400">
+      <ul class="flex flex-col list-none sm:flex-row">
+        {{ range .Site.Menus.footer }}
+        <li class="flex mb-1 ltr:text-right rtl:text-left sm:mb-0 ltr:sm:mr-7 ltr:sm:last:mr-0 rtl:sm:ml-7 rtl:sm:last:ml-0">
+          <a class="decoration-primary-500 hover:underline hover:decoration-2 hover:underline-offset-2 tags" href="{{ .URL }}"
+            title="{{ .Title }}">{{ .Name | markdownify | emojify }}</a>
+        </li>
+        {{ end }}
+      </ul>
+    </nav>
+    {{ end }}
+  {{ end }}
+
+
+{{ if eq .IsHome true }}  
+<div class="flex items-center justify-between">
+  <p class="text-sm text-neutral-500 dark:text-neutral-400">
+  {{i18n "footer.visitors"}}
+    <span class="waline-pageview-count" data-path="/" id="pagec">——</span>
+  </p>
+  <script type="module">
+    import { pageviewCount } from 'https://unpkg.com/@waline/client/dist/pageview.js';
+    pageviewCount({
+      serverURL: 'https://waline-1-a9853324.deta.app/',
+      path: '/',
+    });
+</script>
+<script type="text/javascript">
+    var pagect = document.getElementById('pagec');
+var observer = new MutationObserver(function(){
+      var itl,itll;
+      var element = document.getElementById("pagec");  
+      observer.disconnect();
+      itl  = element.innerText;
+      itll = Number(itl).toLocaleString();
+      document.getElementById('pagec').innerHTML = itll;
+});
+var article = document.getElementById('pagec');
+
+var options = {
+  'childList': true,
+    'subtree': true
+};
+
+observer.observe(article, options);
+</script>
+{{ if eq $.Language.Lang "zh-cn" }}
+<p class="text-sm text-neutral-500 dark:text-neutral-400">
+<a href="https://beian.miit.gov.cn/" class="hover:text-primary-500 beian">辽ICP备 XXXXXXXX号-X</a>
+</p>
+{{ end }}
+</div>
+{{ else }}  
+{{ end }}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <div class="flex items-center justify-between">
+
+    {{/* Copyright */}}
+    {{ if .Site.Params.footer.showCopyright | default true }}
+    <p class="text-xs text-neutral-500 dark:text-neutral-400">
+      {{- with replace .Site.Params.copyright "{ year }" now.Year  }}
+      {{ . | emojify | markdownify }}
+      {{- else }}
+      &copy;
+      {{ now.Format "2006" }}
+      {{ .Site.Author.name | markdownify | emojify }}
+      {{- end }}
+    </p>
+    {{ end }}
+
+    {{/* Theme attribution */}}
+    {{ if .Site.Params.footer.showThemeAttribution | default true }}
+    <p class="text-xs text-neutral-500 dark:text-neutral-400">
+      {{ $hugo := printf `<a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
+        href="https://gohugo.io/" target="_blank" rel="noopener noreferrer">Hugo</a>`
+      }}
+      {{ $blowfish := printf `<a class="hover:underline hover:decoration-primary-400 hover:text-primary-500"
+        href="https://blowfish.page/" target="_blank" rel="noopener noreferrer">Blowfish</a>` }}
+      {{ i18n "footer.powered_by" (dict "Hugo" $hugo "Theme" $blowfish) | safeHTML }}
+    </p>
+    {{ end }}
+
+  </div>
+  <script>
+    {{ if not .Site.Params.disableImageZoom | default true }}
+    mediumZoom(document.querySelectorAll("img:not(.nozoom)"), {
+      margin: 24,
+      background: 'rgba(0,0,0,0.5)',
+      scrollOffset: 0,
+    })
+    {{ end }}
+  </script>
+  {{ $jsProcess := resources.Get "js/process.js" }}
+  {{ $jsProcess = $jsProcess | resources.Minify | resources.Fingerprint "sha512" }}
+  <script type="text/javascript" src="{{ $jsProcess.RelPermalink }}" integrity="{{ $jsProcess.Data.Integrity }}"></script>
+  {{/* Extend footer - eg. for extra scripts, etc. */}}
+  {{ if templates.Exists "partials/extend-footer.html" }}
+  {{ partialCached "extend-footer.html" . }}
+  {{ end }}
+</footer>

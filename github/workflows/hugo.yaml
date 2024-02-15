@@ -1,0 +1,30 @@
+name: smileguideblog
+on:
+  push:
+    branches:
+      - main
+jobs:
+  build-deploy:
+#    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v2
+
+      - name: Setup hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: "0.122.0" 
+          extended: true # 设置是否需要 extended 版本
+
+      - name: Build
+        run: hugo
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          personal_token: ${{ secrets.PERSONAL_TOKEN }} # 另外还支持 deploy_token 和 github_token
+          external_repository: SmileGuide/smileguide.github.io # 修改为你的 GitHub Pages 仓库
+          publish_dir: ./public
+#          keep_files: false
+          publish_branch: main

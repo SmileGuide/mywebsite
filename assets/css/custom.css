@@ -1,0 +1,18 @@
+:lang(zh-cn) {
+    font-family: Noto Serif SC;
+}
+
+:lang(en) {
+    font-family: Noto Serif,Noto Serif SC;
+}
+
+:lang(ja) {
+    font-family: Noto Serif JP,Noto Serif SC;
+}
+
+
+/*网站全面黑白*/
+
+/*html{
+filter: grayscale(1);
+}*/

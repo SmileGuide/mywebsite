@@ -1,0 +1,58 @@
+   {{ if .IsNamedParams }}
+   {{ $.Scratch.Set "time" (.Get "time") }}
+   {{ $.Scratch.Set "1" (.Get "1") }}
+   {{ $.Scratch.Set "2" (.Get "2") }}
+   {{ $.Scratch.Set "3" (.Get "3") }}
+   {{ $.Scratch.Set "4" (.Get "4") }}
+   {{ $.Scratch.Set "5" (.Get "5") }}
+   {{ $.Scratch.Set "noTitleLink" (.Get "noTitleLink") }}
+
+<span style="display: inline-block;margin-left: 2.5%;" align="left">
+<div class="article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md" style='width:{{ .Get "width" }}' >
+  <div class="p-6">
+{{ if eq page.IsHome true }}{{ if not ($.Scratch.Get "noTitleLink") }}<a href="/shuoshuo" class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral" style="text-decoration-color: rgba(var(--color-primary-500),1);">{{ end }}
+<h1  class="font-semibold">{{ .Get "title" }}</h1>
+{{ if eq page.IsHome true }}</a>{{ end }}{{ end }}
+<div class="dark:text-neutral overflow-auto" style="height: auto; word-wrap:break-word; word-break:break-all; overflow: hidden;">
+  {{ .Inner }}
+</div>
+<div class="text-sm text-neutral-500 dark:text-neutral-400">
+  <div class="flex flex-row flex-wrap items-center">
+<time>{{ .Get "date" }}</time>
+
+{{ if ($.Scratch.Get "time") }}
+<span class="px-2 text-primary-500">·</span>
+<span>{{ .Get "time"  | markdownify }}</span>
+{{ end }}
+{{ if ($.Scratch.Get "1") }}
+<span class="px-2 text-primary-500">·</span>
+<span>{{ .Get "1"  | markdownify }}</span>
+{{ end }}
+{{ if ($.Scratch.Get "2") }}
+<span class="px-2 text-primary-500">·</span>
+<span>{{ .Get "2"   | markdownify }}</span>
+{{ end }}
+{{ if ($.Scratch.Get "3") }}
+<span class="px-2 text-primary-500">·</span>
+<span>{{ .Get "3"   | markdownify }}</span>
+{{ end }}
+{{ if ($.Scratch.Get "4") }}
+<span class="px-2 text-primary-500">·</span>
+<span>{{ .Get "4"   | markdownify }}</span>
+{{ end }}
+{{ if ($.Scratch.Get "5") }}
+<span class="px-2 text-primary-500">·</span>
+<span>{{ .Get "5"   | markdownify }}</span>
+{{ end }}
+
+  </div>
+</div>
+</div>
+</div>
+<br/>
+</span>
+{{ end }}
+
+
+
+

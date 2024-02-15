@@ -1,0 +1,390 @@
+ <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+<script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+<div id="aplayera" style="opacity:0.8;color: var(--tw-prose-headings);"></div>
+<script type="text/javascript">
+  const ap = new APlayer({
+    container: document.getElementById('aplayera'),
+        fixed: true,
+        lrcType: 3,
+        order: 'random',
+    // audio: [{
+    //     name: '正解(混声三部合唱)',
+    //     artist: 'RADWIMPS',
+    //     url: 'https://smileguide-music.zeabur.app/RADWIMPS - 正解 (混声三部合唱).flac',
+    //     cover: 'https://smileguide-music.zeabur.app/正解.jpg',
+    //     lrc: 'https://lc-gluttony.s3.amazonaws.com/dRYJBlSN7EF3/81GxLoRdTXmyBp7NCYPQNAhh6LT22Fku/RADWIMPS%20-%20%E6%AD%A3%E8%A7%A3%20%28%E6%B7%B7%E5%A3%B0%E4%B8%89%E9%83%A8%E5%90%88%E5%94%B1%29.lrc'
+    // },
+    //     {
+    //     name: 'カイコ (蚕)',
+    //     artist: 'RADWIMPS',
+    //     url: 'https://smileguide-music.zeabur.app/RADWIMPS (ラッドウィンプス) - カイコ (蚕).flac',
+    //     cover: 'https://smileguide-music.zeabur.app/カイコ.jpg',
+    //     lrc: 'https://lc-gluttony.s3.amazonaws.com/dRYJBlSN7EF3/YBdhBE5Po2CDiD7mzoLcxpL5JEiAa0iD/RADWIMPS%20%28%E3%83%A9%E3%83%83%E3%83%89%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%97%E3%82%B9%29%20-%20%E3%82%AB%E3%82%A4%E3%82%B3%20%28%E8%9A%95%29.lrc'
+    // },
+    //     {
+    //     name: 'シザースタンド (Scissor Stand)',
+    //     artist: 'RADWIMPS',
+    //     url: 'https://smileguide-music.zeabur.app/RADWIMPS - シザースタンド.flac',
+    //     cover: 'https://smileguide-music.zeabur.app/Scissor Stand.jpg',
+    //     lrc: 'https://lc-gluttony.s3.amazonaws.com/dRYJBlSN7EF3/t4EvOHEEASx3rvAqToueJE2jmphLa4Ye/RADWIMPS%20%28%E3%83%A9%E3%83%83%E3%83%89%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%97%E3%82%B9%29%20-%20%E3%82%B7%E3%82%B6%E3%83%BC%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%20%28Scissor%20stand%29.lrc'
+    // },
+    //     {
+    //     name: '狭心症',
+    //     artist: 'RADWIMPS',
+    //     url: 'https://smileguide-music.zeabur.app/RADWIMPS - 狭心症.flac',
+    //     cover: 'https://smileguide-music.zeabur.app/狭心症.jpg',
+    //     lrc: 'https://lc-gluttony.s3.amazonaws.com/dRYJBlSN7EF3/n4Ofa6Yuv4wWroH58PnhjwdNC82JN9wL/RADWIMPS%20%28%E3%83%A9%E3%83%83%E3%83%89%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%97%E3%82%B9%29%20-%20%E7%8B%AD%E5%BF%83%E7%97%87.lrc'
+    // },
+    //     {
+    //     name: '蝶々結び',
+    //     artist: 'Aimer',
+    //     url: 'https://smileguide-music.zeabur.app/Aimer - 蝶々結び.flac',
+    //     cover: 'https://smileguide-music.zeabur.app/蝶々結び.jpg',
+    //     lrc: 'https://lc-gluttony.s3.amazonaws.com/dRYJBlSN7EF3/r1HTik6Im5Bzuvfo7JQiAMIEoBqs2m7I/Aimer%20%28%E3%82%A8%E3%83%A1%29%20-%20%E8%9D%B6%E3%80%85%E7%B5%90%E3%81%B3%20%28%E8%9D%B4%E8%9D%B6%E7%BB%93%29.lrc'
+    // },
+    //     {
+    //     name: 'カタオモイ',
+    //     artist: 'Aimer',
+    //     url: 'https://smileguide-music.zeabur.app/Aimer - カタオモイ.flac',
+    //     cover: 'https://smileguide-music.zeabur.app/カタオモイ.jpg',
+    //     lrc: 'https://lc-gluttony.s3.amazonaws.com/dRYJBlSN7EF3/EROucLTVFgla7Onfv6rodzr5TP4aYgip/Aimer%20%28%E3%82%A8%E3%83%A1%29%20-%20%E3%82%AB%E3%82%BF%E3%82%AA%E3%83%A2%E3%82%A4%20%28%E5%8D%95%E7%9B%B8%E6%80%9D%29.lrc'
+    // },
+    //     {
+    //     name: '夏土産',
+    //     artist: '中島みゆき',
+    //     url: 'https://smileguide-music.zeabur.app/中島みゆき - 夏土産(Remaster).flac',
+    //     cover: 'https://smileguide-music.zeabur.app/夏土産.jpg',
+    //     lrc: 'https://lc-gluttony.s3.amazonaws.com/dRYJBlSN7EF3/Gt3Ezb7FC8pEdXmz0PHEMSAcHO5nJLKP/%E4%B8%AD%E5%B2%9B%E7%BE%8E%E9%9B%AA%20%28%E4%B8%AD%E5%B3%B6%E3%81%BF%E3%82%86%E3%81%8D%29%20-%20%E5%A4%8F%E5%9C%9F%E7%94%A3%20%28Remaster%29.lrc'
+    // },    
+    //     {
+    //     name: 'I Could Never Say Goodbye',
+    //     artist: 'Enya',
+    //     url: 'https://smileguide-music.zeabur.app/Enya - I Could Never Say Goodbye.flac',
+    //     cover: 'https://smileguide-music.zeabur.app/I Could Never Say Goodbye.jpg',
+    //     lrc: 'https://lc-gluttony.s3.amazonaws.com/dRYJBlSN7EF3/pCWOMxPHnlToqEzLiQmqdljVUxeOoRCE/Enya%20-%20I%20Could%20Never%20Say%20Goodbye.lrc'
+    // },
+    //     {
+    //     name: 'おくりびと ~memory~',
+    //     artist: '久石譲',
+    //     url: 'https://smileguide-music.zeabur.app/久石让 - おくりびと~memory~.flac',
+    //     cover: 'https://smileguide-music.zeabur.app/おくりびと.jpg',
+    //     lrc: 'https://lc-gluttony.s3.amazonaws.com/dRYJBlSN7EF3/SLB2zUINemxYoSMXhfORWrhQsOVTwCvQ/%E4%B9%85%E7%9F%B3%E8%AE%A9%20%28%E3%81%B2%E3%81%95%E3%81%84%E3%81%97%20%E3%81%98%E3%82%87%E3%81%86%29%20-%20%E3%81%8A%E3%81%8F%E3%82%8A%E3%81%B3%E3%81%A8%7Ememory%7E%20%28%E5%85%A5%E6%AE%93%E5%B8%88%7Ememory%7E%29%20%28%E3%80%8C%E3%81%8A%E3%81%8F%E3%82%8A%E3%81%B3%E3%81%A8%E3%80%8D%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB%E3%83%BB%E3%82%B5%E3%82%A6%E3%83%B3%E3%83%89%E3%83%88%E3%83%A9%E3%83%83%E3%82%AF%29.lrc'
+    // },
+    //     {
+    //     name: 'いつも何度でも',
+    //     artist: '久石譲 / 木村弓',
+    //     url: 'https://smileguide-music.zeabur.app/久石让 _ 木村弓 - いつも何度でも (永远同在).flac',
+    //     cover: 'https://smileguide-music.zeabur.app/千と千尋の神隠し.jpg',
+    //     lrc: 'https://lc-gluttony.s3.amazonaws.com/nw9rfWdTWE8j/RUW2YN968NDFh9aUyqvNSrUegXC6bcoS/%E4%B9%85%E7%9F%B3%E8%AE%A9%20_%20%E6%9C%A8%E6%9D%91%E5%BC%93%20-%20%E3%81%84%E3%81%A4%E3%82%82%E4%BD%95%E5%BA%A6%E3%81%A7%E3%82%82%20%28%E6%B0%B8%E8%BF%9C%E5%90%8C%E5%9C%A8%29.lrc'
+    // },
+    audio: [{
+        name: '正解(混声三部合唱)',
+        artist: 'RADWIMPS',
+        url: 'https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706863071390/RADWIMPS - 正解 (混声三部合唱).flac',
+        cover: 'https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706863815811/%E6%AD%A3%E8%A7%A3.jpg',
+        lrc: '/lrcs/RADWIMPS - 正解 (混声三部合唱).lrc'
+    },
+        {
+        name: 'カイコ (蚕)',
+        artist: 'RADWIMPS',
+        url: 'https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706863088197/RADWIMPS (ラッドウィンプス) - カイコ (蚕).flac',
+        cover: 'https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706863825417/%E3%82%AB%E3%82%A4%E3%82%B3.jpg',
+        lrc: '/lrcs/RADWIMPS (ラッドウィンプス) - カイコ (蚕).lrc'
+    },
+        {
+        name: 'シザースタンド (Scissor Stand)',
+        artist: 'RADWIMPS',
+        url: 'https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706863045487/RADWIMPS - シザースタンド.flac',
+        cover: 'https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706863829081/Scissor%20Stand.jpg',
+        lrc: '/lrcs/RADWIMPS (ラッドウィンプス) - シザースタンド (Scissor stand).lrc'
+    },
+        {
+        name: '狭心症',
+        artist: 'RADWIMPS',
+        url: 'https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706863058310/RADWIMPS - 狭心症.flac',
+        cover: 'https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706863818873/%E7%8B%AD%E5%BF%83%E7%97%87.jpg',
+        lrc: '/lrcs/RADWIMPS (ラッドウィンプス) - 狭心症.lrc'
+    },
+        {
+        name: '蝶々結び',
+        artist: 'Aimer',
+        url: 'https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706862990250/Aimer - 蝶々結び.flac',
+        cover: 'https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706863822424/%E8%9D%B6%E3%80%85%E7%B5%90%E3%81%B3.jpg',
+        lrc: '/lrcs/Aimer (エメ) - 蝶々結び (蝴蝶结).lrc'
+    },
+        {
+        name: 'カタオモイ',
+        artist: 'Aimer',
+        url: 'https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706862977602/Aimer - カタオモイ.flac',
+        cover: 'https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706863824031/%E3%82%AB%E3%82%BF%E3%82%AA%E3%83%A2%E3%82%A4.jpg',
+        lrc: '/lrcs/Aimer (エメ) - カタオモイ (单相思).lrc'
+    },
+        {
+        name: '夏土産',
+        artist: '中島みゆき',
+        url: 'https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706863224567/中島みゆき - 夏土産(Remaster).flac',
+        cover: 'https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706863817455/%E5%A4%8F%E5%9C%9F%E7%94%A3.jpg',
+        lrc: '/lrcs/中岛美雪 (中島みゆき) - 夏土産 (Remaster).lrc'
+    },    
+        {
+        name: 'I Could Never Say Goodbye',
+        artist: 'Enya',
+        url: 'https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706863010537/Enya - I Could Never Say Goodbye.flac',
+        cover: 'https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706863830231/I%20Could%20Never%20Say%20Goodbye.jpg',
+        lrc: '/lrcs/Enya - I Could Never Say Goodbye.lrc'
+    },
+        {
+        name: 'おくりびと ~memory~',
+        artist: '久石譲',
+        url: 'https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706863186308/久石让 - おくりびと~memory~.flac',
+        cover: 'https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706863826943/%E3%81%8A%E3%81%8F%E3%82%8A%E3%81%B3%E3%81%A8.jpg',
+        lrc: '/lrcs/久石让 (ひさいし じょう) - おくりびと~memory~ (入殓师~memory~) (「おくりびと」オリジナル・サウンドトラック).lrc'
+    },
+        {
+        name: 'いつも何度でも',
+        artist: '久石譲 / 木村弓',
+        url: 'https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706863192985/久石让 _ 木村弓 - いつも何度でも (永远同在).flac',
+        cover: 'https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706863820247/%E5%8D%83%E3%81%A8%E5%8D%83%E5%B0%8B%E3%81%AE%E7%A5%9E%E9%9A%A0%E3%81%97.jpg',
+        lrc: '/lrcs/久石让 _ 木村弓 - いつも何度でも (永远同在).lrc'
+    },
+    ]
+});
+
+        ready();
+    
+    isRecover = false;
+    function ready(){
+        ap.on('canplay', function () {
+            if(!isRecover){
+                if(localStorage.getItem("musicIndex") != null){
+                    musicIndex = localStorage.getItem("musicIndex");
+                    musicTime = localStorage.getItem("musicTime");
+                    if(ap.list.index != musicIndex){
+                        ap.list.switch(musicIndex);
+                    }else{
+                        ap.seek(musicTime);
+                        ap.play();
+                        localStorage.clear();
+                        ap.setAttribute(muted,'');
+                        ap.setAttribute(playsinline,'');
+                        isRecover = true;
+                    }
+                }else{
+                    isRecover = true;
+                }
+            }
+        });
+    }
+
+    window.onbeforeunload = function(event) {
+        if(!ap.audio.paused){
+            musicIndex = ap.list.index;
+            musicTime = ap.audio.currentTime;
+            localStorage.setItem("musicIndex",musicIndex);
+            localStorage.setItem("musicTime",musicTime);
+        }
+    };
+
+
+
+var element = document.getElementsByClassName("aplayer-title")[0];  
+$(element).wrap("<a href='{{i18n "pathAppendix"}}/radio/pick/'></a>");
+</script>
+
+
+
+
+
+<style type="text/css">
+    .aplayer-title, .aplayer-list-light {
+        color:#000000cc;
+    }
+    .aplayer-list{
+        color:#717070bf;
+    }
+</style>
+
+
+
+
+
+
+
+<div style="padding-left:0;padding-right:0;padding-top:2px;padding-bottom:3px"
+    class="main-menu flex items-center justify-between px-4 py-6 sm:px-6 md:justify-start space-x-3">
+    {{ if .Site.Params.Logo }}
+    {{ $logo := resources.Get .Site.Params.Logo }}
+    {{ if $logo }}
+    <div>
+        <a href="{{ "" | relLangURL }}" class="flex">
+            <span class="sr-only">{{ .Site.Title | markdownify | emojify }}</span>
+
+            <img src="{{ $logo.RelPermalink }}" width="{{ div $logo.Width 2 }}" height="{{ div $logo.Height 2 }}"
+                class="logo max-h-[5rem] max-w-[5rem] object-scale-down object-left nozoom" alt="{{ .Site.Title }}" />
+
+        </a>
+    </div>
+    {{ end }}
+    {{- end }}
+    <div class="flex flex-1 items-center justify-between">
+        <nav class="flex space-x-3">
+
+            {{ if not .Site.Params.disableTextInHeader | default true }}
+            <a href="{{ "" | relLangURL }}" class="text-base font-medium text-gray-500 hover:text-gray-900 to-home">{{
+                .Site.Title | markdownify
+                | emojify }}</a>
+            {{ end }}
+
+        </nav>
+        <nav class="hidden md:flex items-center space-x-5 md:ml-12 h-12">
+
+            {{ if .Site.Menus.main }}
+            {{ range .Site.Menus.main }}
+            {{ partial "header/header-option.html" . }}
+            {{ end }}
+            {{ end }}
+
+            {{ partial "translations.html" . }}
+
+            {{ if .Site.Params.enableSearch | default false }}
+            <button id="search-button" aria-label="Search" class="text-base hover:text-primary-600 dark:hover:text-primary-400 h-12"
+                title="{{ i18n " search.open_button_title" }}">
+                {{ partial "icon.html" "search" }}
+            </button>
+            {{ end }}
+
+
+            {{/* Appearance switch */}}
+            {{ if .Site.Params.footer.showAppearanceSwitcher | default false }}
+            <div
+                class="{{ if .Site.Params.footer.showScrollToTop | default true -}} ltr:mr-14 rtl:ml-14 {{- end }} cursor-pointer text-sm text-neutral-700 hover:text-primary-600 dark:text-neutral dark:hover:text-primary-400">
+                <button id="appearance-switcher" aria-label="Dark mode switcher" type="button">
+                    <div class="flex items-center justify-center h-12 dark:hidden">
+                        {{ partial "icon.html" "moon" }}
+                    </div>
+                    <div class="items-center justify-center hidden h-12 dark:flex">
+                        {{ partial "icon.html" "sun" }}
+                    </div>
+                </button>
+            </div>
+            {{ end }}
+
+        </nav>
+        <div class="flex md:hidden items-center space-x-5 md:ml-12">
+
+            <span></span>
+
+            {{ partial "translations.html" . }}
+
+            {{ if .Site.Params.enableSearch | default false }}
+            <button id="search-button-mobile" aria-label="Search" class="text-base hover:text-primary-600 dark:hover:text-primary-400"
+                title="{{ i18n " search.open_button_title" }}">
+                {{ partial "icon.html" "search" }}
+            </button>
+            {{ end }}
+
+            {{/* Appearance switch */}}
+            {{ if .Site.Params.footer.showAppearanceSwitcher | default false }}
+            <button id="appearance-switcher-mobile" aria-label="Dark mode switcher" type="button" style="margin-right:5px">
+                <div class="flex items-center justify-center h-12 dark:hidden">
+                    {{ partial "icon.html" "moon" }}
+                </div>
+                <div class="items-center justify-center hidden h-12 dark:flex">
+                    {{ partial "icon.html" "sun" }}
+                </div>
+            </button>
+            {{ end }}
+
+        </div>
+    </div>
+    <div class="-my-2 -mr-2 md:hidden">
+
+        <label id="menu-button" for="menu-controller" class="block">
+            <input type="checkbox" id="menu-controller" class="hidden" />
+            {{ if .Site.Menus.main }}
+            <div class="cursor-pointer hover:text-primary-600 dark:hover:text-primary-400">
+                {{ partial "icon.html" "bars" }}
+            </div>
+            <div id="menu-wrapper" style="padding-top:5px;"
+                class="fixed inset-0 z-30 invisible w-screen h-screen m-0 overflow-auto transition-opacity opacity-0 cursor-default bg-neutral-100/50 backdrop-blur-sm dark:bg-neutral-900/50">
+                <ul
+                    class="flex space-y-2 mt-3 flex-col items-end w-full px-6 py-6 mx-auto overflow-visible list-none ltr:text-right rtl:text-left max-w-7xl">
+
+                    <li>
+                        <span
+                            class="cursor-pointer inline-block align-text-bottom hover:text-primary-600 dark:hover:text-primary-400">{{
+                            partial
+                            "icon.html"
+                            "xmark" }}</span>
+                    </li>
+
+                    {{ range .Site.Menus.main }}
+
+                    {{ partial "header/header-mobile-option.html" . }}
+
+                    {{ end }}
+
+                </ul>
+                {{ if .Site.Menus.subnavigation }}
+                <hr>
+                <ul
+                    class="flex mt-4 flex-col items-end w-full px-6 py-6 mx-auto overflow-visible list-none ltr:text-right rtl:text-left max-w-7xl">
+
+
+                    {{ range .Site.Menus.subnavigation }}
+                    <li class="mb-1">
+                        <a href="{{ .URL }}" {{ if or (strings.HasPrefix .URL "http:" ) (strings.HasPrefix .URL "https:"
+                            ) }} target="_blank" {{ end }} class="flex items-center">
+                            {{ if .Pre }}
+                            <span {{ if and .Pre .Name}} class="mr-3" {{ end }}>
+                                {{ partial "icon.html" .Pre }}
+                            </span>
+                            {{ end }}
+                            <p class="text-sm font-sm text-gray-500 hover:text-gray-900" title="{{ .Title }}">
+                                {{ .Name | markdownify | emojify }}
+                            </p>
+                        </a>
+                    </li>
+                    {{ end }}
+
+                </ul>
+                {{ end }}
+                {{ end }}
+
+            </div>
+        </label>
+    </div>
+</div>
+
+{{ if .Site.Menus.subnavigation }}
+<div class="main-menu flex pb-3 flex-col items-end justify-between md:justify-start space-x-3" {{ if .Site.Params.Logo
+    }} style="margin-top:-15px" {{ end }}>
+    <div class="hidden md:flex items-center space-x-5">
+        {{ range .Site.Menus.subnavigation }}
+        <a href="{{ .URL }}" {{ if or (strings.HasPrefix .URL "http:" ) (strings.HasPrefix .URL "https:" ) }}
+            target="_blank" {{ end }} class="flex items-center">
+            {{ if .Pre }}
+            <span {{ if and .Pre .Name}} class="mr-1" {{ end }}>
+                {{ partial "icon.html" .Pre }}
+            </span>
+            {{ end }}
+            <p class="text-xs font-light text-gray-500 hover:text-gray-900" title="{{ .Title }}">
+                {{ .Name | markdownify | emojify }}
+            </p>
+        </a>
+        {{ end }}
+    </div>
+</div>
+{{ end }}
+
+{{ if .Site.Params.highlightCurrentMenuArea }}
+<script>
+    (function () {
+        var $mainmenu = $('.main-menu');
+        var path = window.location.pathname;
+        $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
+            $(e).children('p').addClass('active');
+        });
+    })();
+</script>
+{{ end }}
