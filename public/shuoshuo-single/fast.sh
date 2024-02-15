@@ -33,7 +33,7 @@ cd ..
 sed -i "12c {{\\% include \"/shuoshuo-single/${full_md_filename}\" \\%}}" _index.md  
 cd shuoshuo/
 # 写入
-sed -i "10a {{\\% include \"/shuoshuo-single/${full_md_filename}\" \\%}}" index.md  
+sed -i "13a {{\\% include \"/shuoshuo-single/${full_md_filename}\" \\%}}" index.md  
 
 
 fi

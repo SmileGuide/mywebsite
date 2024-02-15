@@ -298,6 +298,18 @@
     />
   </url>
   <url>
+    <loc>https://smileguide.github.io/shuoshuo-single/add-kanban/</loc>
+    <lastmod>2024-02-15T22:01:04+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://smileguide.github.io/shuoshuo-single/</loc>
+    <lastmod>2024-02-15T22:01:04+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://smileguide.github.io/notice/</loc>
     <lastmod>2024-02-11T22:43:00+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -305,12 +317,6 @@
   </url>
   <url>
     <loc>https://smileguide.github.io/shuoshuo-single/first/</loc>
-    <lastmod>2024-02-11T22:43:00+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://smileguide.github.io/shuoshuo-single/</loc>
     <lastmod>2024-02-11T22:43:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
