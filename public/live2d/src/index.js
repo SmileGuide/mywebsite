@@ -51,7 +51,9 @@ function loadWidget(config) {
             const domains = {
                 "baidu": "百度",
                 "so": "360搜索",
-                "google": "谷歌搜索"
+                "google": "谷歌搜索",
+                "bing": "必应",
+                "sogou": "搜狗搜索"
             };
             if (location.hostname === referrer.hostname) return text;
 

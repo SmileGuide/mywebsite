@@ -50,7 +50,7 @@ const tools = {
     "photo": {
         icon: fa_camera_retro,
         callback: () => {
-            showMessage("照好了嘛，是不是很可爱呢？", 6000, 9);
+            showMessage("拍好了，是不是很可爱呢？", 6000, 9);
             Live2D.captureName = "photo.png";
             Live2D.captureFrame = true;
         }

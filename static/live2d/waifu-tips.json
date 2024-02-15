@@ -13,13 +13,13 @@
 		"text": ["这是目录"]
 	}, {
 		"selector": "#waifu-tool-asteroids",
-		"text": ["要不要来玩飞机大战？"]
+		"text": ["要不要来玩飞机大战？(仅限PC)"]
 	}, {
 		"selector": "#waifu-tool-switch-model",
-		"text": ["要换人吗？"]
+		"text": ["要换个形象吗？"]
 	}, {
 		"selector": "#waifu-tool-switch-texture",
-		"text": ["变装！"]
+		"text": ["变身！"]
 	}, {
 		"selector": "#waifu-tool-photo",
 		"text": ["你要给我拍照？"]
@@ -60,7 +60,7 @@
 		"selector": ".contact",
 		"text": ["这里有主人的联系方式！"]
 	}, {
-		"selector": ".fancybox img, img.medium-zoom-image",
+		"selector": ".fancybox, .medium-zoom-image",
 		"text": ["点击图片可以放大呢！"]
 	}, {
 		"selector": ".highlight",
@@ -69,14 +69,14 @@
 		"selector": "a[href^='mailto']",
 		"text": ["邮件我会及时回复的！", "点击就可以发送邮件啦～"]
 	}, {
-		"selector": "a[href='/tags/']",
-		"text": ["要去看看 <span>{text}</span> 标签么？", "点它可以查看此标签下的所有文章哟！"]
+		"selector": "a[href=\"/tags/\"]",
+		"text": ["要去看看都有哪些标签么？", "点它可以查看所有标签哟！"]
 	}, {
-		"selector": "a[href='/series/']",
-		"text": ["要去看看 <span>{text}</span> 选集么？", "点它可以查看此选集下的所有文章哟！"]
+		"selector": "a[href=\"/series/\"]",
+		"text": ["要去看看都有哪些选集么？", "点它可以查看此选集下的所有文章哟！"]
 	}, {
 		"selector": "a[href^='/blogs/']",
-		"text": ["要看看 <span>{text}</span> 这篇文章吗？"]
+		"text": ["要看看 <span>{text}</span> 吗？"]
 	}, {
 		"selector": ".beian ",
 		"text": ["我也是有户口的人哦。", "我的主人可是遵纪守法的好主人。"]
@@ -86,9 +86,6 @@
 	}, {
 		"selector": "a[href='#the-top']",
 		"text": ["点它就可以回到顶部啦！", "要回到开始的地方么？"]
-	}, {
-		"selector": "#needsharebutton-postbottom .btn",
-		"text": ["好东西要让更多人知道才行哦。", "觉得文章有帮助的话，可以分享给更多需要的朋友呢。"]
 	}, {
 		"selector": "a[href^=\"twitter\"]",
 		"text": ["Twitter？好像是不存在的东西？"]
@@ -126,15 +123,15 @@
 		"selector": "[type=submit]",
 		"text": ["要对自己的发言负责哦～", "要提交了吗，请耐心等待回复哦～"]
 	}, {
-		"selector": ".vcontent",
+		"selector": ".wl-card",
 		"text": ["哇，快看看这个精彩评论！", "如果有疑问，请尽快留言哦～"]
 	}],
 	"click": [{
 		"selector": "#live2d",
-		"text": ["你看到我的小熊了吗？","别摸我！"]
+		"text": ["你看到我的小熊了吗？","不要摸我！"]
 	}, {
 		"selector": "[type=button]",
-		"text": ["只有登录了才能知道你是谁哦", "如果不登录就提交，下次再来就会把你忘掉"]
+		"text": ["只有登录了才能知道你是谁哦", "如果不登录就提交，下次再来就会把你忘掉哦"]
 	}, {
 		"selector": ".vsubmit",
 		"text": ["输入验证码就可以提交评论啦～"]
@@ -150,7 +147,7 @@
 		"text": "<span>元旦</span>了呢，新的一年又开始了，美好的{year}～"
 	}, {
 		"date": "02/14",
-		"text": "<span>情人节</span>"
+		"text": "今天是<span>情人节</span>"
 	}, {
 		"date": "03/08",
 		"text": "今天是<span>国际妇女节</span>！"
@@ -202,15 +199,15 @@
 		"text": "晚上好！今天过得怎么样？"
 	}, {
 		"hour": "22-23",
-		"text": ["已经这么晚了呀，早点休息吧，晚安～", "深夜时要爱护眼睛呀！"]
+		"text": ["已经这么晚了呀，早点休息吧，晚安～", "深夜要爱护眼睛呀！"]
 	}, {
 		"hour": "0-4",
-		"text": "你是夜猫子吗？"
+		"text": ["你是夜猫子吗？","你在床上？"]
 	}],
 	"message": {
 		"default": ["好久不见，日子过得好快呢……", "嗨～快来逗我玩吧！","记得把本站加入收藏夹哦！","使用 RSS （订阅地址为根目录后加<span style=\"color:#0099cc;\">/index.xml）</span>，快速获取网站更新"],
 		"console": "哈哈，你打开了控制台，是想要看看我的小秘密吗？",
 		"copy": "你都复制了些什么呀，转载要记得加上出处哦！",
-		"visibilitychange": "哇，你终于回来了～"
+		"visibilitychange": ["哇，你终于回来了～","你回来了~","一直在等你哦"]
 	}
 }
