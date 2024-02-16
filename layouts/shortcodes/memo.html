@@ -14,7 +14,7 @@
 <h1  class="font-semibold">{{ .Get "title" }}</h1>
 {{ if eq page.IsHome true }}{{ if not ($.Scratch.Get "noTitleLink") }}</a>{{ end }}{{ end }}
 <div class="dark:text-neutral overflow-auto" style="height: auto; word-wrap:break-word; word-break:break-all; overflow: hidden;">
-  {{ .Inner }}
+  {{ .Inner | markdownify }}
 </div>
 <div class="text-sm text-neutral-500 dark:text-neutral-400">
   <div class="flex flex-row flex-wrap items-center">
