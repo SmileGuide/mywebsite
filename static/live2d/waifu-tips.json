@@ -24,6 +24,9 @@
 		"selector": "#waifu-tool-hitokoto",
 		"text": ["我从青蛙王子那里听到了不少人生经验。"]
 	},{
+		"selector":"wl-reaction-img",
+		"text":["读完表个态吧"]
+	},{
         "selector": ".thumbnail_card,.px-6 .py-4",
         "text": ["点击来阅读全文哦~"]
         },{
@@ -146,9 +149,6 @@
 	},{
 		"selector":"[title=喜欢]",
 		"text":["如果你喜欢这条评论，就点个赞吧"]
-	},{
-		"selector":"wl-reaction-img",
-		"text":["读完表个态吧"]
 	}],
 	"click": [{
 		"selector": "#waifu-tool-asteroids",
