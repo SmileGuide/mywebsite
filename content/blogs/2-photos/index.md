@@ -9,7 +9,7 @@ isCJKLanguage: true
 ---
 
 {{< alert >}}这篇文章完成于数年前，由QQ空间移植而来。{{</ alert >}}
-## <p style="text-align:center;">· 一 ·</p>
+## <p style="text-align:center;">· 一 ·</p>{#yi}
 <img src="/2photos/10.png"></img>
  
 ↑这是一张合成的照片。背景摄于2022年7月24日，拍摄对象为大连市沙河口区星海广场。
@@ -27,7 +27,7 @@ isCJKLanguage: true
 
 
 
-### 背景素材：
+### 背景素材：{#beijingsucai}
 
 <img src="/2photos/20.png"></img>
 设备: VOG-AL10（华为自带长焦镜头）  
@@ -141,7 +141,7 @@ isCJKLanguage: true
 
 
 
-### 第一句话中
+**第一句话中**  
 - “の”(音no，以下括号内若无特殊说明，都是标音)表示领属，即“之”
 
 - “時”(toki) “隔”(peda)是名词
@@ -157,7 +157,7 @@ isCJKLanguage: true
 
 
 
-### 第二句话中
+**第二句话中**  
 - - “あの”(ano)是“那个”，あれ的接体形
 
 - “若い”(wakaii)是形容词，其中“若”即“弱”，意思是幼小的。
@@ -210,7 +210,7 @@ isCJKLanguage: true
 
 
 
-## <p style="text-align:center;">· 二 ·</p>
+## <p style="text-align:center;">· 二 ·</p>{#er}
 
 <img src="/2photos/70.png"></img>
 设备: VOG-AL10（华为自带短焦镜头）  
@@ -333,7 +333,7 @@ isCJKLanguage: true
 
 
 
-### 因此，拍摄分为两个部分：  
+### 因此，拍摄分为两个部分：  {#so}  
 >Thus, the shooting is divided into two parts:  
 
 

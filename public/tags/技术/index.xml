@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Sat, 17 Feb 2024 13:19:49 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Feb 2024 18:00:54 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于本站的建造</title>
       <link>https://smileguide.github.io/blogs/site-build/</link>
@@ -19,12 +19,12 @@
 &lt;/div&gt;
 
 &lt;h2 class=&#34;relative group&#34;&gt;前端框架 
-    &lt;div id=&#34;前端框架&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;qianduankuangjia&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%89%8d%e7%ab%af%e6%a1%86%e6%9e%b6&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#qianduankuangjia&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -146,13 +146,26 @@ Blowfish 是&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&gt;
 &lt;p&gt;配置你的网站主页，写写帖子，接着 &lt;code&gt;push&lt;/code&gt; 一下本地仓库。&lt;/p&gt;
 &lt;p&gt;提交代码之后，GitHub Actions 会根据源码，用 Hugo 自动生成网页，并发布到公有 Repo ，这又会触发 GitHub Pages 的 Action。&lt;/p&gt;
 &lt;p&gt;现在便完成了 GitHub Pages 的自动发布配置。此后，你只要持续提交源码到私有 Repo，网站就会自动发布。&lt;/p&gt;
-&lt;h2 class=&#34;relative group&#34;&gt;评论系统和浏览量统计 
-    &lt;div id=&#34;评论系统和浏览量统计&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;Vercel 
+    &lt;div id=&#34;vercel&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e8%af%84%e8%ae%ba%e7%b3%bb%e7%bb%9f%e5%92%8c%e6%b5%8f%e8%a7%88%e9%87%8f%e7%bb%9f%e8%ae%a1&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#vercel&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;鉴于部署平台 Vercel 性能优于 GitHub Pages，2月15日起本站所有页面均部署于 Vercel，弃用GitHub Pages。&lt;br&gt;
+然而，使用 Vercel 的前提是你拥有一个域名，然后给 Vercel 工程设置自定义域名，因为 Vercel 提供的子域名被GFW进行了DNS污染。&lt;br&gt;
+&amp;ndash;更新于2024/2/18&amp;ndash;&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;评论系统和浏览量统计 
+    &lt;div id=&#34;pinglunxitongheliulanliangtongji&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#pinglunxitongheliulanliangtongji&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -171,23 +184,23 @@ Blowfish 是&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&gt;
 &lt;p&gt;在配置 Waline 前，你需要配置 LeanCloud 数据库。&lt;/p&gt;
 &lt;p&gt;注册 LeanCloud 国际版账号，创建开发版应用，名称随意。这将是你网站的评论数据库。&lt;/p&gt;
 &lt;h3 class=&#34;relative group&#34;&gt;服务端配置 
-    &lt;div id=&#34;服务端配置&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;fuwuduanpeizhi&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e6%9c%8d%e5%8a%a1%e7%ab%af%e9%85%8d%e7%bd%ae&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#fuwuduanpeizhi&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;本网站使用免费的部署平台 Deta，没有被墙且速度较快。你也可以使用别的服务端，Waline 官网有介绍。&lt;/p&gt;
+&lt;p&gt;本网站先是使用免费的部署平台 Deta（没有被墙且速度较快），在注册域名后使用免费的 Vercel 部署评论前端。你也可以使用别的平台，Waline 官网有介绍。&lt;/p&gt;
 &lt;h4 class=&#34;relative group&#34;&gt;后端 
-    &lt;div id=&#34;后端&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;houduan&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%90%8e%e7%ab%af&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#houduan&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h4&gt;
@@ -197,12 +210,12 @@ Blowfish 是&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&gt;
     工作区&lt;/a&gt; 看到应用。点击应用左上角的小圆圈，进入 &lt;code&gt;Settings - Configuration&lt;/code&gt; 修改环境变量，把&lt;code&gt;LEAN_ID、lEAN_KEY&lt;/code&gt;和&lt;code&gt;LEAN_MASTER_KEY&lt;/code&gt;设置为LeanCloud &lt;code&gt;设置 - 应用凭证&lt;/code&gt;中的&lt;code&gt;AppID&lt;/code&gt;、&lt;code&gt;AppKey&lt;/code&gt;和&lt;code&gt;MasterKey&lt;/code&gt;。&lt;/p&gt;
 &lt;p&gt;现在便完成了评论后端的基本配置。&lt;/p&gt;
 &lt;h4 class=&#34;relative group&#34;&gt;前端 
-    &lt;div id=&#34;前端&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;qianduan&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%89%8d%e7%ab%af&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#qianduan&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h4&gt;
@@ -316,23 +329,23 @@ Blowfish 是&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{ else }}  
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{ end }}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 class=&#34;relative group&#34;&gt;悬浮播放器 
-    &lt;div id=&#34;悬浮播放器&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;xuanfubofangqi&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e6%82%ac%e6%b5%ae%e6%92%ad%e6%94%be%e5%99%a8&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#xuanfubofangqi&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
 &lt;p&gt;本网站的悬浮播放器可以跨网页播放，配置方法如下。&lt;/p&gt;
 &lt;h3 class=&#34;relative group&#34;&gt;后端 
-    &lt;div id=&#34;后端-1&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;houduan-2&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%90%8e%e7%ab%af-1&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#houduan-2&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -340,12 +353,12 @@ Blowfish 是&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&gt;
 &lt;p&gt;然而，这种部署方式仅运行两天就出现欠费的情况，于是改用直链工具：&lt;a href=&#34;https://up.ly93.cc/&#34;   target=&#34;_blank&#34;&gt;
     涟漪文件直链&lt;/a&gt;。&lt;/p&gt;
 &lt;h3 class=&#34;relative group&#34;&gt;前端 
-    &lt;div id=&#34;前端-1&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;qianduan-2&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%89%8d%e7%ab%af-1&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#qianduan-2&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -447,12 +460,12 @@ Blowfish 是&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;],&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;悬浮播放器的原理是：在退出网页时，如果音频处于播放状态，则在缓存中存储进度，新网页打开时，检查是否有缓存，若有则恢复播放。这个功能在苹果设备中不受支持。&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;说说 
-    &lt;div id=&#34;说说&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;shuoshuo&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e8%af%b4%e8%af%b4&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#shuoshuo&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -540,6 +553,234 @@ document.getElementById(&#39;github-4d14627a6284367469b3e1753ed15067-forks&#39;)
   &lt;/script&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&amp;ndash;更新于2024/2/12&amp;ndash;&lt;/p&gt;
+&lt;h2 class=&#34;relative group&#34;&gt;看板娘 
+    &lt;div id=&#34;kanban&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#kanban&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;看板娘一词源于日语，是店铺为吸引人气而设置的形象代言。&lt;br&gt;
+页面右下角的人偶即为本站的「数字看板娘」。它源于GitHub上的开源项目：
+&lt;a id=&#34;github-5243defe6dc593e5b718e5d34ac2b2d0&#34; target=&#34;_blank&#34; href=&#34;https://github.com/stevenjoezhang/live2d-widget&#34; class=&#34;cursor-pointer&#34;&gt;
+  &lt;div
+class=&#34;w-full md:w-auto pt-3 p-5 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl&#34;&gt;
+
+&lt;div class=&#34;flex items-center&#34;&gt;
+  &lt;span class=&#34;text-2xl text-neutral-800 dark:text-neutral&#34; style=&#34;margin-right:10px;&#34;&gt;
+
+
+  &lt;span class=&#34;relative block icon&#34;&gt;
+    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 496 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z&#34;/&gt;&lt;/svg&gt;
+
+  &lt;/span&gt;
+
+
+  &lt;/span&gt;
+  &lt;div
+id=&#34;github-5243defe6dc593e5b718e5d34ac2b2d0-full_name&#34;
+class=&#34;m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;&gt;
+stevenjoezhang/live2d-widget
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p id=&#34;github-5243defe6dc593e5b718e5d34ac2b2d0-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+  把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
+&lt;/p&gt;
+
+&lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
+
+  &lt;span class=&#34;mr-1 inline-block h-3 w-3 rounded-full&#34;
+style=&#34;background-color: #f1e05a&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+ JavaScript 
+  &lt;/div&gt;
+
+  &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
+
+
+  &lt;span class=&#34;relative block icon&#34;&gt;
+    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 576 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M287.9 0C297.1 0 305.5 5.25 309.5 13.52L378.1 154.8L531.4 177.5C540.4 178.8 547.8 185.1 550.7 193.7C553.5 202.4 551.2 211.9 544.8 218.2L433.6 328.4L459.9 483.9C461.4 492.9 457.7 502.1 450.2 507.4C442.8 512.7 432.1 513.4 424.9 509.1L287.9 435.9L150.1 509.1C142.9 513.4 133.1 512.7 125.6 507.4C118.2 502.1 114.5 492.9 115.1 483.9L142.2 328.4L31.11 218.2C24.65 211.9 22.36 202.4 25.2 193.7C28.03 185.1 35.5 178.8 44.49 177.5L197.7 154.8L266.3 13.52C270.4 5.249 278.7 0 287.9 0L287.9 0zM287.9 78.95L235.4 187.2C231.9 194.3 225.1 199.3 217.3 200.5L98.98 217.9L184.9 303C190.4 308.5 192.9 316.4 191.6 324.1L171.4 443.7L276.6 387.5C283.7 383.7 292.2 383.7 299.2 387.5L404.4 443.7L384.2 324.1C382.9 316.4 385.5 308.5 391 303L476.9 217.9L358.6 200.5C350.7 199.3 343.9 194.3 340.5 187.2L287.9 78.95z&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+
+
+  &lt;/span&gt;
+  &lt;div id=&#34;github-5243defe6dc593e5b718e5d34ac2b2d0-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+8028
+  &lt;/div&gt;
+
+  &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
+
+
+  &lt;span class=&#34;relative block icon&#34;&gt;
+    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M80 104c13.3 0 24-10.7 24-24s-10.7-24-24-24S56 66.7 56 80s10.7 24 24 24zm80-24c0 32.8-19.7 61-48 73.3V192c0 17.7 14.3 32 32 32H304c17.7 0 32-14.3 32-32V153.3C307.7 141 288 112.8 288 80c0-44.2 35.8-80 80-80s80 35.8 80 80c0 32.8-19.7 61-48 73.3V192c0 53-43 96-96 96H256v70.7c28.3 12.3 48 40.5 48 73.3c0 44.2-35.8 80-80 80s-80-35.8-80-80c0-32.8 19.7-61 48-73.3V288H144c-53 0-96-43-96-96V153.3C19.7 141 0 112.8 0 80C0 35.8 35.8 0 80 0s80 35.8 80 80zm208 24c13.3 0 24-10.7 24-24s-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24zM248 432c0-13.3-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24s24-10.7 24-24z&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+
+
+  &lt;/span&gt;
+  &lt;div id=&#34;github-5243defe6dc593e5b718e5d34ac2b2d0-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+2258
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+  &lt;/div&gt;
+  &lt;script&gt;
+fetch(&#34;https://api.github.com/repos/stevenjoezhang/live2d-widget&#34;, {
+  headers: new Headers({
+&#39;User-agent&#39;: &#39;Mozilla/4.0 Custom User Agent&#39;
+  })
+})
+  .then(response =&gt; response.json())
+  .then(data =&gt; {
+document.getElementById(&#39;github-5243defe6dc593e5b718e5d34ac2b2d0-full_name&#39;).innerHTML = data.full_name;
+document.getElementById(&#39;github-5243defe6dc593e5b718e5d34ac2b2d0-description&#39;).innerHTML = data.description;
+document.getElementById(&#39;github-5243defe6dc593e5b718e5d34ac2b2d0-stargazers&#39;).innerHTML = data.stargazers_count;
+document.getElementById(&#39;github-5243defe6dc593e5b718e5d34ac2b2d0-forks&#39;).innerHTML = data.forks;
+  })
+  .catch(error =&gt; console.error(error))
+  &lt;/script&gt;
+&lt;/a&gt;&lt;br&gt;
+具体来说，该插件有两部分需要配置。&lt;/p&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;页面引用 
+    &lt;div id=&#34;yemianyinyong&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#yemianyinyong&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;首先，你需要克隆上述 Repo，放在&lt;code&gt;static&lt;/code&gt;文件夹中，然后按照README文件进行自定义。&lt;br&gt;
+像前文所述的一样，在&lt;code&gt;/layouts/&lt;/code&gt;中拷贝相应的主题文件。我拷贝的是&lt;code&gt;footer.html&lt;/code&gt;。&lt;br&gt;
+在该文件适当位置加入 JavaScript 引用：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-diff&#34; data-lang=&#34;diff&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&amp;lt;footer id=&amp;#34;site-footer&amp;#34; class=&amp;#34;py-10 print:hidden&amp;#34;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gi&#34;&gt;+ &amp;lt;script src=&amp;#34;/live2d/autoload.js&amp;#34;&amp;gt;&amp;lt;/script&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gi&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{/* Footer menu */}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{ if .Site.Params.footer.showMenu | default true }}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    {{ if .Site.Menus.footer }}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;请仔细阅读项目的README文件以了解如何自定义（如修改气泡提示文本、CSS等），这里不赘述。&lt;/p&gt;
+&lt;h3 class=&#34;relative group&#34;&gt;API 
+    &lt;div id=&#34;api&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#api&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h3&gt;
+&lt;p&gt;你可以使用该项目的官方API地址，但是更推荐在 Vercel 上部署一个，以便自定义模型。
+先克隆（或者复刻）下面的 Repo 到本地：&lt;br&gt;
+&lt;a id=&#34;github-b4af9da902f97ae74adaf5d7dafb7818&#34; target=&#34;_blank&#34; href=&#34;https://github.com/fghrsh/live2d_api&#34; class=&#34;cursor-pointer&#34;&gt;
+  &lt;div
+class=&#34;w-full md:w-auto pt-3 p-5 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl&#34;&gt;
+
+&lt;div class=&#34;flex items-center&#34;&gt;
+  &lt;span class=&#34;text-2xl text-neutral-800 dark:text-neutral&#34; style=&#34;margin-right:10px;&#34;&gt;
+
+
+  &lt;span class=&#34;relative block icon&#34;&gt;
+    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 496 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z&#34;/&gt;&lt;/svg&gt;
+
+  &lt;/span&gt;
+
+
+  &lt;/span&gt;
+  &lt;div
+id=&#34;github-b4af9da902f97ae74adaf5d7dafb7818-full_name&#34;
+class=&#34;m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;&gt;
+fghrsh/live2d_api
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;p id=&#34;github-b4af9da902f97ae74adaf5d7dafb7818-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+  Live2D 看板娘插件 (&lt;a href=&#34;https://www.fghrsh.net/post/123.html&#34;   target=&#34;_blank&#34;&gt;
+    https://www.fghrsh.net/post/123.html&lt;/a&gt;) 上使用的后端 API
+&lt;/p&gt;
+
+&lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
+
+  &lt;span class=&#34;mr-1 inline-block h-3 w-3 rounded-full&#34;
+style=&#34;background-color: #4F5D95&#34;&gt;&lt;/span&gt;
+  &lt;div class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+ PHP 
+  &lt;/div&gt;
+
+  &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
+
+
+  &lt;span class=&#34;relative block icon&#34;&gt;
+    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 576 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M287.9 0C297.1 0 305.5 5.25 309.5 13.52L378.1 154.8L531.4 177.5C540.4 178.8 547.8 185.1 550.7 193.7C553.5 202.4 551.2 211.9 544.8 218.2L433.6 328.4L459.9 483.9C461.4 492.9 457.7 502.1 450.2 507.4C442.8 512.7 432.1 513.4 424.9 509.1L287.9 435.9L150.1 509.1C142.9 513.4 133.1 512.7 125.6 507.4C118.2 502.1 114.5 492.9 115.1 483.9L142.2 328.4L31.11 218.2C24.65 211.9 22.36 202.4 25.2 193.7C28.03 185.1 35.5 178.8 44.49 177.5L197.7 154.8L266.3 13.52C270.4 5.249 278.7 0 287.9 0L287.9 0zM287.9 78.95L235.4 187.2C231.9 194.3 225.1 199.3 217.3 200.5L98.98 217.9L184.9 303C190.4 308.5 192.9 316.4 191.6 324.1L171.4 443.7L276.6 387.5C283.7 383.7 292.2 383.7 299.2 387.5L404.4 443.7L384.2 324.1C382.9 316.4 385.5 308.5 391 303L476.9 217.9L358.6 200.5C350.7 199.3 343.9 194.3 340.5 187.2L287.9 78.95z&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+
+
+  &lt;/span&gt;
+  &lt;div id=&#34;github-b4af9da902f97ae74adaf5d7dafb7818-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+1058
+  &lt;/div&gt;
+
+  &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
+
+
+  &lt;span class=&#34;relative block icon&#34;&gt;
+    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M80 104c13.3 0 24-10.7 24-24s-10.7-24-24-24S56 66.7 56 80s10.7 24 24 24zm80-24c0 32.8-19.7 61-48 73.3V192c0 17.7 14.3 32 32 32H304c17.7 0 32-14.3 32-32V153.3C307.7 141 288 112.8 288 80c0-44.2 35.8-80 80-80s80 35.8 80 80c0 32.8-19.7 61-48 73.3V192c0 53-43 96-96 96H256v70.7c28.3 12.3 48 40.5 48 73.3c0 44.2-35.8 80-80 80s-80-35.8-80-80c0-32.8 19.7-61 48-73.3V288H144c-53 0-96-43-96-96V153.3C19.7 141 0 112.8 0 80C0 35.8 35.8 0 80 0s80 35.8 80 80zm208 24c13.3 0 24-10.7 24-24s-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24zM248 432c0-13.3-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24s24-10.7 24-24z&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+
+
+  &lt;/span&gt;
+  &lt;div id=&#34;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+482
+  &lt;/div&gt;
+
+&lt;/div&gt;
+
+  &lt;/div&gt;
+  &lt;script&gt;
+fetch(&#34;https://api.github.com/repos/fghrsh/live2d_api&#34;, {
+  headers: new Headers({
+&#39;User-agent&#39;: &#39;Mozilla/4.0 Custom User Agent&#39;
+  })
+})
+  .then(response =&gt; response.json())
+  .then(data =&gt; {
+document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-full_name&#39;).innerHTML = data.full_name;
+document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-description&#39;).innerHTML = data.description;
+document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-stargazers&#39;).innerHTML = data.stargazers_count;
+document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;).innerHTML = data.forks;
+  })
+  .catch(error =&gt; console.error(error))
+  &lt;/script&gt;
+&lt;/a&gt;&lt;br&gt;
+由于 Vercel 无法识别根目录不带 &lt;code&gt;index.html&lt;/code&gt; 的项目，你需要新建一个，里面可以写一写介绍等。&lt;br&gt;
+在目录中，&lt;code&gt;model_list.json&lt;/code&gt; 用于描述有哪些模型。如果要添加模型，请把模型放在&lt;code&gt;model&lt;/code&gt;目录中，并检查新加的模型的目录中的JSON文件是否更名为 &lt;code&gt;index.json&lt;/code&gt;，然后改写 Repo 根目录中的 &lt;code&gt;model_list.json&lt;/code&gt; 以便识别新模型。&lt;br&gt;
+修改完毕后，把 Repo 提交到 GitHub，部署到 Vercel 上(流程&lt;a href=&#34;#vercel&#34;  &gt;
+    同前&lt;/a&gt;)
+最后，把在博客的&lt;code&gt;static&lt;/code&gt;文件夹的 Repo 中的&lt;code&gt;autoload.js&lt;/code&gt;修改一下：&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-diff&#34; data-lang=&#34;diff&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    Promise.all([
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        loadExternalResource(live2d_path + &amp;#34;waifu-basic.css&amp;#34;, &amp;#34;css&amp;#34;),
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        loadExternalResource(live2d_path + &amp;#34;live2d.min.js&amp;#34;, &amp;#34;js&amp;#34;),
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        loadExternalResource(live2d_path + &amp;#34;waifu-tips.js&amp;#34;, &amp;#34;js&amp;#34;)
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    ]).then(() =&amp;gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        // 配置选项的具体用法见 README.md
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        initWidget({
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            waifuPath: live2d_path + &amp;#34;waifu-tips.json&amp;#34;,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gi&#34;&gt;+             apiPath: &amp;#34;你API的 Vercel 部署地址&amp;#34;,
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gi&#34;&gt;&lt;/span&gt;&lt;span class=&#34;gd&#34;&gt;-             //apiPath: &amp;#34;https://live2d.fghrsh.net/api/&amp;#34;,
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gd&#34;&gt;-             cdnPath: &amp;#34;https://fastly.jsdelivr.net/gh/fghrsh/live2d_api/&amp;#34;,
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gd&#34;&gt;&lt;/span&gt;            tools: [&amp;#34;hitokoto&amp;#34;, &amp;#34;asteroids&amp;#34;, &amp;#34;switch-model&amp;#34;, &amp;#34;switch-texture&amp;#34;, &amp;#34;photo&amp;#34;, &amp;#34;info&amp;#34;, &amp;#34;quit&amp;#34;]
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        });
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    });}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;至此，你在博客页面上看到看板娘了。&lt;br&gt;
+另外，本站的自建API地址是 &lt;a href=&#34;https://live2dapi.karlukle.site&#34;   target=&#34;_blank&#34;&gt;
+    live2dapi.karlukle.site&lt;/a&gt;，如果不想自建API，欢迎你来使用。&lt;br&gt;
+&amp;ndash;更新于2024/2/18&amp;ndash;&lt;/p&gt;
 </description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/site-build/feature.jpg" />
     </item>
