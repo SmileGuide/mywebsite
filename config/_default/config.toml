@@ -64,8 +64,10 @@ buildFuture = false
       type = 'fragments'
       weight = 10
       
-[markup]
-  defaultMarkdownHandler = "goldmark"
-  [markup.goldmark]
-    [markup.goldmark.renderer]
-      unsafe = true
+[markup.goldmark.renderer]
+unsafe = true
+[markup.goldmark.renderer.tableOfContents]
+startLevel = 2
+endLevel = 6
+ordered = false
+markup.goldmark.parser.unsafe = true

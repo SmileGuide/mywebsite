@@ -8,7 +8,7 @@ tags: ["技术"]
 ---
 {{< lead >}}这里在技术上梳理了本站的建造流程及一些功能的实现方法。{{</ lead >}}  
  
-## 前端框架{#qianduankuangjia}
+## 前端框架
 ### Hugo
 本站前端采用静态网站生成器 [Hugo](https://gohugo.io/) 制作，所用主题为 [Blowfish](https://blowfish.page/)。
 Blowfish 是[Nuno Coração](https://n9o.xyz/) 建设维护的，文档为英文。
@@ -86,7 +86,7 @@ ssh-keygen -t rsa - -C "$(git config user.email)"
 --更新于2024/2/18--
 
 
-## 评论系统和浏览量统计{#pinglunxitongheliulanliangtongji}
+## 评论系统和浏览量统计
 本站采用带后端的评论系统 [Waline](https://waline.js.org/) ，但完全免费。
 
 ### LeanCloud
@@ -95,19 +95,19 @@ ssh-keygen -t rsa - -C "$(git config user.email)"
 
 注册 LeanCloud 国际版账号，创建开发版应用，名称随意。这将是你网站的评论数据库。
 
-### 服务端配置{#fuwuduanpeizhi}
+### 服务端配置
 
 本网站先是使用免费的部署平台 Deta（没有被墙且速度较快），在注册域名后使用免费的 Vercel 部署评论前端。你也可以使用别的平台，Waline 官网有介绍。
 
 
-#### 后端{#houduan} 
+#### 后端
 注册 Deta 账号，然后到 [Deta 应用市场 Waline 页](https://deta.space/discovery/@lizheming/waline) ，点击 Install on Space 安装应用到工作区。
 
 安装完成后可在 [工作区](https://deta.space/) 看到应用。点击应用左上角的小圆圈，进入 `Settings - Configuration` 修改环境变量，把`LEAN_ID、lEAN_KEY`和`LEAN_MASTER_KEY`设置为LeanCloud `设置 - 应用凭证`中的`AppID`、`AppKey`和`MasterKey`。
 
 现在便完成了评论后端的基本配置。
 
-#### 前端{#qianduan}
+#### 前端
 这是需要修改 Hugo 主题的操作，但不是直接进入 `themes` 文件夹修改，而是将要替换的文件放在 `layouts` 文件夹里，因为主题更新后会换掉直接修改的文件。
 
 在`layouts`文件夹中创建`partials/comments.html`。
@@ -235,19 +235,19 @@ observer.observe(article, options);
 {{ end }}
 ```
 
-## 悬浮播放器{#xuanfubofangqi}
+## 悬浮播放器
 
 本网站的悬浮播放器可以跨网页播放，配置方法如下。
 
 
-### 后端{#houduan-2}
+### 后端
 
 本站播放器的原方案是：在LeanCloud `数据存储 - 文件` 中上传音频文件、专辑封面文件。歌词文件放在`static`文件夹下，以便直接引用。  
 
 然而，这种部署方式仅运行两天就出现欠费的情况，于是改用直链工具：[涟漪文件直链](https://up.ly93.cc/)。
 
 
-### 前端{#qianduan-2}
+### 前端
 把`themes/header/basic.html`复制到`layouts/header/`下,在第 17 行加入以下代码：
 
 
@@ -354,7 +354,7 @@ $(element).wrap("<a href='{{i18n "pathAppendix"}}/radio/pick/'></a>");
 悬浮播放器的原理是：在退出网页时，如果音频处于播放状态，则在缓存中存储进度，新网页打开时，检查是否有缓存，若有则恢复播放。这个功能在苹果设备中不受支持。  
 
 
-## 说说{#shuoshuo}
+## 说说
 本站的说说是一个把众多用 Markdown 写成的短篇图文组织到一页的功能，原理是创建两个自定义短代码 include 和 memo（源码在`/layouts/shortcodes`中）。
 前者使用了Hugo的新特性，从指定路径获取渲染好的HTML并放置在页面上；后者是一个支持在内部写入 Markdown 和短代码的`<span>`元素。  
 另外，说说页的布局也做了个性化修改（见`/layouts/partials`），我还写了一个自动新建说说的 Shell 脚本（在`/content/shuoshuo-single/`中）。  
@@ -364,12 +364,12 @@ $(element).wrap("<a href='{{i18n "pathAppendix"}}/radio/pick/'></a>");
 
 
 --更新于2024/2/12--  
-## 看板娘{#kanban}
+## 看板娘
 看板娘一词源于日语，是店铺为吸引人气而设置的形象代言。  
 页面右下角的人偶即为本站的「数字看板娘」。它源于GitHub上的开源项目：
 {{< github repo="stevenjoezhang/live2d-widget" >}}  
 具体来说，该插件有两部分需要配置。 
-### 页面引用{#yemianyinyong}  
+### 页面引用
 首先，你需要克隆上述 Repo，放在`static`文件夹中，然后按照README文件进行自定义。  
 像前文所述的一样，在`/layouts/`中拷贝相应的主题文件。我拷贝的是`footer.html`。  
 在该文件适当位置加入 JavaScript 引用：

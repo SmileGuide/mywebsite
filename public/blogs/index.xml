@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Sun, 18 Feb 2024 18:00:54 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Feb 2024 00:03:48 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于本站的建造</title>
       <link>https://smileguide.github.io/blogs/site-build/</link>
@@ -18,16 +18,19 @@
   这里在技术上梳理了本站的建造流程及一些功能的实现方法。
 &lt;/div&gt;
 
+
+
 &lt;h2 class=&#34;relative group&#34;&gt;前端框架 
-    &lt;div id=&#34;qianduankuangjia&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#qianduankuangjia&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
+
 &lt;h3 class=&#34;relative group&#34;&gt;Hugo 
     &lt;div id=&#34;hugo&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -37,14 +40,15 @@
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#hugo&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;
-&lt;p&gt;本站前端采用静态网站生成器 &lt;a href=&#34;https://gohugo.io/&#34;   target=&#34;_blank&#34;&gt;
+&lt;/h3&gt;&lt;p&gt;本站前端采用静态网站生成器 &lt;a href=&#34;https://gohugo.io/&#34;   target=&#34;_blank&#34;&gt;
     Hugo&lt;/a&gt; 制作，所用主题为 &lt;a href=&#34;https://blowfish.page/&#34;   target=&#34;_blank&#34;&gt;
     Blowfish&lt;/a&gt;。
 Blowfish 是&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&gt;
     Nuno Coração&lt;/a&gt; 建设维护的，文档为英文。
 &lt;a href=&#34;https://blowfish.page/docs/&#34;   target=&#34;_blank&#34;&gt;
     Blowfish 文档&lt;/a&gt; 内详细说明了 Hugo 和主题的使用方法，这里不再赘述。&lt;/p&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;GitHub Pages 
     &lt;div id=&#34;github-pages&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -54,8 +58,7 @@ Blowfish 是&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&gt;
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#github-pages&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;
-&lt;p&gt;本站前端部署在 &lt;a href=&#34;https://pages.github.com/&#34;   target=&#34;_blank&#34;&gt;
+&lt;/h3&gt;&lt;p&gt;本站前端部署在 &lt;a href=&#34;https://pages.github.com/&#34;   target=&#34;_blank&#34;&gt;
     GitHub Pages&lt;/a&gt; 上。
 
   
@@ -93,6 +96,8 @@ Blowfish 是&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&gt;
     GitHub&lt;/a&gt;  上添加本地SSH密钥。&lt;/p&gt;
 &lt;p&gt;在&lt;a href=&#34;https://github.com/&#34;   target=&#34;_blank&#34;&gt;
     GitHub&lt;/a&gt;上建立一个名为 &lt;code&gt;&amp;lt;账号&amp;gt;.github.io&lt;/code&gt; 的公有 Repo 作为网页文件的容器，再建立一个名称随意的私有 Repo 作为网站 Hugo 源文件的容器。把本地用 Hugo 写好的文件提交到私有 Repo 中，然后用 GitHub Actions 把私有 Repo 链接到公有 Repo 。&lt;/p&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;GitHub Actions 
     &lt;div id=&#34;github-actions&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -102,8 +107,7 @@ Blowfish 是&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&gt;
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#github-actions&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://docs.github.com/zh/actions&#34;   target=&#34;_blank&#34;&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://docs.github.com/zh/actions&#34;   target=&#34;_blank&#34;&gt;
     GitHub Actions&lt;/a&gt; 是 GitHub 提供的自动化服务。它会把私有 Repo 中的源文件在服务器中用 Hugo 自动生成网页文件，而不用我们在本地执行&lt;code&gt;hugo&lt;/code&gt;指令，再把&lt;code&gt;public&lt;/code&gt;文件夹中的网页文件提交到公有 Repo。这样我们再更新网站内容时需要运行的指令更少，省时省力。&lt;/p&gt;
 &lt;p&gt;要配置 GitHub Actions，你需要在本地网站根目录新建&lt;code&gt;.github/workflows/hugo.yaml&lt;/code&gt;，把以下内容写到YAML文件里。&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Action名称&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;#自定义名称&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
@@ -146,6 +150,8 @@ Blowfish 是&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&gt;
 &lt;p&gt;配置你的网站主页，写写帖子，接着 &lt;code&gt;push&lt;/code&gt; 一下本地仓库。&lt;/p&gt;
 &lt;p&gt;提交代码之后，GitHub Actions 会根据源码，用 Hugo 自动生成网页，并发布到公有 Repo ，这又会触发 GitHub Pages 的 Action。&lt;/p&gt;
 &lt;p&gt;现在便完成了 GitHub Pages 的自动发布配置。此后，你只要持续提交源码到私有 Repo，网站就会自动发布。&lt;/p&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;Vercel 
     &lt;div id=&#34;vercel&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -155,22 +161,24 @@ Blowfish 是&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&gt;
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#vercel&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;
-&lt;p&gt;鉴于部署平台 Vercel 性能优于 GitHub Pages，2月15日起本站所有页面均部署于 Vercel，弃用GitHub Pages。&lt;br&gt;
+&lt;/h3&gt;&lt;p&gt;鉴于部署平台 Vercel 性能优于 GitHub Pages，2月15日起本站所有页面均部署于 Vercel，弃用GitHub Pages。&lt;br&gt;
 然而，使用 Vercel 的前提是你拥有一个域名，然后给 Vercel 工程设置自定义域名，因为 Vercel 提供的子域名被GFW进行了DNS污染。&lt;br&gt;
 &amp;ndash;更新于2024/2/18&amp;ndash;&lt;/p&gt;
+
+
 &lt;h2 class=&#34;relative group&#34;&gt;评论系统和浏览量统计 
-    &lt;div id=&#34;pinglunxitongheliulanliangtongji&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E5%92%8C%E6%B5%8F%E8%A7%88%E9%87%8F%E7%BB%9F%E8%AE%A1&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#pinglunxitongheliulanliangtongji&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E5%92%8C%E6%B5%8F%E8%A7%88%E9%87%8F%E7%BB%9F%E8%AE%A1&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;
-&lt;p&gt;本站采用带后端的评论系统 &lt;a href=&#34;https://waline.js.org/&#34;   target=&#34;_blank&#34;&gt;
+&lt;/h2&gt;&lt;p&gt;本站采用带后端的评论系统 &lt;a href=&#34;https://waline.js.org/&#34;   target=&#34;_blank&#34;&gt;
     Waline&lt;/a&gt; ，但完全免费。&lt;/p&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;LeanCloud 
     &lt;div id=&#34;leancloud&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -180,46 +188,48 @@ Blowfish 是&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&gt;
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#leancloud&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;
-&lt;p&gt;在配置 Waline 前，你需要配置 LeanCloud 数据库。&lt;/p&gt;
+&lt;/h3&gt;&lt;p&gt;在配置 Waline 前，你需要配置 LeanCloud 数据库。&lt;/p&gt;
 &lt;p&gt;注册 LeanCloud 国际版账号，创建开发版应用，名称随意。这将是你网站的评论数据库。&lt;/p&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;服务端配置 
-    &lt;div id=&#34;fuwuduanpeizhi&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E6%9C%8D%E5%8A%A1%E7%AB%AF%E9%85%8D%E7%BD%AE&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#fuwuduanpeizhi&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E6%9C%8D%E5%8A%A1%E7%AB%AF%E9%85%8D%E7%BD%AE&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;
-&lt;p&gt;本网站先是使用免费的部署平台 Deta（没有被墙且速度较快），在注册域名后使用免费的 Vercel 部署评论前端。你也可以使用别的平台，Waline 官网有介绍。&lt;/p&gt;
+&lt;/h3&gt;&lt;p&gt;本网站先是使用免费的部署平台 Deta（没有被墙且速度较快），在注册域名后使用免费的 Vercel 部署评论前端。你也可以使用别的平台，Waline 官网有介绍。&lt;/p&gt;
+
+
 &lt;h4 class=&#34;relative group&#34;&gt;后端 
-    &lt;div id=&#34;houduan&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E5%90%8E%E7%AB%AF&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#houduan&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%90%8E%E7%AB%AF&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h4&gt;
-&lt;p&gt;注册 Deta 账号，然后到 &lt;a href=&#34;https://deta.space/discovery/@lizheming/waline&#34;   target=&#34;_blank&#34;&gt;
+&lt;/h4&gt;&lt;p&gt;注册 Deta 账号，然后到 &lt;a href=&#34;https://deta.space/discovery/@lizheming/waline&#34;   target=&#34;_blank&#34;&gt;
     Deta 应用市场 Waline 页&lt;/a&gt; ，点击 Install on Space 安装应用到工作区。&lt;/p&gt;
 &lt;p&gt;安装完成后可在 &lt;a href=&#34;https://deta.space/&#34;   target=&#34;_blank&#34;&gt;
     工作区&lt;/a&gt; 看到应用。点击应用左上角的小圆圈，进入 &lt;code&gt;Settings - Configuration&lt;/code&gt; 修改环境变量，把&lt;code&gt;LEAN_ID、lEAN_KEY&lt;/code&gt;和&lt;code&gt;LEAN_MASTER_KEY&lt;/code&gt;设置为LeanCloud &lt;code&gt;设置 - 应用凭证&lt;/code&gt;中的&lt;code&gt;AppID&lt;/code&gt;、&lt;code&gt;AppKey&lt;/code&gt;和&lt;code&gt;MasterKey&lt;/code&gt;。&lt;/p&gt;
 &lt;p&gt;现在便完成了评论后端的基本配置。&lt;/p&gt;
+
+
 &lt;h4 class=&#34;relative group&#34;&gt;前端 
-    &lt;div id=&#34;qianduan&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E5%89%8D%E7%AB%AF&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#qianduan&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%89%8D%E7%AB%AF&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h4&gt;
-&lt;p&gt;这是需要修改 Hugo 主题的操作，但不是直接进入 &lt;code&gt;themes&lt;/code&gt; 文件夹修改，而是将要替换的文件放在 &lt;code&gt;layouts&lt;/code&gt; 文件夹里，因为主题更新后会换掉直接修改的文件。&lt;/p&gt;
+&lt;/h4&gt;&lt;p&gt;这是需要修改 Hugo 主题的操作，但不是直接进入 &lt;code&gt;themes&lt;/code&gt; 文件夹修改，而是将要替换的文件放在 &lt;code&gt;layouts&lt;/code&gt; 文件夹里，因为主题更新后会换掉直接修改的文件。&lt;/p&gt;
 &lt;p&gt;在&lt;code&gt;layouts&lt;/code&gt;文件夹中创建&lt;code&gt;partials/comments.html&lt;/code&gt;。&lt;/p&gt;
 &lt;p&gt;进入 Deta 工作区，点击应用左上角的小圆圈，点击 Open App 进入 Waline 应用服务端，复制链接。这是你即将填入源码的 &lt;code&gt;ServerURL&lt;/code&gt; 。&lt;/p&gt;
 &lt;p&gt;以下是本站评论的源码，除了填入 &lt;code&gt;ServerURL&lt;/code&gt; ，你也可以根据需要自行修改，再填入&lt;code&gt;comments.html&lt;/code&gt;中。&lt;/p&gt;
@@ -328,41 +338,44 @@ Blowfish 是&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;script&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{ else }}  
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{ end }}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 class=&#34;relative group&#34;&gt;悬浮播放器 
-    &lt;div id=&#34;xuanfubofangqi&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;悬浮播放器 
+    &lt;div id=&#34;%E6%82%AC%E6%B5%AE%E6%92%AD%E6%94%BE%E5%99%A8&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#xuanfubofangqi&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E6%82%AC%E6%B5%AE%E6%92%AD%E6%94%BE%E5%99%A8&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;
-&lt;p&gt;本网站的悬浮播放器可以跨网页播放，配置方法如下。&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;本网站的悬浮播放器可以跨网页播放，配置方法如下。&lt;/p&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;后端 
-    &lt;div id=&#34;houduan-2&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E5%90%8E%E7%AB%AF-1&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#houduan-2&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%90%8E%E7%AB%AF-1&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;
-&lt;p&gt;本站播放器的原方案是：在LeanCloud &lt;code&gt;数据存储 - 文件&lt;/code&gt; 中上传音频文件、专辑封面文件。歌词文件放在&lt;code&gt;static&lt;/code&gt;文件夹下，以便直接引用。&lt;/p&gt;
+&lt;/h3&gt;&lt;p&gt;本站播放器的原方案是：在LeanCloud &lt;code&gt;数据存储 - 文件&lt;/code&gt; 中上传音频文件、专辑封面文件。歌词文件放在&lt;code&gt;static&lt;/code&gt;文件夹下，以便直接引用。&lt;/p&gt;
 &lt;p&gt;然而，这种部署方式仅运行两天就出现欠费的情况，于是改用直链工具：&lt;a href=&#34;https://up.ly93.cc/&#34;   target=&#34;_blank&#34;&gt;
     涟漪文件直链&lt;/a&gt;。&lt;/p&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;前端 
-    &lt;div id=&#34;qianduan-2&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E5%89%8D%E7%AB%AF-1&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#qianduan-2&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%89%8D%E7%AB%AF-1&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;
-&lt;p&gt;把&lt;code&gt;themes/header/basic.html&lt;/code&gt;复制到&lt;code&gt;layouts/header/&lt;/code&gt;下,在第 17 行加入以下代码：&lt;/p&gt;
+&lt;/h3&gt;&lt;p&gt;把&lt;code&gt;themes/header/basic.html&lt;/code&gt;复制到&lt;code&gt;layouts/header/&lt;/code&gt;下,在第 17 行加入以下代码：&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;link&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;rel&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;stylesheet&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;href&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;script&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;src&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;script&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;div&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;id&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;aplayera&amp;#34;&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;style&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;opacity:0.8;color: var(--tw-prose-headings);&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;div&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
@@ -459,17 +472,18 @@ Blowfish 是&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;}&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;],&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;悬浮播放器的原理是：在退出网页时，如果音频处于播放状态，则在缓存中存储进度，新网页打开时，检查是否有缓存，若有则恢复播放。这个功能在苹果设备中不受支持。&lt;/p&gt;
+
+
 &lt;h2 class=&#34;relative group&#34;&gt;说说 
-    &lt;div id=&#34;shuoshuo&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E8%AF%B4%E8%AF%B4&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#shuoshuo&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E8%AF%B4%E8%AF%B4&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;
-&lt;p&gt;本站的说说是一个把众多用 Markdown 写成的短篇图文组织到一页的功能，原理是创建两个自定义短代码 include 和 memo（源码在&lt;code&gt;/layouts/shortcodes&lt;/code&gt;中）。
+&lt;/h2&gt;&lt;p&gt;本站的说说是一个把众多用 Markdown 写成的短篇图文组织到一页的功能，原理是创建两个自定义短代码 include 和 memo（源码在&lt;code&gt;/layouts/shortcodes&lt;/code&gt;中）。
 前者使用了Hugo的新特性，从指定路径获取渲染好的HTML并放置在页面上；后者是一个支持在内部写入 Markdown 和短代码的&lt;code&gt;&amp;lt;span&amp;gt;&lt;/code&gt;元素。&lt;br&gt;
 另外，说说页的布局也做了个性化修改（见&lt;code&gt;/layouts/partials&lt;/code&gt;），我还写了一个自动新建说说的 Shell 脚本（在&lt;code&gt;/content/shuoshuo-single/&lt;/code&gt;中）。&lt;/p&gt;
 &lt;p&gt;具体请见本站 Hugo 源代码仓库：
@@ -553,17 +567,18 @@ document.getElementById(&#39;github-4d14627a6284367469b3e1753ed15067-forks&#39;)
   &lt;/script&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&amp;ndash;更新于2024/2/12&amp;ndash;&lt;/p&gt;
+
+
 &lt;h2 class=&#34;relative group&#34;&gt;看板娘 
-    &lt;div id=&#34;kanban&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E7%9C%8B%E6%9D%BF%E5%A8%98&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#kanban&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E7%9C%8B%E6%9D%BF%E5%A8%98&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;
-&lt;p&gt;看板娘一词源于日语，是店铺为吸引人气而设置的形象代言。&lt;br&gt;
+&lt;/h2&gt;&lt;p&gt;看板娘一词源于日语，是店铺为吸引人气而设置的形象代言。&lt;br&gt;
 页面右下角的人偶即为本站的「数字看板娘」。它源于GitHub上的开源项目：
 &lt;a id=&#34;github-5243defe6dc593e5b718e5d34ac2b2d0&#34; target=&#34;_blank&#34; href=&#34;https://github.com/stevenjoezhang/live2d-widget&#34; class=&#34;cursor-pointer&#34;&gt;
   &lt;div
@@ -645,17 +660,18 @@ document.getElementById(&#39;github-5243defe6dc593e5b718e5d34ac2b2d0-forks&#39;)
   &lt;/script&gt;
 &lt;/a&gt;&lt;br&gt;
 具体来说，该插件有两部分需要配置。&lt;/p&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;页面引用 
-    &lt;div id=&#34;yemianyinyong&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E9%A1%B5%E9%9D%A2%E5%BC%95%E7%94%A8&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#yemianyinyong&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E9%A1%B5%E9%9D%A2%E5%BC%95%E7%94%A8&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;
-&lt;p&gt;首先，你需要克隆上述 Repo，放在&lt;code&gt;static&lt;/code&gt;文件夹中，然后按照README文件进行自定义。&lt;br&gt;
+&lt;/h3&gt;&lt;p&gt;首先，你需要克隆上述 Repo，放在&lt;code&gt;static&lt;/code&gt;文件夹中，然后按照README文件进行自定义。&lt;br&gt;
 像前文所述的一样，在&lt;code&gt;/layouts/&lt;/code&gt;中拷贝相应的主题文件。我拷贝的是&lt;code&gt;footer.html&lt;/code&gt;。&lt;br&gt;
 在该文件适当位置加入 JavaScript 引用：&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-diff&#34; data-lang=&#34;diff&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&amp;lt;footer id=&amp;#34;site-footer&amp;#34; class=&amp;#34;py-10 print:hidden&amp;#34;&amp;gt;
@@ -666,6 +682,8 @@ document.getElementById(&#39;github-5243defe6dc593e5b718e5d34ac2b2d0-forks&#39;)
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{ if .Site.Params.footer.showMenu | default true }}
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    {{ if .Site.Menus.footer }}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;请仔细阅读项目的README文件以了解如何自定义（如修改气泡提示文本、CSS等），这里不赘述。&lt;/p&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;API 
     &lt;div id=&#34;api&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -675,8 +693,7 @@ document.getElementById(&#39;github-5243defe6dc593e5b718e5d34ac2b2d0-forks&#39;)
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#api&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;
-&lt;p&gt;你可以使用该项目的官方API地址，但是更推荐在 Vercel 上部署一个，以便自定义模型。
+&lt;/h3&gt;&lt;p&gt;你可以使用该项目的官方API地址，但是更推荐在 Vercel 上部署一个，以便自定义模型。
 先克隆（或者复刻）下面的 Repo 到本地：&lt;br&gt;
 &lt;a id=&#34;github-b4af9da902f97ae74adaf5d7dafb7818&#34; target=&#34;_blank&#34; href=&#34;https://github.com/fghrsh/live2d_api&#34; class=&#34;cursor-pointer&#34;&gt;
   &lt;div
@@ -840,17 +857,18 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
 &lt;p&gt;花开一样的笑脸&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&amp;ndash;终&amp;ndash;&lt;/p&gt;
+
+
 &lt;h4 class=&#34;relative group&#34;&gt;另：本诗的外文版本翻译得很不错，你可以切换语言看一看。 
-    &lt;div id=&#34;另本诗的外文版本翻译得很不错你可以切换语言看一看&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E5%8F%A6%E6%9C%AC%E8%AF%97%E7%9A%84%E5%A4%96%E6%96%87%E7%89%88%E6%9C%AC%E7%BF%BB%E8%AF%91%E5%BE%97%E5%BE%88%E4%B8%8D%E9%94%99%E4%BD%A0%E5%8F%AF%E4%BB%A5%E5%88%87%E6%8D%A2%E8%AF%AD%E8%A8%80%E7%9C%8B%E4%B8%80%E7%9C%8B&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%8f%a6%e6%9c%ac%e8%af%97%e7%9a%84%e5%a4%96%e6%96%87%e7%89%88%e6%9c%ac%e7%bf%bb%e8%af%91%e5%be%97%e5%be%88%e4%b8%8d%e9%94%99%e4%bd%a0%e5%8f%af%e4%bb%a5%e5%88%87%e6%8d%a2%e8%af%ad%e8%a8%80%e7%9c%8b%e4%b8%80%e7%9c%8b&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%8F%A6%E6%9C%AC%E8%AF%97%E7%9A%84%E5%A4%96%E6%96%87%E7%89%88%E6%9C%AC%E7%BF%BB%E8%AF%91%E5%BE%97%E5%BE%88%E4%B8%8D%E9%94%99%E4%BD%A0%E5%8F%AF%E4%BB%A5%E5%88%87%E6%8D%A2%E8%AF%AD%E8%A8%80%E7%9C%8B%E4%B8%80%E7%9C%8B&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h4&gt;
-</description>
+&lt;/h4&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/gothic-stake/feature.jpg" />
     </item>
     
@@ -878,17 +896,18 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
 &lt;p&gt;纪念碑是他的墓碑&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;&amp;ndash;终&amp;ndash;&lt;/p&gt;
+
+
 &lt;h4 class=&#34;relative group&#34;&gt;另：本诗的外文版本翻译得很不错，你可以切换语言看一看。 
-    &lt;div id=&#34;另本诗的外文版本翻译得很不错你可以切换语言看一看&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E5%8F%A6%E6%9C%AC%E8%AF%97%E7%9A%84%E5%A4%96%E6%96%87%E7%89%88%E6%9C%AC%E7%BF%BB%E8%AF%91%E5%BE%97%E5%BE%88%E4%B8%8D%E9%94%99%E4%BD%A0%E5%8F%AF%E4%BB%A5%E5%88%87%E6%8D%A2%E8%AF%AD%E8%A8%80%E7%9C%8B%E4%B8%80%E7%9C%8B&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%8f%a6%e6%9c%ac%e8%af%97%e7%9a%84%e5%a4%96%e6%96%87%e7%89%88%e6%9c%ac%e7%bf%bb%e8%af%91%e5%be%97%e5%be%88%e4%b8%8d%e9%94%99%e4%bd%a0%e5%8f%af%e4%bb%a5%e5%88%87%e6%8d%a2%e8%af%ad%e8%a8%80%e7%9c%8b%e4%b8%80%e7%9c%8b&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%8F%A6%E6%9C%AC%E8%AF%97%E7%9A%84%E5%A4%96%E6%96%87%E7%89%88%E6%9C%AC%E7%BF%BB%E8%AF%91%E5%BE%97%E5%BE%88%E4%B8%8D%E9%94%99%E4%BD%A0%E5%8F%AF%E4%BB%A5%E5%88%87%E6%8D%A2%E8%AF%AD%E8%A8%80%E7%9C%8B%E4%B8%80%E7%9C%8B&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h4&gt;
-</description>
+&lt;/h4&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/memoriam/feature.jpg" />
     </item>
     
@@ -941,17 +960,18 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
 &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;p&gt;（编不下去）&lt;/p&gt;
 &lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+
+
 &lt;h2 class=&#34;relative group&#34;&gt;事实上，这是一句密文。 
-    &lt;div id=&#34;事实上这是一句密文&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E4%BA%8B%E5%AE%9E%E4%B8%8A%E8%BF%99%E6%98%AF%E4%B8%80%E5%8F%A5%E5%AF%86%E6%96%87&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e4%ba%8b%e5%ae%9e%e4%b8%8a%e8%bf%99%e6%98%af%e4%b8%80%e5%8f%a5%e5%af%86%e6%96%87&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E4%BA%8B%E5%AE%9E%E4%B8%8A%E8%BF%99%E6%98%AF%E4%B8%80%E5%8F%A5%E5%AF%86%E6%96%87&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;
-&lt;blockquote&gt;
+&lt;/h2&gt;&lt;blockquote&gt;
 &lt;p&gt;保尔思伊 / 疾苦已满楼 / 以一币摁须&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;把它的标点去掉：&lt;/p&gt;
@@ -1067,6 +1087,8 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
     &gt;这篇文章完成于数年前，由QQ空间移植而来。&lt;/span&gt;
 &lt;/div&gt;
 
+
+
 &lt;h2 class=&#34;relative group&#34;&gt;&lt;p style=&#34;text-align:center;&#34;&gt;· 一 ·&lt;/p&gt; 
     &lt;div id=&#34;yi&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1076,12 +1098,13 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#yi&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/10.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/10.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;↑这是一张合成的照片。背景摄于2022年7月24日，拍摄对象为大连市沙河口区星海广场。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This is a merged photo. The background was shot on July 24, 2022, the shooting spot of which located at Xinghai Square, Shahekou District, Dalian.&lt;/p&gt;
 &lt;/blockquote&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;背景素材： 
     &lt;div id=&#34;beijingsucai&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1091,8 +1114,7 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#beijingsucai&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/20.png&#34;&gt;&lt;/img&gt;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/20.png&#34;&gt;&lt;/img&gt;
 设备: VOG-AL10（华为自带长焦镜头）&lt;br&gt;
 焦距: 105mm(等效35mm胶片焦距)&lt;br&gt;
 拍摄位置:&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;br&gt;
@@ -1184,6 +1206,8 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
 十年 时 隔，人 和 风景 交错。幼小的那个我 时光机上 乘坐 穿梭时间了 好像。&lt;/p&gt;
 &lt;p&gt;由于日语的SOV语序，调整谓宾，再把状语放到恰当的位置，你就能理解😇
 此之谓“像翻译文言文一样翻译外语” 』&lt;/p&gt;
+
+
 &lt;h2 class=&#34;relative group&#34;&gt;&lt;p style=&#34;text-align:center;&#34;&gt;· 二 ·&lt;/p&gt; 
     &lt;div id=&#34;er&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1193,8 +1217,7 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#er&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/70.png&#34;&gt;&lt;/img&gt;
+&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/70.png&#34;&gt;&lt;/img&gt;
 设备: VOG-AL10（华为自带短焦镜头）&lt;br&gt;
 焦距: 主体6mm(等效35mm胶片焦距)&lt;br&gt;
 拍摄位置:&lt;br&gt;
@@ -1237,6 +1260,8 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
 &lt;blockquote&gt;
 &lt;p&gt;Moreover, since the moon will not reach the eastern ground level until around 2:20 a.m. the next day on June 5, while it will be 9:00 the next day before it reaches the due south position as shown in the picture ,and, at the same time, I can&amp;rsquo;t find a shooting place far north of Xinghai Square. Therefore, I can only take two photos and then merge them.&lt;/p&gt;
 &lt;/blockquote&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;因此，拍摄分为两个部分：  
     &lt;div id=&#34;so&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1246,8 +1271,7 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#so&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;
-&lt;blockquote&gt;
+&lt;/h3&gt;&lt;blockquote&gt;
 &lt;p&gt;Thus, the shooting is divided into two parts:&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;20时，在星海广场，拍摄星海湾跨海大桥；&lt;/p&gt;
@@ -1317,44 +1341,47 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
       <pubDate>Sun, 19 Feb 2023 09:06:11 +0800</pubDate>
       
       <guid>https://smileguide.github.io/blogs/hello-world/</guid>
-      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;h2 class=&#34;relative group&#34;&gt;我的第一个博客。 
-    &lt;div id=&#34;我的第一个博客&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>
+
+&lt;h2 class=&#34;relative group&#34;&gt;我的第一个博客。 
+    &lt;div id=&#34;%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e6%88%91%e7%9a%84%e7%ac%ac%e4%b8%80%e4%b8%aa%e5%8d%9a%e5%ae%a2&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;
-&lt;p&gt;这是我在个人网站上发表的第一篇博客。&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;这是我在个人网站上发表的第一篇博客。&lt;/p&gt;
+
+
 &lt;h2 class=&#34;relative group&#34;&gt;这个网站是怎么搭建的？ 
-    &lt;div id=&#34;这个网站是怎么搭建的&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E6%98%AF%E6%80%8E%E4%B9%88%E6%90%AD%E5%BB%BA%E7%9A%84&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e8%bf%99%e4%b8%aa%e7%bd%91%e7%ab%99%e6%98%af%e6%80%8e%e4%b9%88%e6%90%ad%e5%bb%ba%e7%9a%84&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E6%98%AF%E6%80%8E%E4%B9%88%E6%90%AD%E5%BB%BA%E7%9A%84&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;
-&lt;p&gt;我的个人网站是用 GitHub 的个人静态页面托管服务和静态页面构建工具 Hugo 共同建造而成的。
+&lt;/h2&gt;&lt;p&gt;我的个人网站是用 GitHub 的个人静态页面托管服务和静态页面构建工具 Hugo 共同建造而成的。
 有关详细信息，请搜索以下关键词：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;GitHub Pages&lt;/li&gt;
 &lt;li&gt;Hugo&lt;/li&gt;
 &lt;/ul&gt;
+
+
 &lt;h2 class=&#34;relative group&#34;&gt;中小学生守则（测试文本） 
-    &lt;div id=&#34;中小学生守则测试文本&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AE%88%E5%88%99%E6%B5%8B%E8%AF%95%E6%96%87%E6%9C%AC&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e4%b8%ad%e5%b0%8f%e5%ad%a6%e7%94%9f%e5%ae%88%e5%88%99%e6%b5%8b%e8%af%95%e6%96%87%e6%9c%ac&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AE%88%E5%88%99%E6%B5%8B%E8%AF%95%E6%96%87%E6%9C%AC&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;
-&lt;div id=&#34;typeit-29fe62e8a8c61889517139a4dc65bfec&#34;&gt;&lt;/div&gt;
+&lt;/h2&gt;&lt;div id=&#34;typeit-29fe62e8a8c61889517139a4dc65bfec&#34;&gt;&lt;/div&gt;
 
 &lt;script&gt;
     document.addEventListener(&#34;DOMContentLoaded&#34;, function () {
