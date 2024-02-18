@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Mon, 19 Feb 2024 00:24:44 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Feb 2024 00:26:25 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于本站的建造</title>
       <link>https://smileguide.github.io/blogs/site-build/</link>
@@ -788,7 +788,7 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        // 配置选项的具体用法见 README.md
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        initWidget({
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;            waifuPath: live2d_path + &amp;#34;waifu-tips.json&amp;#34;,
-&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gi&#34;&gt;+             apiPath: &amp;#34;你API的 Vercel 部署地址&amp;#34;,
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gi&#34;&gt;+             cdnPath: &amp;#34;你API的 Vercel 部署地址&amp;#34;,
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gi&#34;&gt;&lt;/span&gt;&lt;span class=&#34;gd&#34;&gt;-             //apiPath: &amp;#34;https://live2d.fghrsh.net/api/&amp;#34;,
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gd&#34;&gt;-             cdnPath: &amp;#34;https://fastly.jsdelivr.net/gh/fghrsh/live2d_api/&amp;#34;,
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;gd&#34;&gt;&lt;/span&gt;            tools: [&amp;#34;hitokoto&amp;#34;, &amp;#34;asteroids&amp;#34;, &amp;#34;switch-model&amp;#34;, &amp;#34;switch-texture&amp;#34;, &amp;#34;photo&amp;#34;, &amp;#34;info&amp;#34;, &amp;#34;quit&amp;#34;]
