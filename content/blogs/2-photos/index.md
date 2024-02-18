@@ -9,7 +9,7 @@ isCJKLanguage: true
 ---
 
 {{< alert >}}这篇文章完成于数年前，由QQ空间移植而来。{{</ alert >}}
-## <p style="text-align:center;">· 一 ·</p>{#yi}
+## <p style="text-align:center;">· 一 ·</p>
 <img src="/2photos/10.png"></img>
  
 ↑这是一张合成的照片。背景摄于2022年7月24日，拍摄对象为大连市沙河口区星海广场。
@@ -27,7 +27,7 @@ isCJKLanguage: true
 
 
 
-### 背景素材：{#beijingsucai}
+### 背景素材：
 
 <img src="/2photos/20.png"></img>
 设备: VOG-AL10（华为自带长焦镜头）  
@@ -210,7 +210,7 @@ isCJKLanguage: true
 
 
 
-## <p style="text-align:center;">· 二 ·</p>{#er}
+## <p style="text-align:center;">· 二 ·</p>
 
 <img src="/2photos/70.png"></img>
 设备: VOG-AL10（华为自带短焦镜头）  
@@ -333,7 +333,7 @@ isCJKLanguage: true
 
 
 
-### 因此，拍摄分为两个部分：  {#so}  
+### 因此，拍摄分为两个部分： 
 >Thus, the shooting is divided into two parts:  
 
 

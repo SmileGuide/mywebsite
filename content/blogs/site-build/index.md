@@ -410,4 +410,9 @@ $(element).wrap("<a href='{{i18n "pathAppendix"}}/radio/pick/'></a>");
 ````
 至此，你在博客页面上看到看板娘了。  
 另外，本站的自建API地址是 [live2dapi.karlukle.site](https://live2dapi.karlukle.site)，如果不想自建API，欢迎你来使用。  
---更新于2024/2/18--
+--更新于2024/2/18--  
+
+## 对 Blowfish 主题的贡献  
+- 增加简体中文翻译 #[1208](https://github.com/nunocoracao/blowfish/pull/1208)
+- 修补Bug：中日韩文本标题无法页内定位 #[1254](https://github.com/nunocoracao/blowfish/pull/1254)
+- 增加繁体中文翻译 #[1255](https://github.com/nunocoracao/blowfish/pull/1255)
