@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Mon, 19 Feb 2024 17:26:12 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Feb 2024 17:47:50 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Classical</title>
       <link>https://smileguide.github.io/en/radio/classical/</link>
@@ -69,8 +69,6 @@ font-family: &#39;Shippori Mincho&#39;, serif;
 font-family: &#39;Yuji Syuku&#39;, serif;
 font-family: &#39;Zhi Mang Xing&#39;, cursive;
 &lt;/style&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;Characters 
     &lt;div id=&#34;characters&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -80,7 +78,8 @@ font-family: &#39;Zhi Mang Xing&#39;, cursive;
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#characters&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;div class=&#34;mermaid&#34; align=&#34;middle&#34;&gt;
+&lt;/h2&gt;
+&lt;div class=&#34;mermaid&#34; align=&#34;middle&#34;&gt;
 	graph TD
 	dad[[Jin Chengmin]]:::jp--&gt;hy
 	mum((Seiko Amano)):::jp--&gt;hy((&#34; &#34;)):::hybrid
@@ -116,8 +115,6 @@ font-family: &#39;Zhi Mang Xing&#39;, cursive;
 	classDef herojp fill:#FAE78A
 	classDef hybrid fill:#C1DBDA
 &lt;/div&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;World View 
     &lt;div id=&#34;world-view&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -127,7 +124,8 @@ font-family: &#39;Zhi Mang Xing&#39;, cursive;
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#world-view&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;div class=&#34;mermaid&#34; align=&#34;middle&#34;&gt;
+&lt;/h2&gt;
+&lt;div class=&#34;mermaid&#34; align=&#34;middle&#34;&gt;
 	graph LR
 	earthlyworld[(Earthly World)]:::world
 	leafworld[(Leaf World)]:::world
@@ -151,8 +149,6 @@ font-family: &#39;Zhi Mang Xing&#39;, cursive;
 	click leafsoul &#34;/en/docs/myoc/pedia/#leafsoul&#34;
 	click husoul &#34;/en/docs/myoc/pedia/#husoul&#34;
 	&lt;/div&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;Timeline 
     &lt;div id=&#34;timeline&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -162,7 +158,8 @@ font-family: &#39;Zhi Mang Xing&#39;, cursive;
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#timeline&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;div class=&#34;mermaid&#34; align=&#34;middle&#34;&gt;
+&lt;/h2&gt;
+&lt;div class=&#34;mermaid&#34; align=&#34;middle&#34;&gt;
 	%%{init: { &#39;logLevel&#39;: &#39;debug&#39;, &#39;theme&#39;: &#39;forest&#39; } }%%
 timeline
     2000s : 2000&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Chengmin Met Seiko
@@ -194,8 +191,6 @@ timeline
 		color:#b5b5b5;
 	}
 &lt;/style&gt;
-
-
 &lt;h3 class=&#34;relative group&#34;&gt;Download source code: &lt;br/&gt; 
     &lt;div id=&#34;download-source-code-br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -205,7 +200,8 @@ timeline
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#download-source-code-br&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/glass.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/glass.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;If you&amp;rsquo;re having trouble with it, feel free to ask questions in the comments section!&lt;/p&gt;
 </description>
@@ -296,8 +292,6 @@ background:linear-gradient(to top left,#d39340,#ffd194);
   width: 240px;
 }
 &lt;/style&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;&lt;div id=&#34;karlukle&#34;&gt;Karlukle Amano ♂&lt;/div&gt; 
     &lt;div id=&#34;div-idkarluklekarlukle-amano-div&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -307,7 +301,8 @@ background:linear-gradient(to top left,#d39340,#ffd194);
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#div-idkarluklekarlukle-amano-div&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p class=&#34;card c1&#34;&gt;
+&lt;/h2&gt;
+&lt;p class=&#34;card c1&#34;&gt;
 &lt;span style=&#34;line-height: 0px;color:rgb(255,255,255,0.85);&#34;&gt;
 &lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px;&#34;&gt;
   &lt;span style=&#34;font-family: Yuji Syuku;color:#74ceff&#34;&gt;天野&lt;/span&gt;
@@ -325,8 +320,6 @@ background:linear-gradient(to top left,#d39340,#ffd194);
 &lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&amp;nbsp;The main character of the story, an 8-year-old second grade student in the elementary school division of an international school. Although originally from Saitama, Tokyo, he moved to Zhongshan District in Dalian with his parents and brother at the age of 6. At 7 years old, he unintentionally entered the Leaf World in a dream and became a tai, then transformed into an EL traveler after withstanding the Heavenly Torture. Now able to freely explore the Leaf World in his dreams, he wanders the Earthly World under the name Karlukle.&lt;/p&gt;
 &lt;hr/&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;&lt;div id=&#34;hunosuke&#34;&gt;Hunosuke Amano ♂&lt;/div&gt; 
     &lt;div id=&#34;div-idhunosukehunosuke-amano-div&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -336,7 +329,8 @@ background:linear-gradient(to top left,#d39340,#ffd194);
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#div-idhunosukehunosuke-amano-div&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p class=&#34;card c2&#34;&gt;
+&lt;/h2&gt;
+&lt;p class=&#34;card c2&#34;&gt;
 &lt;span style=&#34;line-height: 0px;color:rgb(255,255,255,0.85);&#34;&gt;
 &lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px;&#34;&gt;
   &lt;span style=&#34;font-family: Yuji Syuku;;color:#0081D9&#34;&gt;天野&lt;/span&gt;
@@ -357,8 +351,6 @@ background:linear-gradient(to top left,#d39340,#ffd194);
 &lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&amp;nbsp;Karlukle&#39;s brother, 15 years old, a third-year student at the junior high school division of an international school.He is kind, attentive, and responsible, often providing care and companionship to ease Karlukle&#39;s loneliness in the absence of their busy parents.&lt;/p&gt;
 &lt;hr/&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;&lt;div id=&#34;mirai&#34;&gt;Mirai Amano ♀&lt;/div&gt; 
     &lt;div id=&#34;div-idmiraimirai-amano-div&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -368,7 +360,8 @@ background:linear-gradient(to top left,#d39340,#ffd194);
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#div-idmiraimirai-amano-div&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p class=&#34;card c3&#34;&gt;
+&lt;/h2&gt;
+&lt;p class=&#34;card c3&#34;&gt;
 &lt;span style=&#34;line-height: 0px;color:rgb(255,255,255,0.85)&#34;&gt;
 &lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px;&#34;&gt;
   &lt;span style=&#34;font-family: Yuji Syuku;;color:#cc2d03&#34;&gt;天野&lt;/span&gt;
@@ -389,8 +382,6 @@ background:linear-gradient(to top left,#d39340,#ffd194);
 &lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&amp;nbsp;Karlukle&#39;s sister ,7 (at the time of death). At just 5 years old, she went to live with their grandmother in rural Fukushima after their grandfather&#39;s passing. One night, despite being thousands of miles apart, she and Karlukle shared the same dream where she witnessed him enduring the &#34;Heavenly Torture&#34; needed to become an EL traveler. Learning that he needed to withstand double the pain to transform, she selflessly sacrificed herself to help Karlukle overcome the difficulty and die in the dream. Since that night, Karlukle has kept the memories of their dream hidden in his heart. &lt;/p&gt;
 &lt;hr/&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;&lt;div id=&#34;seiko&#34;&gt;Seiko Amano ♀&lt;/div&gt; 
     &lt;div id=&#34;div-idseikoseiko-amano-div&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -400,7 +391,8 @@ background:linear-gradient(to top left,#d39340,#ffd194);
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#div-idseikoseiko-amano-div&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p class=&#34;card c4&#34;&gt;
+&lt;/h2&gt;
+&lt;p class=&#34;card c4&#34;&gt;
 &lt;span style=&#34;line-height: 0px;;color:rgb(255,255,255,0.85)&#34;&gt;
 &lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px&#34;&gt;
   &lt;span style=&#34;font-family: Yuji Syuku;;color:#14cbcf&#34;&gt;天野&lt;/span&gt;
@@ -421,8 +413,6 @@ background:linear-gradient(to top left,#d39340,#ffd194);
 &lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&amp;nbsp;Karlukle&#39;s mother, 36, born in Fukushima, a foreign teacher at a high school in Dalian.&lt;/p&gt;
 &lt;hr/&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;&lt;div id=&#34;chengmin&#34;&gt;Jin Chengmin ♂&lt;/div&gt; 
     &lt;div id=&#34;div-idchengminjin-chengmin-div&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -432,7 +422,8 @@ background:linear-gradient(to top left,#d39340,#ffd194);
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#div-idchengminjin-chengmin-div&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p class=&#34;card c5&#34;&gt;
+&lt;/h2&gt;
+&lt;p class=&#34;card c5&#34;&gt;
 &lt;span style=&#34;line-height: 0px;color:rgb(255,255,255,0.85)&#34;&gt;&amp;nbsp;&amp;nbsp;
 &lt;ruby style=&#34;font-family: Noto Serif SC;font-size: 50px;&#34;&gt;
   &lt;span style=&#34;font-family: Yuji Syuku;;color:#444d56&#34;&gt;金&lt;/span&gt;
@@ -472,8 +463,6 @@ background:linear-gradient(to top left,#d39340,#ffd194);
 		color:#b5b5b5;
 	}
 &lt;/style&gt;
-
-
 &lt;h3 class=&#34;relative group&#34;&gt;Download source code: &lt;br/&gt; 
     &lt;div id=&#34;download-source-code-br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -483,7 +472,8 @@ background:linear-gradient(to top left,#d39340,#ffd194);
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#download-source-code-br&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/board.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/board.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;If you&amp;rsquo;re having trouble with it, feel free to ask questions in the comments section!&lt;/p&gt;
 </description>
@@ -517,9 +507,7 @@ background:linear-gradient(to top left,#d39340,#ffd194);
       <pubDate>Tue, 06 Jun 2023 21:23:49 +0800</pubDate>
       
       <guid>https://smileguide.github.io/en/docs/myoc/pedia/</guid>
-      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>
-
-&lt;h2 class=&#34;relative group&#34;&gt;&lt;span id=&#34;earthlyworld&#34;&gt;Earthly World&lt;/span&gt; 
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;h2 class=&#34;relative group&#34;&gt;&lt;span id=&#34;earthlyworld&#34;&gt;Earthly World&lt;/span&gt; 
     &lt;div id=&#34;span-idearthlyworldearthly-worldspan&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
@@ -528,9 +516,8 @@ background:linear-gradient(to top left,#d39340,#ffd194);
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#span-idearthlyworldearthly-worldspan&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;The world we live in.&lt;/p&gt;
-
-
+&lt;/h2&gt;
+&lt;p&gt;The world we live in.&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;&lt;span id=&#34;husoul&#34;&gt;Mankind&amp;rsquo;s Motosoul 
     &lt;div id=&#34;span-idhusoulmankinds-motosoul&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -540,9 +527,8 @@ background:linear-gradient(to top left,#d39340,#ffd194);
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#span-idhusoulmankinds-motosoul&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;&lt;em&gt;Moto&lt;/em&gt; is a Japanese word that means &lt;em&gt;original&lt;/em&gt;.Mankind&amp;rsquo;s Motosoul is the original soul of a person.&lt;/p&gt;
-
-
+&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Moto&lt;/em&gt; is a Japanese word that means &lt;em&gt;original&lt;/em&gt;.Mankind&amp;rsquo;s Motosoul is the original soul of a person.&lt;/p&gt;
 &lt;h3 class=&#34;relative group&#34;&gt;Sufaddition of Motosoul 
     &lt;div id=&#34;sufaddition-of-motosoul&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -552,9 +538,8 @@ background:linear-gradient(to top left,#d39340,#ffd194);
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#sufaddition-of-motosoul&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;&lt;p&gt;When two Owners of Mankind&amp;rsquo;s&amp;rsquo;s True Soul are subjected to the Heavenly Torture, due to the fact that two EL Travellers cannot exist simultaneously, the pain is halved. The first to arrive will successfully become an EL Traveller, with double the spiritual energy bonus, while the other&amp;rsquo;s soul will be shattered.&lt;/p&gt;
-
-
+&lt;/h3&gt;
+&lt;p&gt;When two Owners of Mankind&amp;rsquo;s&amp;rsquo;s True Soul are subjected to the Heavenly Torture, due to the fact that two EL Travellers cannot exist simultaneously, the pain is halved. The first to arrive will successfully become an EL Traveller, with double the spiritual energy bonus, while the other&amp;rsquo;s soul will be shattered.&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;&lt;span id=&#34;leafworld&#34;&gt;Leaf World 
     &lt;div id=&#34;span-idleafworldleaf-world&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -564,9 +549,8 @@ background:linear-gradient(to top left,#d39340,#ffd194);
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#span-idleafworldleaf-world&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;Parallel worlds in the fourth dimension. The World of Leaves can establish connections and communicate with the Owners of Mankind&amp;rsquo;s Motosoul through mental control. Dreams are the only way to travel between Our World and the World of Leaves through the four-dimensional axis. It is said that only children can have such a &lt;em&gt;dream of the Leaf World&lt;/em&gt;.&lt;/p&gt;
-
-
+&lt;/h2&gt;
+&lt;p&gt;Parallel worlds in the fourth dimension. The World of Leaves can establish connections and communicate with the Owners of Mankind&amp;rsquo;s Motosoul through mental control. Dreams are the only way to travel between Our World and the World of Leaves through the four-dimensional axis. It is said that only children can have such a &lt;em&gt;dream of the Leaf World&lt;/em&gt;.&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;&lt;span id=&#34;leafsoul&#34;&gt;Leaf Motosoul 
     &lt;div id=&#34;span-idleafsoulleaf-motosoul&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -576,9 +560,8 @@ background:linear-gradient(to top left,#d39340,#ffd194);
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#span-idleafsoulleaf-motosoul&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;The projection of the soul of Owners of Mankind&amp;rsquo;s Motosoul in the Leaf World.&lt;/p&gt;
-
-
+&lt;/h2&gt;
+&lt;p&gt;The projection of the soul of Owners of Mankind&amp;rsquo;s Motosoul in the Leaf World.&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;&lt;span id=&#34;tay&#34;&gt;tai 
     &lt;div id=&#34;span-idtaytai&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -588,9 +571,8 @@ background:linear-gradient(to top left,#d39340,#ffd194);
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#span-idtaytai&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;After arriving in the World of Leaves, the owner of Mankind&amp;rsquo;s Motosoul loses their freedom and cannot return until they become an EL Traveller. Such a person who loses their freedom is called a tai (meaning &lt;em&gt;body&lt;/em&gt; in Japanese)&lt;/p&gt;
-
-
+&lt;/h2&gt;
+&lt;p&gt;After arriving in the World of Leaves, the owner of Mankind&amp;rsquo;s Motosoul loses their freedom and cannot return until they become an EL Traveller. Such a person who loses their freedom is called a tai (meaning &lt;em&gt;body&lt;/em&gt; in Japanese)&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;&lt;span id=&#34;eltraveller&#34;&gt;EL Traveller 
     &lt;div id=&#34;span-ideltravellerel-traveller&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -600,9 +582,8 @@ background:linear-gradient(to top left,#d39340,#ffd194);
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#span-ideltravellerel-traveller&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;An Owner of Mankind&amp;rsquo;s Motosoul who can travel back and forth between Our World and the Leaf World through dreams. Karlukle is an EL Traveller who gains L-abilities every night by sleepwalking in the Leaf World and lands in various corners of Earthly World to engage in conversations.&lt;/p&gt;
-
-
+&lt;/h2&gt;
+&lt;p&gt;An Owner of Mankind&amp;rsquo;s Motosoul who can travel back and forth between Our World and the Leaf World through dreams. Karlukle is an EL Traveller who gains L-abilities every night by sleepwalking in the Leaf World and lands in various corners of Earthly World to engage in conversations.&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;&lt;em&gt;GOTENSAMA&lt;/em&gt; 
     &lt;div id=&#34;gotensama&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -612,9 +593,8 @@ background:linear-gradient(to top left,#d39340,#ffd194);
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#gotensama&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;The personification of Leaf World, which means &lt;em&gt;Heaven Lord&lt;/em&gt; in Japanese.&lt;/p&gt;
-
-
+&lt;/h2&gt;
+&lt;p&gt;The personification of Leaf World, which means &lt;em&gt;Heaven Lord&lt;/em&gt; in Japanese.&lt;/p&gt;
 &lt;h3 class=&#34;relative group&#34;&gt;&lt;span id=&#34;gotensamastorture&#34;&gt;Heavenly Torture 
     &lt;div id=&#34;span-idgotensamastortureheavenly-torture&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -624,9 +604,8 @@ background:linear-gradient(to top left,#d39340,#ffd194);
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#span-idgotensamastortureheavenly-torture&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;&lt;p&gt;The torture of Leaf World which involves both physical and mental torment. When being subjected to the Heavenly Torture, there is a slow-splitting pain  in the body and great despair in the mind. To gain freedom, one must endure the torture and become an EL Traveller.&lt;/p&gt;
-
-
+&lt;/h3&gt;
+&lt;p&gt;The torture of Leaf World which involves both physical and mental torment. When being subjected to the Heavenly Torture, there is a slow-splitting pain  in the body and great despair in the mind. To gain freedom, one must endure the torture and become an EL Traveller.&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;Owner of Mankind&amp;rsquo;s Motosoul 
     &lt;div id=&#34;owner-of-mankinds-motosoul&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -636,7 +615,8 @@ background:linear-gradient(to top left,#d39340,#ffd194);
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#owner-of-mankinds-motosoul&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;Humans(those who possess souls).&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p&gt;Humans(those who possess souls).&lt;/p&gt;
 </description>
       
     </item>
@@ -656,8 +636,6 @@ background:linear-gradient(to top left,#d39340,#ffd194);
 		color:#b5b5b5;
 	}
 &lt;/style&gt;
-
-
 &lt;h3 class=&#34;relative group&#34;&gt;Download source code: &lt;br/&gt; 
     &lt;div id=&#34;download-source-code-br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -667,7 +645,8 @@ background:linear-gradient(to top left,#d39340,#ffd194);
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#download-source-code-br&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/screenshot.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/screenshot.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;If you&amp;rsquo;re having trouble with it, feel free to ask questions in the comments section!&lt;/p&gt;
 </description>
@@ -825,46 +804,41 @@ background:linear-gradient(to top left,#d39340,#ffd194);
       <pubDate>Tue, 06 Jun 2023 23:00:25 +0800</pubDate>
       
       <guid>https://smileguide.github.io/en/docs/myoc/questionaire/</guid>
-      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>
-
-&lt;h2 class=&#34;relative group&#34;&gt;Why use the family name &amp;ldquo;Amano(天野)&amp;rdquo;? 
-    &lt;div id=&#34;why-use-the-family-name-amano%E5%A4%A9%E9%87%8E&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;h2 class=&#34;relative group&#34;&gt;Why use the family name &amp;ldquo;Amano(天野)&amp;rdquo;? 
+    &lt;div id=&#34;why-use-the-family-name-amano天野&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#why-use-the-family-name-amano%E5%A4%A9%E9%87%8E&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#why-use-the-family-name-amano%e5%a4%a9%e9%87%8e&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;I have been searching for a family that sounds catchy in English. The word &amp;ldquo;Ama(天)&amp;rdquo; related to the theme of this story attracted me.&lt;/p&gt;
-
-
+&lt;/h2&gt;
+&lt;p&gt;I have been searching for a family that sounds catchy in English. The word &amp;ldquo;Ama(天)&amp;rdquo; related to the theme of this story attracted me.&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;What is the origin of the name &amp;ldquo;Karlukle(カルクル)&amp;rdquo;? 
-    &lt;div id=&#34;what-is-the-origin-of-the-name-karlukle%E3%82%AB%E3%83%AB%E3%82%AF%E3%83%AB&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;what-is-the-origin-of-the-name-karlukleカルクル&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-the-origin-of-the-name-karlukle%E3%82%AB%E3%83%AB%E3%82%AF%E3%83%AB&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-the-origin-of-the-name-karlukle%e3%82%ab%e3%83%ab%e3%82%af%e3%83%ab&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;I first gave the protagonist an English name &amp;ldquo;Karlukle&amp;rdquo;.
+&lt;/h2&gt;
+&lt;p&gt;I first gave the protagonist an English name &amp;ldquo;Karlukle&amp;rdquo;.
 Karlukle consists of two parts, &lt;em&gt;Karl&lt;/em&gt; is a Germanic and Scandinavian variant of &amp;ldquo;Charles&amp;rdquo;, and &lt;em&gt;Ukle&lt;/em&gt; is taken from &lt;em&gt;Ukulele&lt;/em&gt;.
 At the same time, when translating Karlukle into Katakana, I learned from the name of Howl&amp;rsquo;s apprentice in Studio Ghibli&amp;rsquo;s anime film &lt;em&gt;Howl&amp;rsquo;s Moving Castle(ハウルの動く城, 2004)&lt;/em&gt;.&lt;/p&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;What is the meaning of the name &lt;em&gt;Jin Chengmin(金丞旻)&lt;/em&gt;? 
-    &lt;div id=&#34;what-is-the-meaning-of-the-name-jin-chengmin%E9%87%91%E4%B8%9E%E6%97%BB&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;what-is-the-meaning-of-the-name-jin-chengmin金丞旻&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-the-meaning-of-the-name-jin-chengmin%E9%87%91%E4%B8%9E%E6%97%BB&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#what-is-the-meaning-of-the-name-jin-chengmin%e9%87%91%e4%b8%9e%e6%97%bb&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;&lt;em&gt;Min(旻)&lt;/em&gt; means sky, corresponding to &lt;em&gt;Amano&lt;/em&gt;.&lt;/p&gt;
-
-
+&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Min(旻)&lt;/em&gt; means sky, corresponding to &lt;em&gt;Amano&lt;/em&gt;.&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;Why is it the &lt;em&gt;Leaf&lt;/em&gt; World? 
     &lt;div id=&#34;why-is-it-the-leaf-world&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -874,7 +848,8 @@ At the same time, when translating Karlukle into Katakana, I learned from the na
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#why-is-it-the-leaf-world&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;The Parallel universe is connected by the fourth dimension, which easily reminds people of countless parallel leaves on a branch.&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p&gt;The Parallel universe is connected by the fourth dimension, which easily reminds people of countless parallel leaves on a branch.&lt;/p&gt;
 </description>
       
     </item>
@@ -894,8 +869,6 @@ At the same time, when translating Karlukle into Katakana, I learned from the na
 		color:#b5b5b5;
 	}
 &lt;/style&gt;
-
-
 &lt;h3 class=&#34;relative group&#34;&gt;Download source code: &lt;br/&gt; 
     &lt;div id=&#34;download-source-code-br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -905,7 +878,8 @@ At the same time, when translating Karlukle into Katakana, I learned from the na
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#download-source-code-br&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/schedule.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/schedule.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;If you&amp;rsquo;re having trouble with it, feel free to ask questions in the comments section!&lt;/p&gt;
 </description>
@@ -948,8 +922,6 @@ At the same time, when translating Karlukle into Katakana, I learned from the na
 		color:#b5b5b5;
 	}
 &lt;/style&gt;
-
-
 &lt;h3 class=&#34;relative group&#34;&gt;Download source code: &lt;br/&gt; 
     &lt;div id=&#34;download-source-code-br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -959,7 +931,8 @@ At the same time, when translating Karlukle into Katakana, I learned from the na
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#download-source-code-br&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/31infsystem.rar.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/31infsystem.rar.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;If you&amp;rsquo;re having trouble with it, feel free to ask questions in the comments section!&lt;/p&gt;
 </description>
@@ -981,8 +954,6 @@ At the same time, when translating Karlukle into Katakana, I learned from the na
 		color:#b5b5b5;
 	}
 &lt;/style&gt;
-
-
 &lt;h3 class=&#34;relative group&#34;&gt;Download source code: &lt;br/&gt; 
     &lt;div id=&#34;download-source-code-br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -992,7 +963,8 @@ At the same time, when translating Karlukle into Katakana, I learned from the na
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#download-source-code-br&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/cipher.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/cipher.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;If you&amp;rsquo;re having trouble with it, feel free to ask questions in the comments section!&lt;/p&gt;
 </description>
@@ -1446,8 +1418,6 @@ We are all in the gutter, but some of us are looking at the stars.
 &lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;1. About Friend Links 
     &lt;div id=&#34;1-about-friend-links&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1457,9 +1427,8 @@ We are all in the gutter, but some of us are looking at the stars.
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#1-about-friend-links&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;The Internet is a big web, and links are the thread that connects this site to the vast community of bloggers. Through the links, you can find more personal websites.&lt;/p&gt;
-
-
+&lt;/h2&gt;
+&lt;p&gt;The Internet is a big web, and links are the thread that connects this site to the vast community of bloggers. Through the links, you can find more personal websites.&lt;/p&gt;
 &lt;h3 class=&#34;relative group&#34;&gt;1.1 How to make my link appear here? 
     &lt;div id=&#34;11-how-to-make-my-link-appear-here&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1469,7 +1438,8 @@ We are all in the gutter, but some of us are looking at the stars.
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#11-how-to-make-my-link-appear-here&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;&lt;p&gt;There are two ways to get your link to appear here:&lt;/p&gt;
+&lt;/h3&gt;
+&lt;p&gt;There are two ways to get your link to appear here:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Email me via &lt;a href=&#34;mailto:3556932400@qq.com?body=name%3A%20%0Alink%3A%20%0Aavatar%3A%20%0Adescrition%3A%20&#34;  &gt;
     3556932400@qq.com&lt;/a&gt; or &lt;a href=&#34;mailto:smileguide@163.com?body=name%3A%20%0Alink%3A%20%0Aavatar%3A%20%0Adescrition%3A%20&#34;  &gt;
@@ -1477,8 +1447,6 @@ We are all in the gutter, but some of us are looking at the stars.
 &lt;li&gt;Leave a message in the comments area (not recommended)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Accordingly, if your site also has a friend link section, please &lt;strong&gt;put this site in&lt;/strong&gt;.&lt;/p&gt;
-
-
 &lt;h3 class=&#34;relative group&#34;&gt;1.2 Required Information 
     &lt;div id=&#34;12-required-information&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1488,7 +1456,8 @@ We are all in the gutter, but some of us are looking at the stars.
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#12-required-information&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;&lt;table&gt;
+&lt;/h3&gt;
+&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;Your email or message needs to contain the following fields:&lt;/th&gt;
@@ -1542,8 +1511,6 @@ Alternatively, if your site is available in English and Japanese, the &lt;code&g
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-
-
 &lt;h3 class=&#34;relative group&#34;&gt;1.3 Information on This Site 
     &lt;div id=&#34;13-information-on-this-site&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1553,7 +1520,8 @@ Alternatively, if your site is available in English and Japanese, the &lt;code&g
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#13-information-on-this-site&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;&lt;table&gt;
+&lt;/h3&gt;
+&lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th&gt;1.3.1&lt;/th&gt;
@@ -1611,8 +1579,6 @@ Alternatively, if your site is available in English and Japanese, the &lt;code&g
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;2. Prerequisites 
     &lt;div id=&#34;2-prerequisites&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1622,7 +1588,8 @@ Alternatively, if your site is available in English and Japanese, the &lt;code&g
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#2-prerequisites&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;For the sake of simplicity and elegance, please fill in the &lt;code&gt;description&lt;/code&gt; field in a concise manner.&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p&gt;For the sake of simplicity and elegance, please fill in the &lt;code&gt;description&lt;/code&gt; field in a concise manner.&lt;/p&gt;
 </description>
       
     </item>
@@ -1636,8 +1603,6 @@ Alternatively, if your site is available in English and Japanese, the &lt;code&g
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;p&gt;The music system of this website is divided into two parts: &lt;a href=&#34;#hover-player&#34;  &gt;
     Hover Player&lt;/a&gt; and &lt;a href=&#34;#music-station&#34;  &gt;
     Music Station&lt;/a&gt;.&lt;/p&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;Hover Player 
     &lt;div id=&#34;hover-player&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1647,7 +1612,8 @@ Alternatively, if your site is available in English and Japanese, the &lt;code&g
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#hover-player&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;The semi-transparent control at the bottom of the page is the Hover Player, which has the &lt;strong&gt;Continuous Play Across Pages&lt;/strong&gt; feature and loads quickly.&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p&gt;The semi-transparent control at the bottom of the page is the Hover Player, which has the &lt;strong&gt;Continuous Play Across Pages&lt;/strong&gt; feature and loads quickly.&lt;/p&gt;
 &lt;p&gt;Several of the songs in the hover player are stored in &lt;strong&gt;lossless&lt;/strong&gt; (FLAC) form on the site&amp;rsquo;s back-end servers. They are the &lt;strong&gt;essence&lt;/strong&gt; of the site&amp;rsquo;s music, and are great for listening to while reading. The music is either monumental or my latest favorite.&lt;/p&gt;
 &lt;p&gt;You can &lt;strong&gt;put on your headphones&lt;/strong&gt; and listen attentively to these rare sources of high quality music.&lt;/p&gt;
 &lt;p&gt;After expanding the control, tap 
@@ -1696,8 +1662,6 @@ Alternatively, if your site is available in English and Japanese, the &lt;code&g
     &gt;Since Apple does not allow background autoplay and backend cache, the hover player&amp;rsquo;s &lt;strong&gt;Continuous Play Across Pages&lt;/strong&gt; feature is &lt;strong&gt;invalid&lt;/strong&gt; in Safari.&lt;/span&gt;
 &lt;/div&gt;
 
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;Music Station 
     &lt;div id=&#34;music-station&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1707,7 +1671,8 @@ Alternatively, if your site is available in English and Japanese, the &lt;code&g
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#music-station&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;Music Station can be accessed from the &lt;strong&gt;menu bar&lt;/strong&gt; at the top of the page. The songs in Music Station are pulled from NetEase Cloud Music, the audio quality is &lt;strong&gt;average&lt;/strong&gt; and most of the music can only be listened to in &lt;strong&gt;clips&lt;/strong&gt; due to copyright restrictions.&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p&gt;Music Station can be accessed from the &lt;strong&gt;menu bar&lt;/strong&gt; at the top of the page. The songs in Music Station are pulled from NetEase Cloud Music, the audio quality is &lt;strong&gt;average&lt;/strong&gt; and most of the music can only be listened to in &lt;strong&gt;clips&lt;/strong&gt; due to copyright restrictions.&lt;/p&gt;
 &lt;p&gt;The music station is divided into several columns, diversified to reflect my listening style.&lt;/p&gt;
 &lt;p&gt;Because of the restrictions on playback on external music platforms, the main purpose of the music station is to provide music lists that serve as &lt;strong&gt;recommendations&lt;/strong&gt; and &lt;strong&gt;auditions&lt;/strong&gt;.&lt;/p&gt;
 </description>
@@ -1740,9 +1705,7 @@ Alternatively, if your site is available in English and Japanese, the &lt;code&g
       <pubDate>Sun, 21 Jan 2024 22:50:23 +0800</pubDate>
       
       <guid>https://smileguide.github.io/en/blogs/gothic-stake/</guid>
-      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>
-
-&lt;h3 class=&#34;relative group&#34;&gt;The Chinese-English version is as follows: 
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;h3 class=&#34;relative group&#34;&gt;The Chinese-English version is as follows: 
     &lt;div id=&#34;the-chinese-english-version-is-as-follows&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
@@ -1751,7 +1714,8 @@ Alternatively, if your site is available in English and Japanese, the &lt;code&g
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#the-chinese-english-version-is-as-follows&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;太阳埋葬了我的乐园&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1910,9 +1874,7 @@ Alternatively, if your site is available in English and Japanese, the &lt;code&g
       <pubDate>Sat, 20 Jan 2024 20:13:20 +0800</pubDate>
       
       <guid>https://smileguide.github.io/en/blogs/memoriam/</guid>
-      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>
-
-&lt;h3 class=&#34;relative group&#34;&gt;The Chinese-English version is as follows: 
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;h3 class=&#34;relative group&#34;&gt;The Chinese-English version is as follows: 
     &lt;div id=&#34;the-chinese-english-version-is-as-follows&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
@@ -1921,7 +1883,8 @@ Alternatively, if your site is available in English and Japanese, the &lt;code&g
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#the-chinese-english-version-is-as-follows&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;我是文明之邦的第三代皇帝&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -2006,9 +1969,7 @@ Alternatively, if your site is available in English and Japanese, the &lt;code&g
       <pubDate>Sun, 19 Feb 2023 09:06:11 +0800</pubDate>
       
       <guid>https://smileguide.github.io/en/blogs/hello-world/</guid>
-      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>
-
-&lt;h2 class=&#34;relative group&#34;&gt;My first blog. 
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;h2 class=&#34;relative group&#34;&gt;My first blog. 
     &lt;div id=&#34;my-first-blog&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
@@ -2017,11 +1978,10 @@ Alternatively, if your site is available in English and Japanese, the &lt;code&g
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#my-first-blog&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;This is the first blog I published on my personal site.&lt;br&gt;
+&lt;/h2&gt;
+&lt;p&gt;This is the first blog I published on my personal site.&lt;br&gt;
 I mainly share my thoughts on blogs and exchange technology.&lt;br&gt;
 From now on, I will record my thoughts and bring help and good feelings to everyone.&lt;/p&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;How is this site made? 
     &lt;div id=&#34;how-is-this-site-made&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -2031,24 +1991,24 @@ From now on, I will record my thoughts and bring help and good feelings to every
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#how-is-this-site-made&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;My personal site was created by Github&amp;rsquo;s personal static page hosting service and Hugo, a static page building tool.&lt;br&gt;
+&lt;/h2&gt;
+&lt;p&gt;My personal site was created by Github&amp;rsquo;s personal static page hosting service and Hugo, a static page building tool.&lt;br&gt;
 For more information, please search the following keywords on google:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;GitHub pages&lt;/li&gt;
 &lt;li&gt;Hugo&lt;/li&gt;
 &lt;/ul&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;My Heart Will Go On, by Céline Dion  (Test Text) 
-    &lt;div id=&#34;my-heart-will-go-on-by-c%C3%A9line-dion--test-text&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;my-heart-will-go-on-by-céline-dion--test-text&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#my-heart-will-go-on-by-c%C3%A9line-dion--test-text&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#my-heart-will-go-on-by-c%c3%a9line-dion--test-text&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;div id=&#34;typeit-dd0b34172664abcadcaf3127b218febd&#34;&gt;&lt;/div&gt;
+&lt;/h2&gt;
+&lt;div id=&#34;typeit-dd0b34172664abcadcaf3127b218febd&#34;&gt;&lt;/div&gt;
 
 &lt;script&gt;
     document.addEventListener(&#34;DOMContentLoaded&#34;, function () {

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Mon, 19 Feb 2024 17:26:12 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/docs/myoc/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Feb 2024 17:47:50 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/docs/myoc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关系框图</title>
       <link>https://smileguide.github.io/docs/myoc/relationship/</link>
@@ -48,18 +48,17 @@ font-family: &#39;Shippori Mincho&#39;, serif;
 font-family: &#39;Yuji Syuku&#39;, serif;
 font-family: &#39;Zhi Mang Xing&#39;, cursive;
 &lt;/style&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;人物架构 
-    &lt;div id=&#34;%E4%BA%BA%E7%89%A9%E6%9E%B6%E6%9E%84&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;人物架构&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E4%BA%BA%E7%89%A9%E6%9E%B6%E6%9E%84&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e4%ba%ba%e7%89%a9%e6%9e%b6%e6%9e%84&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;div class=&#34;mermaid&#34; align=&#34;middle&#34;&gt;
+&lt;/h2&gt;
+&lt;div class=&#34;mermaid&#34; align=&#34;middle&#34;&gt;
 	graph TD
 	dad[[金丞旻]]:::jp--&gt;hy
 	mum((天野聖子)):::jp--&gt;hy((&#34; &#34;)):::hybrid
@@ -97,18 +96,17 @@ font-family: &#39;Zhi Mang Xing&#39;, cursive;
 	classDef herojp fill:#FAE78A
 	classDef hybrid fill:#C1DBDA
 &lt;/div&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;世界观 
-    &lt;div id=&#34;%E4%B8%96%E7%95%8C%E8%A7%82&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;世界观&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E4%B8%96%E7%95%8C%E8%A7%82&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e4%b8%96%e7%95%8c%e8%a7%82&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;div class=&#34;mermaid&#34; align=&#34;middle&#34;&gt;
+&lt;/h2&gt;
+&lt;div class=&#34;mermaid&#34; align=&#34;middle&#34;&gt;
 	graph LR
 	earthlyworld[(地上世界)]:::world
 	leafworld[(葉の世界)]:::world
@@ -135,18 +133,17 @@ font-family: &#39;Zhi Mang Xing&#39;, cursive;
 	click leafsoul &#34;/docs/myoc/pedia/#leafsoul&#34;
 	click husoul &#34;/docs/myoc/pedia/#husoul&#34;
 	&lt;/div&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;时间线 
-    &lt;div id=&#34;%E6%97%B6%E9%97%B4%E7%BA%BF&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;时间线&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E6%97%B6%E9%97%B4%E7%BA%BF&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e6%97%b6%e9%97%b4%e7%ba%bf&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;div class=&#34;mermaid&#34; align=&#34;middle&#34;&gt;
+&lt;/h2&gt;
+&lt;div class=&#34;mermaid&#34; align=&#34;middle&#34;&gt;
 	%%{init: { &#39;logLevel&#39;: &#39;debug&#39;, &#39;theme&#39;: &#39;forest&#39; } }%%
 timeline
     2000年代 : 2000 金丞旻结识天野聖子
@@ -231,18 +228,17 @@ background:linear-gradient(to top left,#d39340,#ffd194);
   width: 240px;
 }
 &lt;/style&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;&lt;div id=&#34;karlukle&#34;&gt;天野カルクル(天野卡鲁克)♂&lt;/div&gt; 
-    &lt;div id=&#34;div-idkarlukle%E5%A4%A9%E9%87%8E%E3%82%AB%E3%83%AB%E3%82%AF%E3%83%AB%E5%A4%A9%E9%87%8E%E5%8D%A1%E9%B2%81%E5%85%8Bdiv&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;div-idkarlukle天野カルクル天野卡鲁克div&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#div-idkarlukle%E5%A4%A9%E9%87%8E%E3%82%AB%E3%83%AB%E3%82%AF%E3%83%AB%E5%A4%A9%E9%87%8E%E5%8D%A1%E9%B2%81%E5%85%8Bdiv&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#div-idkarlukle%e5%a4%a9%e9%87%8e%e3%82%ab%e3%83%ab%e3%82%af%e3%83%ab%e5%a4%a9%e9%87%8e%e5%8d%a1%e9%b2%81%e5%85%8bdiv&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p class=&#34;card c1&#34;&gt;
+&lt;/h2&gt;
+&lt;p class=&#34;card c1&#34;&gt;
 &lt;span style=&#34;line-height: 0px;color:rgb(255,255,255,0.85);&#34;&gt;
 &lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px;&#34;&gt;
   &lt;span style=&#34;font-family: Yuji Syuku;color:#74ceff&#34;&gt;天野&lt;/span&gt;
@@ -260,18 +256,17 @@ background:linear-gradient(to top left,#d39340,#ffd194);
 &lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&amp;nbsp;故事主人公，8岁，国际学校小学部二年级。7岁时由于在梦境中误前往叶之世界而成为“体”，受“御天樣之凌”后成为叶之世界的旅人，能在梦境中前往叶之世界更衣，以“カルクル(Karlukle宽式标音/kɑːlʊkl/)”的身份在地上世界游荡。&lt;/p&gt;
 &lt;hr/&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;&lt;div id=&#34;hunosuke&#34;&gt;天野风之助♂&lt;/div&gt; 
-    &lt;div id=&#34;div-idhunosuke%E5%A4%A9%E9%87%8E%E9%A3%8E%E4%B9%8B%E5%8A%A9div&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;div-idhunosuke天野风之助div&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#div-idhunosuke%E5%A4%A9%E9%87%8E%E9%A3%8E%E4%B9%8B%E5%8A%A9div&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#div-idhunosuke%e5%a4%a9%e9%87%8e%e9%a3%8e%e4%b9%8b%e5%8a%a9div&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p class=&#34;card c2&#34;&gt;
+&lt;/h2&gt;
+&lt;p class=&#34;card c2&#34;&gt;
 &lt;span style=&#34;line-height: 0px;color:rgb(255,255,255,0.85);&#34;&gt;
 &lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px;&#34;&gt;
   &lt;span style=&#34;font-family: Yuji Syuku;;color:#0081D9&#34;&gt;天野&lt;/span&gt;
@@ -292,18 +287,17 @@ background:linear-gradient(to top left,#d39340,#ffd194);
 &lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&amp;nbsp;卡鲁克的哥哥，15岁，国际学校初中部三年级。温和细心，有责任感。父母工作忙，他用关爱和陪伴消弭卡鲁克的孤单。&lt;/p&gt;
 &lt;hr/&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;&lt;div id=&#34;mirai&#34;&gt;天野未来♀&lt;/div&gt; 
-    &lt;div id=&#34;div-idmirai%E5%A4%A9%E9%87%8E%E6%9C%AA%E6%9D%A5div&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;div-idmirai天野未来div&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#div-idmirai%E5%A4%A9%E9%87%8E%E6%9C%AA%E6%9D%A5div&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#div-idmirai%e5%a4%a9%e9%87%8e%e6%9c%aa%e6%9d%a5div&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p class=&#34;card c3&#34;&gt;
+&lt;/h2&gt;
+&lt;p class=&#34;card c3&#34;&gt;
 &lt;span style=&#34;line-height: 0px;color:rgb(255,255,255,0.85)&#34;&gt;
 &lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px;&#34;&gt;
   &lt;span style=&#34;font-family: Yuji Syuku;;color:#cc2d03&#34;&gt;天野&lt;/span&gt;
@@ -324,18 +318,17 @@ background:linear-gradient(to top left,#d39340,#ffd194);
 &lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&amp;nbsp;卡鲁克的妹妹，7岁（去世时）。5岁时外公去世，她去和乡下的外婆住在一起。那天夜里，她和卡鲁克相隔千里，却做着同一个梦。她来晚了，看见卡鲁克正受“御天樣之凌”。得知卡鲁克要承受双倍痛苦来换“叶之本灵”和“人间本灵”以化为旅人后，她以生命的泯灭为代价作“人间本灵”，助卡鲁克渡过难关，并在梦中死去。卡鲁克一直把梦境中的往事藏在心里。&lt;/p&gt;
 &lt;hr/&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;&lt;div id=&#34;seiko&#34;&gt;天野圣子♀&lt;/div&gt; 
-    &lt;div id=&#34;div-idseiko%E5%A4%A9%E9%87%8E%E5%9C%A3%E5%AD%90div&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;div-idseiko天野圣子div&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#div-idseiko%E5%A4%A9%E9%87%8E%E5%9C%A3%E5%AD%90div&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#div-idseiko%e5%a4%a9%e9%87%8e%e5%9c%a3%e5%ad%90div&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p class=&#34;card c4&#34;&gt;
+&lt;/h2&gt;
+&lt;p class=&#34;card c4&#34;&gt;
 &lt;span style=&#34;line-height: 0px;;color:rgb(255,255,255,0.85)&#34;&gt;
 &lt;ruby style=&#34;font-family: Shippori Mincho;font-size: 50px&#34;&gt;
   &lt;span style=&#34;font-family: Yuji Syuku;;color:#14cbcf&#34;&gt;天野&lt;/span&gt;
@@ -356,18 +349,17 @@ background:linear-gradient(to top left,#d39340,#ffd194);
 &lt;/p&gt;
 &lt;p&gt;&amp;nbsp;&amp;nbsp;卡鲁克的母亲，36岁。现为某中学外籍教师。&lt;/p&gt;
 &lt;hr/&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;&lt;div id=&#34;chengmin&#34;&gt;金丞旻♂&lt;/div&gt; 
-    &lt;div id=&#34;div-idchengmin%E9%87%91%E4%B8%9E%E6%97%BBdiv&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;div-idchengmin金丞旻div&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#div-idchengmin%E9%87%91%E4%B8%9E%E6%97%BBdiv&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#div-idchengmin%e9%87%91%e4%b8%9e%e6%97%bbdiv&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p class=&#34;card c5&#34;&gt;
+&lt;/h2&gt;
+&lt;p class=&#34;card c5&#34;&gt;
 &lt;span style=&#34;line-height: 0px;color:rgb(255,255,255,0.85)&#34;&gt;&amp;nbsp;&amp;nbsp;
 &lt;ruby style=&#34;font-family: Noto Serif SC;font-size: 50px;&#34;&gt;
   &lt;span style=&#34;font-family: Yuji Syuku;;color:#444d56&#34;&gt;金&lt;/span&gt;
@@ -398,139 +390,129 @@ background:linear-gradient(to top left,#d39340,#ffd194);
       <pubDate>Tue, 06 Jun 2023 21:23:49 +0800</pubDate>
       
       <guid>https://smileguide.github.io/docs/myoc/pedia/</guid>
-      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>
-
-&lt;h2 class=&#34;relative group&#34;&gt;地上世界 
-    &lt;div id=&#34;%E5%9C%B0%E4%B8%8A%E4%B8%96%E7%95%8C&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;h2 class=&#34;relative group&#34;&gt;地上世界 
+    &lt;div id=&#34;地上世界&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%9C%B0%E4%B8%8A%E4%B8%96%E7%95%8C&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%9c%b0%e4%b8%8a%e4%b8%96%e7%95%8c&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;“地上”是日语词，意为人间。地上世界就是我们所生活的世界。&lt;/p&gt;
-
-
+&lt;/h2&gt;
+&lt;p&gt;“地上”是日语词，意为人间。地上世界就是我们所生活的世界。&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;人間本霊（人间本灵） 
-    &lt;div id=&#34;%E4%BA%BA%E9%96%93%E6%9C%AC%E9%9C%8A%E4%BA%BA%E9%97%B4%E6%9C%AC%E7%81%B5&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;人間本霊人间本灵&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E4%BA%BA%E9%96%93%E6%9C%AC%E9%9C%8A%E4%BA%BA%E9%97%B4%E6%9C%AC%E7%81%B5&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e4%ba%ba%e9%96%93%e6%9c%ac%e9%9c%8a%e4%ba%ba%e9%97%b4%e6%9c%ac%e7%81%b5&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;“人間”是日语词，意为人类。人间本灵就是人的魂魄。&lt;/p&gt;
-
-
+&lt;/h2&gt;
+&lt;p&gt;“人間”是日语词，意为人类。人间本灵就是人的魂魄。&lt;/p&gt;
 &lt;h3 class=&#34;relative group&#34;&gt;後ろ本霊の補償（后本灵补偿） 
-    &lt;div id=&#34;%E5%BE%8C%E3%82%8D%E6%9C%AC%E9%9C%8A%E3%81%AE%E8%A3%9C%E5%84%9F%E5%90%8E%E6%9C%AC%E7%81%B5%E8%A1%A5%E5%81%BF&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;後ろ本霊の補償后本灵补偿&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%BE%8C%E3%82%8D%E6%9C%AC%E9%9C%8A%E3%81%AE%E8%A3%9C%E5%84%9F%E5%90%8E%E6%9C%AC%E7%81%B5%E8%A1%A5%E5%81%BF&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%be%8c%e3%82%8d%e6%9c%ac%e9%9c%8a%e3%81%ae%e8%a3%9c%e5%84%9f%e5%90%8e%e6%9c%ac%e7%81%b5%e8%a1%a5%e5%81%bf&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;&lt;p&gt;由于不允许两个&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#eltraveller&#34;  &gt;
+&lt;/h3&gt;
+&lt;p&gt;由于不允许两个&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#eltraveller&#34;  &gt;
     叶世旅人&lt;/a&gt;同时存在，当有两个人间本灵所有者受&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#gotensamastorture&#34;  &gt;
     御天樣之凌&lt;/a&gt;时，痛苦减轻一半，先行者将顺利成为叶世旅人并承载双倍的本灵能量加成，但另一人的魂魄将灰飞烟灭。&lt;/p&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;葉の世界 
-    &lt;div id=&#34;%E8%91%89%E3%81%AE%E4%B8%96%E7%95%8C&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;葉の世界&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E8%91%89%E3%81%AE%E4%B8%96%E7%95%8C&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e8%91%89%e3%81%ae%e4%b8%96%e7%95%8c&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;第四维度上的平行世界。叶之世界可以通过意念控制的方式与&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#owner&#34;  &gt;
+&lt;/h2&gt;
+&lt;p&gt;第四维度上的平行世界。叶之世界可以通过意念控制的方式与&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#owner&#34;  &gt;
     人间本灵所有者&lt;/a&gt;产生联系、进行交流。梦境是通过四维轴往返于地上世界和叶之世界的唯一途径。据说只有小孩才会有这样的“叶世界之梦”。&lt;/p&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;葉の本霊（叶之本灵） 
-    &lt;div id=&#34;%E8%91%89%E3%81%AE%E6%9C%AC%E9%9C%8A%E5%8F%B6%E4%B9%8B%E6%9C%AC%E7%81%B5&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;葉の本霊叶之本灵&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E8%91%89%E3%81%AE%E6%9C%AC%E9%9C%8A%E5%8F%B6%E4%B9%8B%E6%9C%AC%E7%81%B5&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e8%91%89%e3%81%ae%e6%9c%ac%e9%9c%8a%e5%8f%b6%e4%b9%8b%e6%9c%ac%e7%81%b5&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#owner&#34;  &gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#owner&#34;  &gt;
     人间本灵所有者&lt;/a&gt;的魂魄在叶之世界的投影。&lt;/p&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;体 
-    &lt;div id=&#34;%E4%BD%93&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;体&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E4%BD%93&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e4%bd%93&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#owner&#34;  &gt;
+&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#owner&#34;  &gt;
     人间本灵所有者&lt;/a&gt;来到&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#leafworld&#34;  &gt;
     叶之世界&lt;/a&gt;后就会失去自由，直至化为&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#eltraveller&#34;  &gt;
     叶世旅人&lt;/a&gt;才会获得返回的能力。这样的失去自由者称为“体”。&lt;/p&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;葉世旅人（叶世旅人） 
-    &lt;div id=&#34;%E8%91%89%E4%B8%96%E6%97%85%E4%BA%BA%E5%8F%B6%E4%B8%96%E6%97%85%E4%BA%BA&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;葉世旅人叶世旅人&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E8%91%89%E4%B8%96%E6%97%85%E4%BA%BA%E5%8F%B6%E4%B8%96%E6%97%85%E4%BA%BA&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e8%91%89%e4%b8%96%e6%97%85%e4%ba%ba%e5%8f%b6%e4%b8%96%e6%97%85%e4%ba%ba&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;能够在&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#earthlyworld&#34;  &gt;
+&lt;/h2&gt;
+&lt;p&gt;能够在&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#earthlyworld&#34;  &gt;
     地上世界&lt;/a&gt;和&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#leafworld&#34;  &gt;
     叶之世界&lt;/a&gt;由梦境往返的&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#owner&#34;  &gt;
     人间本灵所有者&lt;/a&gt;。&lt;a href=&#34;https://smileguide.github.io/docs/myoc/characters/#karlukle&#34;  &gt;
     天野カルクル&lt;/a&gt;是一名葉世旅人，他每晚通过梦游叶之世界获得叶世旅人能力，降临在地上世界的各个角落与人对话。&lt;/p&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;ご天樣（御天樣） 
-    &lt;div id=&#34;%E3%81%94%E5%A4%A9%E6%A8%A3%E5%BE%A1%E5%A4%A9%E6%A8%A3&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;ご天樣御天樣&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E3%81%94%E5%A4%A9%E6%A8%A3%E5%BE%A1%E5%A4%A9%E6%A8%A3&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e3%81%94%e5%a4%a9%e6%a8%a3%e5%be%a1%e5%a4%a9%e6%a8%a3&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;叶之世界的人格化。&lt;/p&gt;
-
-
+&lt;/h2&gt;
+&lt;p&gt;叶之世界的人格化。&lt;/p&gt;
 &lt;h3 class=&#34;relative group&#34;&gt;ご天樣の凌（御天樣之凌） 
-    &lt;div id=&#34;%E3%81%94%E5%A4%A9%E6%A8%A3%E3%81%AE%E5%87%8C%E5%BE%A1%E5%A4%A9%E6%A8%A3%E4%B9%8B%E5%87%8C&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;ご天樣の凌御天樣之凌&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E3%81%94%E5%A4%A9%E6%A8%A3%E3%81%AE%E5%87%8C%E5%BE%A1%E5%A4%A9%E6%A8%A3%E4%B9%8B%E5%87%8C&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e3%81%94%e5%a4%a9%e6%a8%a3%e3%81%ae%e5%87%8c%e5%be%a1%e5%a4%a9%e6%a8%a3%e4%b9%8b%e5%87%8c&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;&lt;p&gt;叶之世界的苦刑，有肉体与精神的双重折磨。受御天樣之凌时，有身体缓慢裂解般的疼痛和万念俱灰的绝望。&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#tay&#34;  &gt;
+&lt;/h3&gt;
+&lt;p&gt;叶之世界的苦刑，有肉体与精神的双重折磨。受御天樣之凌时，有身体缓慢裂解般的疼痛和万念俱灰的绝望。&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#tay&#34;  &gt;
     体&lt;/a&gt;想要获得自由，必须受御天樣之凌，成为&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#eltraveller&#34;  &gt;
     叶世旅人&lt;/a&gt;。&lt;/p&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;人間本霊所有者（人间本灵所有者） 
-    &lt;div id=&#34;%E4%BA%BA%E9%96%93%E6%9C%AC%E9%9C%8A%E6%89%80%E6%9C%89%E8%80%85%E4%BA%BA%E9%97%B4%E6%9C%AC%E7%81%B5%E6%89%80%E6%9C%89%E8%80%85&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;人間本霊所有者人间本灵所有者&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E4%BA%BA%E9%96%93%E6%9C%AC%E9%9C%8A%E6%89%80%E6%9C%89%E8%80%85%E4%BA%BA%E9%97%B4%E6%9C%AC%E7%81%B5%E6%89%80%E6%9C%89%E8%80%85&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e4%ba%ba%e9%96%93%e6%9c%ac%e9%9c%8a%e6%89%80%e6%9c%89%e8%80%85%e4%ba%ba%e9%97%b4%e6%9c%ac%e7%81%b5%e6%89%80%e6%9c%89%e8%80%85&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;拥有魂魄者，即人类。&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p&gt;拥有魂魄者，即人类。&lt;/p&gt;
 </description>
       
     </item>
@@ -541,55 +523,51 @@ background:linear-gradient(to top left,#d39340,#ffd194);
       <pubDate>Tue, 06 Jun 2023 23:00:25 +0800</pubDate>
       
       <guid>https://smileguide.github.io/docs/myoc/questionaire/</guid>
-      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>
-
-&lt;h2 class=&#34;relative group&#34;&gt;为什么采用“天野”这个姓？ 
-    &lt;div id=&#34;%E4%B8%BA%E4%BB%80%E4%B9%88%E9%87%87%E7%94%A8%E5%A4%A9%E9%87%8E%E8%BF%99%E4%B8%AA%E5%A7%93&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;h2 class=&#34;relative group&#34;&gt;为什么采用“天野”这个姓？ 
+    &lt;div id=&#34;为什么采用天野这个姓&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E4%B8%BA%E4%BB%80%E4%B9%88%E9%87%87%E7%94%A8%E5%A4%A9%E9%87%8E%E8%BF%99%E4%B8%AA%E5%A7%93&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e4%b8%ba%e4%bb%80%e4%b9%88%e9%87%87%e7%94%a8%e5%a4%a9%e9%87%8e%e8%bf%99%e4%b8%aa%e5%a7%93&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;我一直在寻找一个用英语读来朗朗上口的姓氏。与本故事主题相关的“天”字吸引了我。&lt;/p&gt;
-
-
+&lt;/h2&gt;
+&lt;p&gt;我一直在寻找一个用英语读来朗朗上口的姓氏。与本故事主题相关的“天”字吸引了我。&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;“カルクル”这个名字的由来是怎样的？ 
-    &lt;div id=&#34;%E3%82%AB%E3%83%AB%E3%82%AF%E3%83%AB%E8%BF%99%E4%B8%AA%E5%90%8D%E5%AD%97%E7%9A%84%E7%94%B1%E6%9D%A5%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;カルクル这个名字的由来是怎样的&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E3%82%AB%E3%83%AB%E3%82%AF%E3%83%AB%E8%BF%99%E4%B8%AA%E5%90%8D%E5%AD%97%E7%9A%84%E7%94%B1%E6%9D%A5%E6%98%AF%E6%80%8E%E6%A0%B7%E7%9A%84&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e3%82%ab%e3%83%ab%e3%82%af%e3%83%ab%e8%bf%99%e4%b8%aa%e5%90%8d%e5%ad%97%e7%9a%84%e7%94%b1%e6%9d%a5%e6%98%af%e6%80%8e%e6%a0%b7%e7%9a%84&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;我首先为主人公起了一个英语名字，它是“Karlukle”。&lt;br&gt;
+&lt;/h2&gt;
+&lt;p&gt;我首先为主人公起了一个英语名字，它是“Karlukle”。&lt;br&gt;
 Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的纳维亚半岛变体，“Ukle”取自“Ukulele（尤克里里）”。&lt;/p&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;“金丞旻”这个名字有什么寓意吗？ 
-    &lt;div id=&#34;%E9%87%91%E4%B8%9E%E6%97%BB%E8%BF%99%E4%B8%AA%E5%90%8D%E5%AD%97%E6%9C%89%E4%BB%80%E4%B9%88%E5%AF%93%E6%84%8F%E5%90%97&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;金丞旻这个名字有什么寓意吗&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E9%87%91%E4%B8%9E%E6%97%BB%E8%BF%99%E4%B8%AA%E5%90%8D%E5%AD%97%E6%9C%89%E4%BB%80%E4%B9%88%E5%AF%93%E6%84%8F%E5%90%97&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e9%87%91%e4%b8%9e%e6%97%bb%e8%bf%99%e4%b8%aa%e5%90%8d%e5%ad%97%e6%9c%89%e4%bb%80%e4%b9%88%e5%af%93%e6%84%8f%e5%90%97&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;“旻”的意思是“天空”，与苗字“天野”相照应。&lt;/p&gt;
-
-
+&lt;/h2&gt;
+&lt;p&gt;“旻”的意思是“天空”，与苗字“天野”相照应。&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;为什么叫“叶”之世界？ 
-    &lt;div id=&#34;%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AB%E5%8F%B6%E4%B9%8B%E4%B8%96%E7%95%8C&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;为什么叫叶之世界&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E4%B8%BA%E4%BB%80%E4%B9%88%E5%8F%AB%E5%8F%B6%E4%B9%8B%E4%B8%96%E7%95%8C&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e4%b8%ba%e4%bb%80%e4%b9%88%e5%8f%ab%e5%8f%b6%e4%b9%8b%e4%b8%96%e7%95%8c&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;平行宇宙由第四维串联起来，这很容易使人想到一根树枝上无数平行的叶子。&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p&gt;平行宇宙由第四维串联起来，这很容易使人想到一根树枝上无数平行的叶子。&lt;/p&gt;
 </description>
       
     </item>

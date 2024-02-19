@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Mon, 19 Feb 2024 17:26:12 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/ja/tags/%E9%9F%B3%E6%A5%BD/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Feb 2024 17:47:50 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/ja/tags/%E9%9F%B3%E6%A5%BD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>サイトの音楽について</title>
       <link>https://smileguide.github.io/ja/player/</link>
@@ -17,18 +17,17 @@
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;このウェブサイトの音楽システムは、&lt;a href=&#34;#%e3%83%9b%e3%83%90%e3%83%bc%e3%83%97%e3%83%ac%e3%82%a4%e3%83%a4%e3%83%bc&#34;  &gt;
     ホバー・プレイヤー&lt;/a&gt; と &lt;a href=&#34;#%e9%9f%b3%e6%a5%bd%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3&#34;  &gt;
     音楽ステーション&lt;/a&gt;の2つの部分に分かれています。&lt;/p&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;ホバー・プレイヤー 
-    &lt;div id=&#34;%E3%83%9B%E3%83%90%E3%83%BC%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;ホバープレイヤー&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E3%83%9B%E3%83%90%E3%83%BC%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e3%83%9b%e3%83%90%e3%83%bc%e3%83%97%e3%83%ac%e3%82%a4%e3%83%a4%e3%83%bc&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;ページ下部の半透明のコントロールがホバー・プレーヤーで、&lt;strong&gt;ページをまたいだ連続再生&lt;/strong&gt;が可能で、読み込み速度も速い。&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p&gt;ページ下部の半透明のコントロールがホバー・プレーヤーで、&lt;strong&gt;ページをまたいだ連続再生&lt;/strong&gt;が可能で、読み込み速度も速い。&lt;/p&gt;
 &lt;p&gt;ホバー・プレーヤーのいくつかの曲は、サイトのバックエンド・サーバーに&lt;strong&gt;ロスレス&lt;/strong&gt;（FLAC）形式で保存されています。 これらはサイトの音楽の&lt;strong&gt;エッセンス&lt;/strong&gt;であり、読書中に聴くのに最適です。 音楽は記念碑的なものか、私の最近のお気に入りだ。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;ヘッドフォン&lt;/strong&gt;を装着して、これらの貴重な高音質音源に耳を傾けることができます。&lt;/p&gt;
 &lt;p&gt;コントロールを展開した後、
@@ -77,18 +76,17 @@
     &gt;Apple はバックグラウンドでの自動再生とバックエンドキャッシュを許可していないため、ホバー・プレーヤの &lt;strong&gt;ページをまたいだ連続再生&lt;/strong&gt;機能は Safari デバイスでは&lt;strong&gt;無効&lt;/strong&gt;です。&lt;/span&gt;
 &lt;/div&gt;
 
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;音楽ステーション 
-    &lt;div id=&#34;%E9%9F%B3%E6%A5%BD%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;音楽ステーション&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E9%9F%B3%E6%A5%BD%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e9%9f%b3%e6%a5%bd%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;音楽ステーションはページ上部の&lt;strong&gt;メニューバー&lt;/strong&gt;からアクセスできます。 音楽ステーションの曲は NetEase Cloud Music から取り込まれ、音質は&lt;strong&gt;平均的&lt;/strong&gt;で、ほとんどの音楽は著作権の制限により&lt;strong&gt;クリップ&lt;/strong&gt;でしか聴くことができません。&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p&gt;音楽ステーションはページ上部の&lt;strong&gt;メニューバー&lt;/strong&gt;からアクセスできます。 音楽ステーションの曲は NetEase Cloud Music から取り込まれ、音質は&lt;strong&gt;平均的&lt;/strong&gt;で、ほとんどの音楽は著作権の制限により&lt;strong&gt;クリップ&lt;/strong&gt;でしか聴くことができません。&lt;/p&gt;
 &lt;p&gt;音楽ステーションは、私のリスニングスタイルを反映するために、いくつかのコラムに分かれています。&lt;/p&gt;
 &lt;p&gt;音楽ステーションの主な目的は、外部音楽プラットフォームの再生制限のため、音楽リスト、&lt;strong&gt;おすすめ&lt;/strong&gt;、&lt;strong&gt;試聴&lt;/strong&gt;を提供することです。&lt;/p&gt;
 </description>

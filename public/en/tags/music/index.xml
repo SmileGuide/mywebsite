@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Mon, 19 Feb 2024 17:26:12 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/en/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Feb 2024 17:47:50 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/en/tags/music/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Music on This Site</title>
       <link>https://smileguide.github.io/en/player/</link>
@@ -17,8 +17,6 @@
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;p&gt;The music system of this website is divided into two parts: &lt;a href=&#34;#hover-player&#34;  &gt;
     Hover Player&lt;/a&gt; and &lt;a href=&#34;#music-station&#34;  &gt;
     Music Station&lt;/a&gt;.&lt;/p&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;Hover Player 
     &lt;div id=&#34;hover-player&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -28,7 +26,8 @@
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#hover-player&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;The semi-transparent control at the bottom of the page is the Hover Player, which has the &lt;strong&gt;Continuous Play Across Pages&lt;/strong&gt; feature and loads quickly.&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p&gt;The semi-transparent control at the bottom of the page is the Hover Player, which has the &lt;strong&gt;Continuous Play Across Pages&lt;/strong&gt; feature and loads quickly.&lt;/p&gt;
 &lt;p&gt;Several of the songs in the hover player are stored in &lt;strong&gt;lossless&lt;/strong&gt; (FLAC) form on the site&amp;rsquo;s back-end servers. They are the &lt;strong&gt;essence&lt;/strong&gt; of the site&amp;rsquo;s music, and are great for listening to while reading. The music is either monumental or my latest favorite.&lt;/p&gt;
 &lt;p&gt;You can &lt;strong&gt;put on your headphones&lt;/strong&gt; and listen attentively to these rare sources of high quality music.&lt;/p&gt;
 &lt;p&gt;After expanding the control, tap 
@@ -77,8 +76,6 @@
     &gt;Since Apple does not allow background autoplay and backend cache, the hover player&amp;rsquo;s &lt;strong&gt;Continuous Play Across Pages&lt;/strong&gt; feature is &lt;strong&gt;invalid&lt;/strong&gt; in Safari.&lt;/span&gt;
 &lt;/div&gt;
 
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;Music Station 
     &lt;div id=&#34;music-station&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -88,7 +85,8 @@
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#music-station&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;p&gt;Music Station can be accessed from the &lt;strong&gt;menu bar&lt;/strong&gt; at the top of the page. The songs in Music Station are pulled from NetEase Cloud Music, the audio quality is &lt;strong&gt;average&lt;/strong&gt; and most of the music can only be listened to in &lt;strong&gt;clips&lt;/strong&gt; due to copyright restrictions.&lt;/p&gt;
+&lt;/h2&gt;
+&lt;p&gt;Music Station can be accessed from the &lt;strong&gt;menu bar&lt;/strong&gt; at the top of the page. The songs in Music Station are pulled from NetEase Cloud Music, the audio quality is &lt;strong&gt;average&lt;/strong&gt; and most of the music can only be listened to in &lt;strong&gt;clips&lt;/strong&gt; due to copyright restrictions.&lt;/p&gt;
 &lt;p&gt;The music station is divided into several columns, diversified to reflect my listening style.&lt;/p&gt;
 &lt;p&gt;Because of the restrictions on playback on external music platforms, the main purpose of the music station is to provide music lists that serve as &lt;strong&gt;recommendations&lt;/strong&gt; and &lt;strong&gt;auditions&lt;/strong&gt;.&lt;/p&gt;
 </description>

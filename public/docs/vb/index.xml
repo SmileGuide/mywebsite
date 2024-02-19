@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Mon, 19 Feb 2024 17:26:12 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/docs/vb/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Feb 2024 17:47:50 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/docs/vb/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>玻璃（已完结）</title>
       <link>https://smileguide.github.io/docs/vb/glass/</link>
@@ -23,18 +23,17 @@
 		color:#b5b5b5;
 	}
 &lt;/style&gt;
-
-
 &lt;h3 class=&#34;relative group&#34;&gt;源代码下载：&lt;br/&gt; 
-    &lt;div id=&#34;%E6%BA%90%E4%BB%A3%E7%A0%81%E4%B8%8B%E8%BD%BDbr&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;源代码下载br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E6%BA%90%E4%BB%A3%E7%A0%81%E4%B8%8B%E8%BD%BDbr&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e6%ba%90%e4%bb%a3%e7%a0%81%e4%b8%8b%e8%bd%bdbr&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/glass.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/glass.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;如果你在使用过程中遇到问题，欢迎在评论区提问！&lt;/p&gt;
 </description>
@@ -48,18 +47,17 @@
       
       <guid>https://smileguide.github.io/docs/vb/board/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;这是一个可以在空白画布或图片上作画的工具，特别提供教师使用红色笔迹进行评卷的快捷功能。&lt;/p&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;入口 
-    &lt;div id=&#34;%E5%85%A5%E5%8F%A3&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;入口&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%85%A5%E5%8F%A3&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%85%a5%e5%8f%a3&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;style&gt;
+&lt;/h2&gt;
+&lt;style&gt;
 	.DDot{
 		text-decoration:underline;
 		text-decoration-style:dotted;
@@ -67,18 +65,17 @@
 		color:#b5b5b5;
 	}
 &lt;/style&gt;
-
-
 &lt;h3 class=&#34;relative group&#34;&gt;源代码下载：&lt;br/&gt; 
-    &lt;div id=&#34;%E6%BA%90%E4%BB%A3%E7%A0%81%E4%B8%8B%E8%BD%BDbr&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;源代码下载br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E6%BA%90%E4%BB%A3%E7%A0%81%E4%B8%8B%E8%BD%BDbr&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e6%ba%90%e4%bb%a3%e7%a0%81%e4%b8%8b%e8%bd%bdbr&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/board.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/board.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;如果你在使用过程中遇到问题，欢迎在评论区提问！&lt;/p&gt;
 </description>
@@ -92,18 +89,17 @@
       
       <guid>https://smileguide.github.io/docs/vb/screenshot/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;这是一个可以方便地把按下PrintScreen键复制到剪贴板的截图捕获、并以时间戳文件名保存到指定目录内的工具。&lt;/p&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;入口 
-    &lt;div id=&#34;%E5%85%A5%E5%8F%A3&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;入口&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%85%A5%E5%8F%A3&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%85%a5%e5%8f%a3&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;style&gt;
+&lt;/h2&gt;
+&lt;style&gt;
 	.DDot{
 		text-decoration:underline;
 		text-decoration-style:dotted;
@@ -111,18 +107,17 @@
 		color:#b5b5b5;
 	}
 &lt;/style&gt;
-
-
 &lt;h3 class=&#34;relative group&#34;&gt;源代码下载：&lt;br/&gt; 
-    &lt;div id=&#34;%E6%BA%90%E4%BB%A3%E7%A0%81%E4%B8%8B%E8%BD%BDbr&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;源代码下载br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E6%BA%90%E4%BB%A3%E7%A0%81%E4%B8%8B%E8%BD%BDbr&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e6%ba%90%e4%bb%a3%e7%a0%81%e4%b8%8b%e8%bd%bdbr&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/screenshot.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/screenshot.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;如果你在使用过程中遇到问题，欢迎在评论区提问！&lt;/p&gt;
 </description>
@@ -144,18 +139,17 @@
 		color:#b5b5b5;
 	}
 &lt;/style&gt;
-
-
 &lt;h3 class=&#34;relative group&#34;&gt;源代码下载：&lt;br/&gt; 
-    &lt;div id=&#34;%E6%BA%90%E4%BB%A3%E7%A0%81%E4%B8%8B%E8%BD%BDbr&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;源代码下载br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E6%BA%90%E4%BB%A3%E7%A0%81%E4%B8%8B%E8%BD%BDbr&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e6%ba%90%e4%bb%a3%e7%a0%81%e4%b8%8b%e8%bd%bdbr&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/schedule.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/schedule.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;如果你在使用过程中遇到问题，欢迎在评论区提问！&lt;/p&gt;
 </description>
@@ -169,18 +163,17 @@
       
       <guid>https://smileguide.github.io/docs/vb/31infsystem/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;这是一个可以查询庄河市第三十一初级中学2019届学生信息的数据管理系统，并有通配符查找、剪贴板识别自动查找等功能。你也可以将本作品更改成你单位的信息管理系统。&lt;/p&gt;
-
-
 &lt;h2 class=&#34;relative group&#34;&gt;入口 
-    &lt;div id=&#34;%E5%85%A5%E5%8F%A3&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;入口&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%85%A5%E5%8F%A3&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%85%a5%e5%8f%a3&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h2&gt;&lt;style&gt;
+&lt;/h2&gt;
+&lt;style&gt;
 	.DDot{
 		text-decoration:underline;
 		text-decoration-style:dotted;
@@ -188,18 +181,17 @@
 		color:#b5b5b5;
 	}
 &lt;/style&gt;
-
-
 &lt;h3 class=&#34;relative group&#34;&gt;源代码下载：&lt;br/&gt; 
-    &lt;div id=&#34;%E6%BA%90%E4%BB%A3%E7%A0%81%E4%B8%8B%E8%BD%BDbr&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;源代码下载br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E6%BA%90%E4%BB%A3%E7%A0%81%E4%B8%8B%E8%BD%BDbr&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e6%ba%90%e4%bb%a3%e7%a0%81%e4%b8%8b%e8%bd%bdbr&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/31infsystem.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/31infsystem.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;如果你在使用过程中遇到问题，欢迎在评论区提问！&lt;/p&gt;
 </description>
@@ -221,18 +213,17 @@
 		color:#b5b5b5;
 	}
 &lt;/style&gt;
-
-
 &lt;h3 class=&#34;relative group&#34;&gt;源代码下载：&lt;br/&gt; 
-    &lt;div id=&#34;%E6%BA%90%E4%BB%A3%E7%A0%81%E4%B8%8B%E8%BD%BDbr&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;源代码下载br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E6%BA%90%E4%BB%A3%E7%A0%81%E4%B8%8B%E8%BD%BDbr&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e6%ba%90%e4%bb%a3%e7%a0%81%e4%b8%8b%e8%bd%bdbr&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/cipher.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/cipher.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;如果你在使用过程中遇到问题，欢迎在评论区提问！&lt;/p&gt;
 </description>

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Mon, 19 Feb 2024 17:26:12 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/en/docs/vb/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Feb 2024 17:47:50 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/en/docs/vb/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Glass (Completed)</title>
       <link>https://smileguide.github.io/en/docs/vb/glass/</link>
@@ -23,8 +23,6 @@
 		color:#b5b5b5;
 	}
 &lt;/style&gt;
-
-
 &lt;h3 class=&#34;relative group&#34;&gt;Download source code: &lt;br/&gt; 
     &lt;div id=&#34;download-source-code-br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -34,7 +32,8 @@
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#download-source-code-br&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/glass.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/glass.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;If you&amp;rsquo;re having trouble with it, feel free to ask questions in the comments section!&lt;/p&gt;
 </description>
@@ -56,8 +55,6 @@
 		color:#b5b5b5;
 	}
 &lt;/style&gt;
-
-
 &lt;h3 class=&#34;relative group&#34;&gt;Download source code: &lt;br/&gt; 
     &lt;div id=&#34;download-source-code-br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -67,7 +64,8 @@
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#download-source-code-br&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/board.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/board.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;If you&amp;rsquo;re having trouble with it, feel free to ask questions in the comments section!&lt;/p&gt;
 </description>
@@ -89,8 +87,6 @@
 		color:#b5b5b5;
 	}
 &lt;/style&gt;
-
-
 &lt;h3 class=&#34;relative group&#34;&gt;Download source code: &lt;br/&gt; 
     &lt;div id=&#34;download-source-code-br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -100,7 +96,8 @@
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#download-source-code-br&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/screenshot.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/screenshot.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;If you&amp;rsquo;re having trouble with it, feel free to ask questions in the comments section!&lt;/p&gt;
 </description>
@@ -122,8 +119,6 @@
 		color:#b5b5b5;
 	}
 &lt;/style&gt;
-
-
 &lt;h3 class=&#34;relative group&#34;&gt;Download source code: &lt;br/&gt; 
     &lt;div id=&#34;download-source-code-br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -133,7 +128,8 @@
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#download-source-code-br&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/schedule.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/schedule.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;If you&amp;rsquo;re having trouble with it, feel free to ask questions in the comments section!&lt;/p&gt;
 </description>
@@ -155,8 +151,6 @@
 		color:#b5b5b5;
 	}
 &lt;/style&gt;
-
-
 &lt;h3 class=&#34;relative group&#34;&gt;Download source code: &lt;br/&gt; 
     &lt;div id=&#34;download-source-code-br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -166,7 +160,8 @@
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#download-source-code-br&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/31infsystem.rar.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/31infsystem.rar.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;If you&amp;rsquo;re having trouble with it, feel free to ask questions in the comments section!&lt;/p&gt;
 </description>
@@ -188,8 +183,6 @@
 		color:#b5b5b5;
 	}
 &lt;/style&gt;
-
-
 &lt;h3 class=&#34;relative group&#34;&gt;Download source code: &lt;br/&gt; 
     &lt;div id=&#34;download-source-code-br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -199,7 +192,8 @@
             style=&#34;text-decoration-line: none !important;&#34; href=&#34;#download-source-code-br&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
-&lt;/h3&gt;&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/cipher.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
+&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/cipher.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;If you&amp;rsquo;re having trouble with it, feel free to ask questions in the comments section!&lt;/p&gt;
 </description>
