@@ -8,7 +8,7 @@ showWordCount: false
 cardView: true
 showPagination: false
 ---
-<!-- {{< alert >}}
-本站主要域名 [karlukle.site](https://karlukle.site) 近期正在备案，应要求暂停解析到服务器，预计2月18日恢复正常访问。
-{{< /alert >}} -->
+{{< alert >}}
+本站主要域名 [karlukle.site](https://karlukle.site) 已备案完成，2024/2/19日起使用该域名作为唯一网址，原 smileguide.github.io 和 i.karlukle.site 停止解析。
+{{< /alert >}}
 <br/>

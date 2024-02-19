@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Mon, 19 Feb 2024 16:14:52 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Feb 2024 16:20:19 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>古典乐 Classical</title>
       <link>https://smileguide.github.io/radio/classical/</link>
@@ -1579,7 +1579,7 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
       <pubDate>Sun, 11 Feb 2024 22:43:00 +0800</pubDate>
       
       <guid>https://smileguide.github.io/notice/</guid>
-      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;!-- 
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;
   
 
 
@@ -1608,10 +1608,11 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
     
       class=&#34;dark:text-neutral-300&#34;
     &gt;本站主要域名 &lt;a href=&#34;https://karlukle.site&#34;   target=&#34;_blank&#34;&gt;
-    karlukle.site&lt;/a&gt; 近期正在备案，应要求暂停解析到服务器，预计2月18日恢复正常访问。&lt;/span&gt;
+    karlukle.site&lt;/a&gt; 已备案完成，2024/2/19日起使用该域名作为唯一网址，原 smileguide.github.io 和 i.karlukle.site 停止解析。&lt;/span&gt;
 &lt;/div&gt;
- --&gt;
-&lt;br/&gt;</description>
+
+&lt;br/&gt;&lt;/p&gt;
+</description>
       
     </item>
     
