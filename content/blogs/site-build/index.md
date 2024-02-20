@@ -413,6 +413,6 @@ $(element).wrap("<a href='{{i18n "pathAppendix"}}/radio/pick/'></a>");
 --更新于2024/2/18--  
 
 ## 对 Blowfish 主题的贡献  
-- 增加简体中文翻译 #[1208](https://github.com/nunocoracao/blowfish/pull/1208)
-- 修补Bug：中日韩文本标题无法页内定位 #[1254](https://github.com/nunocoracao/blowfish/pull/1254)
-- 增加繁体中文翻译 #[1255](https://github.com/nunocoracao/blowfish/pull/1255)
+- 增加简体中文翻译 [#1208](https://github.com/nunocoracao/blowfish/pull/1208)
+- 修补Bug：中日韩文本标题无法页内定位 [#1254](https://github.com/nunocoracao/blowfish/pull/1254)
+- 增加繁体中文翻译 [#1255](https://github.com/nunocoracao/blowfish/pull/1255)
