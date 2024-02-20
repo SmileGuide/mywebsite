@@ -82,10 +82,11 @@ observer.observe(article, options);
 <script type="module">
   import { pageviewCount } from '//unpkg.com/@waline/client@v3/dist/pageview.js';
 
-  const abort = pageviewCount({
+  pageviewCount({
     serverURL: '//comments.karlukle.site/',
     path: window.location.pathname,
   });
+  
 </script>
 
 

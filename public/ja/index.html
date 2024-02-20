@@ -1521,10 +1521,11 @@ $(element).wrap("<a href='\/ja/radio/pick/'></a>");
 <script type="module">
   import { pageviewCount } from '//unpkg.com/@waline/client@v3/dist/pageview.js';
 
-  const abort = pageviewCount({
+  pageviewCount({
     serverURL: '//comments.karlukle.site/',
     path: window.location.pathname,
   });
+  
 </script>
 
 
