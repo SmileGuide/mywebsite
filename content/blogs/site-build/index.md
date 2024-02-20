@@ -415,4 +415,9 @@ $(element).wrap("<a href='{{i18n "pathAppendix"}}/radio/pick/'></a>");
 ## 对 Blowfish 主题的贡献  
 - 增加简体中文翻译 [#1208](https://github.com/nunocoracao/blowfish/pull/1208)
 - 修补Bug：中日韩文本标题无法页内定位 [#1254](https://github.com/nunocoracao/blowfish/pull/1254)
-- 增加繁体中文翻译 [#1255](https://github.com/nunocoracao/blowfish/pull/1255)
+- 增加繁体中文翻译 [#1255](https://github.com/nunocoracao/blowfish/pull/1255)   
+
+<br/>
+<br/>
+以上是关于本站建造的全部内容，如果你想进一步了解本站是如何部署、加速的，欢迎阅读：
+{{< article link="/blogs/site-publish/" />}}
