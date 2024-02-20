@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Tue, 20 Feb 2024 18:07:16 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Feb 2024 21:02:19 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>古典乐 Classical</title>
       <link>https://smileguide.github.io/radio/classical/</link>
@@ -1521,11 +1521,11 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
       
       <guid>https://smileguide.github.io/blogs/site-publish/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
-  这是由上一篇文章《关于本站的建造》引申出来的文章，主要讲解的是把构建好的 Hugo 网站进行部署和加速的过程。
+  这是由上一篇《关于本站的建造》引申出来的文章，主要讲解的是把构建好的 Hugo 网站进行部署和加速的过程。与上一篇不同，这是一篇普遍使用的教程。
 &lt;/div&gt;
 
-&lt;h1 id=&#34;部署网站&#34;&gt;部署网站&lt;/h1&gt;
-&lt;h2 id=&#34;部署到github-pages&#34;&gt;部署到GitHub Pages&lt;/h2&gt;
+&lt;h2 id=&#34;部署网站&#34;&gt;部署网站&lt;/h2&gt;
+&lt;h3 id=&#34;部署到github-pages&#34;&gt;部署到GitHub Pages&lt;/h3&gt;
 &lt;p&gt;首先，你需要拥有一个名为 &lt;code&gt;&amp;lt;账号&amp;gt;.github.io&lt;/code&gt; 的 GitHub 公开仓库，然后把网站源代码 push 上去。（不要只上传 public 文件夹，建议连根上传，方便管理）。&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add .
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git remote add github &amp;lt;仓库地址&amp;gt;
@@ -1535,21 +1535,21 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;然后可以在设置里面看到：&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220135808.png&#34; alt=&#34;&#34;  /&gt;&lt;br&gt;
 &lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220140716.png&#34; alt=&#34;&#34;  /&gt;把 &lt;code&gt;/(root)&lt;/code&gt; 改为 &lt;code&gt;/public&lt;/code&gt;，点保存后等待部署完成。&lt;/p&gt;
 &lt;p&gt;至此，你就可以用 GitHub 授予的二级域名来访问你的网站了。&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220141022.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
-&lt;h3 id=&#34;优点&#34;&gt;优点&lt;/h3&gt;
+&lt;h4 id=&#34;优点&#34;&gt;优点&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;GitHub 的二级域名易于记忆&lt;/li&gt;
 &lt;li&gt;单平台一站式配置， 无需考虑协议、证书等&lt;/li&gt;
 &lt;li&gt;国内可访问&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;缺点&#34;&gt;缺点&lt;/h3&gt;
+&lt;h4 id=&#34;缺点&#34;&gt;缺点&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;配置较低，加载速度慢&lt;/li&gt;
 &lt;li&gt;国内及附近无加速节点，访问慢，时常抽风&lt;/li&gt;
 &lt;li&gt;GitHub Pages 把百度的爬虫拦截，站点无法被百度收录&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;ping-结果&#34;&gt;Ping 结果&lt;/h3&gt;
+&lt;h4 id=&#34;ping-结果&#34;&gt;Ping 结果&lt;/h4&gt;
 &lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220150550.png&#34; alt=&#34;&#34;  title=&#34;虽然 Ping 延迟较低，但实际上速度很慢&#34; /&gt;&lt;/p&gt;
-&lt;h2 id=&#34;部署到-vercel&#34;&gt;部署到 Vercel&lt;/h2&gt;
+&lt;h3 id=&#34;部署到-vercel&#34;&gt;部署到 Vercel&lt;/h3&gt;
 &lt;p&gt;如果你没有域名，慎用 Vercel，因为 Vercel 被GFW污染，不用自己的域名做解析就无法访问部署好的网站。&lt;/p&gt;
 &lt;p&gt;建立仓库、push的过程与 GitHub Pages 相同，但仓库不用必须公开，仓库名自定义。&lt;br&gt;
 访问 &lt;a href=&#34;https://vercel.com/&#34;&gt;Verccel网站&lt;/a&gt;，用 GitHub 登录。&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220142422.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
@@ -1702,30 +1702,30 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
 &lt;/ol&gt;
 &lt;p&gt;至此，基本的 Vercel 部署已经完成。但如果想通过 Vercel 授予的二级域名访问网站，可能需要魔法.:dog:&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220144937.png&#34; alt=&#34;&#34;  /&gt;
 &lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220145430.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
-&lt;h3 id=&#34;优点-1&#34;&gt;优点&lt;/h3&gt;
+&lt;h4 id=&#34;优点-1&#34;&gt;优点&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;自带CDN，有香港节点&lt;/li&gt;
 &lt;li&gt;服务器性能较高，速度较快&lt;/li&gt;
 &lt;li&gt;每次push 后自动部署&lt;/li&gt;
 &lt;li&gt;自定义程度较高，可绑定多个域名，也可以设置解析&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;缺点-1&#34;&gt;缺点&lt;/h3&gt;
+&lt;h4 id=&#34;缺点-1&#34;&gt;缺点&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;需要绑定域名&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&#34;ping-结果-1&#34;&gt;Ping 结果&lt;/h3&gt;
+&lt;h4 id=&#34;ping-结果-1&#34;&gt;Ping 结果&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;*.vercel.app &lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220145944.png&#34; alt=&#34;&#34;  /&gt;&lt;/li&gt;
 &lt;li&gt;绑定域名后 &lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220150731.png&#34; alt=&#34;&#34;  /&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;注册域名和icp备案&#34;&gt;注册域名和ICP备案&lt;/h1&gt;
+&lt;h2 id=&#34;注册域名和icp备案&#34;&gt;注册域名和ICP备案&lt;/h2&gt;
 &lt;p&gt;随便找一个国内的服务商，按照流程购买域名，需要实名认证。本域名是在腾讯云注册的。&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220152545.png&#34; alt=&#34;&#34;  /&gt;
 注册完成后，别忘记申请免费SSL证书以激活HTTPS访问。&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220153010.png&#34; alt=&#34;&#34;  /&gt;&lt;br&gt;
 接下来，为购买国内CDN加速，你需要将网站进行ICP备案。各服务商和各省管局有不同的要求，请遵照要求进行备案。&lt;br&gt;
 备案完成后，三十天内要在根域名主页尾部挂好ICP备案标识，否则抽查到会被罚款。&lt;/p&gt;
-&lt;h1 id=&#34;配置cdn&#34;&gt;配置CDN&lt;/h1&gt;
+&lt;h2 id=&#34;配置cdn&#34;&gt;配置CDN&lt;/h2&gt;
 &lt;p&gt;以腾讯云加速 Vercel 为例（既然已经购买了域名，选择 Vercel 提供的服务自然更好些）。&lt;/p&gt;
-&lt;h2 id=&#34;境内外分流&#34;&gt;境内外分流&lt;/h2&gt;
+&lt;h3 id=&#34;境内外分流&#34;&gt;境内外分流&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;如果你用根域名做CDN加速&lt;/strong&gt;&lt;/p&gt;
@@ -1786,7 +1786,7 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
 &lt;/ol&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;添加回源解析&#34;&gt;添加回源解析&lt;/h2&gt;
+&lt;h3 id=&#34;添加回源解析&#34;&gt;添加回源解析&lt;/h3&gt;
 &lt;p&gt;首先来到腾讯云DNS解析控制台，添加一条CNAME解析：&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -1808,7 +1808,7 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
 &lt;/table&gt;
 &lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220163309.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
 &lt;p&gt;然后来到 Vercel 给要使用CDN的网站添加一个自定义的二级域名（如 &lt;code&gt;&amp;lt;自定义&amp;gt;.&amp;lt;你的域名&amp;gt;.&amp;lt;你的后缀&amp;gt;&lt;/code&gt; ） &lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220162821.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
-&lt;h2 id=&#34;配置cdn-1&#34;&gt;配置CDN&lt;/h2&gt;
+&lt;h3 id=&#34;配置cdn-1&#34;&gt;配置CDN&lt;/h3&gt;
 &lt;ol class=&#34;border-l-2 list-none border-primary-500 dark:border-primary-300&#34;&gt;
 
 
@@ -1968,8 +1968,8 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
       
 
   &lt;span class=&#34;relative block icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M438.6 105.4C451.1 117.9 451.1 138.1 438.6 150.6L182.6 406.6C170.1 419.1 149.9 419.1 137.4 406.6L9.372 278.6C-3.124 266.1-3.124 245.9 9.372 233.4C21.87 220.9 42.13 220.9 54.63 233.4L159.1 338.7L393.4 105.4C405.9 92.88 426.1 92.88 438.6 105.4H438.6z&#34;/&gt;&lt;/svg&gt;
-
+    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 640 512&#34;&gt;
+&lt;path fill=&#34;currentColor&#34;  d=&#34;M392.8 1.2c-17-4.9-34.7 5-39.6 22l-128 448c-4.9 17 5 34.7 22 39.6s34.7-5 39.6-22l128-448c4.9-17-5-34.7-22-39.6zm80.6 120.1c-12.5 12.5-12.5 32.8 0 45.3L562.7 256l-89.4 89.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l112-112c12.5-12.5 12.5-32.8 0-45.3l-112-112c-12.5-12.5-32.8-12.5-45.3 0zm-306.7 0c-12.5-12.5-32.8-12.5-45.3 0l-112 112c-12.5 12.5-12.5 32.8 0 45.3l112 112c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L77.3 256l89.4-89.4c12.5-12.5 12.5-32.8 0-45.3z&#34;/&gt;&lt;/svg&gt;
   &lt;/span&gt;
 
 
@@ -1993,9 +1993,170 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
 
 
 
-&lt;/ol&gt;
-</description>
+
+
+
+&lt;li class=&#34;list-none&#34;&gt;
+  &lt;div class=&#34;flex flex-start&#34;&gt;
+    &lt;div class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
       
+
+  &lt;span class=&#34;relative block icon&#34;&gt;
+    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 640 512&#34;&gt;
+&lt;path fill=&#34;currentColor&#34;  d=&#34;M392.8 1.2c-17-4.9-34.7 5-39.6 22l-128 448c-4.9 17 5 34.7 22 39.6s34.7-5 39.6-22l128-448c4.9-17-5-34.7-22-39.6zm80.6 120.1c-12.5 12.5-12.5 32.8 0 45.3L562.7 256l-89.4 89.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l112-112c12.5-12.5 12.5-32.8 0-45.3l-112-112c-12.5-12.5-32.8-12.5-45.3 0zm-306.7 0c-12.5-12.5-32.8-12.5-45.3 0l-112 112c-12.5 12.5-12.5 32.8 0 45.3l112 112c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L77.3 256l89.4-89.4c12.5-12.5 12.5-32.8 0-45.3z&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+
+
+    &lt;/div&gt;
+    &lt;div class=&#34;block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words&#34;&gt;
+      &lt;div class=&#34;flex justify-between&#34;&gt;
+        
+        &lt;h2 class=&#34;mt-0&#34;&gt;
+          按需配置用量封顶 
+        &lt;/h2&gt;
+        
+        
+      &lt;/div&gt;
+      
+      &lt;p class=&#34;text-gray-700 mb-6&#34;&gt;
+&lt;img src=&#34;截图_选择区域_20240220180819.png&#34;/&gt;  
+&lt;img src=&#34;截图_选择区域_20240220180950.png&#34;/&gt;  
+
+&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/li&gt;
+
+
+
+
+
+
+&lt;li class=&#34;list-none&#34;&gt;
+  &lt;div class=&#34;flex flex-start&#34;&gt;
+    &lt;div class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
+      
+
+  &lt;span class=&#34;relative block icon&#34;&gt;
+    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 640 512&#34;&gt;
+&lt;path fill=&#34;currentColor&#34;  d=&#34;M392.8 1.2c-17-4.9-34.7 5-39.6 22l-128 448c-4.9 17 5 34.7 22 39.6s34.7-5 39.6-22l128-448c4.9-17-5-34.7-22-39.6zm80.6 120.1c-12.5 12.5-12.5 32.8 0 45.3L562.7 256l-89.4 89.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l112-112c12.5-12.5 12.5-32.8 0-45.3l-112-112c-12.5-12.5-32.8-12.5-45.3 0zm-306.7 0c-12.5-12.5-32.8-12.5-45.3 0l-112 112c-12.5 12.5-12.5 32.8 0 45.3l112 112c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L77.3 256l89.4-89.4c12.5-12.5 12.5-32.8 0-45.3z&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+
+
+    &lt;/div&gt;
+    &lt;div class=&#34;block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words&#34;&gt;
+      &lt;div class=&#34;flex justify-between&#34;&gt;
+        
+        &lt;h2 class=&#34;mt-0&#34;&gt;
+          启用HTTPS服务，选择刚才配置好的证书 
+        &lt;/h2&gt;
+        
+        
+      &lt;/div&gt;
+      
+      &lt;p class=&#34;text-gray-700 mb-6&#34;&gt;
+&lt;img src=&#34;截图_选择区域_20240220181111.png&#34;/&gt;  
+&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/li&gt;
+
+
+
+
+
+
+&lt;li class=&#34;list-none&#34;&gt;
+  &lt;div class=&#34;flex flex-start&#34;&gt;
+    &lt;div class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
+      
+
+  &lt;span class=&#34;relative block icon&#34;&gt;
+    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 640 512&#34;&gt;
+&lt;path fill=&#34;currentColor&#34;  d=&#34;M392.8 1.2c-17-4.9-34.7 5-39.6 22l-128 448c-4.9 17 5 34.7 22 39.6s34.7-5 39.6-22l128-448c4.9-17-5-34.7-22-39.6zm80.6 120.1c-12.5 12.5-12.5 32.8 0 45.3L562.7 256l-89.4 89.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l112-112c12.5-12.5 12.5-32.8 0-45.3l-112-112c-12.5-12.5-32.8-12.5-45.3 0zm-306.7 0c-12.5-12.5-32.8-12.5-45.3 0l-112 112c-12.5 12.5-12.5 32.8 0 45.3l112 112c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L77.3 256l89.4-89.4c12.5-12.5 12.5-32.8 0-45.3z&#34;/&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+
+
+    &lt;/div&gt;
+    &lt;div class=&#34;block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words&#34;&gt;
+      &lt;div class=&#34;flex justify-between&#34;&gt;
+        
+        &lt;h2 class=&#34;mt-0&#34;&gt;
+          点击一键配置，CDN的CNAME解析记录就会自动添加 
+        &lt;/h2&gt;
+        
+        
+      &lt;/div&gt;
+      
+      &lt;p class=&#34;text-gray-700 mb-6&#34;&gt;
+&lt;img src=&#34;截图_选择区域_20240220181504.png&#34;/&gt;  
+&lt;/p&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/li&gt;
+
+&lt;/ol&gt;
+
+  
+  
+  
+  
+
+
+
+&lt;div
+  
+    class=&#34;flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900&#34;
+  &gt;
+
+  &lt;span
+    
+      class=&#34;text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center&#34;
+    &gt;
+
+    
+
+
+  &lt;/span&gt;
+
+  &lt;span
+    
+      class=&#34;dark:text-neutral-300&#34;
+    &gt;&lt;p&gt;※ 如果你给根域名加速，你需要把&lt;strong&gt;带www的域名&lt;/strong&gt;再添加一遍，配置同上。除此之外，你还要把&lt;strong&gt;不带www的根域名&lt;/strong&gt;进行如下配置：
+
+
+&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;全路径匹配&lt;/th&gt;
+&lt;th&gt;待重写URL&lt;/th&gt;
+&lt;th&gt;目标Host&lt;/th&gt;
+&lt;th&gt;目标Path&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;code&gt;√&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;/*&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;https://www.&amp;lt;你要加速的域名&amp;gt;.&amp;lt;后缀&amp;gt;&lt;/code&gt;&lt;/td&gt;
+&lt;td&gt;&lt;code&gt;/$1&lt;/code&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;p&gt;等待片刻，CDN就配置完成了。&lt;br&gt;
+&lt;br/&gt;
+&lt;br/&gt;&lt;/p&gt;
+&lt;h4 id=&#34;ping-结果-2&#34;&gt;Ping 结果&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;CDN加速前&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220200737.png&#34; alt=&#34;&#34;  /&gt;&lt;/li&gt;
+&lt;li&gt;CDN加速后&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220205156.png&#34; alt=&#34;&#34;  /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;ndash;终&amp;ndash;&lt;/p&gt;
+</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/site-publish/feature.jpg" />
     </item>
     
     <item>
