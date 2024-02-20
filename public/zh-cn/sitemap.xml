@@ -298,6 +298,12 @@
     />
   </url>
   <url>
+    <loc>https://smileguide.github.io/blogs/site-publish/</loc>
+    <lastmod>2024-02-20T13:42:42+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://smileguide.github.io/shuoshuo-single/add-kanban/</loc>
     <lastmod>2024-02-15T22:01:04+08:00</lastmod>
     <changefreq>daily</changefreq>

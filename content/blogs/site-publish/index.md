@@ -1,7 +1,7 @@
 ---
 title: "关于本站的部署"
 date: 2024-02-20T13:42:42+08:00
-draft: true
+draft: false
 ---
 
 {{< lead >}}这是由上一篇文章《关于本站的建造》引申出来的文章，主要讲解的是把构建好的 Hugo 网站进行部署和加速的过程。{{</ lead >}}
@@ -84,3 +84,72 @@ git push -u github main
 接下来，为购买国内CDN加速，你需要将网站进行ICP备案。各服务商和各省管局有不同的要求，请遵照要求进行备案。  
 备案完成后，三十天内要在根域名主页尾部挂好ICP备案标识，否则抽查到会被罚款。  
 
+
+# 配置CDN  
+以腾讯云加速 Vercel 为例（既然已经购买了域名，选择 Vercel 提供的服务自然更好些）。
+
+
+
+
+
+## 境内外分流
+
+- **如果你用根域名做CDN加速**  
+	1. 删除原有的该站对 Vercel 的解析
+	2. 添加两条CNAME解析
+|主机记录|记录类型|线路类型|记录值|
+|-|-|-|-|
+|www|CNAME|境外|cname.vercel-dns.com.|   
+|@|A|境外|76.76.21.21|  
+
+- **如果你做CDN加速的是二级域名**  
+	1. 删除原有的该站对 Vercel 的解析
+	2. 添加一条CNAME解析
+|主机记录|记录类型|线路类型|记录值|
+|-|-|-|-|
+|`<子域>`|CNAME|境外|cname.vercel-dns.com.|   
+
+
+## 添加回源解析
+首先来到腾讯云DNS解析控制台，添加一条CNAME解析：  
+|主机记录|记录类型|线路类型|记录值|
+|-|-|-|-|
+|source|CNAME|默认|cname.vercel-dns.com.|   
+
+ ![](截图_选择区域_20240220163309.png)
+
+
+然后来到 Vercel 给要使用CDN的网站添加一个自定义的二级域名（如 `<自定义>.<你的域名>.<你的后缀>` ） ![](截图_选择区域_20240220162821.png)  
+
+
+## 配置CDN
+{{< timeline >}}
+
+{{< timelineItem icon="pencil" header="到腾讯云CDN控制台，点击添加域名">}}  
+
+<img src="截图_选择区域_20240220161819.png"/>   
+
+
+{{< /timelineItem >}}
+
+
+{{< timelineItem icon="code" header="输入你已备案的域名，按照下图进行配置">}}
+<img src="截图_选择区域_20240220162357.png"/>   
+{{< /timelineItem >}}
+
+{{< timelineItem  icon="code" header="自定义缓存配置" >}}
+<img src="截图_选择区域_20240220165304.png"/>  
+<img src="截图_选择区域_20240220165330.png"/>  
+（你可以参照我的配置）
+{{< /timelineItem >}}
+
+{{< timelineItem icon="code" header="自定义压缩配置" >}}
+<img src="截图_选择区域_20240220143543.png"/>  
+{{< /timelineItem >}}
+
+{{< timelineItem header="等待部署完成后，进入仪表板" >}}
+<img src="截图_选择区域_20240220165453.png"/>  
+{{< /timelineItem >}}
+
+
+{{< /timeline >}}  

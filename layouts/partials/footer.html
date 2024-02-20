@@ -48,7 +48,10 @@ $(document).snowfall({image:"/snowflake.png", flakeCount:90, minSpeed:1, minSize
   {{i18n "footer.visitors"}}
     <span class="waline-pageview-count" data-path="/" id="pagec">——</span>
   </p>
-  <script type="module">
+
+
+
+<!--   <script type="module">
     import { pageviewCount } from 'https://unpkg.com/@waline/client/dist/pageview.js';
     pageviewCount({
       serverURL: '//comments.karlukle.site/',
@@ -73,7 +76,22 @@ var options = {
 };
 
 observer.observe(article, options);
+</script> -->
+
+
+<script type="module">
+  import { pageviewCount } from '//unpkg.com/@waline/client@v3/dist/pageview.js';
+
+  const abort = pageviewCount({
+    serverURL: '//comments.karlukle.site/',
+    path: window.location.pathname,
+  });
 </script>
+
+
+
+
+
 {{ if eq $.Language.Lang "zh-cn" }}
 <p class="text-sm text-neutral-500 dark:text-neutral-400">
 <a href="https://beian.miit.gov.cn/" class="hover:text-primary-500 beian" target="_blank" >辽ICP备2024021519号-1</a>

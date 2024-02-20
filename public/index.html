@@ -1120,6 +1120,98 @@ $(element).wrap("<a href=' /radio/pick/'></a>");
   
   
 
+  <a href="/blogs/site-publish/" class="min-w-full">
+    
+    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
+
+      <div class="px-6 py-4">
+
+        
+        <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
+          href="/blogs/site-publish/">关于本站的部署</div>
+        
+
+        <div class="text-sm text-neutral-500 dark:text-neutral-400">
+          
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  <time datetime="2024-02-20 13:42:42 &#43;0800 CST">2024年2月20日</time><span class="px-2 text-primary-500">&middot;</span><span>174 字</span><span class="px-2 text-primary-500">&middot;</span><span title="预计阅读">1 分钟</span>
+  
+
+  
+  
+</div>
+
+
+
+
+
+<div class="flex flex-row flex-wrap items-center">
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+</div>
+
+
+
+        </div>
+
+        
+      </div>
+      <div class="px-6 pt-4 pb-2">
+
+      </div>
+    </div>
+  </a>
+  
+  
+
   <a href="/blogs/site-build/" class="min-w-full">
     
     <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
@@ -1656,120 +1748,6 @@ $(element).wrap("<a href=' /radio/pick/'></a>");
     </div>
   </a>
   
-  
-
-  <a href="/blogs/childhood-photography/" class="min-w-full">
-    
-    <div class="min-h-full border border-neutral-200 dark:border-neutral-700 border-2 rounded overflow-hidden shadow-2xl relative">
-        
-        <div class="w-full thumbnail_card nozoom" style="background-image:url(/blogs/childhood-photography/feature_hu5459c0360c2b0cb7a147d2df0eb350ca_8635928_600x0_resize_q75_box.jpg);"></div>
-        
-      
-
-      <div class="px-6 py-4">
-
-        
-        <div class="font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral"
-          href="/blogs/childhood-photography/">旧照换新颜</div>
-        
-
-        <div class="text-sm text-neutral-500 dark:text-neutral-400">
-          
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-  
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="flex flex-row flex-wrap items-center">
-  
-  
-  <time datetime="2023-02-22 14:58:34 &#43;0800 CST">2023年2月22日</time><span class="px-2 text-primary-500">&middot;</span><span>307 字</span><span class="px-2 text-primary-500">&middot;</span><span title="预计阅读">1 分钟</span>
-  
-
-  
-  
-</div>
-
-
-
-
-
-<div class="flex flex-row flex-wrap items-center">
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/%E6%91%84%E5%BD%B1/&#34;,'_self');">
-    <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    摄影
-  </span>
-</span>
-  </span>
-  
-  <span style="margin-top:0.5rem" class="mr-2" onclick="window.open(&#34;/tags/ppt/&#34;,'_self');">
-    <span class="flex" style="cursor: pointer;">
-  <span class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-    PPT
-  </span>
-</span>
-  </span>
-  
-  
-  
-  
-</div>
-
-
-
-        </div>
-
-        
-      </div>
-      <div class="px-6 pt-4 pb-2">
-
-      </div>
-    </div>
-  </a>
-  
 </section>
 
 
@@ -1841,32 +1819,25 @@ $(element).wrap("<a href=' /radio/pick/'></a>");
   主页来访者总数:
     <span class="waline-pageview-count" data-path="/" id="pagec">——</span>
   </p>
-  <script type="module">
-    import { pageviewCount } from 'https://unpkg.com/@waline/client/dist/pageview.js';
-    pageviewCount({
-      serverURL: '//comments.karlukle.site/',
-      path: '/',
-    });
-</script>
-<script type="text/javascript">
-    var pagect = document.getElementById('pagec');
-var observer = new MutationObserver(function(){
-      var itl,itll;
-      var element = document.getElementById("pagec");  
-      observer.disconnect();
-      itl  = element.innerText;
-      itll = Number(itl).toLocaleString();
-      document.getElementById('pagec').innerHTML = itll;
-});
-var article = document.getElementById('pagec');
 
-var options = {
-  'childList': true,
-    'subtree': true
-};
 
-observer.observe(article, options);
+
+
+
+
+<script type="module">
+  import { pageviewCount } from '//unpkg.com/@waline/client@v3/dist/pageview.js';
+
+  const abort = pageviewCount({
+    serverURL: '//comments.karlukle.site/',
+    path: window.location.pathname,
+  });
 </script>
+
+
+
+
+
 
 <p class="text-sm text-neutral-500 dark:text-neutral-400">
 <a href="https://beian.miit.gov.cn/" class="hover:text-primary-500 beian" target="_blank" >辽ICP备2024021519号-1</a>
