@@ -7,6 +7,7 @@ tags: [文学]
 series: [詩]
 series_order: 1
 seriesOpened: true
+isCJKLanguage: true
 ---
 
 <br/><br/>

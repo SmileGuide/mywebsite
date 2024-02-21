@@ -6,6 +6,7 @@ draft: false
 tags: [文学]
 series: [詩]
 series_order: 2
+isCJKLanguage: true
 ---
 これは私が作った短い詩です。中国語で殇（シャン）は未成年者の死、または戦争による死を意味します。  
 <br/><br/>
