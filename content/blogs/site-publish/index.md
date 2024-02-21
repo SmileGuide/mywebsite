@@ -4,6 +4,16 @@ date: 2024-02-20T13:42:42+08:00
 draft: false
 isCJKLanguage: true
 tags: ["技术"]
+keywords:
+- 建站
+- Vercel
+- CDN
+- 域名解析
+- GitHub Pages
+- 静态
+- 部署
+- 云加速
+- 测速
 ---
 
 {{< lead >}}这是由上一篇《关于本站的建造》引申出来的文章，主要讲解的是把构建好的 Hugo 网站进行部署和加速的过程。与上一篇不同，这是一篇普遍使用的教程。{{</ lead >}}

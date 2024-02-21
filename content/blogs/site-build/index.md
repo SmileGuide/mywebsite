@@ -5,6 +5,14 @@ draft: false
 showWordCount: true
 isCJKLanguage: true
 tags: ["技术"]
+keywords:
+- 建站
+- hugo
+- GitHub Pages
+- Vercel
+- GitHub Actions
+- 个人网站
+- 个人博客
 ---
 {{< lead >}}这里在技术上梳理了本站的建造流程及一些功能的实现方法。{{</ lead >}}  
  
