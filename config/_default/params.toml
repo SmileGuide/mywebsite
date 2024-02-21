@@ -11,7 +11,7 @@ autoSwitchAppearance = true
 
 enableSearch = true
 enableCodeCopy = true
-smartTOC = true
+smartTOC = false
 smartTOCHideUnfocusedChildren = true
 mainSections = ["blogs"]
 # robots = ""
