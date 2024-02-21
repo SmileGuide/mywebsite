@@ -141,17 +141,13 @@ git push -u github main
 
 {{< timelineItem  icon="code" header="自定义缓存配置" >}}
 <img src="截图_选择区域_20240220165304.png"/>  
-<img src="截图_选择区域_20240220165330.png"/>  
 （你可以参照我的配置）
 {{< /timelineItem >}}
 
 {{< timelineItem icon="code" header="自定义压缩配置" >}}
-<img src="截图_选择区域_20240220143543.png"/>  
+<img src="截图_选择区域_20240220165330.png"/>   
 {{< /timelineItem >}}
 
-{{< timelineItem icon="code" header="等待部署完成后，进入仪表板" >}}
-<img src="截图_选择区域_20240220165453.png"/>  
-{{< /timelineItem >}}
 {{< timelineItem icon="code" header="按需配置用量封顶" >}}
 <img src="截图_选择区域_20240220180819.png"/>  
 <img src="截图_选择区域_20240220180950.png"/>  
@@ -166,7 +162,7 @@ git push -u github main
 {{< /timeline >}}  
 
 {{<alert icon="na" >}}
-※ 如果你给根域名加速，你需要把**带www的域名**再添加一遍，配置同上。除此之外，你还要把**不带www的根域名**进行如下配置：
+※ 如果给根域名加速，你需要把**带www的域名**再添加一遍，配置同上。除此之外，你还要把**不带www的根域名**进行如下配置：
 ![](截图_选择区域_20240220182720.png)
 ![](截图_选择区域_20240220182804.png)
 ![](截图_选择区域_20240220182854.png)  

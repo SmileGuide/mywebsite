@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Wed, 21 Feb 2024 00:22:44 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Feb 2024 10:58:06 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于本站的部署</title>
       <link>https://smileguide.github.io/blogs/site-publish/</link>
@@ -408,7 +408,6 @@
       
       &lt;p class=&#34;text-gray-700 mb-6&#34;&gt;
 &lt;img src=&#34;截图_选择区域_20240220165304.png&#34;/&gt;  
-&lt;img src=&#34;截图_选择区域_20240220165330.png&#34;/&gt;  
 （你可以参照我的配置）
 &lt;/p&gt;
     &lt;/div&gt;
@@ -444,46 +443,12 @@
       &lt;/div&gt;
       
       &lt;p class=&#34;text-gray-700 mb-6&#34;&gt;
-&lt;img src=&#34;截图_选择区域_20240220143543.png&#34;/&gt;  
+&lt;img src=&#34;截图_选择区域_20240220165330.png&#34;/&gt;   
 &lt;/p&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/li&gt;
 
-
-
-
-
-
-
-&lt;li class=&#34;list-none&#34;&gt;
-  &lt;div class=&#34;flex flex-start&#34;&gt;
-    &lt;div class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
-      
-
-  &lt;span class=&#34;relative block icon&#34;&gt;
-    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 640 512&#34;&gt;
-&lt;path fill=&#34;currentColor&#34;  d=&#34;M392.8 1.2c-17-4.9-34.7 5-39.6 22l-128 448c-4.9 17 5 34.7 22 39.6s34.7-5 39.6-22l128-448c4.9-17-5-34.7-22-39.6zm80.6 120.1c-12.5 12.5-12.5 32.8 0 45.3L562.7 256l-89.4 89.4c-12.5 12.5-12.5 32.8 0 45.3s32.8 12.5 45.3 0l112-112c12.5-12.5 12.5-32.8 0-45.3l-112-112c-12.5-12.5-32.8-12.5-45.3 0zm-306.7 0c-12.5-12.5-32.8-12.5-45.3 0l-112 112c-12.5 12.5-12.5 32.8 0 45.3l112 112c12.5 12.5 32.8 12.5 45.3 0s12.5-32.8 0-45.3L77.3 256l89.4-89.4c12.5-12.5 12.5-32.8 0-45.3z&#34;/&gt;&lt;/svg&gt;
-  &lt;/span&gt;
-
-
-    &lt;/div&gt;
-    &lt;div class=&#34;block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words&#34;&gt;
-      &lt;div class=&#34;flex justify-between&#34;&gt;
-        
-        &lt;h2 class=&#34;mt-0&#34;&gt;
-          等待部署完成后，进入仪表板 
-        &lt;/h2&gt;
-        
-        
-      &lt;/div&gt;
-      
-      &lt;p class=&#34;text-gray-700 mb-6&#34;&gt;
-&lt;img src=&#34;截图_选择区域_20240220165453.png&#34;/&gt;  
-&lt;/p&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/li&gt;
 
 
 
@@ -616,7 +581,7 @@
   &lt;span
     
       class=&#34;dark:text-neutral-300&#34;
-    &gt;&lt;p&gt;※ 如果你给根域名加速，你需要把&lt;strong&gt;带www的域名&lt;/strong&gt;再添加一遍，配置同上。除此之外，你还要把&lt;strong&gt;不带www的根域名&lt;/strong&gt;进行如下配置：
+    &gt;&lt;p&gt;※ 如果给根域名加速，你需要把&lt;strong&gt;带www的域名&lt;/strong&gt;再添加一遍，配置同上。除此之外，你还要把&lt;strong&gt;不带www的根域名&lt;/strong&gt;进行如下配置：
 
 
 &lt;/p&gt;
@@ -1529,7 +1494,7 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
 &lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
   
   
-  &lt;time datetime=&#34;2024-02-20 13:42:42 &amp;#43;0800 CST&#34;&gt;2024年2月20日&lt;/time&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span&gt;1402 字&lt;/span&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span title=&#34;预计阅读&#34;&gt;3 分钟&lt;/span&gt;
+  &lt;time datetime=&#34;2024-02-20 13:42:42 &amp;#43;0800 CST&#34;&gt;2024年2月20日&lt;/time&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span&gt;1388 字&lt;/span&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span title=&#34;预计阅读&#34;&gt;3 分钟&lt;/span&gt;
   
 
   
