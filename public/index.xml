@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Wed, 21 Feb 2024 10:59:43 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Feb 2024 11:11:22 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>古典乐 Classical</title>
       <link>https://smileguide.github.io/radio/classical/</link>
@@ -1871,7 +1871,7 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
       &lt;div class=&#34;flex justify-between&#34;&gt;
         
         &lt;h2 class=&#34;mt-0&#34;&gt;
-          输入你已备案的域名，按照下图进行配置 
+          输入你已备案的域名（**给根域名添加CDN需带www**），按照下图进行配置 
         &lt;/h2&gt;
         
         
@@ -2087,7 +2087,7 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
   &lt;span
     
       class=&#34;dark:text-neutral-300&#34;
-    &gt;&lt;p&gt;※ 如果给根域名加速，你需要把&lt;strong&gt;带www的域名&lt;/strong&gt;再添加一遍，配置同上。除此之外，你还要把&lt;strong&gt;不带www的根域名&lt;/strong&gt;进行如下配置：
+    &gt;&lt;p&gt;※ 如果给根域名加速，你还要把&lt;strong&gt;不带www的根域名&lt;/strong&gt;进行如下配置（这是为不带www的访问自动加上www）：
 
 
 &lt;/p&gt;
@@ -3875,7 +3875,7 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
 &lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
   
   
-  &lt;time datetime=&#34;2024-02-20 13:42:42 &amp;#43;0800 CST&#34;&gt;2024年2月20日&lt;/time&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span&gt;1388 字&lt;/span&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span title=&#34;预计阅读&#34;&gt;3 分钟&lt;/span&gt;
+  &lt;time datetime=&#34;2024-02-20 13:42:42 &amp;#43;0800 CST&#34;&gt;2024年2月20日&lt;/time&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span&gt;1401 字&lt;/span&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span title=&#34;预计阅读&#34;&gt;3 分钟&lt;/span&gt;
   
 
   

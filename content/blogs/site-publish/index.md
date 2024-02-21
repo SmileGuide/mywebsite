@@ -135,7 +135,7 @@ git push -u github main
 {{< /timelineItem >}}
 
 
-{{< timelineItem icon="code" header="输入你已备案的域名，按照下图进行配置">}}
+{{< timelineItem icon="code" header="输入你已备案的域名（**给根域名添加CDN需带www**），按照下图进行配置">}}
 <img src="截图_选择区域_20240220162357.png"/>   
 {{< /timelineItem >}}
 
@@ -162,7 +162,7 @@ git push -u github main
 {{< /timeline >}}  
 
 {{<alert icon="na" >}}
-※ 如果给根域名加速，你需要把**带www的域名**再添加一遍，配置同上。除此之外，你还要把**不带www的根域名**进行如下配置：
+※ 如果给根域名加速，你还要把**不带www的根域名**进行如下配置（这是为不带www的访问自动加上www）：
 ![](截图_选择区域_20240220182720.png)
 ![](截图_选择区域_20240220182804.png)
 ![](截图_选择区域_20240220182854.png)  
