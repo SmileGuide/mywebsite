@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>群青流れ星</title>
-    <link>https://smileguide.github.io/ja/docs/vb/</link>
+    <link>https://www.karlukle.site/ja/docs/vb/</link>
     <description>花が咲く音が好きで、心から自由に息をしたい。</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Wed, 21 Feb 2024 11:18:40 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/ja/docs/vb/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Feb 2024 16:24:16 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/ja/docs/vb/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ガラス（完成品）</title>
-      <link>https://smileguide.github.io/ja/docs/vb/glass/</link>
+      <link>https://www.karlukle.site/ja/docs/vb/glass/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/ja/docs/vb/glass/</guid>
+      <guid>https://www.karlukle.site/ja/docs/vb/glass/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;画面上で透明なガラスをシミュレートできるツールで、マルチオープニング、着色、サイズ変更、カラーシーケンスによるガラスの作成などの高度な機能もサポートしています。&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
@@ -33,7 +33,7 @@
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/glass.rar&#34; class=&#34;DDot&#34;&gt;クリックしてダウンロード&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/vbprojects/glass.rar&#34; class=&#34;DDot&#34;&gt;クリックしてダウンロード&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;使用中に問題が発生した場合は、コメント欄で質問してください。&lt;/p&gt;
 </description>
@@ -42,10 +42,10 @@
     
     <item>
       <title>お絵かきボード(完成品)</title>
-      <link>https://smileguide.github.io/ja/docs/vb/board/</link>
+      <link>https://www.karlukle.site/ja/docs/vb/board/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/ja/docs/vb/board/</guid>
+      <guid>https://www.karlukle.site/ja/docs/vb/board/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;これは、空白のキャンバスや絵に描画できるツールで、教師が赤い手書きでマークを付けるための簡単な機能を提供します。&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;入口 
     &lt;div id=&#34;入口&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
@@ -75,7 +75,7 @@
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/board.rar&#34; class=&#34;DDot&#34;&gt;クリックしてダウンロード&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/vbprojects/board.rar&#34; class=&#34;DDot&#34;&gt;クリックしてダウンロード&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;使用中に問題が発生した場合は、コメント欄で質問してください。&lt;/p&gt;
 </description>
@@ -84,10 +84,10 @@
     
     <item>
       <title>オンラインコースガジェット～クリップボード画像保存ツール（完成品）</title>
-      <link>https://smileguide.github.io/ja/docs/vb/screenshot/</link>
+      <link>https://www.karlukle.site/ja/docs/vb/screenshot/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/ja/docs/vb/screenshot/</guid>
+      <guid>https://www.karlukle.site/ja/docs/vb/screenshot/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;PrintScreenキーを押してクリップボードにコピーしたスクリーンショットを簡単にキャプチャし、指定したディレクトリにタイムスタンプ付きのファイル名で保存できるツールです。&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
@@ -107,7 +107,7 @@
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/screenshot.rar&#34; class=&#34;DDot&#34;&gt;クリックしてダウンロード&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/vbprojects/screenshot.rar&#34; class=&#34;DDot&#34;&gt;クリックしてダウンロード&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;使用中に問題が発生した場合は、コメント欄で質問してください。&lt;/p&gt;
 </description>
@@ -116,10 +116,10 @@
     
     <item>
       <title>オンライン クラス ガジェット～コース スケジュール (未完成)</title>
-      <link>https://smileguide.github.io/ja/docs/vb/schedule/</link>
+      <link>https://www.karlukle.site/ja/docs/vb/schedule/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/ja/docs/vb/schedule/</guid>
+      <guid>https://www.karlukle.site/ja/docs/vb/schedule/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;これは、オンライン授業中の時間を計画したり、週ごとのクラスごとにアラームを設定したりするために使用できる実用的なツールで、組み込みのコマンド ライン操作もサポートしており、さまざまなスキンから選択できます。&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
@@ -139,7 +139,7 @@
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/schedule.rar&#34; class=&#34;DDot&#34;&gt;クリックしてダウンロード&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/vbprojects/schedule.rar&#34; class=&#34;DDot&#34;&gt;クリックしてダウンロード&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;使用中に問題が発生した場合は、コメント欄で質問してください。&lt;/p&gt;
 </description>
@@ -148,10 +148,10 @@
     
     <item>
       <title>31中 学生情報管理システム（完成品）</title>
-      <link>https://smileguide.github.io/ja/docs/vb/31infsystem/</link>
+      <link>https://www.karlukle.site/ja/docs/vb/31infsystem/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/ja/docs/vb/31infsystem/</guid>
+      <guid>https://www.karlukle.site/ja/docs/vb/31infsystem/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;荘河第三一中学校の2019年度クラスの生徒情報を照会できるデータ管理システムで、ワイルドカード検索やクリップボード認識による自動検索などの機能を備えています。 この作業を組織の情報管理システムに組み込むこともできます。&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;入口 
     &lt;div id=&#34;入口&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
@@ -181,7 +181,7 @@
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/31infsystem.rar&#34; class=&#34;DDot&#34;&gt;クリックしてダウンロード&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/vbprojects/31infsystem.rar&#34; class=&#34;DDot&#34;&gt;クリックしてダウンロード&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;使用中に問題が発生した場合は、コメント欄で質問してください。&lt;/p&gt;
 </description>
@@ -190,10 +190,10 @@
     
     <item>
       <title>平文と暗号文の変換ツール（未完成）</title>
-      <link>https://smileguide.github.io/ja/docs/vb/cipher/</link>
+      <link>https://www.karlukle.site/ja/docs/vb/cipher/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/ja/docs/vb/cipher/</guid>
+      <guid>https://www.karlukle.site/ja/docs/vb/cipher/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;カスタムキーに基づいてテキストを暗号化および復号化できるツールで、さまざまな機能が開発中です。&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
@@ -213,7 +213,7 @@
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/cipher.rar&#34; class=&#34;DDot&#34;&gt;クリックしてダウンロード&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/vbprojects/cipher.rar&#34; class=&#34;DDot&#34;&gt;クリックしてダウンロード&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;使用中に問題が発生した場合は、コメント欄で質問してください。&lt;/p&gt;
 </description>

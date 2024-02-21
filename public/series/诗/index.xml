@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>群青流星</title>
-    <link>https://smileguide.github.io/series/%E8%AF%97/</link>
+    <link>https://www.karlukle.site/series/%E8%AF%97/</link>
     <description>我喜欢听花开的声音，更想自由地深情地呼吸</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Wed, 21 Feb 2024 11:18:39 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/series/%E8%AF%97/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Feb 2024 16:24:16 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/series/%E8%AF%97/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>诗《白日之殇》</title>
-      <link>https://smileguide.github.io/blogs/gothic-stake/</link>
+      <link>https://www.karlukle.site/blogs/gothic-stake/</link>
       <pubDate>Sun, 21 Jan 2024 22:50:23 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/blogs/gothic-stake/</guid>
+      <guid>https://www.karlukle.site/blogs/gothic-stake/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;太阳埋葬了我的乐园&lt;/p&gt;
@@ -74,15 +74,15 @@
     
 &lt;/h4&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/gothic-stake/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/blogs/gothic-stake/feature.jpg" />
     </item>
     
     <item>
       <title>诗《墙内追忆》</title>
-      <link>https://smileguide.github.io/blogs/memoriam/</link>
+      <link>https://www.karlukle.site/blogs/memoriam/</link>
       <pubDate>Sat, 20 Jan 2024 20:13:20 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/blogs/memoriam/</guid>
+      <guid>https://www.karlukle.site/blogs/memoriam/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;我是文明之邦的第三代皇帝&lt;/p&gt;
@@ -112,7 +112,7 @@
     
 &lt;/h4&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/memoriam/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/blogs/memoriam/feature.jpg" />
     </item>
     
   </channel>

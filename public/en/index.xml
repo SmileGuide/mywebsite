@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>U&#39;Marine Meteoroid</title>
-    <link>https://smileguide.github.io/en/</link>
+    <link>https://www.karlukle.site/en/</link>
     <description>We are all in the gutter, but some of us are looking at the stars.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Wed, 21 Feb 2024 11:18:40 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Feb 2024 16:24:16 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Classical</title>
-      <link>https://smileguide.github.io/en/radio/classical/</link>
+      <link>https://www.karlukle.site/en/radio/classical/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/radio/classical/</guid>
+      <guid>https://www.karlukle.site/en/radio/classical/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
@@ -26,15 +26,15 @@
     
     
 &lt;/section&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/radio/classical/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/en/radio/classical/feature.jpg" />
     </item>
     
     <item>
       <title>Relationship</title>
-      <link>https://smileguide.github.io/en/docs/myoc/relationship/</link>
+      <link>https://www.karlukle.site/en/docs/myoc/relationship/</link>
       <pubDate>Mon, 05 Jun 2023 14:36:30 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/docs/myoc/relationship/</guid>
+      <guid>https://www.karlukle.site/en/docs/myoc/relationship/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;script type=&#34;module&#34;&gt;
   import mermaid from &#39;https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs&#39;;
 &lt;/script&gt;
@@ -178,10 +178,10 @@ timeline
     
     <item>
       <title>Glass (Completed)</title>
-      <link>https://smileguide.github.io/en/docs/vb/glass/</link>
+      <link>https://www.karlukle.site/en/docs/vb/glass/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/docs/vb/glass/</guid>
+      <guid>https://www.karlukle.site/en/docs/vb/glass/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;p&gt;This is a tool that can simulate transparent glass on the screen, while supporting fancy features such as multi-opening, coloring, resizing, and creating glass in color sequences.&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
@@ -201,7 +201,7 @@ timeline
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/glass.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/vbprojects/glass.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;If you&amp;rsquo;re having trouble with it, feel free to ask questions in the comments section!&lt;/p&gt;
 </description>
@@ -210,10 +210,10 @@ timeline
     
     <item>
       <title>New Age</title>
-      <link>https://smileguide.github.io/en/radio/newage/</link>
+      <link>https://www.karlukle.site/en/radio/newage/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/radio/newage/</guid>
+      <guid>https://www.karlukle.site/en/radio/newage/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
@@ -226,15 +226,15 @@ timeline
     
     
 &lt;/section&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/radio/newage/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/en/radio/newage/feature.jpg" />
     </item>
     
     <item>
       <title>Characters</title>
-      <link>https://smileguide.github.io/en/docs/myoc/characters/</link>
+      <link>https://www.karlukle.site/en/docs/myoc/characters/</link>
       <pubDate>Tue, 06 Jun 2023 09:13:09 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/docs/myoc/characters/</guid>
+      <guid>https://www.karlukle.site/en/docs/myoc/characters/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;style&gt;
 /@font-face{ 
   font-family: &#34;NotoSerifJP&#34;;
@@ -450,10 +450,10 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     
     <item>
       <title>Drawing Board (completed)</title>
-      <link>https://smileguide.github.io/en/docs/vb/board/</link>
+      <link>https://www.karlukle.site/en/docs/vb/board/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/docs/vb/board/</guid>
+      <guid>https://www.karlukle.site/en/docs/vb/board/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;p&gt;This is a tool that allows you to draw on a blank canvas or picture, and specifically provides a quick feature for teachers to grade papers using red handwriting.&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
@@ -473,7 +473,7 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/board.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/vbprojects/board.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;If you&amp;rsquo;re having trouble with it, feel free to ask questions in the comments section!&lt;/p&gt;
 </description>
@@ -482,10 +482,10 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     
     <item>
       <title>PanPop</title>
-      <link>https://smileguide.github.io/en/radio/panpop/</link>
+      <link>https://www.karlukle.site/en/radio/panpop/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/radio/panpop/</guid>
+      <guid>https://www.karlukle.site/en/radio/panpop/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
@@ -498,15 +498,15 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     
     
 &lt;/section&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/radio/panpop/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/en/radio/panpop/feature.jpg" />
     </item>
     
     <item>
       <title>Conception Illustration</title>
-      <link>https://smileguide.github.io/en/docs/myoc/pedia/</link>
+      <link>https://www.karlukle.site/en/docs/myoc/pedia/</link>
       <pubDate>Tue, 06 Jun 2023 21:23:49 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/docs/myoc/pedia/</guid>
+      <guid>https://www.karlukle.site/en/docs/myoc/pedia/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;h2 class=&#34;relative group&#34;&gt;&lt;span id=&#34;earthlyworld&#34;&gt;Earthly World&lt;/span&gt; 
     &lt;div id=&#34;span-idearthlyworldearthly-worldspan&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -623,10 +623,10 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     
     <item>
       <title>Online class gadgets - clipboard save picture tool (completed)</title>
-      <link>https://smileguide.github.io/en/docs/vb/screenshot/</link>
+      <link>https://www.karlukle.site/en/docs/vb/screenshot/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/docs/vb/screenshot/</guid>
+      <guid>https://www.karlukle.site/en/docs/vb/screenshot/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;p&gt;This is a tool that makes it easy to capture screenshots copied to the clipboard by pressing the PrintScreen key and save them to a specified directory with a timestamped filename.&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
@@ -646,7 +646,7 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/screenshot.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/vbprojects/screenshot.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;If you&amp;rsquo;re having trouble with it, feel free to ask questions in the comments section!&lt;/p&gt;
 </description>
@@ -655,10 +655,10 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     
     <item>
       <title>Rocks</title>
-      <link>https://smileguide.github.io/en/radio/rocks/</link>
+      <link>https://www.karlukle.site/en/radio/rocks/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/radio/rocks/</guid>
+      <guid>https://www.karlukle.site/en/radio/rocks/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
@@ -694,7 +694,7 @@ background:linear-gradient(to top left,#d39340,#ffd194);
 
 
 
-  &lt;a class=&#34;flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://smileguide.github.io/en/player/&#34;&gt;
+  &lt;a class=&#34;flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://www.karlukle.site/en/player/&#34;&gt;
     
         
         &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom &#34; style=&#34;background-image:url(/en/player/feature_hu3d03a01dcc18bc5be0e67db3d8d209a6_2282854_600x0_resize_q75_box.jpg);&#34;&gt;&lt;/div&gt;
@@ -703,7 +703,7 @@ background:linear-gradient(to top left,#d39340,#ffd194);
       &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
         
         &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
-          href=&#34;https://smileguide.github.io/en/player/&#34;&gt;About Music on This Site&lt;/div&gt;
+          href=&#34;https://www.karlukle.site/en/player/&#34;&gt;About Music on This Site&lt;/div&gt;
         
         
         
@@ -795,15 +795,15 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     
 &lt;/section&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/radio/rocks/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/en/radio/rocks/feature.jpg" />
     </item>
     
     <item>
       <title>Background Q&amp;A</title>
-      <link>https://smileguide.github.io/en/docs/myoc/questionaire/</link>
+      <link>https://www.karlukle.site/en/docs/myoc/questionaire/</link>
       <pubDate>Tue, 06 Jun 2023 23:00:25 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/docs/myoc/questionaire/</guid>
+      <guid>https://www.karlukle.site/en/docs/myoc/questionaire/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;h2 class=&#34;relative group&#34;&gt;Why use the family name &amp;ldquo;Amano(天野)&amp;rdquo;? 
     &lt;div id=&#34;why-use-the-family-name-amano天野&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -856,10 +856,10 @@ At the same time, when translating Karlukle into Katakana, I learned from the na
     
     <item>
       <title>Online Class Widget - Course Schedule (incomplete)</title>
-      <link>https://smileguide.github.io/en/docs/vb/schedule/</link>
+      <link>https://www.karlukle.site/en/docs/vb/schedule/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/docs/vb/schedule/</guid>
+      <guid>https://www.karlukle.site/en/docs/vb/schedule/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;p&gt;This is a utility that allows you to plan your time during online classes, differentiate between weeks and set alarms by course, plus support for built-in command line operations, and a variety of skins to choose from.&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
@@ -879,7 +879,7 @@ At the same time, when translating Karlukle into Katakana, I learned from the na
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/schedule.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/vbprojects/schedule.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;If you&amp;rsquo;re having trouble with it, feel free to ask questions in the comments section!&lt;/p&gt;
 </description>
@@ -888,10 +888,10 @@ At the same time, when translating Karlukle into Katakana, I learned from the na
     
     <item>
       <title>Murmurs of Earth</title>
-      <link>https://smileguide.github.io/en/radio/murmurs/</link>
+      <link>https://www.karlukle.site/en/radio/murmurs/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/radio/murmurs/</guid>
+      <guid>https://www.karlukle.site/en/radio/murmurs/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
@@ -904,15 +904,15 @@ At the same time, when translating Karlukle into Katakana, I learned from the na
     
     
 &lt;/section&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/radio/murmurs/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/en/radio/murmurs/feature.jpg" />
     </item>
     
     <item>
       <title>Student Information Management System for the 31st Middle School (Completed)</title>
-      <link>https://smileguide.github.io/en/docs/vb/31infsystem/</link>
+      <link>https://www.karlukle.site/en/docs/vb/31infsystem/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/docs/vb/31infsystem/</guid>
+      <guid>https://www.karlukle.site/en/docs/vb/31infsystem/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;p&gt;This is a data management system that allows you to look up information about the class of 2019 at the Thirty-first Middle School in Zhuanghe City, with wildcard lookups, clipboard recognition for automatic lookups, and more. You can also change this work to your organization&amp;rsquo;s information management system.&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
@@ -932,7 +932,7 @@ At the same time, when translating Karlukle into Katakana, I learned from the na
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/31infsystem.rar.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/vbprojects/31infsystem.rar.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;If you&amp;rsquo;re having trouble with it, feel free to ask questions in the comments section!&lt;/p&gt;
 </description>
@@ -941,10 +941,10 @@ At the same time, when translating Karlukle into Katakana, I learned from the na
     
     <item>
       <title>Plaintext-to-Ciphertext Conversion Tool (incomplete)</title>
-      <link>https://smileguide.github.io/en/docs/vb/cipher/</link>
+      <link>https://www.karlukle.site/en/docs/vb/cipher/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/docs/vb/cipher/</guid>
+      <guid>https://www.karlukle.site/en/docs/vb/cipher/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;p&gt;This is a tool that can encrypt and decrypt text based on a customized key, with multiple fancy features under development.&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
@@ -964,7 +964,7 @@ At the same time, when translating Karlukle into Katakana, I learned from the na
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/cipher.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/vbprojects/cipher.rar&#34; class=&#34;DDot&#34;&gt;Click to Download&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;If you&amp;rsquo;re having trouble with it, feel free to ask questions in the comments section!&lt;/p&gt;
 </description>
@@ -973,10 +973,10 @@ At the same time, when translating Karlukle into Katakana, I learned from the na
     
     <item>
       <title>Friend Links</title>
-      <link>https://smileguide.github.io/en/friends/</link>
+      <link>https://www.karlukle.site/en/friends/</link>
       <pubDate>Mon, 05 Feb 2024 09:09:28 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/friends/</guid>
+      <guid>https://www.karlukle.site/en/friends/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;style&gt;
 	.place-self-center{
 		cursor:pointer;
@@ -985,7 +985,7 @@ At the same time, when translating Karlukle into Katakana, I learned from the na
 &lt;div tag=&#34;friends&#34;&gt;
 	&lt;hr/&gt;
 	&lt;div class=&#34;flex author&#34;&gt;
-		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;https://smileguide.github.io/avatar.png&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
+		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;https://www.karlukle.site/avatar.png&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
 		&lt;div class=&#34;place-self-center&#34;&gt;
 			&lt;div class=&#34;font-semibold leading-6 text-neutral-800 dark:text-neutral-300 decoration-primary-500 hover:underline hover:underline-offset-2 &#34;&gt;
 				U&#39;Marine Meteoroid (this site)
@@ -1596,10 +1596,10 @@ Alternatively, if your site is available in English and Japanese, the &lt;code&g
     
     <item>
       <title>About Music on This Site</title>
-      <link>https://smileguide.github.io/en/player/</link>
+      <link>https://www.karlukle.site/en/player/</link>
       <pubDate>Fri, 26 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/player/</guid>
+      <guid>https://www.karlukle.site/en/player/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;p&gt;The music system of this website is divided into two parts: &lt;a href=&#34;#hover-player&#34;  &gt;
     Hover Player&lt;/a&gt; and &lt;a href=&#34;#music-station&#34;  &gt;
     Music Station&lt;/a&gt;.&lt;/p&gt;
@@ -1676,15 +1676,15 @@ Alternatively, if your site is available in English and Japanese, the &lt;code&g
 &lt;p&gt;The music station is divided into several columns, diversified to reflect my listening style.&lt;/p&gt;
 &lt;p&gt;Because of the restrictions on playback on external music platforms, the main purpose of the music station is to provide music lists that serve as &lt;strong&gt;recommendations&lt;/strong&gt; and &lt;strong&gt;auditions&lt;/strong&gt;.&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/player/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/en/player/feature.jpg" />
     </item>
     
     <item>
       <title>Music Information (In Player ↙)</title>
-      <link>https://smileguide.github.io/en/radio/pick/</link>
+      <link>https://www.karlukle.site/en/radio/pick/</link>
       <pubDate>Fri, 26 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/radio/pick/</guid>
+      <guid>https://www.karlukle.site/en/radio/pick/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-md&#34; data-lang=&#34;md&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;1.&lt;/span&gt; 正解(混声三部合唱) Seikai – RADWIMPS
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;2.&lt;/span&gt; カイコ (蚕) Kaiko – RADWIMPS
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;3.&lt;/span&gt; シザースタンド (Scissor Stand) – RADWIMPS
@@ -1696,15 +1696,15 @@ Alternatively, if your site is available in English and Japanese, the &lt;code&g
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;9.&lt;/span&gt; おくりびと ~memory~ – 久石譲
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;10.&lt;/span&gt; いつも何度でも – 久石让 / 木村弓
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/radio/pick/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/en/radio/pick/feature.jpg" />
     </item>
     
     <item>
       <title>Poem &#34;Gothic Stake&#34;</title>
-      <link>https://smileguide.github.io/en/blogs/gothic-stake/</link>
+      <link>https://www.karlukle.site/en/blogs/gothic-stake/</link>
       <pubDate>Sun, 21 Jan 2024 22:50:23 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/blogs/gothic-stake/</guid>
+      <guid>https://www.karlukle.site/en/blogs/gothic-stake/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;h3 class=&#34;relative group&#34;&gt;The Chinese-English version is as follows: 
     &lt;div id=&#34;the-chinese-english-version-is-as-follows&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1865,15 +1865,15 @@ Alternatively, if your site is available in English and Japanese, the &lt;code&g
 &lt;p&gt;that the sun created for him.&lt;/p&gt;
 &lt;p&gt;&amp;ndash;END&amp;ndash;&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/blogs/gothic-stake/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/en/blogs/gothic-stake/feature.jpg" />
     </item>
     
     <item>
       <title>Poem &#34;Memoriam Within the Walls&#34;</title>
-      <link>https://smileguide.github.io/en/blogs/memoriam/</link>
+      <link>https://www.karlukle.site/en/blogs/memoriam/</link>
       <pubDate>Sat, 20 Jan 2024 20:13:20 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/blogs/memoriam/</guid>
+      <guid>https://www.karlukle.site/en/blogs/memoriam/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;h3 class=&#34;relative group&#34;&gt;The Chinese-English version is as follows: 
     &lt;div id=&#34;the-chinese-english-version-is-as-follows&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1942,33 +1942,33 @@ Alternatively, if your site is available in English and Japanese, the &lt;code&g
 &lt;/blockquote&gt;
 &lt;p&gt;The monument is his tombstone.&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/blogs/memoriam/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/en/blogs/memoriam/feature.jpg" />
     </item>
     
     <item>
       <title>When I whisk away dusts in my childhood...</title>
-      <link>https://smileguide.github.io/en/blogs/childhood-photography/</link>
+      <link>https://www.karlukle.site/en/blogs/childhood-photography/</link>
       <pubDate>Wed, 22 Feb 2023 14:58:34 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/blogs/childhood-photography/</guid>
+      <guid>https://www.karlukle.site/en/blogs/childhood-photography/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;h2 id=&#34;info&#34;&gt;Info&lt;/h2&gt;
 &lt;p&gt;This photo was taken in Shiboyuan, Shenyang, China in 2011. The shooting time is 14:15 on May 1, UTC+8. I photoshopped it and made A PPT report.
-&lt;img src=&#34;https://smileguide.github.io/en/blogs/childhood-photography/childhood_ph.jpg&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://www.karlukle.site/en/blogs/childhood-photography/childhood_ph.jpg&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;about-the-ppt&#34;&gt;About the PPT&lt;/h2&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.123pan.com/s/eNTzVv-lohg3.html&#34;&gt;Click to DOWNLOAD (token: di4u)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;There is also a PPT on image processing results that contains more. ↓&lt;br&gt;
 &lt;a href=&#34;https://www.123pan.com/s/eNTzVv-Tmhg3.html&#34;&gt;Click to DOWNLOAD (token: di4u)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;These ppts are produced by Microsoft Office PowerPoint. Please use Microsoft Office PowerPoint (Windows, Android, iOS) app to open it.&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/blogs/childhood-photography/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/en/blogs/childhood-photography/feature.jpg" />
     </item>
     
     <item>
       <title>Hello World🎉</title>
-      <link>https://smileguide.github.io/en/blogs/hello-world/</link>
+      <link>https://www.karlukle.site/en/blogs/hello-world/</link>
       <pubDate>Sun, 19 Feb 2023 09:06:11 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/blogs/hello-world/</guid>
+      <guid>https://www.karlukle.site/en/blogs/hello-world/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;h2 class=&#34;relative group&#34;&gt;My first blog. 
     &lt;div id=&#34;my-first-blog&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -2024,7 +2024,7 @@ For more information, please search the following keywords on google:&lt;/p&gt;
     });
 &lt;/script&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/blogs/hello-world/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/en/blogs/hello-world/feature.jpg" />
     </item>
     
   </channel>

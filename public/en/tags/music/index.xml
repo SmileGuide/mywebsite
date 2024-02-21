@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>U&#39;Marine Meteoroid</title>
-    <link>https://smileguide.github.io/en/tags/music/</link>
+    <link>https://www.karlukle.site/en/tags/music/</link>
     <description>We are all in the gutter, but some of us are looking at the stars.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Wed, 21 Feb 2024 11:18:40 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/en/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Feb 2024 16:24:16 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/en/tags/music/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Music on This Site</title>
-      <link>https://smileguide.github.io/en/player/</link>
+      <link>https://www.karlukle.site/en/player/</link>
       <pubDate>Fri, 26 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/player/</guid>
+      <guid>https://www.karlukle.site/en/player/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;p&gt;The music system of this website is divided into two parts: &lt;a href=&#34;#hover-player&#34;  &gt;
     Hover Player&lt;/a&gt; and &lt;a href=&#34;#music-station&#34;  &gt;
     Music Station&lt;/a&gt;.&lt;/p&gt;
@@ -90,15 +90,15 @@
 &lt;p&gt;The music station is divided into several columns, diversified to reflect my listening style.&lt;/p&gt;
 &lt;p&gt;Because of the restrictions on playback on external music platforms, the main purpose of the music station is to provide music lists that serve as &lt;strong&gt;recommendations&lt;/strong&gt; and &lt;strong&gt;auditions&lt;/strong&gt;.&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/player/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/en/player/feature.jpg" />
     </item>
     
     <item>
       <title>Music Information (In Player ↙)</title>
-      <link>https://smileguide.github.io/en/radio/pick/</link>
+      <link>https://www.karlukle.site/en/radio/pick/</link>
       <pubDate>Fri, 26 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/radio/pick/</guid>
+      <guid>https://www.karlukle.site/en/radio/pick/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-md&#34; data-lang=&#34;md&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;1.&lt;/span&gt; 正解(混声三部合唱) Seikai – RADWIMPS
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;2.&lt;/span&gt; カイコ (蚕) Kaiko – RADWIMPS
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;3.&lt;/span&gt; シザースタンド (Scissor Stand) – RADWIMPS
@@ -110,7 +110,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;9.&lt;/span&gt; おくりびと ~memory~ – 久石譲
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;10.&lt;/span&gt; いつも何度でも – 久石让 / 木村弓
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/radio/pick/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/en/radio/pick/feature.jpg" />
     </item>
     
   </channel>

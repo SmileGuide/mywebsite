@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://smileguide.github.io/"
+baseURL = "https://www.karlukle.site/"
 defaultContentLanguage = "zh-cn"
 defaultContentLanguageInSubdir = false
 pluralizeListTitles = "true" 

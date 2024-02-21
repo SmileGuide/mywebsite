@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>群青流星</title>
-    <link>https://smileguide.github.io/tags/%E6%8A%80%E6%9C%AF/</link>
+    <link>https://www.karlukle.site/tags/%E6%8A%80%E6%9C%AF/</link>
     <description>我喜欢听花开的声音，更想自由地深情地呼吸</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Wed, 21 Feb 2024 11:18:39 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Feb 2024 16:24:16 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于本站的部署</title>
-      <link>https://smileguide.github.io/blogs/site-publish/</link>
+      <link>https://www.karlukle.site/blogs/site-publish/</link>
       <pubDate>Tue, 20 Feb 2024 13:42:42 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/blogs/site-publish/</guid>
+      <guid>https://www.karlukle.site/blogs/site-publish/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   这是由上一篇《关于本站的建造》引申出来的文章，主要讲解的是把构建好的 Hugo 网站进行部署和加速的过程。与上一篇不同，这是一篇普遍使用的教程。
 &lt;/div&gt;
@@ -26,9 +26,9 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &lt;span class=&#34;s2&#34;&gt;&amp;#34;说明&amp;#34;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git branch -m main
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push -u github main
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;然后可以在设置里面看到：&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220135808.png&#34; alt=&#34;&#34;  /&gt;&lt;br&gt;
-&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220140716.png&#34; alt=&#34;&#34;  /&gt;把 &lt;code&gt;/(root)&lt;/code&gt; 改为 &lt;code&gt;/public&lt;/code&gt;，点保存后等待部署完成。&lt;/p&gt;
-&lt;p&gt;至此，你就可以用 GitHub 授予的二级域名来访问你的网站了。&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220141022.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;然后可以在设置里面看到：&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220135808.png&#34; alt=&#34;&#34;  /&gt;&lt;br&gt;
+&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220140716.png&#34; alt=&#34;&#34;  /&gt;把 &lt;code&gt;/(root)&lt;/code&gt; 改为 &lt;code&gt;/public&lt;/code&gt;，点保存后等待部署完成。&lt;/p&gt;
+&lt;p&gt;至此，你就可以用 GitHub 授予的二级域名来访问你的网站了。&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220141022.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
 &lt;h4 id=&#34;优点&#34;&gt;优点&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;GitHub 的二级域名易于记忆&lt;/li&gt;
@@ -42,11 +42,11 @@
 &lt;li&gt;GitHub Pages 把百度的爬虫拦截，站点无法被百度收录&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;ping-结果&#34;&gt;Ping 结果&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220150550.png&#34; alt=&#34;&#34;  title=&#34;虽然 Ping 延迟较低，但实际上速度很慢&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220150550.png&#34; alt=&#34;&#34;  title=&#34;虽然 Ping 延迟较低，但实际上速度很慢&#34; /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;部署到-vercel&#34;&gt;部署到 Vercel&lt;/h3&gt;
 &lt;p&gt;如果你没有域名，慎用 Vercel，因为 Vercel 被GFW污染，不用自己的域名做解析就无法访问部署好的网站。&lt;/p&gt;
 &lt;p&gt;建立仓库、push的过程与 GitHub Pages 相同，但仓库不用必须公开，仓库名自定义。&lt;br&gt;
-访问 &lt;a href=&#34;https://vercel.com/&#34;&gt;Verccel网站&lt;/a&gt;，用 GitHub 登录。&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220142422.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
+访问 &lt;a href=&#34;https://vercel.com/&#34;&gt;Verccel网站&lt;/a&gt;，用 GitHub 登录。&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220142422.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
 &lt;ol class=&#34;border-l-2 list-none border-primary-500 dark:border-primary-300&#34;&gt;
 
 
@@ -194,8 +194,8 @@
 
 
 &lt;/ol&gt;
-&lt;p&gt;至此，基本的 Vercel 部署已经完成。但如果想通过 Vercel 授予的二级域名访问网站，可能需要魔法.:dog:&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220144937.png&#34; alt=&#34;&#34;  /&gt;
-&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220145430.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;至此，基本的 Vercel 部署已经完成。但如果想通过 Vercel 授予的二级域名访问网站，可能需要魔法.:dog:&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220144937.png&#34; alt=&#34;&#34;  /&gt;
+&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220145430.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
 &lt;h4 id=&#34;优点-1&#34;&gt;优点&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;自带CDN，有香港节点&lt;/li&gt;
@@ -209,12 +209,12 @@
 &lt;/ul&gt;
 &lt;h4 id=&#34;ping-结果-1&#34;&gt;Ping 结果&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;*.vercel.app &lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220145944.png&#34; alt=&#34;&#34;  /&gt;&lt;/li&gt;
-&lt;li&gt;绑定域名后 &lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220150731.png&#34; alt=&#34;&#34;  /&gt;&lt;/li&gt;
+&lt;li&gt;*.vercel.app &lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220145944.png&#34; alt=&#34;&#34;  /&gt;&lt;/li&gt;
+&lt;li&gt;绑定域名后 &lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220150731.png&#34; alt=&#34;&#34;  /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;注册域名和icp备案&#34;&gt;注册域名和ICP备案&lt;/h2&gt;
-&lt;p&gt;随便找一个国内的服务商，按照流程购买域名，需要实名认证。本域名是在腾讯云注册的。&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220152545.png&#34; alt=&#34;&#34;  /&gt;
-注册完成后，别忘记申请免费SSL证书以激活HTTPS访问。&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220153010.png&#34; alt=&#34;&#34;  /&gt;&lt;br&gt;
+&lt;p&gt;随便找一个国内的服务商，按照流程购买域名，需要实名认证。本域名是在腾讯云注册的。&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220152545.png&#34; alt=&#34;&#34;  /&gt;
+注册完成后，别忘记申请免费SSL证书以激活HTTPS访问。&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220153010.png&#34; alt=&#34;&#34;  /&gt;&lt;br&gt;
 接下来，为购买国内CDN加速，你需要将网站进行ICP备案。各服务商和各省管局有不同的要求，请遵照要求进行备案。&lt;br&gt;
 备案完成后，三十天内要在根域名主页尾部挂好ICP备案标识，否则抽查到会被罚款。&lt;/p&gt;
 &lt;h2 id=&#34;配置cdn&#34;&gt;配置CDN&lt;/h2&gt;
@@ -300,8 +300,8 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220163309.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
-&lt;p&gt;然后来到 Vercel 给要使用CDN的网站添加一个自定义的二级域名（如 &lt;code&gt;&amp;lt;自定义&amp;gt;.&amp;lt;你的域名&amp;gt;.&amp;lt;你的后缀&amp;gt;&lt;/code&gt; ） &lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220162821.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220163309.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;然后来到 Vercel 给要使用CDN的网站添加一个自定义的二级域名（如 &lt;code&gt;&amp;lt;自定义&amp;gt;.&amp;lt;你的域名&amp;gt;.&amp;lt;你的后缀&amp;gt;&lt;/code&gt; ） &lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220162821.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;配置cdn-1&#34;&gt;配置CDN&lt;/h3&gt;
 &lt;ol class=&#34;border-l-2 list-none border-primary-500 dark:border-primary-300&#34;&gt;
 
@@ -610,20 +610,20 @@
 &lt;br/&gt;&lt;/p&gt;
 &lt;h4 id=&#34;ping-结果-2&#34;&gt;Ping 结果&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;CDN加速前&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220200737.png&#34; alt=&#34;&#34;  /&gt;&lt;/li&gt;
-&lt;li&gt;CDN加速后&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220205156.png&#34; alt=&#34;&#34;  /&gt;&lt;/li&gt;
+&lt;li&gt;CDN加速前&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220200737.png&#34; alt=&#34;&#34;  /&gt;&lt;/li&gt;
+&lt;li&gt;CDN加速后&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220205156.png&#34; alt=&#34;&#34;  /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&amp;ndash;完&amp;ndash;&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/site-publish/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/blogs/site-publish/feature.jpg" />
     </item>
     
     <item>
       <title>关于本站的建造</title>
-      <link>https://smileguide.github.io/blogs/site-build/</link>
+      <link>https://www.karlukle.site/blogs/site-build/</link>
       <pubDate>Fri, 02 Feb 2024 09:57:23 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/blogs/site-build/</guid>
+      <guid>https://www.karlukle.site/blogs/site-build/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   这里在技术上梳理了本站的建造流程及一些功能的实现方法。
 &lt;/div&gt;
@@ -1440,7 +1440,7 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
 
 
 
-  &lt;a class=&#34;flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://smileguide.github.io/blogs/site-publish/&#34;&gt;
+  &lt;a class=&#34;flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://www.karlukle.site/blogs/site-publish/&#34;&gt;
     
         
         &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom &#34; style=&#34;background-image:url(/blogs/site-publish/feature_hu5459c0360c2b0cb7a147d2df0eb350ca_1915460_600x0_resize_q75_box.jpg);&#34;&gt;&lt;/div&gt;
@@ -1449,7 +1449,7 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
       &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
         
         &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
-          href=&#34;https://smileguide.github.io/blogs/site-publish/&#34;&gt;关于本站的部署&lt;/div&gt;
+          href=&#34;https://www.karlukle.site/blogs/site-publish/&#34;&gt;关于本站的部署&lt;/div&gt;
         
         
         
@@ -1541,7 +1541,7 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
     
 &lt;/section&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/site-build/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/blogs/site-build/feature.jpg" />
     </item>
     
   </channel>

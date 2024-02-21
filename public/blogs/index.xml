@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>群青流星</title>
-    <link>https://smileguide.github.io/blogs/</link>
+    <link>https://www.karlukle.site/blogs/</link>
     <description>我喜欢听花开的声音，更想自由地深情地呼吸</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Wed, 21 Feb 2024 11:18:39 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Feb 2024 16:24:16 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于本站的部署</title>
-      <link>https://smileguide.github.io/blogs/site-publish/</link>
+      <link>https://www.karlukle.site/blogs/site-publish/</link>
       <pubDate>Tue, 20 Feb 2024 13:42:42 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/blogs/site-publish/</guid>
+      <guid>https://www.karlukle.site/blogs/site-publish/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   这是由上一篇《关于本站的建造》引申出来的文章，主要讲解的是把构建好的 Hugo 网站进行部署和加速的过程。与上一篇不同，这是一篇普遍使用的教程。
 &lt;/div&gt;
@@ -26,9 +26,9 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &lt;span class=&#34;s2&#34;&gt;&amp;#34;说明&amp;#34;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git branch -m main
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push -u github main
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;然后可以在设置里面看到：&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220135808.png&#34; alt=&#34;&#34;  /&gt;&lt;br&gt;
-&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220140716.png&#34; alt=&#34;&#34;  /&gt;把 &lt;code&gt;/(root)&lt;/code&gt; 改为 &lt;code&gt;/public&lt;/code&gt;，点保存后等待部署完成。&lt;/p&gt;
-&lt;p&gt;至此，你就可以用 GitHub 授予的二级域名来访问你的网站了。&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220141022.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;然后可以在设置里面看到：&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220135808.png&#34; alt=&#34;&#34;  /&gt;&lt;br&gt;
+&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220140716.png&#34; alt=&#34;&#34;  /&gt;把 &lt;code&gt;/(root)&lt;/code&gt; 改为 &lt;code&gt;/public&lt;/code&gt;，点保存后等待部署完成。&lt;/p&gt;
+&lt;p&gt;至此，你就可以用 GitHub 授予的二级域名来访问你的网站了。&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220141022.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
 &lt;h4 id=&#34;优点&#34;&gt;优点&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;GitHub 的二级域名易于记忆&lt;/li&gt;
@@ -42,11 +42,11 @@
 &lt;li&gt;GitHub Pages 把百度的爬虫拦截，站点无法被百度收录&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;ping-结果&#34;&gt;Ping 结果&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220150550.png&#34; alt=&#34;&#34;  title=&#34;虽然 Ping 延迟较低，但实际上速度很慢&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220150550.png&#34; alt=&#34;&#34;  title=&#34;虽然 Ping 延迟较低，但实际上速度很慢&#34; /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;部署到-vercel&#34;&gt;部署到 Vercel&lt;/h3&gt;
 &lt;p&gt;如果你没有域名，慎用 Vercel，因为 Vercel 被GFW污染，不用自己的域名做解析就无法访问部署好的网站。&lt;/p&gt;
 &lt;p&gt;建立仓库、push的过程与 GitHub Pages 相同，但仓库不用必须公开，仓库名自定义。&lt;br&gt;
-访问 &lt;a href=&#34;https://vercel.com/&#34;&gt;Verccel网站&lt;/a&gt;，用 GitHub 登录。&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220142422.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
+访问 &lt;a href=&#34;https://vercel.com/&#34;&gt;Verccel网站&lt;/a&gt;，用 GitHub 登录。&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220142422.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
 &lt;ol class=&#34;border-l-2 list-none border-primary-500 dark:border-primary-300&#34;&gt;
 
 
@@ -194,8 +194,8 @@
 
 
 &lt;/ol&gt;
-&lt;p&gt;至此，基本的 Vercel 部署已经完成。但如果想通过 Vercel 授予的二级域名访问网站，可能需要魔法.:dog:&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220144937.png&#34; alt=&#34;&#34;  /&gt;
-&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220145430.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;至此，基本的 Vercel 部署已经完成。但如果想通过 Vercel 授予的二级域名访问网站，可能需要魔法.:dog:&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220144937.png&#34; alt=&#34;&#34;  /&gt;
+&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220145430.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
 &lt;h4 id=&#34;优点-1&#34;&gt;优点&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;自带CDN，有香港节点&lt;/li&gt;
@@ -209,12 +209,12 @@
 &lt;/ul&gt;
 &lt;h4 id=&#34;ping-结果-1&#34;&gt;Ping 结果&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;*.vercel.app &lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220145944.png&#34; alt=&#34;&#34;  /&gt;&lt;/li&gt;
-&lt;li&gt;绑定域名后 &lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220150731.png&#34; alt=&#34;&#34;  /&gt;&lt;/li&gt;
+&lt;li&gt;*.vercel.app &lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220145944.png&#34; alt=&#34;&#34;  /&gt;&lt;/li&gt;
+&lt;li&gt;绑定域名后 &lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220150731.png&#34; alt=&#34;&#34;  /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;注册域名和icp备案&#34;&gt;注册域名和ICP备案&lt;/h2&gt;
-&lt;p&gt;随便找一个国内的服务商，按照流程购买域名，需要实名认证。本域名是在腾讯云注册的。&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220152545.png&#34; alt=&#34;&#34;  /&gt;
-注册完成后，别忘记申请免费SSL证书以激活HTTPS访问。&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220153010.png&#34; alt=&#34;&#34;  /&gt;&lt;br&gt;
+&lt;p&gt;随便找一个国内的服务商，按照流程购买域名，需要实名认证。本域名是在腾讯云注册的。&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220152545.png&#34; alt=&#34;&#34;  /&gt;
+注册完成后，别忘记申请免费SSL证书以激活HTTPS访问。&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220153010.png&#34; alt=&#34;&#34;  /&gt;&lt;br&gt;
 接下来，为购买国内CDN加速，你需要将网站进行ICP备案。各服务商和各省管局有不同的要求，请遵照要求进行备案。&lt;br&gt;
 备案完成后，三十天内要在根域名主页尾部挂好ICP备案标识，否则抽查到会被罚款。&lt;/p&gt;
 &lt;h2 id=&#34;配置cdn&#34;&gt;配置CDN&lt;/h2&gt;
@@ -300,8 +300,8 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220163309.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
-&lt;p&gt;然后来到 Vercel 给要使用CDN的网站添加一个自定义的二级域名（如 &lt;code&gt;&amp;lt;自定义&amp;gt;.&amp;lt;你的域名&amp;gt;.&amp;lt;你的后缀&amp;gt;&lt;/code&gt; ） &lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220162821.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220163309.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;然后来到 Vercel 给要使用CDN的网站添加一个自定义的二级域名（如 &lt;code&gt;&amp;lt;自定义&amp;gt;.&amp;lt;你的域名&amp;gt;.&amp;lt;你的后缀&amp;gt;&lt;/code&gt; ） &lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220162821.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;配置cdn-1&#34;&gt;配置CDN&lt;/h3&gt;
 &lt;ol class=&#34;border-l-2 list-none border-primary-500 dark:border-primary-300&#34;&gt;
 
@@ -610,20 +610,20 @@
 &lt;br/&gt;&lt;/p&gt;
 &lt;h4 id=&#34;ping-结果-2&#34;&gt;Ping 结果&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;CDN加速前&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220200737.png&#34; alt=&#34;&#34;  /&gt;&lt;/li&gt;
-&lt;li&gt;CDN加速后&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220205156.png&#34; alt=&#34;&#34;  /&gt;&lt;/li&gt;
+&lt;li&gt;CDN加速前&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220200737.png&#34; alt=&#34;&#34;  /&gt;&lt;/li&gt;
+&lt;li&gt;CDN加速后&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220205156.png&#34; alt=&#34;&#34;  /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&amp;ndash;完&amp;ndash;&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/site-publish/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/blogs/site-publish/feature.jpg" />
     </item>
     
     <item>
       <title>关于本站的建造</title>
-      <link>https://smileguide.github.io/blogs/site-build/</link>
+      <link>https://www.karlukle.site/blogs/site-build/</link>
       <pubDate>Fri, 02 Feb 2024 09:57:23 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/blogs/site-build/</guid>
+      <guid>https://www.karlukle.site/blogs/site-build/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   这里在技术上梳理了本站的建造流程及一些功能的实现方法。
 &lt;/div&gt;
@@ -1440,7 +1440,7 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
 
 
 
-  &lt;a class=&#34;flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://smileguide.github.io/blogs/site-publish/&#34;&gt;
+  &lt;a class=&#34;flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://www.karlukle.site/blogs/site-publish/&#34;&gt;
     
         
         &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom &#34; style=&#34;background-image:url(/blogs/site-publish/feature_hu5459c0360c2b0cb7a147d2df0eb350ca_1915460_600x0_resize_q75_box.jpg);&#34;&gt;&lt;/div&gt;
@@ -1449,7 +1449,7 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
       &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
         
         &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
-          href=&#34;https://smileguide.github.io/blogs/site-publish/&#34;&gt;关于本站的部署&lt;/div&gt;
+          href=&#34;https://www.karlukle.site/blogs/site-publish/&#34;&gt;关于本站的部署&lt;/div&gt;
         
         
         
@@ -1541,15 +1541,15 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
     
 &lt;/section&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/site-build/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/blogs/site-build/feature.jpg" />
     </item>
     
     <item>
       <title>诗《白日之殇》</title>
-      <link>https://smileguide.github.io/blogs/gothic-stake/</link>
+      <link>https://www.karlukle.site/blogs/gothic-stake/</link>
       <pubDate>Sun, 21 Jan 2024 22:50:23 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/blogs/gothic-stake/</guid>
+      <guid>https://www.karlukle.site/blogs/gothic-stake/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;太阳埋葬了我的乐园&lt;/p&gt;
@@ -1610,15 +1610,15 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
     
 &lt;/h4&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/gothic-stake/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/blogs/gothic-stake/feature.jpg" />
     </item>
     
     <item>
       <title>诗《墙内追忆》</title>
-      <link>https://smileguide.github.io/blogs/memoriam/</link>
+      <link>https://www.karlukle.site/blogs/memoriam/</link>
       <pubDate>Sat, 20 Jan 2024 20:13:20 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/blogs/memoriam/</guid>
+      <guid>https://www.karlukle.site/blogs/memoriam/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;我是文明之邦的第三代皇帝&lt;/p&gt;
@@ -1648,15 +1648,15 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
     
 &lt;/h4&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/memoriam/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/blogs/memoriam/feature.jpg" />
     </item>
     
     <item>
       <title>关于我曾经的个性签名</title>
-      <link>https://smileguide.github.io/blogs/my-pre-slogan/</link>
+      <link>https://www.karlukle.site/blogs/my-pre-slogan/</link>
       <pubDate>Sat, 25 Mar 2023 23:08:18 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/blogs/my-pre-slogan/</guid>
+      <guid>https://www.karlukle.site/blogs/my-pre-slogan/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;
   
 
@@ -1786,15 +1786,15 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
 &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/my-pre-slogan/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/blogs/my-pre-slogan/feature.jpg" />
     </item>
     
     <item>
       <title>关于两张照片</title>
-      <link>https://smileguide.github.io/blogs/2-photos/</link>
+      <link>https://www.karlukle.site/blogs/2-photos/</link>
       <pubDate>Sat, 25 Mar 2023 15:42:59 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/blogs/2-photos/</guid>
+      <guid>https://www.karlukle.site/blogs/2-photos/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>
   
 
@@ -1836,7 +1836,7 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/10.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.karlukle.site/2photos/10.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;↑这是一张合成的照片。背景摄于2022年7月24日，拍摄对象为大连市沙河口区星海广场。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This is a merged photo. The background was shot on July 24, 2022, the shooting spot of which located at Xinghai Square, Shahekou District, Dalian.&lt;/p&gt;
@@ -1851,23 +1851,23 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/20.png&#34;&gt;&lt;/img&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.karlukle.site/2photos/20.png&#34;&gt;&lt;/img&gt;
 设备: VOG-AL10（华为自带长焦镜头）&lt;br&gt;
 焦距: 105mm(等效35mm胶片焦距)&lt;br&gt;
 拍摄位置:&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;br&gt;
 经纬度: g121.58709347,38.87754517(GCJ-02坐标&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;)&lt;br&gt;
 凯立德K码: 8ti6fb01x&lt;br&gt;
-&lt;img src=&#34;https://smileguide.github.io/2photos/30.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;img src=&#34;https://www.karlukle.site/2photos/30.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;而前景的拍摄时间较为久远，摄于2012年9月11日，拍摄对象为6岁的我。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;But the foreground was not shot recently, which was on Sep. 11, 2012 and whose object was six-year-old ME.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/40.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.karlukle.site/2photos/40.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;↓这是素材的来源图像，图中右一人物是杉&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This is the source material,and the child on the right is my あね&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/50.png&#34; width=&#34;300px&#34;&gt;&lt;/img&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.karlukle.site/2photos/50.png&#34; width=&#34;300px&#34;&gt;&lt;/img&gt;
 （↑这张照片由于拍摄时曝光不足而被我手动修复，所以颜色有点怪）&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;(This photo was recovered for underexposing, so the hue is kind of strange.)&lt;br&gt;
@@ -1877,7 +1877,7 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
 经纬度: g122.96740383,39.69392652(GCJ-02坐标)&lt;br&gt;
 凯立德K码: 8aifgresx&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/60.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.karlukle.site/2photos/60.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;而当我准备创作这张照片时，恰逢2022年9月12日——原照片摄像10年。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;While I was preparing for photoshopping, I accidentally found that it was just the 10th anniversary of shooting the original photo.&lt;/p&gt;
@@ -1953,18 +1953,18 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/70.png&#34;&gt;&lt;/img&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.karlukle.site/2photos/70.png&#34;&gt;&lt;/img&gt;
 设备: VOG-AL10（华为自带短焦镜头）&lt;br&gt;
 焦距: 主体6mm(等效35mm胶片焦距)&lt;br&gt;
 拍摄位置:&lt;br&gt;
 经纬度: g121.58676624,38.87595195(GCJ-02坐标)&lt;br&gt;
 凯立德K码: 8fi6fny0x&lt;br&gt;
-&lt;img src=&#34;https://smileguide.github.io/2photos/80.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;img src=&#34;https://www.karlukle.site/2photos/80.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;看到如此巨大的月亮，经常拍摄夜景的你一定觉得不可思议。通常，在拍摄城市与月亮的合影时，月亮总是渺小得几乎是照片上的一个点。这自然是有原因的：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;It is almost incredible to see such a immense moon! Sure, but there are scientific reasons of the phenomena:&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/90.png&#34;&gt;&lt;/img&gt;（对照图中画幅为默认）&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.karlukle.site/2photos/90.png&#34;&gt;&lt;/img&gt;（对照图中画幅为默认）&lt;/p&gt;
 &lt;p&gt;在有参照物的情况下，参照物和对象的视角大小之比决定着对象的观感大小。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;In the case of a reference object, the ratio of the viewing angle of the reference object to the particular object determines the sensory size.&lt;/p&gt;
@@ -1981,17 +1981,17 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
 &lt;blockquote&gt;
 &lt;p&gt;So how to increase the focal length?Increase the distance between the lens and the reference object as much as possible, and use a telephoto lens to ensure that the predetermined focal length is within the zoom range of the lens.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/100.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.karlukle.site/2photos/100.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;如上图（来源于网络），它的实际拍摄位置与画面中的教堂相距超过2km（如下图）&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;As above (from the network), its actual shooting spot is more than 2km away from the church(as is on the map below) .&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/110.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.karlukle.site/2photos/110.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;显然，手机内置摄像头的焦距是无法满足要求的 。对于我的情况，如果用手机自带的长焦镜头拍摄，效果可能是这样的↓&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Obviously, the focal length of the built-in camera of the cellphone cannot meet the requirements. For my case, if I use the telephoto lens of my phone, the effect may be like this ↓&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/120.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.karlukle.site/2photos/120.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;况且，由于6月5日月亮要等到凌晨2:20左右才会到达东方地平面上，要到达如图中的正南位置时，已经是次日9时；同时，我也没有能力找到一个星海广场以北遥远的拍摄地点。因此，我只能采用拍摄两张照片后合成的方式了。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Moreover, since the moon will not reach the eastern ground level until around 2:20 a.m. the next day on June 5, while it will be 9:00 the next day before it reaches the due south position as shown in the picture ,and, at the same time, I can&amp;rsquo;t find a shooting place far north of Xinghai Square. Therefore, I can only take two photos and then merge them.&lt;/p&gt;
@@ -2012,18 +2012,18 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
 &lt;p&gt;20时，在星海广场，拍摄星海湾跨海大桥；&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;At 20:00, at Xinghai Square, shooting Xinghai Bay Bridge;&lt;br&gt;
-&lt;img src=&#34;https://smileguide.github.io/2photos/130.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;img src=&#34;https://www.karlukle.site/2photos/130.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;凌晨，在大连东港，用200mm长焦镜头拍摄从东方升起的月亮。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;In the early dawning, shooting the moon rose from the east with a 200mm telephoto lens in Donggang Business District, Dalian.&lt;br&gt;
-&lt;img src=&#34;https://smileguide.github.io/2photos/140.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;img src=&#34;https://www.karlukle.site/2photos/140.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;为了美观，改变月亮的朝向与夜空的颜色，加以裁剪，于是：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;For the sake of beauty,I change the orientation of the moon and the color of the night sky, and cut them, so:&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/150.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.karlukle.site/2photos/150.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;↑星海湾大桥的炫目灯光映在海面上，上凸的梁体彰显工业的美感；&lt;br&gt;
 天幕中的弯月明亮夺目，胜过任何一个夜晚。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -2044,18 +2044,18 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
 &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/2-photos/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/blogs/2-photos/feature.jpg" />
     </item>
     
     <item>
       <title>旧照换新颜</title>
-      <link>https://smileguide.github.io/blogs/childhood-photography/</link>
+      <link>https://www.karlukle.site/blogs/childhood-photography/</link>
       <pubDate>Wed, 22 Feb 2023 14:58:34 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/blogs/childhood-photography/</guid>
+      <guid>https://www.karlukle.site/blogs/childhood-photography/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;h2 id=&#34;照片信息&#34;&gt;照片信息&lt;/h2&gt;
 &lt;p&gt;这张照片摄于2011年的沈阳市世博园附近。拍摄时间是UTC+8 5月1日14:15。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/blogs/childhood-photography/childhood_ph.jpg&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.karlukle.site/blogs/childhood-photography/childhood_ph.jpg&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;关于这张照片的幻灯片&#34;&gt;关于这张照片的幻灯片🐶&lt;/h2&gt;
 &lt;h3 id=&#34;幻灯片下载&#34;&gt;幻灯片下载&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.123pan.com/s/eNTzVv-lohg3.html&#34;&gt;点击跳转到PPT下载页(提取码:di4u)&lt;/a&gt;&lt;/p&gt;
@@ -2067,15 +2067,15 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
    &lt;a href=&#34;http://dd.myapp.com/sjy.00004/16891/apk/6A464096B40224BDC2EC6169D2550552.apk?fsname=com.microsoft.office.powerpoint_16.0.16026.20116_2004316291.apk&#34;&gt;安卓&lt;/a&gt;&lt;br/&gt;
 （Windows 已内置PowerPoint应用）&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/childhood-photography/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/blogs/childhood-photography/feature.jpg" />
     </item>
     
     <item>
       <title>Hello World🎉</title>
-      <link>https://smileguide.github.io/blogs/hello-world/</link>
+      <link>https://www.karlukle.site/blogs/hello-world/</link>
       <pubDate>Sun, 19 Feb 2023 09:06:11 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/blogs/hello-world/</guid>
+      <guid>https://www.karlukle.site/blogs/hello-world/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;h2 class=&#34;relative group&#34;&gt;我的第一个博客。 
     &lt;div id=&#34;我的第一个博客&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -2129,7 +2129,7 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
     });
 &lt;/script&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/hello-world/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/blogs/hello-world/feature.jpg" />
     </item>
     
   </channel>

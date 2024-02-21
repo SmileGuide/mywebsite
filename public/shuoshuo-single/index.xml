@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>群青流星</title>
-    <link>https://smileguide.github.io/shuoshuo-single/</link>
+    <link>https://www.karlukle.site/shuoshuo-single/</link>
     <description>我喜欢听花开的声音，更想自由地深情地呼吸</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Wed, 21 Feb 2024 11:18:39 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/shuoshuo-single/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Feb 2024 16:24:16 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/shuoshuo-single/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://smileguide.github.io/shuoshuo-single/add-kanban/</link>
+      <link>https://www.karlukle.site/shuoshuo-single/add-kanban/</link>
       <pubDate>Thu, 15 Feb 2024 22:01:04 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/shuoshuo-single/add-kanban/</guid>
+      <guid>https://www.karlukle.site/shuoshuo-single/add-kanban/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;span style=&#34;display: inline-block;margin-left: 2.5%;&#34; align=&#34;left&#34;&gt;
 &lt;div class=&#34;article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md&#34; style=&#39;width:&#39; &gt;
   &lt;div class=&#34;p-6&#34;&gt;
@@ -38,10 +38,10 @@
     
     <item>
       <title></title>
-      <link>https://smileguide.github.io/shuoshuo-single/first/</link>
+      <link>https://www.karlukle.site/shuoshuo-single/first/</link>
       <pubDate>Sun, 11 Feb 2024 22:43:00 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/shuoshuo-single/first/</guid>
+      <guid>https://www.karlukle.site/shuoshuo-single/first/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>   
    
    
@@ -72,13 +72,13 @@ aria-label=&#34;Slide 1&#34;&gt;&lt;/button&gt;&lt;/p&gt;
 &lt;div class=&#34;relative float-left -mr-[100%]  w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none&#34;
 data-te-carousel-item  data-te-carousel-active &gt;
 &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
-&lt;img src=&#34;https://smileguide.github.io/IMG_20240211_113424_13817760578581767787.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 0&#34;/&gt;
+&lt;img src=&#34;https://www.karlukle.site/IMG_20240211_113424_13817760578581767787.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 0&#34;/&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&#34;relative float-left -mr-[100%]  hidden  w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none&#34;
 data-te-carousel-item &gt;
 &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
-&lt;img src=&#34;https://smileguide.github.io/IMG_20240211_115539_10314602612029808839.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 1&#34;/&gt;
+&lt;img src=&#34;https://www.karlukle.site/IMG_20240211_115539_10314602612029808839.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 1&#34;/&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;

@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>群青流星</title>
-    <link>https://smileguide.github.io/</link>
+    <link>https://www.karlukle.site/</link>
     <description>我喜欢听花开的声音，更想自由地深情地呼吸</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Wed, 21 Feb 2024 11:18:39 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Feb 2024 16:24:16 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>古典乐 Classical</title>
-      <link>https://smileguide.github.io/radio/classical/</link>
+      <link>https://www.karlukle.site/radio/classical/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/radio/classical/</guid>
+      <guid>https://www.karlukle.site/radio/classical/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
@@ -49,7 +49,7 @@
 
 
 
-  &lt;a class=&#34;flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://smileguide.github.io/player/&#34;&gt;
+  &lt;a class=&#34;flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://www.karlukle.site/player/&#34;&gt;
     
         
         &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom &#34; style=&#34;background-image:url(/player/feature_hu3d03a01dcc18bc5be0e67db3d8d209a6_2282854_600x0_resize_q75_box.jpg);&#34;&gt;&lt;/div&gt;
@@ -58,7 +58,7 @@
       &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
         
         &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
-          href=&#34;https://smileguide.github.io/player/&#34;&gt;关于网站音乐系统&lt;/div&gt;
+          href=&#34;https://www.karlukle.site/player/&#34;&gt;关于网站音乐系统&lt;/div&gt;
         
         
         
@@ -149,15 +149,15 @@
         
     
 &lt;/section&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/radio/classical/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/radio/classical/feature.jpg" />
     </item>
     
     <item>
       <title>关系框图</title>
-      <link>https://smileguide.github.io/docs/myoc/relationship/</link>
+      <link>https://www.karlukle.site/docs/myoc/relationship/</link>
       <pubDate>Mon, 05 Jun 2023 14:36:30 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/docs/myoc/relationship/</guid>
+      <guid>https://www.karlukle.site/docs/myoc/relationship/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;script type=&#34;module&#34;&gt;
   import mermaid from &#39;https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs&#39;;
 &lt;/script&gt;
@@ -306,10 +306,10 @@ timeline
     
     <item>
       <title>玻璃（已完结）</title>
-      <link>https://smileguide.github.io/docs/vb/glass/</link>
+      <link>https://www.karlukle.site/docs/vb/glass/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/docs/vb/glass/</guid>
+      <guid>https://www.karlukle.site/docs/vb/glass/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;这是一个可以模拟屏幕上的透明玻璃的工具，同时支持多开、染色、调整大小、按颜色序列创建玻璃等花样功能。&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
@@ -329,7 +329,7 @@ timeline
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/glass.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/vbprojects/glass.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;如果你在使用过程中遇到问题，欢迎在评论区提问！&lt;/p&gt;
 </description>
@@ -338,10 +338,10 @@ timeline
     
     <item>
       <title>新世纪音乐 New Age</title>
-      <link>https://smileguide.github.io/radio/newage/</link>
+      <link>https://www.karlukle.site/radio/newage/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/radio/newage/</guid>
+      <guid>https://www.karlukle.site/radio/newage/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
@@ -377,7 +377,7 @@ timeline
 
 
 
-  &lt;a class=&#34;flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://smileguide.github.io/player/&#34;&gt;
+  &lt;a class=&#34;flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://www.karlukle.site/player/&#34;&gt;
     
         
         &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom &#34; style=&#34;background-image:url(/player/feature_hu3d03a01dcc18bc5be0e67db3d8d209a6_2282854_600x0_resize_q75_box.jpg);&#34;&gt;&lt;/div&gt;
@@ -386,7 +386,7 @@ timeline
       &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
         
         &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
-          href=&#34;https://smileguide.github.io/player/&#34;&gt;关于网站音乐系统&lt;/div&gt;
+          href=&#34;https://www.karlukle.site/player/&#34;&gt;关于网站音乐系统&lt;/div&gt;
         
         
         
@@ -477,15 +477,15 @@ timeline
         
     
 &lt;/section&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/radio/newage/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/radio/newage/feature.jpg" />
     </item>
     
     <item>
       <title>人物介绍</title>
-      <link>https://smileguide.github.io/docs/myoc/characters/</link>
+      <link>https://www.karlukle.site/docs/myoc/characters/</link>
       <pubDate>Tue, 06 Jun 2023 09:13:09 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/docs/myoc/characters/</guid>
+      <guid>https://www.karlukle.site/docs/myoc/characters/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;style&gt;
 /*@font-face{ 
   font-family: &#34;NotoSerifJP&#34;;
@@ -706,10 +706,10 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     
     <item>
       <title>绘图板（已完结）</title>
-      <link>https://smileguide.github.io/docs/vb/board/</link>
+      <link>https://www.karlukle.site/docs/vb/board/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/docs/vb/board/</guid>
+      <guid>https://www.karlukle.site/docs/vb/board/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;这是一个可以在空白画布或图片上作画的工具，特别提供教师使用红色笔迹进行评卷的快捷功能。&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;入口 
     &lt;div id=&#34;入口&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
@@ -739,7 +739,7 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/board.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/vbprojects/board.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;如果你在使用过程中遇到问题，欢迎在评论区提问！&lt;/p&gt;
 </description>
@@ -748,10 +748,10 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     
     <item>
       <title>泛流行 PanPop</title>
-      <link>https://smileguide.github.io/radio/panpop/</link>
+      <link>https://www.karlukle.site/radio/panpop/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/radio/panpop/</guid>
+      <guid>https://www.karlukle.site/radio/panpop/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
@@ -787,7 +787,7 @@ background:linear-gradient(to top left,#d39340,#ffd194);
 
 
 
-  &lt;a class=&#34;flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://smileguide.github.io/player/&#34;&gt;
+  &lt;a class=&#34;flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://www.karlukle.site/player/&#34;&gt;
     
         
         &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom &#34; style=&#34;background-image:url(/player/feature_hu3d03a01dcc18bc5be0e67db3d8d209a6_2282854_600x0_resize_q75_box.jpg);&#34;&gt;&lt;/div&gt;
@@ -796,7 +796,7 @@ background:linear-gradient(to top left,#d39340,#ffd194);
       &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
         
         &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
-          href=&#34;https://smileguide.github.io/player/&#34;&gt;关于网站音乐系统&lt;/div&gt;
+          href=&#34;https://www.karlukle.site/player/&#34;&gt;关于网站音乐系统&lt;/div&gt;
         
         
         
@@ -887,15 +887,15 @@ background:linear-gradient(to top left,#d39340,#ffd194);
         
     
 &lt;/section&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/radio/panpop/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/radio/panpop/feature.jpg" />
     </item>
     
     <item>
       <title>概念阐释</title>
-      <link>https://smileguide.github.io/docs/myoc/pedia/</link>
+      <link>https://www.karlukle.site/docs/myoc/pedia/</link>
       <pubDate>Tue, 06 Jun 2023 21:23:49 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/docs/myoc/pedia/</guid>
+      <guid>https://www.karlukle.site/docs/myoc/pedia/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;h2 class=&#34;relative group&#34;&gt;地上世界 
     &lt;div id=&#34;地上世界&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -928,8 +928,8 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;由于不允许两个&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#eltraveller&#34;  &gt;
-    叶世旅人&lt;/a&gt;同时存在，当有两个人间本灵所有者受&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#gotensamastorture&#34;  &gt;
+&lt;p&gt;由于不允许两个&lt;a href=&#34;https://www.karlukle.site/docs/myoc/pedia/#eltraveller&#34;  &gt;
+    叶世旅人&lt;/a&gt;同时存在，当有两个人间本灵所有者受&lt;a href=&#34;https://www.karlukle.site/docs/myoc/pedia/#gotensamastorture&#34;  &gt;
     御天樣之凌&lt;/a&gt;时，痛苦减轻一半，先行者将顺利成为叶世旅人并承载双倍的本灵能量加成，但另一人的魂魄将灰飞烟灭。&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;葉の世界 
     &lt;div id=&#34;葉の世界&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
@@ -941,7 +941,7 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;第四维度上的平行世界。叶之世界可以通过意念控制的方式与&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#owner&#34;  &gt;
+&lt;p&gt;第四维度上的平行世界。叶之世界可以通过意念控制的方式与&lt;a href=&#34;https://www.karlukle.site/docs/myoc/pedia/#owner&#34;  &gt;
     人间本灵所有者&lt;/a&gt;产生联系、进行交流。梦境是通过四维轴往返于地上世界和叶之世界的唯一途径。据说只有小孩才会有这样的“叶世界之梦”。&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;葉の本霊（叶之本灵） 
     &lt;div id=&#34;葉の本霊叶之本灵&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
@@ -953,7 +953,7 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#owner&#34;  &gt;
+&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/docs/myoc/pedia/#owner&#34;  &gt;
     人间本灵所有者&lt;/a&gt;的魂魄在叶之世界的投影。&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;体 
     &lt;div id=&#34;体&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
@@ -965,9 +965,9 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#owner&#34;  &gt;
-    人间本灵所有者&lt;/a&gt;来到&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#leafworld&#34;  &gt;
-    叶之世界&lt;/a&gt;后就会失去自由，直至化为&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#eltraveller&#34;  &gt;
+&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/docs/myoc/pedia/#owner&#34;  &gt;
+    人间本灵所有者&lt;/a&gt;来到&lt;a href=&#34;https://www.karlukle.site/docs/myoc/pedia/#leafworld&#34;  &gt;
+    叶之世界&lt;/a&gt;后就会失去自由，直至化为&lt;a href=&#34;https://www.karlukle.site/docs/myoc/pedia/#eltraveller&#34;  &gt;
     叶世旅人&lt;/a&gt;才会获得返回的能力。这样的失去自由者称为“体”。&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;葉世旅人（叶世旅人） 
     &lt;div id=&#34;葉世旅人叶世旅人&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
@@ -979,10 +979,10 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;能够在&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#earthlyworld&#34;  &gt;
-    地上世界&lt;/a&gt;和&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#leafworld&#34;  &gt;
-    叶之世界&lt;/a&gt;由梦境往返的&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#owner&#34;  &gt;
-    人间本灵所有者&lt;/a&gt;。&lt;a href=&#34;https://smileguide.github.io/docs/myoc/characters/#karlukle&#34;  &gt;
+&lt;p&gt;能够在&lt;a href=&#34;https://www.karlukle.site/docs/myoc/pedia/#earthlyworld&#34;  &gt;
+    地上世界&lt;/a&gt;和&lt;a href=&#34;https://www.karlukle.site/docs/myoc/pedia/#leafworld&#34;  &gt;
+    叶之世界&lt;/a&gt;由梦境往返的&lt;a href=&#34;https://www.karlukle.site/docs/myoc/pedia/#owner&#34;  &gt;
+    人间本灵所有者&lt;/a&gt;。&lt;a href=&#34;https://www.karlukle.site/docs/myoc/characters/#karlukle&#34;  &gt;
     天野カルクル&lt;/a&gt;是一名葉世旅人，他每晚通过梦游叶之世界获得叶世旅人能力，降临在地上世界的各个角落与人对话。&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;ご天樣（御天樣） 
     &lt;div id=&#34;ご天樣御天樣&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
@@ -1005,8 +1005,8 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;叶之世界的苦刑，有肉体与精神的双重折磨。受御天樣之凌时，有身体缓慢裂解般的疼痛和万念俱灰的绝望。&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#tay&#34;  &gt;
-    体&lt;/a&gt;想要获得自由，必须受御天樣之凌，成为&lt;a href=&#34;https://smileguide.github.io/docs/myoc/pedia/#eltraveller&#34;  &gt;
+&lt;p&gt;叶之世界的苦刑，有肉体与精神的双重折磨。受御天樣之凌时，有身体缓慢裂解般的疼痛和万念俱灰的绝望。&lt;a href=&#34;https://www.karlukle.site/docs/myoc/pedia/#tay&#34;  &gt;
+    体&lt;/a&gt;想要获得自由，必须受御天樣之凌，成为&lt;a href=&#34;https://www.karlukle.site/docs/myoc/pedia/#eltraveller&#34;  &gt;
     叶世旅人&lt;/a&gt;。&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;人間本霊所有者（人间本灵所有者） 
     &lt;div id=&#34;人間本霊所有者人间本灵所有者&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
@@ -1025,10 +1025,10 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     
     <item>
       <title>网课小工具-剪贴板存图工具（已完结）</title>
-      <link>https://smileguide.github.io/docs/vb/screenshot/</link>
+      <link>https://www.karlukle.site/docs/vb/screenshot/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/docs/vb/screenshot/</guid>
+      <guid>https://www.karlukle.site/docs/vb/screenshot/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;这是一个可以方便地把按下PrintScreen键复制到剪贴板的截图捕获、并以时间戳文件名保存到指定目录内的工具。&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;入口 
     &lt;div id=&#34;入口&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
@@ -1058,7 +1058,7 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/screenshot.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/vbprojects/screenshot.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;如果你在使用过程中遇到问题，欢迎在评论区提问！&lt;/p&gt;
 </description>
@@ -1067,10 +1067,10 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     
     <item>
       <title>摇滚 Rocks</title>
-      <link>https://smileguide.github.io/radio/rocks/</link>
+      <link>https://www.karlukle.site/radio/rocks/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/radio/rocks/</guid>
+      <guid>https://www.karlukle.site/radio/rocks/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
@@ -1106,7 +1106,7 @@ background:linear-gradient(to top left,#d39340,#ffd194);
 
 
 
-  &lt;a class=&#34;flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://smileguide.github.io/player/&#34;&gt;
+  &lt;a class=&#34;flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://www.karlukle.site/player/&#34;&gt;
     
         
         &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom &#34; style=&#34;background-image:url(/player/feature_hu3d03a01dcc18bc5be0e67db3d8d209a6_2282854_600x0_resize_q75_box.jpg);&#34;&gt;&lt;/div&gt;
@@ -1115,7 +1115,7 @@ background:linear-gradient(to top left,#d39340,#ffd194);
       &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
         
         &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
-          href=&#34;https://smileguide.github.io/player/&#34;&gt;关于网站音乐系统&lt;/div&gt;
+          href=&#34;https://www.karlukle.site/player/&#34;&gt;关于网站音乐系统&lt;/div&gt;
         
         
         
@@ -1206,15 +1206,15 @@ background:linear-gradient(to top left,#d39340,#ffd194);
         
     
 &lt;/section&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/radio/rocks/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/radio/rocks/feature.jpg" />
     </item>
     
     <item>
       <title>创作背景问答</title>
-      <link>https://smileguide.github.io/docs/myoc/questionaire/</link>
+      <link>https://www.karlukle.site/docs/myoc/questionaire/</link>
       <pubDate>Tue, 06 Jun 2023 23:00:25 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/docs/myoc/questionaire/</guid>
+      <guid>https://www.karlukle.site/docs/myoc/questionaire/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;h2 class=&#34;relative group&#34;&gt;为什么采用“天野”这个姓？ 
     &lt;div id=&#34;为什么采用天野这个姓&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1266,10 +1266,10 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
     
     <item>
       <title>网课小工具-课程表（未完结）</title>
-      <link>https://smileguide.github.io/docs/vb/schedule/</link>
+      <link>https://www.karlukle.site/docs/vb/schedule/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/docs/vb/schedule/</guid>
+      <guid>https://www.karlukle.site/docs/vb/schedule/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;这是一个可以在网课期间规划时间、区分星期地按课程设定闹铃的实用工具，另支持内置的命令行操作，并有多种皮肤可选。&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
@@ -1289,7 +1289,7 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/schedule.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/vbprojects/schedule.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;如果你在使用过程中遇到问题，欢迎在评论区提问！&lt;/p&gt;
 </description>
@@ -1298,10 +1298,10 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
     
     <item>
       <title>地球呢喃 Murmurs of Earth</title>
-      <link>https://smileguide.github.io/radio/murmurs/</link>
+      <link>https://www.karlukle.site/radio/murmurs/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/radio/murmurs/</guid>
+      <guid>https://www.karlukle.site/radio/murmurs/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
@@ -1337,7 +1337,7 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
 
 
 
-  &lt;a class=&#34;flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://smileguide.github.io/player/&#34;&gt;
+  &lt;a class=&#34;flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://www.karlukle.site/player/&#34;&gt;
     
         
         &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom &#34; style=&#34;background-image:url(/player/feature_hu3d03a01dcc18bc5be0e67db3d8d209a6_2282854_600x0_resize_q75_box.jpg);&#34;&gt;&lt;/div&gt;
@@ -1346,7 +1346,7 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
       &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
         
         &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
-          href=&#34;https://smileguide.github.io/player/&#34;&gt;关于网站音乐系统&lt;/div&gt;
+          href=&#34;https://www.karlukle.site/player/&#34;&gt;关于网站音乐系统&lt;/div&gt;
         
         
         
@@ -1437,15 +1437,15 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
         
     
 &lt;/section&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/radio/murmurs/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/radio/murmurs/feature.jpg" />
     </item>
     
     <item>
       <title>三十一中学生信息管理系统（已完结）</title>
-      <link>https://smileguide.github.io/docs/vb/31infsystem/</link>
+      <link>https://www.karlukle.site/docs/vb/31infsystem/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/docs/vb/31infsystem/</guid>
+      <guid>https://www.karlukle.site/docs/vb/31infsystem/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;这是一个可以查询庄河市第三十一初级中学2019届学生信息的数据管理系统，并有通配符查找、剪贴板识别自动查找等功能。你也可以将本作品更改成你单位的信息管理系统。&lt;/p&gt;
 &lt;h2 class=&#34;relative group&#34;&gt;入口 
     &lt;div id=&#34;入口&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
@@ -1475,7 +1475,7 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/31infsystem.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/vbprojects/31infsystem.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;如果你在使用过程中遇到问题，欢迎在评论区提问！&lt;/p&gt;
 </description>
@@ -1484,10 +1484,10 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
     
     <item>
       <title>明文密文转换工具（未完结）</title>
-      <link>https://smileguide.github.io/docs/vb/cipher/</link>
+      <link>https://www.karlukle.site/docs/vb/cipher/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/docs/vb/cipher/</guid>
+      <guid>https://www.karlukle.site/docs/vb/cipher/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;这是一个可以根据自定义的密钥加密解密文本的工具，多种花样功能正在开发中。&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
@@ -1507,7 +1507,7 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://smileguide.github.io/vbprojects/cipher.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/vbprojects/cipher.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;如果你在使用过程中遇到问题，欢迎在评论区提问！&lt;/p&gt;
 </description>
@@ -1516,10 +1516,10 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
     
     <item>
       <title>关于本站的部署</title>
-      <link>https://smileguide.github.io/blogs/site-publish/</link>
+      <link>https://www.karlukle.site/blogs/site-publish/</link>
       <pubDate>Tue, 20 Feb 2024 13:42:42 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/blogs/site-publish/</guid>
+      <guid>https://www.karlukle.site/blogs/site-publish/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   这是由上一篇《关于本站的建造》引申出来的文章，主要讲解的是把构建好的 Hugo 网站进行部署和加速的过程。与上一篇不同，这是一篇普遍使用的教程。
 &lt;/div&gt;
@@ -1532,9 +1532,9 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &lt;span class=&#34;s2&#34;&gt;&amp;#34;说明&amp;#34;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git branch -m main
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push -u github main
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;然后可以在设置里面看到：&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220135808.png&#34; alt=&#34;&#34;  /&gt;&lt;br&gt;
-&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220140716.png&#34; alt=&#34;&#34;  /&gt;把 &lt;code&gt;/(root)&lt;/code&gt; 改为 &lt;code&gt;/public&lt;/code&gt;，点保存后等待部署完成。&lt;/p&gt;
-&lt;p&gt;至此，你就可以用 GitHub 授予的二级域名来访问你的网站了。&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220141022.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;然后可以在设置里面看到：&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220135808.png&#34; alt=&#34;&#34;  /&gt;&lt;br&gt;
+&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220140716.png&#34; alt=&#34;&#34;  /&gt;把 &lt;code&gt;/(root)&lt;/code&gt; 改为 &lt;code&gt;/public&lt;/code&gt;，点保存后等待部署完成。&lt;/p&gt;
+&lt;p&gt;至此，你就可以用 GitHub 授予的二级域名来访问你的网站了。&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220141022.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
 &lt;h4 id=&#34;优点&#34;&gt;优点&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;GitHub 的二级域名易于记忆&lt;/li&gt;
@@ -1548,11 +1548,11 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
 &lt;li&gt;GitHub Pages 把百度的爬虫拦截，站点无法被百度收录&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h4 id=&#34;ping-结果&#34;&gt;Ping 结果&lt;/h4&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220150550.png&#34; alt=&#34;&#34;  title=&#34;虽然 Ping 延迟较低，但实际上速度很慢&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220150550.png&#34; alt=&#34;&#34;  title=&#34;虽然 Ping 延迟较低，但实际上速度很慢&#34; /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;部署到-vercel&#34;&gt;部署到 Vercel&lt;/h3&gt;
 &lt;p&gt;如果你没有域名，慎用 Vercel，因为 Vercel 被GFW污染，不用自己的域名做解析就无法访问部署好的网站。&lt;/p&gt;
 &lt;p&gt;建立仓库、push的过程与 GitHub Pages 相同，但仓库不用必须公开，仓库名自定义。&lt;br&gt;
-访问 &lt;a href=&#34;https://vercel.com/&#34;&gt;Verccel网站&lt;/a&gt;，用 GitHub 登录。&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220142422.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
+访问 &lt;a href=&#34;https://vercel.com/&#34;&gt;Verccel网站&lt;/a&gt;，用 GitHub 登录。&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220142422.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
 &lt;ol class=&#34;border-l-2 list-none border-primary-500 dark:border-primary-300&#34;&gt;
 
 
@@ -1700,8 +1700,8 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
 
 
 &lt;/ol&gt;
-&lt;p&gt;至此，基本的 Vercel 部署已经完成。但如果想通过 Vercel 授予的二级域名访问网站，可能需要魔法.:dog:&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220144937.png&#34; alt=&#34;&#34;  /&gt;
-&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220145430.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;至此，基本的 Vercel 部署已经完成。但如果想通过 Vercel 授予的二级域名访问网站，可能需要魔法.:dog:&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220144937.png&#34; alt=&#34;&#34;  /&gt;
+&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220145430.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
 &lt;h4 id=&#34;优点-1&#34;&gt;优点&lt;/h4&gt;
 &lt;ul&gt;
 &lt;li&gt;自带CDN，有香港节点&lt;/li&gt;
@@ -1715,12 +1715,12 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
 &lt;/ul&gt;
 &lt;h4 id=&#34;ping-结果-1&#34;&gt;Ping 结果&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;*.vercel.app &lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220145944.png&#34; alt=&#34;&#34;  /&gt;&lt;/li&gt;
-&lt;li&gt;绑定域名后 &lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220150731.png&#34; alt=&#34;&#34;  /&gt;&lt;/li&gt;
+&lt;li&gt;*.vercel.app &lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220145944.png&#34; alt=&#34;&#34;  /&gt;&lt;/li&gt;
+&lt;li&gt;绑定域名后 &lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220150731.png&#34; alt=&#34;&#34;  /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;注册域名和icp备案&#34;&gt;注册域名和ICP备案&lt;/h2&gt;
-&lt;p&gt;随便找一个国内的服务商，按照流程购买域名，需要实名认证。本域名是在腾讯云注册的。&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220152545.png&#34; alt=&#34;&#34;  /&gt;
-注册完成后，别忘记申请免费SSL证书以激活HTTPS访问。&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220153010.png&#34; alt=&#34;&#34;  /&gt;&lt;br&gt;
+&lt;p&gt;随便找一个国内的服务商，按照流程购买域名，需要实名认证。本域名是在腾讯云注册的。&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220152545.png&#34; alt=&#34;&#34;  /&gt;
+注册完成后，别忘记申请免费SSL证书以激活HTTPS访问。&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220153010.png&#34; alt=&#34;&#34;  /&gt;&lt;br&gt;
 接下来，为购买国内CDN加速，你需要将网站进行ICP备案。各服务商和各省管局有不同的要求，请遵照要求进行备案。&lt;br&gt;
 备案完成后，三十天内要在根域名主页尾部挂好ICP备案标识，否则抽查到会被罚款。&lt;/p&gt;
 &lt;h2 id=&#34;配置cdn&#34;&gt;配置CDN&lt;/h2&gt;
@@ -1806,8 +1806,8 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220163309.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
-&lt;p&gt;然后来到 Vercel 给要使用CDN的网站添加一个自定义的二级域名（如 &lt;code&gt;&amp;lt;自定义&amp;gt;.&amp;lt;你的域名&amp;gt;.&amp;lt;你的后缀&amp;gt;&lt;/code&gt; ） &lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220162821.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220163309.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;然后来到 Vercel 给要使用CDN的网站添加一个自定义的二级域名（如 &lt;code&gt;&amp;lt;自定义&amp;gt;.&amp;lt;你的域名&amp;gt;.&amp;lt;你的后缀&amp;gt;&lt;/code&gt; ） &lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220162821.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;配置cdn-1&#34;&gt;配置CDN&lt;/h3&gt;
 &lt;ol class=&#34;border-l-2 list-none border-primary-500 dark:border-primary-300&#34;&gt;
 
@@ -2116,20 +2116,20 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
 &lt;br/&gt;&lt;/p&gt;
 &lt;h4 id=&#34;ping-结果-2&#34;&gt;Ping 结果&lt;/h4&gt;
 &lt;ul&gt;
-&lt;li&gt;CDN加速前&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220200737.png&#34; alt=&#34;&#34;  /&gt;&lt;/li&gt;
-&lt;li&gt;CDN加速后&lt;img src=&#34;https://smileguide.github.io/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220205156.png&#34; alt=&#34;&#34;  /&gt;&lt;/li&gt;
+&lt;li&gt;CDN加速前&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220200737.png&#34; alt=&#34;&#34;  /&gt;&lt;/li&gt;
+&lt;li&gt;CDN加速后&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220205156.png&#34; alt=&#34;&#34;  /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&amp;ndash;完&amp;ndash;&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/site-publish/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/blogs/site-publish/feature.jpg" />
     </item>
     
     <item>
       <title></title>
-      <link>https://smileguide.github.io/shuoshuo-single/add-kanban/</link>
+      <link>https://www.karlukle.site/shuoshuo-single/add-kanban/</link>
       <pubDate>Thu, 15 Feb 2024 22:01:04 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/shuoshuo-single/add-kanban/</guid>
+      <guid>https://www.karlukle.site/shuoshuo-single/add-kanban/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;span style=&#34;display: inline-block;margin-left: 2.5%;&#34; align=&#34;left&#34;&gt;
 &lt;div class=&#34;article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md&#34; style=&#39;width:&#39; &gt;
   &lt;div class=&#34;p-6&#34;&gt;
@@ -2154,10 +2154,10 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
     
     <item>
       <title></title>
-      <link>https://smileguide.github.io/notice/</link>
+      <link>https://www.karlukle.site/notice/</link>
       <pubDate>Sun, 11 Feb 2024 22:43:00 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/notice/</guid>
+      <guid>https://www.karlukle.site/notice/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;
   
 
@@ -2197,10 +2197,10 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
     
     <item>
       <title></title>
-      <link>https://smileguide.github.io/shuoshuo-single/first/</link>
+      <link>https://www.karlukle.site/shuoshuo-single/first/</link>
       <pubDate>Sun, 11 Feb 2024 22:43:00 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/shuoshuo-single/first/</guid>
+      <guid>https://www.karlukle.site/shuoshuo-single/first/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>   
    
    
@@ -2231,13 +2231,13 @@ aria-label=&#34;Slide 1&#34;&gt;&lt;/button&gt;&lt;/p&gt;
 &lt;div class=&#34;relative float-left -mr-[100%]  w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none&#34;
 data-te-carousel-item  data-te-carousel-active &gt;
 &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
-&lt;img src=&#34;https://smileguide.github.io/IMG_20240211_113424_13817760578581767787.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 0&#34;/&gt;
+&lt;img src=&#34;https://www.karlukle.site/IMG_20240211_113424_13817760578581767787.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 0&#34;/&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&#34;relative float-left -mr-[100%]  hidden  w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none&#34;
 data-te-carousel-item &gt;
 &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
-&lt;img src=&#34;https://smileguide.github.io/IMG_20240211_115539_10314602612029808839.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 1&#34;/&gt;
+&lt;img src=&#34;https://www.karlukle.site/IMG_20240211_115539_10314602612029808839.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 1&#34;/&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2364,10 +2364,10 @@ document.getElementById(&#39;github-07dec849e5e9ea5a1cbc04ae72555331-forks&#39;)
     
     <item>
       <title>友情链接</title>
-      <link>https://smileguide.github.io/friends/</link>
+      <link>https://www.karlukle.site/friends/</link>
       <pubDate>Mon, 05 Feb 2024 09:09:28 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/friends/</guid>
+      <guid>https://www.karlukle.site/friends/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;style&gt;
 	.place-self-center{
 		cursor:pointer;
@@ -3001,10 +3001,10 @@ document.getElementById(&#39;github-07dec849e5e9ea5a1cbc04ae72555331-forks&#39;)
     
     <item>
       <title>关于本站的建造</title>
-      <link>https://smileguide.github.io/blogs/site-build/</link>
+      <link>https://www.karlukle.site/blogs/site-build/</link>
       <pubDate>Fri, 02 Feb 2024 09:57:23 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/blogs/site-build/</guid>
+      <guid>https://www.karlukle.site/blogs/site-build/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   这里在技术上梳理了本站的建造流程及一些功能的实现方法。
 &lt;/div&gt;
@@ -3821,7 +3821,7 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
 
 
 
-  &lt;a class=&#34;flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://smileguide.github.io/blogs/site-publish/&#34;&gt;
+  &lt;a class=&#34;flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://www.karlukle.site/blogs/site-publish/&#34;&gt;
     
         
         &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom &#34; style=&#34;background-image:url(/blogs/site-publish/feature_hu5459c0360c2b0cb7a147d2df0eb350ca_1915460_600x0_resize_q75_box.jpg);&#34;&gt;&lt;/div&gt;
@@ -3830,7 +3830,7 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
       &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
         
         &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
-          href=&#34;https://smileguide.github.io/blogs/site-publish/&#34;&gt;关于本站的部署&lt;/div&gt;
+          href=&#34;https://www.karlukle.site/blogs/site-publish/&#34;&gt;关于本站的部署&lt;/div&gt;
         
         
         
@@ -3922,15 +3922,15 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
     
 &lt;/section&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/site-build/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/blogs/site-build/feature.jpg" />
     </item>
     
     <item>
       <title>关于网站音乐系统</title>
-      <link>https://smileguide.github.io/player/</link>
+      <link>https://www.karlukle.site/player/</link>
       <pubDate>Fri, 26 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/player/</guid>
+      <guid>https://www.karlukle.site/player/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;本网站的音乐系统分为两部分：&lt;a href=&#34;#%e6%82%ac%e6%b5%ae%e6%92%ad%e6%94%be%e5%99%a8&#34;  &gt;
     悬浮播放器&lt;/a&gt; 和 &lt;a href=&#34;#%e9%9f%b3%e4%b9%90%e7%ab%99&#34;  &gt;
     音乐站&lt;/a&gt; 。&lt;/p&gt;
@@ -4007,15 +4007,15 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
 &lt;p&gt;音乐站分为多个专栏，多元地反应我的听歌风格。&lt;/p&gt;
 &lt;p&gt;正由于外音乐平台的播放限制，音乐站的主要目的是提供音乐列表，起&lt;strong&gt;推荐&lt;/strong&gt;和&lt;strong&gt;试听&lt;/strong&gt;作用。&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/player/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/player/feature.jpg" />
     </item>
     
     <item>
       <title>精选音乐信息 (悬浮播放器↙)</title>
-      <link>https://smileguide.github.io/radio/pick/</link>
+      <link>https://www.karlukle.site/radio/pick/</link>
       <pubDate>Fri, 26 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/radio/pick/</guid>
+      <guid>https://www.karlukle.site/radio/pick/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;h2 class=&#34;relative group&#34;&gt;音乐信息 
     &lt;div id=&#34;音乐信息&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -4306,7 +4306,7 @@ The last gala should be as grand as the first&lt;/p&gt;
 
 
 
-  &lt;a class=&#34;flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://smileguide.github.io/player/&#34;&gt;
+  &lt;a class=&#34;flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://www.karlukle.site/player/&#34;&gt;
     
         
         &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom &#34; style=&#34;background-image:url(/player/feature_hu3d03a01dcc18bc5be0e67db3d8d209a6_2282854_600x0_resize_q75_box.jpg);&#34;&gt;&lt;/div&gt;
@@ -4315,7 +4315,7 @@ The last gala should be as grand as the first&lt;/p&gt;
       &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
         
         &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
-          href=&#34;https://smileguide.github.io/player/&#34;&gt;关于网站音乐系统&lt;/div&gt;
+          href=&#34;https://www.karlukle.site/player/&#34;&gt;关于网站音乐系统&lt;/div&gt;
         
         
         
@@ -4430,15 +4430,15 @@ The last gala should be as grand as the first&lt;/p&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/radio/pick/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/radio/pick/feature.jpg" />
     </item>
     
     <item>
       <title>诗《白日之殇》</title>
-      <link>https://smileguide.github.io/blogs/gothic-stake/</link>
+      <link>https://www.karlukle.site/blogs/gothic-stake/</link>
       <pubDate>Sun, 21 Jan 2024 22:50:23 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/blogs/gothic-stake/</guid>
+      <guid>https://www.karlukle.site/blogs/gothic-stake/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;太阳埋葬了我的乐园&lt;/p&gt;
@@ -4499,15 +4499,15 @@ The last gala should be as grand as the first&lt;/p&gt;
     
 &lt;/h4&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/gothic-stake/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/blogs/gothic-stake/feature.jpg" />
     </item>
     
     <item>
       <title>诗《墙内追忆》</title>
-      <link>https://smileguide.github.io/blogs/memoriam/</link>
+      <link>https://www.karlukle.site/blogs/memoriam/</link>
       <pubDate>Sat, 20 Jan 2024 20:13:20 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/blogs/memoriam/</guid>
+      <guid>https://www.karlukle.site/blogs/memoriam/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;我是文明之邦的第三代皇帝&lt;/p&gt;
@@ -4537,15 +4537,15 @@ The last gala should be as grand as the first&lt;/p&gt;
     
 &lt;/h4&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/memoriam/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/blogs/memoriam/feature.jpg" />
     </item>
     
     <item>
       <title>我的QQ号</title>
-      <link>https://smileguide.github.io/contact/myqq/</link>
+      <link>https://www.karlukle.site/contact/myqq/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/contact/myqq/</guid>
+      <guid>https://www.karlukle.site/contact/myqq/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>
   
   
@@ -4602,10 +4602,10 @@ new ClipboardJS(&#39;#cpy&#39;, {
     
     <item>
       <title>我的微信号</title>
-      <link>https://smileguide.github.io/contact/myweixin/</link>
+      <link>https://www.karlukle.site/contact/myweixin/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/contact/myweixin/</guid>
+      <guid>https://www.karlukle.site/contact/myweixin/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>
   
   
@@ -4662,10 +4662,10 @@ new ClipboardJS(&#39;#cpy&#39;, {
     
     <item>
       <title>关于我曾经的个性签名</title>
-      <link>https://smileguide.github.io/blogs/my-pre-slogan/</link>
+      <link>https://www.karlukle.site/blogs/my-pre-slogan/</link>
       <pubDate>Sat, 25 Mar 2023 23:08:18 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/blogs/my-pre-slogan/</guid>
+      <guid>https://www.karlukle.site/blogs/my-pre-slogan/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;
   
 
@@ -4795,15 +4795,15 @@ new ClipboardJS(&#39;#cpy&#39;, {
 &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/my-pre-slogan/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/blogs/my-pre-slogan/feature.jpg" />
     </item>
     
     <item>
       <title>关于两张照片</title>
-      <link>https://smileguide.github.io/blogs/2-photos/</link>
+      <link>https://www.karlukle.site/blogs/2-photos/</link>
       <pubDate>Sat, 25 Mar 2023 15:42:59 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/blogs/2-photos/</guid>
+      <guid>https://www.karlukle.site/blogs/2-photos/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>
   
 
@@ -4845,7 +4845,7 @@ new ClipboardJS(&#39;#cpy&#39;, {
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/10.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.karlukle.site/2photos/10.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;↑这是一张合成的照片。背景摄于2022年7月24日，拍摄对象为大连市沙河口区星海广场。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This is a merged photo. The background was shot on July 24, 2022, the shooting spot of which located at Xinghai Square, Shahekou District, Dalian.&lt;/p&gt;
@@ -4860,23 +4860,23 @@ new ClipboardJS(&#39;#cpy&#39;, {
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/20.png&#34;&gt;&lt;/img&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.karlukle.site/2photos/20.png&#34;&gt;&lt;/img&gt;
 设备: VOG-AL10（华为自带长焦镜头）&lt;br&gt;
 焦距: 105mm(等效35mm胶片焦距)&lt;br&gt;
 拍摄位置:&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;br&gt;
 经纬度: g121.58709347,38.87754517(GCJ-02坐标&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;)&lt;br&gt;
 凯立德K码: 8ti6fb01x&lt;br&gt;
-&lt;img src=&#34;https://smileguide.github.io/2photos/30.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;img src=&#34;https://www.karlukle.site/2photos/30.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;而前景的拍摄时间较为久远，摄于2012年9月11日，拍摄对象为6岁的我。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;But the foreground was not shot recently, which was on Sep. 11, 2012 and whose object was six-year-old ME.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/40.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.karlukle.site/2photos/40.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;↓这是素材的来源图像，图中右一人物是杉&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;This is the source material,and the child on the right is my あね&lt;sup id=&#34;fnref:3&#34;&gt;&lt;a href=&#34;#fn:3&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;3&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/50.png&#34; width=&#34;300px&#34;&gt;&lt;/img&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.karlukle.site/2photos/50.png&#34; width=&#34;300px&#34;&gt;&lt;/img&gt;
 （↑这张照片由于拍摄时曝光不足而被我手动修复，所以颜色有点怪）&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;(This photo was recovered for underexposing, so the hue is kind of strange.)&lt;br&gt;
@@ -4886,7 +4886,7 @@ new ClipboardJS(&#39;#cpy&#39;, {
 经纬度: g122.96740383,39.69392652(GCJ-02坐标)&lt;br&gt;
 凯立德K码: 8aifgresx&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/60.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.karlukle.site/2photos/60.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;而当我准备创作这张照片时，恰逢2022年9月12日——原照片摄像10年。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;While I was preparing for photoshopping, I accidentally found that it was just the 10th anniversary of shooting the original photo.&lt;/p&gt;
@@ -4962,18 +4962,18 @@ new ClipboardJS(&#39;#cpy&#39;, {
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/70.png&#34;&gt;&lt;/img&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.karlukle.site/2photos/70.png&#34;&gt;&lt;/img&gt;
 设备: VOG-AL10（华为自带短焦镜头）&lt;br&gt;
 焦距: 主体6mm(等效35mm胶片焦距)&lt;br&gt;
 拍摄位置:&lt;br&gt;
 经纬度: g121.58676624,38.87595195(GCJ-02坐标)&lt;br&gt;
 凯立德K码: 8fi6fny0x&lt;br&gt;
-&lt;img src=&#34;https://smileguide.github.io/2photos/80.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;img src=&#34;https://www.karlukle.site/2photos/80.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;看到如此巨大的月亮，经常拍摄夜景的你一定觉得不可思议。通常，在拍摄城市与月亮的合影时，月亮总是渺小得几乎是照片上的一个点。这自然是有原因的：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;It is almost incredible to see such a immense moon! Sure, but there are scientific reasons of the phenomena:&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/90.png&#34;&gt;&lt;/img&gt;（对照图中画幅为默认）&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.karlukle.site/2photos/90.png&#34;&gt;&lt;/img&gt;（对照图中画幅为默认）&lt;/p&gt;
 &lt;p&gt;在有参照物的情况下，参照物和对象的视角大小之比决定着对象的观感大小。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;In the case of a reference object, the ratio of the viewing angle of the reference object to the particular object determines the sensory size.&lt;/p&gt;
@@ -4990,17 +4990,17 @@ new ClipboardJS(&#39;#cpy&#39;, {
 &lt;blockquote&gt;
 &lt;p&gt;So how to increase the focal length?Increase the distance between the lens and the reference object as much as possible, and use a telephoto lens to ensure that the predetermined focal length is within the zoom range of the lens.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/100.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.karlukle.site/2photos/100.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;如上图（来源于网络），它的实际拍摄位置与画面中的教堂相距超过2km（如下图）&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;As above (from the network), its actual shooting spot is more than 2km away from the church(as is on the map below) .&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/110.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.karlukle.site/2photos/110.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;显然，手机内置摄像头的焦距是无法满足要求的 。对于我的情况，如果用手机自带的长焦镜头拍摄，效果可能是这样的↓&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Obviously, the focal length of the built-in camera of the cellphone cannot meet the requirements. For my case, if I use the telephoto lens of my phone, the effect may be like this ↓&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/120.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.karlukle.site/2photos/120.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;况且，由于6月5日月亮要等到凌晨2:20左右才会到达东方地平面上，要到达如图中的正南位置时，已经是次日9时；同时，我也没有能力找到一个星海广场以北遥远的拍摄地点。因此，我只能采用拍摄两张照片后合成的方式了。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Moreover, since the moon will not reach the eastern ground level until around 2:20 a.m. the next day on June 5, while it will be 9:00 the next day before it reaches the due south position as shown in the picture ,and, at the same time, I can&amp;rsquo;t find a shooting place far north of Xinghai Square. Therefore, I can only take two photos and then merge them.&lt;/p&gt;
@@ -5021,18 +5021,18 @@ new ClipboardJS(&#39;#cpy&#39;, {
 &lt;p&gt;20时，在星海广场，拍摄星海湾跨海大桥；&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;At 20:00, at Xinghai Square, shooting Xinghai Bay Bridge;&lt;br&gt;
-&lt;img src=&#34;https://smileguide.github.io/2photos/130.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;img src=&#34;https://www.karlukle.site/2photos/130.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;凌晨，在大连东港，用200mm长焦镜头拍摄从东方升起的月亮。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;In the early dawning, shooting the moon rose from the east with a 200mm telephoto lens in Donggang Business District, Dalian.&lt;br&gt;
-&lt;img src=&#34;https://smileguide.github.io/2photos/140.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;img src=&#34;https://www.karlukle.site/2photos/140.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;为了美观，改变月亮的朝向与夜空的颜色，加以裁剪，于是：&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;For the sake of beauty,I change the orientation of the moon and the color of the night sky, and cut them, so:&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/2photos/150.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.karlukle.site/2photos/150.png&#34;&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;↑星海湾大桥的炫目灯光映在海面上，上凸的梁体彰显工业的美感；&lt;br&gt;
 天幕中的弯月明亮夺目，胜过任何一个夜晚。&lt;/p&gt;
 &lt;blockquote&gt;
@@ -5053,18 +5053,18 @@ new ClipboardJS(&#39;#cpy&#39;, {
 &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/2-photos/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/blogs/2-photos/feature.jpg" />
     </item>
     
     <item>
       <title>旧照换新颜</title>
-      <link>https://smileguide.github.io/blogs/childhood-photography/</link>
+      <link>https://www.karlukle.site/blogs/childhood-photography/</link>
       <pubDate>Wed, 22 Feb 2023 14:58:34 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/blogs/childhood-photography/</guid>
+      <guid>https://www.karlukle.site/blogs/childhood-photography/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;h2 id=&#34;照片信息&#34;&gt;照片信息&lt;/h2&gt;
 &lt;p&gt;这张照片摄于2011年的沈阳市世博园附近。拍摄时间是UTC+8 5月1日14:15。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://smileguide.github.io/blogs/childhood-photography/childhood_ph.jpg&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.karlukle.site/blogs/childhood-photography/childhood_ph.jpg&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;关于这张照片的幻灯片&#34;&gt;关于这张照片的幻灯片🐶&lt;/h2&gt;
 &lt;h3 id=&#34;幻灯片下载&#34;&gt;幻灯片下载&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.123pan.com/s/eNTzVv-lohg3.html&#34;&gt;点击跳转到PPT下载页(提取码:di4u)&lt;/a&gt;&lt;/p&gt;
@@ -5076,15 +5076,15 @@ new ClipboardJS(&#39;#cpy&#39;, {
    &lt;a href=&#34;http://dd.myapp.com/sjy.00004/16891/apk/6A464096B40224BDC2EC6169D2550552.apk?fsname=com.microsoft.office.powerpoint_16.0.16026.20116_2004316291.apk&#34;&gt;安卓&lt;/a&gt;&lt;br/&gt;
 （Windows 已内置PowerPoint应用）&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/childhood-photography/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/blogs/childhood-photography/feature.jpg" />
     </item>
     
     <item>
       <title>Hello World🎉</title>
-      <link>https://smileguide.github.io/blogs/hello-world/</link>
+      <link>https://www.karlukle.site/blogs/hello-world/</link>
       <pubDate>Sun, 19 Feb 2023 09:06:11 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/blogs/hello-world/</guid>
+      <guid>https://www.karlukle.site/blogs/hello-world/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;h2 class=&#34;relative group&#34;&gt;我的第一个博客。 
     &lt;div id=&#34;我的第一个博客&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -5138,15 +5138,15 @@ new ClipboardJS(&#39;#cpy&#39;, {
     });
 &lt;/script&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/blogs/hello-world/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/blogs/hello-world/feature.jpg" />
     </item>
     
     <item>
       <title>说说</title>
-      <link>https://smileguide.github.io/shuoshuo/</link>
+      <link>https://www.karlukle.site/shuoshuo/</link>
       <pubDate>Mon, 13 Jun 2022 20:55:37 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/shuoshuo/</guid>
+      <guid>https://www.karlukle.site/shuoshuo/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;span style=&#34;display: inline-block;margin-left: 2.5%;&#34; align=&#34;left&#34;&gt;
 &lt;div class=&#34;article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md&#34; style=&#39;width:&#39; &gt;
   &lt;div class=&#34;p-6&#34;&gt;
@@ -5195,13 +5195,13 @@ aria-label=&#34;Slide 1&#34;&gt;&lt;/button&gt;&lt;/p&gt;
 &lt;div class=&#34;relative float-left -mr-[100%]  w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none&#34;
 data-te-carousel-item  data-te-carousel-active &gt;
 &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
-&lt;img src=&#34;https://smileguide.github.io/IMG_20240211_113424_13817760578581767787.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 0&#34;/&gt;
+&lt;img src=&#34;https://www.karlukle.site/IMG_20240211_113424_13817760578581767787.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 0&#34;/&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;div class=&#34;relative float-left -mr-[100%]  hidden  w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none&#34;
 data-te-carousel-item &gt;
 &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
-&lt;img src=&#34;https://smileguide.github.io/IMG_20240211_115539_10314602612029808839.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 1&#34;/&gt;
+&lt;img src=&#34;https://www.karlukle.site/IMG_20240211_115539_10314602612029808839.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 1&#34;/&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;

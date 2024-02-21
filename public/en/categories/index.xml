@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>U&#39;Marine Meteoroid</title>
-    <link>https://smileguide.github.io/en/categories/</link>
+    <link>https://www.karlukle.site/en/categories/</link>
     <description>We are all in the gutter, but some of us are looking at the stars.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Wed, 21 Feb 2024 11:18:40 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/en/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Feb 2024 16:24:16 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/en/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Others</title>
-      <link>https://smileguide.github.io/en/categories/others/</link>
+      <link>https://www.karlukle.site/en/categories/others/</link>
       <pubDate>Sun, 19 Feb 2023 09:06:11 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/categories/others/</guid>
+      <guid>https://www.karlukle.site/en/categories/others/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/></description>
       
     </item>

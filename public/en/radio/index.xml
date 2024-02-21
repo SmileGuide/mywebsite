@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>U&#39;Marine Meteoroid</title>
-    <link>https://smileguide.github.io/en/radio/</link>
+    <link>https://www.karlukle.site/en/radio/</link>
     <description>We are all in the gutter, but some of us are looking at the stars.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Wed, 21 Feb 2024 11:18:40 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/en/radio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Feb 2024 16:24:16 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/en/radio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Classical</title>
-      <link>https://smileguide.github.io/en/radio/classical/</link>
+      <link>https://www.karlukle.site/en/radio/classical/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/radio/classical/</guid>
+      <guid>https://www.karlukle.site/en/radio/classical/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
@@ -26,15 +26,15 @@
     
     
 &lt;/section&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/radio/classical/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/en/radio/classical/feature.jpg" />
     </item>
     
     <item>
       <title>New Age</title>
-      <link>https://smileguide.github.io/en/radio/newage/</link>
+      <link>https://www.karlukle.site/en/radio/newage/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/radio/newage/</guid>
+      <guid>https://www.karlukle.site/en/radio/newage/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
@@ -47,15 +47,15 @@
     
     
 &lt;/section&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/radio/newage/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/en/radio/newage/feature.jpg" />
     </item>
     
     <item>
       <title>PanPop</title>
-      <link>https://smileguide.github.io/en/radio/panpop/</link>
+      <link>https://www.karlukle.site/en/radio/panpop/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/radio/panpop/</guid>
+      <guid>https://www.karlukle.site/en/radio/panpop/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
@@ -68,15 +68,15 @@
     
     
 &lt;/section&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/radio/panpop/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/en/radio/panpop/feature.jpg" />
     </item>
     
     <item>
       <title>Rocks</title>
-      <link>https://smileguide.github.io/en/radio/rocks/</link>
+      <link>https://www.karlukle.site/en/radio/rocks/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/radio/rocks/</guid>
+      <guid>https://www.karlukle.site/en/radio/rocks/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
@@ -112,7 +112,7 @@
 
 
 
-  &lt;a class=&#34;flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://smileguide.github.io/en/player/&#34;&gt;
+  &lt;a class=&#34;flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://www.karlukle.site/en/player/&#34;&gt;
     
         
         &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom &#34; style=&#34;background-image:url(/en/player/feature_hu3d03a01dcc18bc5be0e67db3d8d209a6_2282854_600x0_resize_q75_box.jpg);&#34;&gt;&lt;/div&gt;
@@ -121,7 +121,7 @@
       &lt;div class=&#34;items-center text-left text-xl font-semibold&#34;&gt;
         
         &lt;div class=&#34;font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;
-          href=&#34;https://smileguide.github.io/en/player/&#34;&gt;About Music on This Site&lt;/div&gt;
+          href=&#34;https://www.karlukle.site/en/player/&#34;&gt;About Music on This Site&lt;/div&gt;
         
         
         
@@ -213,15 +213,15 @@
     
 &lt;/section&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/radio/rocks/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/en/radio/rocks/feature.jpg" />
     </item>
     
     <item>
       <title>Murmurs of Earth</title>
-      <link>https://smileguide.github.io/en/radio/murmurs/</link>
+      <link>https://www.karlukle.site/en/radio/murmurs/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/radio/murmurs/</guid>
+      <guid>https://www.karlukle.site/en/radio/murmurs/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
@@ -234,15 +234,15 @@
     
     
 &lt;/section&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/radio/murmurs/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/en/radio/murmurs/feature.jpg" />
     </item>
     
     <item>
       <title>Music Information (In Player ↙)</title>
-      <link>https://smileguide.github.io/en/radio/pick/</link>
+      <link>https://www.karlukle.site/en/radio/pick/</link>
       <pubDate>Fri, 26 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/radio/pick/</guid>
+      <guid>https://www.karlukle.site/en/radio/pick/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-md&#34; data-lang=&#34;md&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;1.&lt;/span&gt; 正解(混声三部合唱) Seikai – RADWIMPS
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;2.&lt;/span&gt; カイコ (蚕) Kaiko – RADWIMPS
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;3.&lt;/span&gt; シザースタンド (Scissor Stand) – RADWIMPS
@@ -254,7 +254,7 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;9.&lt;/span&gt; おくりびと ~memory~ – 久石譲
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;10.&lt;/span&gt; いつも何度でも – 久石让 / 木村弓
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://smileguide.github.io/en/radio/pick/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/en/radio/pick/feature.jpg" />
     </item>
     
   </channel>

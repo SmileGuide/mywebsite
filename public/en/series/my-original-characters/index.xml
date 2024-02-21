@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>U&#39;Marine Meteoroid</title>
-    <link>https://smileguide.github.io/en/series/my-original-characters/</link>
+    <link>https://www.karlukle.site/en/series/my-original-characters/</link>
     <description>We are all in the gutter, but some of us are looking at the stars.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Wed, 21 Feb 2024 11:18:40 +0800</lastBuildDate><atom:link href="https://smileguide.github.io/en/series/my-original-characters/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Feb 2024 16:24:16 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/en/series/my-original-characters/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Relationship</title>
-      <link>https://smileguide.github.io/en/docs/myoc/relationship/</link>
+      <link>https://www.karlukle.site/en/docs/myoc/relationship/</link>
       <pubDate>Mon, 05 Jun 2023 14:36:30 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/docs/myoc/relationship/</guid>
+      <guid>https://www.karlukle.site/en/docs/myoc/relationship/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;script type=&#34;module&#34;&gt;
   import mermaid from &#39;https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs&#39;;
 &lt;/script&gt;
@@ -157,10 +157,10 @@ timeline
     
     <item>
       <title>Characters</title>
-      <link>https://smileguide.github.io/en/docs/myoc/characters/</link>
+      <link>https://www.karlukle.site/en/docs/myoc/characters/</link>
       <pubDate>Tue, 06 Jun 2023 09:13:09 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/docs/myoc/characters/</guid>
+      <guid>https://www.karlukle.site/en/docs/myoc/characters/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;style&gt;
 /@font-face{ 
   font-family: &#34;NotoSerifJP&#34;;
@@ -376,10 +376,10 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     
     <item>
       <title>Conception Illustration</title>
-      <link>https://smileguide.github.io/en/docs/myoc/pedia/</link>
+      <link>https://www.karlukle.site/en/docs/myoc/pedia/</link>
       <pubDate>Tue, 06 Jun 2023 21:23:49 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/docs/myoc/pedia/</guid>
+      <guid>https://www.karlukle.site/en/docs/myoc/pedia/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;h2 class=&#34;relative group&#34;&gt;&lt;span id=&#34;earthlyworld&#34;&gt;Earthly World&lt;/span&gt; 
     &lt;div id=&#34;span-idearthlyworldearthly-worldspan&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -496,10 +496,10 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     
     <item>
       <title>Background Q&amp;A</title>
-      <link>https://smileguide.github.io/en/docs/myoc/questionaire/</link>
+      <link>https://www.karlukle.site/en/docs/myoc/questionaire/</link>
       <pubDate>Tue, 06 Jun 2023 23:00:25 +0800</pubDate>
       
-      <guid>https://smileguide.github.io/en/docs/myoc/questionaire/</guid>
+      <guid>https://www.karlukle.site/en/docs/myoc/questionaire/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;h2 class=&#34;relative group&#34;&gt;Why use the family name &amp;ldquo;Amano(天野)&amp;rdquo;? 
     &lt;div id=&#34;why-use-the-family-name-amano天野&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
