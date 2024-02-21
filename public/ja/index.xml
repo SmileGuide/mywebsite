@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Wed, 21 Feb 2024 16:34:55 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/ja/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Feb 2024 21:36:06 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/ja/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Classical</title>
       <link>https://www.karlukle.site/ja/radio/classical/</link>
@@ -45,13 +45,15 @@
 		color:#b5b5b5;
 	}
 &lt;/style&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;ソースコードのダウンロード:&lt;br/&gt; 
-    &lt;div id=&#34;ソースコードのダウンロードbr&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%b3%e3%83%bc%e3%83%89%e3%81%ae%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89br&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89br&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -90,13 +92,15 @@
       
       <guid>https://www.karlukle.site/ja/docs/vb/board/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;これは、空白のキャンバスや絵に描画できるツールで、教師が赤い手書きでマークを付けるための簡単な機能を提供します。&lt;/p&gt;
+
+
 &lt;h2 class=&#34;relative group&#34;&gt;入口 
-    &lt;div id=&#34;入口&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E5%85%A5%E5%8F%A3&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%85%a5%e5%8f%a3&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%85%A5%E5%8F%A3&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -108,13 +112,15 @@
 		color:#b5b5b5;
 	}
 &lt;/style&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;ソースコードのダウンロード：br/&amp;gt; 
-    &lt;div id=&#34;ソースコードのダウンロードbr&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%b3%e3%83%bc%e3%83%89%e3%81%ae%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89br&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89br&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -161,13 +167,15 @@
 		color:#b5b5b5;
 	}
 &lt;/style&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;ソースコードのダウンロード：&lt;br/&gt; 
-    &lt;div id=&#34;ソースコードのダウンロードbr&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%b3%e3%83%bc%e3%83%89%e3%81%ae%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89br&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89br&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -337,13 +345,15 @@
 		color:#b5b5b5;
 	}
 &lt;/style&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;ソースコードのダウンロード:&lt;br/&gt; 
-    &lt;div id=&#34;ソースコードのダウンロードbr&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%b3%e3%83%bc%e3%83%89%e3%81%ae%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89br&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89br&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -382,13 +392,15 @@
       
       <guid>https://www.karlukle.site/ja/docs/vb/31infsystem/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;荘河第三一中学校の2019年度クラスの生徒情報を照会できるデータ管理システムで、ワイルドカード検索やクリップボード認識による自動検索などの機能を備えています。 この作業を組織の情報管理システムに組み込むこともできます。&lt;/p&gt;
+
+
 &lt;h2 class=&#34;relative group&#34;&gt;入口 
-    &lt;div id=&#34;入口&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E5%85%A5%E5%8F%A3&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%85%a5%e5%8f%a3&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%85%A5%E5%8F%A3&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -400,13 +412,15 @@
 		color:#b5b5b5;
 	}
 &lt;/style&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;ソースコードのダウンロード:&lt;br/&gt; 
-    &lt;div id=&#34;ソースコードのダウンロードbr&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e3%82%bd%e3%83%bc%e3%82%b9%e3%82%b3%e3%83%bc%e3%83%89%e3%81%ae%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89br&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E3%82%BD%E3%83%BC%E3%82%B9%E3%82%B3%E3%83%BC%E3%83%89%E3%81%AE%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89br&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -432,13 +446,15 @@
 		color:#b5b5b5;
 	}
 &lt;/style&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;クリックしてダウンロード：&lt;br/&gt; 
-    &lt;div id=&#34;クリックしてダウンロードbr&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%97%E3%81%A6%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89br&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e3%82%af%e3%83%aa%e3%83%83%e3%82%af%e3%81%97%e3%81%a6%e3%83%80%e3%82%a6%e3%83%b3%e3%83%ad%e3%83%bc%e3%83%89br&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E3%82%AF%E3%83%AA%E3%83%83%E3%82%AF%E3%81%97%E3%81%A6%E3%83%80%E3%82%A6%E3%83%B3%E3%83%AD%E3%83%BC%E3%83%89br&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -890,24 +906,28 @@
 
 &lt;/p&gt;
 &lt;hr&gt;
+
+
 &lt;h2 class=&#34;relative group&#34;&gt;友好リンクについて 
-    &lt;div id=&#34;友好リンクについて&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E5%8F%8B%E5%A5%BD%E3%83%AA%E3%83%B3%E3%82%AF%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%8f%8b%e5%a5%bd%e3%83%aa%e3%83%b3%e3%82%af%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%8F%8B%E5%A5%BD%E3%83%AA%E3%83%B3%E3%82%AF%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
 &lt;p&gt;Internet 是一张大网，而友情链接是一根蛛丝，把本站和广大博客群落连接起来。通过友情链接，你可以发现更多个人网站。&lt;/p&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;友好リンクの申請方法は？ 
-    &lt;div id=&#34;友好リンクの申請方法は&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E5%8F%8B%E5%A5%BD%E3%83%AA%E3%83%B3%E3%82%AF%E3%81%AE%E7%94%B3%E8%AB%8B%E6%96%B9%E6%B3%95%E3%81%AF&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%8f%8b%e5%a5%bd%e3%83%aa%e3%83%b3%e3%82%af%e3%81%ae%e7%94%b3%e8%ab%8b%e6%96%b9%e6%b3%95%e3%81%af&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%8F%8B%E5%A5%BD%E3%83%AA%E3%83%B3%E3%82%AF%E3%81%AE%E7%94%B3%E8%AB%8B%E6%96%B9%E6%B3%95%E3%81%AF&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -919,13 +939,15 @@
 &lt;li&gt;以下のコメント欄にメッセージをどうぞ（&lt;strong&gt;お勧めしません&lt;/strong&gt;）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;従って、あなたのサイトにも友好リンクがある場合は、&lt;strong&gt;このサイトを入れてください&lt;/strong&gt;。&lt;/p&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;必須情報 
-    &lt;div id=&#34;必須情報&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E5%BF%85%E9%A0%88%E6%83%85%E5%A0%B1&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%bf%85%e9%a0%88%e6%83%85%e5%a0%b1&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%BF%85%E9%A0%88%E6%83%85%E5%A0%B1&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -983,13 +1005,15 @@
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;当サイト情報 
-    &lt;div id=&#34;当サイト情報&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E5%BD%93%E3%82%B5%E3%82%A4%E3%83%88%E6%83%85%E5%A0%B1&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%bd%93%e3%82%b5%e3%82%a4%e3%83%88%e6%83%85%e5%a0%b1&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%BD%93%E3%82%B5%E3%82%A4%E3%83%88%E6%83%85%E5%A0%B1&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -1065,13 +1089,15 @@
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;このウェブサイトの音楽システムは、&lt;a href=&#34;#%e3%83%9b%e3%83%90%e3%83%bc%e3%83%97%e3%83%ac%e3%82%a4%e3%83%a4%e3%83%bc&#34;  &gt;
     ホバー・プレイヤー&lt;/a&gt; と &lt;a href=&#34;#%e9%9f%b3%e6%a5%bd%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3&#34;  &gt;
     音楽ステーション&lt;/a&gt;の2つの部分に分かれています。&lt;/p&gt;
+
+
 &lt;h2 class=&#34;relative group&#34;&gt;ホバー・プレイヤー 
-    &lt;div id=&#34;ホバープレイヤー&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E3%83%9B%E3%83%90%E3%83%BC%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e3%83%9b%e3%83%90%e3%83%bc%e3%83%97%e3%83%ac%e3%82%a4%e3%83%a4%e3%83%bc&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E3%83%9B%E3%83%90%E3%83%BC%E3%83%97%E3%83%AC%E3%82%A4%E3%83%A4%E3%83%BC&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -1124,13 +1150,15 @@
     &gt;Apple はバックグラウンドでの自動再生とバックエンドキャッシュを許可していないため、ホバー・プレーヤの &lt;strong&gt;ページをまたいだ連続再生&lt;/strong&gt;機能は Safari デバイスでは&lt;strong&gt;無効&lt;/strong&gt;です。&lt;/span&gt;
 &lt;/div&gt;
 
+
+
 &lt;h2 class=&#34;relative group&#34;&gt;音楽ステーション 
-    &lt;div id=&#34;音楽ステーション&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E9%9F%B3%E6%A5%BD%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e9%9f%b3%e6%a5%bd%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E9%9F%B3%E6%A5%BD%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -1299,13 +1327,15 @@
       <guid>https://www.karlukle.site/ja/blogs/gothic-stake/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;これは私が作った短い詩です。中国語で殇（シャン）は未成年者の死、または戦争による死を意味します。&lt;br&gt;
 &lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;中国語の原文と日本語での主な意味は以下の通りです。 
-    &lt;div id=&#34;中国語の原文と日本語での主な意味は以下の通りです&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E4%B8%AD%E5%9B%BD%E8%AA%9E%E3%81%AE%E5%8E%9F%E6%96%87%E3%81%A8%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%A7%E3%81%AE%E4%B8%BB%E3%81%AA%E6%84%8F%E5%91%B3%E3%81%AF%E4%BB%A5%E4%B8%8B%E3%81%AE%E9%80%9A%E3%82%8A%E3%81%A7%E3%81%99&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%ae%e5%8e%9f%e6%96%87%e3%81%a8%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%81%a7%e3%81%ae%e4%b8%bb%e3%81%aa%e6%84%8f%e5%91%b3%e3%81%af%e4%bb%a5%e4%b8%8b%e3%81%ae%e9%80%9a%e3%82%8a%e3%81%a7%e3%81%99&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E4%B8%AD%E5%9B%BD%E8%AA%9E%E3%81%AE%E5%8E%9F%E6%96%87%E3%81%A8%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%A7%E3%81%AE%E4%B8%BB%E3%81%AA%E6%84%8F%E5%91%B3%E3%81%AF%E4%BB%A5%E4%B8%8B%E3%81%AE%E9%80%9A%E3%82%8A%E3%81%A7%E3%81%99&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -1469,13 +1499,15 @@
       
       <guid>https://www.karlukle.site/ja/blogs/memoriam/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;中国語の原文と日本語での主な意味は以下の通りです。 
-    &lt;div id=&#34;中国語の原文と日本語での主な意味は以下の通りです&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E4%B8%AD%E5%9B%BD%E8%AA%9E%E3%81%AE%E5%8E%9F%E6%96%87%E3%81%A8%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%A7%E3%81%AE%E4%B8%BB%E3%81%AA%E6%84%8F%E5%91%B3%E3%81%AF%E4%BB%A5%E4%B8%8B%E3%81%AE%E9%80%9A%E3%82%8A%E3%81%A7%E3%81%99&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e4%b8%ad%e5%9b%bd%e8%aa%9e%e3%81%ae%e5%8e%9f%e6%96%87%e3%81%a8%e6%97%a5%e6%9c%ac%e8%aa%9e%e3%81%a7%e3%81%ae%e4%b8%bb%e3%81%aa%e6%84%8f%e5%91%b3%e3%81%af%e4%bb%a5%e4%b8%8b%e3%81%ae%e9%80%9a%e3%82%8a%e3%81%a7%e3%81%99&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E4%B8%AD%E5%9B%BD%E8%AA%9E%E3%81%AE%E5%8E%9F%E6%96%87%E3%81%A8%E6%97%A5%E6%9C%AC%E8%AA%9E%E3%81%A7%E3%81%AE%E4%B8%BB%E3%81%AA%E6%84%8F%E5%91%B3%E3%81%AF%E4%BB%A5%E4%B8%8B%E3%81%AE%E9%80%9A%E3%82%8A%E3%81%A7%E3%81%99&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -1566,13 +1598,15 @@
       <pubDate>Sun, 19 Feb 2023 09:06:11 +0800</pubDate>
       
       <guid>https://www.karlukle.site/ja/blogs/hello-world/</guid>
-      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;h2 class=&#34;relative group&#34;&gt;こんにちは。これは僕の最初のブログです。 
-    &lt;div id=&#34;こんにちはこれは僕の最初のブログです&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>
+
+&lt;h2 class=&#34;relative group&#34;&gt;こんにちは。これは僕の最初のブログです。 
+    &lt;div id=&#34;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%81%93%E3%82%8C%E3%81%AF%E5%83%95%E3%81%AE%E6%9C%80%E5%88%9D%E3%81%AE%E3%83%96%E3%83%AD%E3%82%B0%E3%81%A7%E3%81%99&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e3%81%93%e3%82%93%e3%81%ab%e3%81%a1%e3%81%af%e3%81%93%e3%82%8c%e3%81%af%e5%83%95%e3%81%ae%e6%9c%80%e5%88%9d%e3%81%ae%e3%83%96%e3%83%ad%e3%82%b0%e3%81%a7%e3%81%99&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%81%93%E3%82%8C%E3%81%AF%E5%83%95%E3%81%AE%E6%9C%80%E5%88%9D%E3%81%AE%E3%83%96%E3%83%AD%E3%82%B0%E3%81%A7%E3%81%99&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -1591,13 +1625,15 @@
       }).go();
     });
 &lt;/script&gt;
+
+
 &lt;h2 class=&#34;relative group&#34;&gt;このサイトはどのように作られていますか? 
-    &lt;div id=&#34;このサイトはどのように作られていますか&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E3%81%93%E3%81%AE%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AF%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8B&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e3%81%93%e3%81%ae%e3%82%b5%e3%82%a4%e3%83%88%e3%81%af%e3%81%a9%e3%81%ae%e3%82%88%e3%81%86%e3%81%ab%e4%bd%9c%e3%82%89%e3%82%8c%e3%81%a6%e3%81%84%e3%81%be%e3%81%99%e3%81%8b&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E3%81%93%E3%81%AE%E3%82%B5%E3%82%A4%E3%83%88%E3%81%AF%E3%81%A9%E3%81%AE%E3%82%88%E3%81%86%E3%81%AB%E4%BD%9C%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%99%E3%81%8B&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -1607,13 +1643,15 @@
 &lt;li&gt;GitHub Pages&lt;/li&gt;
 &lt;li&gt;Hugo&lt;/li&gt;
 &lt;/ul&gt;
+
+
 &lt;h2 class=&#34;relative group&#34;&gt;銀の龍の背に乗って——中島みゆき（テストテキスト） 
-    &lt;div id=&#34;銀の龍の背に乗って中島みゆきテストテキスト&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E9%8A%80%E3%81%AE%E9%BE%8D%E3%81%AE%E8%83%8C%E3%81%AB%E4%B9%97%E3%81%A3%E3%81%A6%E4%B8%AD%E5%B3%B6%E3%81%BF%E3%82%86%E3%81%8D%E3%83%86%E3%82%B9%E3%83%88%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e9%8a%80%e3%81%ae%e9%be%8d%e3%81%ae%e8%83%8c%e3%81%ab%e4%b9%97%e3%81%a3%e3%81%a6%e4%b8%ad%e5%b3%b6%e3%81%bf%e3%82%86%e3%81%8d%e3%83%86%e3%82%b9%e3%83%88%e3%83%86%e3%82%ad%e3%82%b9%e3%83%88&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E9%8A%80%E3%81%AE%E9%BE%8D%E3%81%AE%E8%83%8C%E3%81%AB%E4%B9%97%E3%81%A3%E3%81%A6%E4%B8%AD%E5%B3%B6%E3%81%BF%E3%82%86%E3%81%8D%E3%83%86%E3%82%B9%E3%83%88%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88&#34; aria-label=&#34;アンカー&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;

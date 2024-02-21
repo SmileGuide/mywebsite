@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Wed, 21 Feb 2024 16:34:54 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Feb 2024 21:36:05 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于本站的部署</title>
       <link>https://www.karlukle.site/blogs/site-publish/</link>
@@ -628,16 +628,20 @@
   这里在技术上梳理了本站的建造流程及一些功能的实现方法。
 &lt;/div&gt;
 
+
+
 &lt;h2 class=&#34;relative group&#34;&gt;前端框架 
-    &lt;div id=&#34;前端框架&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%89%8d%e7%ab%af%e6%a1%86%e6%9e%b6&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;Hugo 
     &lt;div id=&#34;hugo&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -655,6 +659,8 @@ Blowfish 是&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&gt;
     Nuno Coração&lt;/a&gt; 建设维护的，文档为英文。
 &lt;a href=&#34;https://blowfish.page/docs/&#34;   target=&#34;_blank&#34;&gt;
     Blowfish 文档&lt;/a&gt; 内详细说明了 Hugo 和主题的使用方法，这里不再赘述。&lt;/p&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;GitHub Pages 
     &lt;div id=&#34;github-pages&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -703,6 +709,8 @@ Blowfish 是&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&gt;
     GitHub&lt;/a&gt;  上添加本地SSH密钥。&lt;/p&gt;
 &lt;p&gt;在&lt;a href=&#34;https://github.com/&#34;   target=&#34;_blank&#34;&gt;
     GitHub&lt;/a&gt;上建立一个名为 &lt;code&gt;&amp;lt;账号&amp;gt;.github.io&lt;/code&gt; 的公有 Repo 作为网页文件的容器，再建立一个名称随意的私有 Repo 作为网站 Hugo 源文件的容器。把本地用 Hugo 写好的文件提交到私有 Repo 中，然后用 GitHub Actions 把私有 Repo 链接到公有 Repo 。&lt;/p&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;GitHub Actions 
     &lt;div id=&#34;github-actions&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -756,6 +764,8 @@ Blowfish 是&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&gt;
 &lt;p&gt;配置你的网站主页，写写帖子，接着 &lt;code&gt;push&lt;/code&gt; 一下本地仓库。&lt;/p&gt;
 &lt;p&gt;提交代码之后，GitHub Actions 会根据源码，用 Hugo 自动生成网页，并发布到公有 Repo ，这又会触发 GitHub Pages 的 Action。&lt;/p&gt;
 &lt;p&gt;现在便完成了 GitHub Pages 的自动发布配置。此后，你只要持续提交源码到私有 Repo，网站就会自动发布。&lt;/p&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;Vercel 
     &lt;div id=&#34;vercel&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -769,18 +779,22 @@ Blowfish 是&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&gt;
 &lt;p&gt;鉴于部署平台 Vercel 性能优于 GitHub Pages，2月15日起本站所有页面均部署于 Vercel，弃用GitHub Pages。&lt;br&gt;
 然而，使用 Vercel 的前提是你拥有一个域名，然后给 Vercel 工程设置自定义域名，因为 Vercel 提供的子域名被GFW进行了DNS污染。&lt;br&gt;
 &amp;ndash;更新于2024/2/18&amp;ndash;&lt;/p&gt;
+
+
 &lt;h2 class=&#34;relative group&#34;&gt;评论系统和浏览量统计 
-    &lt;div id=&#34;评论系统和浏览量统计&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E5%92%8C%E6%B5%8F%E8%A7%88%E9%87%8F%E7%BB%9F%E8%AE%A1&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e8%af%84%e8%ae%ba%e7%b3%bb%e7%bb%9f%e5%92%8c%e6%b5%8f%e8%a7%88%e9%87%8f%e7%bb%9f%e8%ae%a1&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E5%92%8C%E6%B5%8F%E8%A7%88%E9%87%8F%E7%BB%9F%E8%AE%A1&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
 &lt;p&gt;本站采用带后端的评论系统 &lt;a href=&#34;https://waline.js.org/&#34;   target=&#34;_blank&#34;&gt;
     Waline&lt;/a&gt; ，但完全免费。&lt;/p&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;LeanCloud 
     &lt;div id=&#34;leancloud&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -793,24 +807,28 @@ Blowfish 是&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&gt;
 &lt;/h3&gt;
 &lt;p&gt;在配置 Waline 前，你需要配置 LeanCloud 数据库。&lt;/p&gt;
 &lt;p&gt;注册 LeanCloud 国际版账号，创建开发版应用，名称随意。这将是你网站的评论数据库。&lt;/p&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;服务端配置 
-    &lt;div id=&#34;服务端配置&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E6%9C%8D%E5%8A%A1%E7%AB%AF%E9%85%8D%E7%BD%AE&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e6%9c%8d%e5%8a%a1%e7%ab%af%e9%85%8d%e7%bd%ae&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E6%9C%8D%E5%8A%A1%E7%AB%AF%E9%85%8D%E7%BD%AE&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
 &lt;p&gt;本网站先是使用免费的部署平台 Deta（没有被墙且速度较快），在注册域名后使用免费的 Vercel 部署评论前端。你也可以使用别的平台，Waline 官网有介绍。&lt;/p&gt;
+
+
 &lt;h4 class=&#34;relative group&#34;&gt;后端 
-    &lt;div id=&#34;后端&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E5%90%8E%E7%AB%AF&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%90%8e%e7%ab%af&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%90%8E%E7%AB%AF&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h4&gt;
@@ -819,13 +837,15 @@ Blowfish 是&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&gt;
 &lt;p&gt;安装完成后可在 &lt;a href=&#34;https://deta.space/&#34;   target=&#34;_blank&#34;&gt;
     工作区&lt;/a&gt; 看到应用。点击应用左上角的小圆圈，进入 &lt;code&gt;Settings - Configuration&lt;/code&gt; 修改环境变量，把&lt;code&gt;LEAN_ID、lEAN_KEY&lt;/code&gt;和&lt;code&gt;LEAN_MASTER_KEY&lt;/code&gt;设置为LeanCloud &lt;code&gt;设置 - 应用凭证&lt;/code&gt;中的&lt;code&gt;AppID&lt;/code&gt;、&lt;code&gt;AppKey&lt;/code&gt;和&lt;code&gt;MasterKey&lt;/code&gt;。&lt;/p&gt;
 &lt;p&gt;现在便完成了评论后端的基本配置。&lt;/p&gt;
+
+
 &lt;h4 class=&#34;relative group&#34;&gt;前端 
-    &lt;div id=&#34;前端&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E5%89%8D%E7%AB%AF&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%89%8d%e7%ab%af&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%89%8D%E7%AB%AF&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h4&gt;
@@ -938,37 +958,43 @@ Blowfish 是&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;&amp;lt;/&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;script&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{ else }}  
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{ end }}
-&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 class=&#34;relative group&#34;&gt;悬浮播放器 
-    &lt;div id=&#34;悬浮播放器&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;h2 class=&#34;relative group&#34;&gt;悬浮播放器 
+    &lt;div id=&#34;%E6%82%AC%E6%B5%AE%E6%92%AD%E6%94%BE%E5%99%A8&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e6%82%ac%e6%b5%ae%e6%92%ad%e6%94%be%e5%99%a8&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E6%82%AC%E6%B5%AE%E6%92%AD%E6%94%BE%E5%99%A8&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
 &lt;p&gt;本网站的悬浮播放器可以跨网页播放，配置方法如下。&lt;/p&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;后端 
-    &lt;div id=&#34;后端-1&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E5%90%8E%E7%AB%AF-1&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%90%8e%e7%ab%af-1&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%90%8E%E7%AB%AF-1&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
 &lt;p&gt;本站播放器的原方案是：在LeanCloud &lt;code&gt;数据存储 - 文件&lt;/code&gt; 中上传音频文件、专辑封面文件。歌词文件放在&lt;code&gt;static&lt;/code&gt;文件夹下，以便直接引用。&lt;/p&gt;
 &lt;p&gt;然而，这种部署方式仅运行两天就出现欠费的情况，于是改用直链工具：&lt;a href=&#34;https://up.ly93.cc/&#34;   target=&#34;_blank&#34;&gt;
     涟漪文件直链&lt;/a&gt;。&lt;/p&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;前端 
-    &lt;div id=&#34;前端-1&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E5%89%8D%E7%AB%AF-1&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%89%8d%e7%ab%af-1&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%89%8D%E7%AB%AF-1&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -1069,13 +1095,15 @@ Blowfish 是&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;}&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;],&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;悬浮播放器的原理是：在退出网页时，如果音频处于播放状态，则在缓存中存储进度，新网页打开时，检查是否有缓存，若有则恢复播放。这个功能在苹果设备中不受支持。&lt;/p&gt;
+
+
 &lt;h2 class=&#34;relative group&#34;&gt;说说 
-    &lt;div id=&#34;说说&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E8%AF%B4%E8%AF%B4&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e8%af%b4%e8%af%b4&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E8%AF%B4%E8%AF%B4&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -1163,13 +1191,15 @@ document.getElementById(&#39;github-4d14627a6284367469b3e1753ed15067-forks&#39;)
   &lt;/script&gt;
 &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&amp;ndash;更新于2024/2/12&amp;ndash;&lt;/p&gt;
+
+
 &lt;h2 class=&#34;relative group&#34;&gt;看板娘 
-    &lt;div id=&#34;看板娘&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E7%9C%8B%E6%9D%BF%E5%A8%98&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e7%9c%8b%e6%9d%bf%e5%a8%98&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E7%9C%8B%E6%9D%BF%E5%A8%98&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -1255,13 +1285,15 @@ document.getElementById(&#39;github-5243defe6dc593e5b718e5d34ac2b2d0-forks&#39;)
   &lt;/script&gt;
 &lt;/a&gt;&lt;br&gt;
 具体来说，该插件有两部分需要配置。&lt;/p&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;页面引用 
-    &lt;div id=&#34;页面引用&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E9%A1%B5%E9%9D%A2%E5%BC%95%E7%94%A8&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e9%a1%b5%e9%9d%a2%e5%bc%95%e7%94%a8&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E9%A1%B5%E9%9D%A2%E5%BC%95%E7%94%A8&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -1276,6 +1308,8 @@ document.getElementById(&#39;github-5243defe6dc593e5b718e5d34ac2b2d0-forks&#39;)
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{ if .Site.Params.footer.showMenu | default true }}
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    {{ if .Site.Menus.footer }}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;请仔细阅读项目的README文件以了解如何自定义（如修改气泡提示文本、CSS等），这里不赘述。&lt;/p&gt;
+
+
 &lt;h3 class=&#34;relative group&#34;&gt;API 
     &lt;div id=&#34;api&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -1391,13 +1425,15 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
 另外，本站的自建API地址是 &lt;a href=&#34;https://live2dapi.karlukle.site&#34;   target=&#34;_blank&#34;&gt;
     live2dapi.karlukle.site&lt;/a&gt;，如果不想自建API，欢迎你来使用。&lt;br&gt;
 &amp;ndash;更新于2024/2/18&amp;ndash;&lt;/p&gt;
+
+
 &lt;h2 class=&#34;relative group&#34;&gt;对 Blowfish 主题的贡献 
-    &lt;div id=&#34;对-blowfish-主题的贡献&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E5%AF%B9-blowfish-%E4%B8%BB%E9%A2%98%E7%9A%84%E8%B4%A1%E7%8C%AE&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
         &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%e5%af%b9-blowfish-%e4%b8%bb%e9%a2%98%e7%9a%84%e8%b4%a1%e7%8c%ae&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%AF%B9-blowfish-%E4%B8%BB%E9%A2%98%E7%9A%84%E8%B4%A1%E7%8C%AE&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;

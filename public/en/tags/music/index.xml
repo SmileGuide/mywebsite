@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Wed, 21 Feb 2024 16:34:55 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/en/tags/music/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 21 Feb 2024 21:36:06 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/en/tags/music/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Music on This Site</title>
       <link>https://www.karlukle.site/en/player/</link>
@@ -17,6 +17,8 @@
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;p&gt;The music system of this website is divided into two parts: &lt;a href=&#34;#hover-player&#34;  &gt;
     Hover Player&lt;/a&gt; and &lt;a href=&#34;#music-station&#34;  &gt;
     Music Station&lt;/a&gt;.&lt;/p&gt;
+
+
 &lt;h2 class=&#34;relative group&#34;&gt;Hover Player 
     &lt;div id=&#34;hover-player&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
@@ -75,6 +77,8 @@
       class=&#34;dark:text-neutral-300&#34;
     &gt;Since Apple does not allow background autoplay and backend cache, the hover player&amp;rsquo;s &lt;strong&gt;Continuous Play Across Pages&lt;/strong&gt; feature is &lt;strong&gt;invalid&lt;/strong&gt; in Safari.&lt;/span&gt;
 &lt;/div&gt;
+
+
 
 &lt;h2 class=&#34;relative group&#34;&gt;Music Station 
     &lt;div id=&#34;music-station&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
