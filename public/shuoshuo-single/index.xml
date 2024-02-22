@@ -7,7 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Wed, 21 Feb 2024 21:52:13 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/shuoshuo-single/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Feb 2024 23:47:05 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/shuoshuo-single/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://www.karlukle.site/shuoshuo-single/blowfish-fix-bug/</link>
+      <pubDate>Thu, 22 Feb 2024 23:31:09 +0800</pubDate>
+      
+      <guid>https://www.karlukle.site/shuoshuo-single/blowfish-fix-bug/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;span style=&#34;display: inline-block;margin-left: 2.5%;&#34; align=&#34;left&#34;&gt;
+&lt;div class=&#34;article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md&#34; style=&#39;width:&#39; &gt;
+  &lt;div class=&#34;p-6&#34;&gt;
+&lt;h1  class=&#34;font-semibold&#34;&gt;对Blowfish主题的新贡献&lt;/h1&gt;
+&lt;div class=&#34;dark:text-neutral overflow-auto&#34; style=&#34;height: auto; word-wrap:break-word; word-break:break-all; overflow: hidden;&#34;&gt;
+  &lt;img src=&#34;https://www.karlukle.site/shuoshuo-single/截图_选择区域_20240222233400.png&#34; /&gt;  
+&lt;/div&gt;
+&lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+  &lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+&lt;time&gt;2024年2月22日&lt;/time&gt;
+&lt;p&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;·&lt;/span&gt;
+&lt;span&gt;22:25&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;·&lt;/span&gt;
+&lt;span&gt;查看PR &lt;a href=&#34;https://github.com/nunocoracao/blowfish/pull/1254&#34;   target=&#34;_blank&#34;&gt;
+#1254&lt;/a&gt;&lt;/p&gt;
+  &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
+    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; aria-hidden=&#34;true&#34; x=&#34;0px&#34; y=&#34;0px&#34; viewBox=&#34;0 0 100 100&#34; width=&#34;15&#34; height=&#34;15&#34; class=&#34;icon outbound&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z&#34;&gt;&lt;/path&gt; &lt;polygon fill=&#34;currentColor&#34; points=&#34;45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9&#34;&gt;&lt;/polygon&gt;&lt;/svg&gt;
+  &lt;/span&gt;&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;br/&gt;
+&lt;/span&gt;
+</description>
+      
+    </item>
+    
     <item>
       <title></title>
       <link>https://www.karlukle.site/shuoshuo-single/add-kanban/</link>

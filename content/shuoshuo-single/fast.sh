@@ -22,7 +22,7 @@ date: "${timestamp}"
 ---  
 {{% memo title=标题 date=日期 time=时间 1=附加项1 %}}
 
-这里写正文，支持Markdown和短代码
+这里写正文，支持Markdown和短代码![](/shuoshuo-single/x.png)
 
 <!--{{< carousel images="图片链接1,图片链接2" >}}-->
 {{% /memo %}}
@@ -33,7 +33,7 @@ cd ..
 sed -i "12c {{\\% include \"/shuoshuo-single/${full_md_filename}\" \\%}}" _index.md  
 cd shuoshuo/
 # 写入
-sed -i "13a {{\\% include \"/shuoshuo-single/${full_md_filename}\" \\%}}" index.md  
+sed -i "12a {{\\% include \"/shuoshuo-single/${full_md_filename}\" \\%}}" index.md  
 
 
 fi

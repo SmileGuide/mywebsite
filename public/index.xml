@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Wed, 21 Feb 2024 21:52:13 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Feb 2024 23:47:05 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>古典乐 Classical</title>
       <link>https://www.karlukle.site/radio/classical/</link>
@@ -1577,6 +1577,40 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
     </item>
     
     <item>
+      <title></title>
+      <link>https://www.karlukle.site/shuoshuo-single/blowfish-fix-bug/</link>
+      <pubDate>Thu, 22 Feb 2024 23:31:09 +0800</pubDate>
+      
+      <guid>https://www.karlukle.site/shuoshuo-single/blowfish-fix-bug/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;span style=&#34;display: inline-block;margin-left: 2.5%;&#34; align=&#34;left&#34;&gt;
+&lt;div class=&#34;article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md&#34; style=&#39;width:&#39; &gt;
+  &lt;div class=&#34;p-6&#34;&gt;
+&lt;h1  class=&#34;font-semibold&#34;&gt;对Blowfish主题的新贡献&lt;/h1&gt;
+&lt;div class=&#34;dark:text-neutral overflow-auto&#34; style=&#34;height: auto; word-wrap:break-word; word-break:break-all; overflow: hidden;&#34;&gt;
+  &lt;img src=&#34;https://www.karlukle.site/shuoshuo-single/截图_选择区域_20240222233400.png&#34; /&gt;  
+&lt;/div&gt;
+&lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+  &lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+&lt;time&gt;2024年2月22日&lt;/time&gt;
+&lt;p&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;·&lt;/span&gt;
+&lt;span&gt;22:25&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;·&lt;/span&gt;
+&lt;span&gt;查看PR &lt;a href=&#34;https://github.com/nunocoracao/blowfish/pull/1254&#34;   target=&#34;_blank&#34;&gt;
+#1254&lt;/a&gt;&lt;/p&gt;
+  &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
+    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; aria-hidden=&#34;true&#34; x=&#34;0px&#34; y=&#34;0px&#34; viewBox=&#34;0 0 100 100&#34; width=&#34;15&#34; height=&#34;15&#34; class=&#34;icon outbound&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z&#34;&gt;&lt;/path&gt; &lt;polygon fill=&#34;currentColor&#34; points=&#34;45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9&#34;&gt;&lt;/polygon&gt;&lt;/svg&gt;
+  &lt;/span&gt;&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;br/&gt;
+&lt;/span&gt;
+</description>
+      
+    </item>
+    
+    <item>
       <title>关于本站的部署</title>
       <link>https://www.karlukle.site/blogs/site-publish/</link>
       <pubDate>Tue, 20 Feb 2024 13:42:42 +0800</pubDate>
@@ -2249,7 +2283,9 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
     
       class=&#34;dark:text-neutral-300&#34;
     &gt;本站主要域名 &lt;a href=&#34;https://karlukle.site&#34;   target=&#34;_blank&#34;&gt;
-    karlukle.site&lt;/a&gt; 已备案完成，2024/2/19日起使用该域名作为唯一网址，原 smileguide.github.io 和 i.karlukle.site 停止解析。&lt;/span&gt;
+    karlukle.site&lt;/a&gt; 已备案完成，2024/2/19起使用该域名作为唯一网址，原 &lt;a href=&#34;https://smileguide.github.io&#34;   target=&#34;_blank&#34;&gt;
+    smileguide.github.io&lt;/a&gt; 和 &lt;a href=&#34;https://i.karlukle.site&#34;   target=&#34;_blank&#34;&gt;
+    i.karlukle.site&lt;/a&gt; 停止解析。&lt;/span&gt;
 &lt;/div&gt;
 
 &lt;br/&gt;&lt;/p&gt;
@@ -2694,7 +2730,7 @@ document.getElementById(&#39;github-07dec849e5e9ea5a1cbc04ae72555331-forks&#39;)
 &lt;div&gt;
 	&lt;hr/&gt;
 	&lt;div class=&#34;flex author&#34;&gt;
-		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;https://gitee.com/smileguide/mywebsite/raw/main/content/friends/minus-k.webp&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
+		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;minus-k.webp&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
 		&lt;div class=&#34;place-self-center&#34; onclick=&#39;window.open(&amp;#34;https://bkryofu.xyz/&amp;#34;)&#39;&gt;
 			&lt;div class=&#34;font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral-300&#34;&gt;
 				冻符「Minus-K」
@@ -2869,13 +2905,48 @@ document.getElementById(&#39;github-07dec849e5e9ea5a1cbc04ae72555331-forks&#39;)
 &lt;div&gt;
 	&lt;hr/&gt;
 	&lt;div class=&#34;flex author&#34;&gt;
-		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;https://gitee.com/smileguide/mywebsite/raw/main/content/friends/chunjianghuayueye.png&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
+		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;chunjianghuayueye.png&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
 		&lt;div class=&#34;place-self-center&#34; onclick=&#39;window.open(&amp;#34;https://todreamr.github.io/&amp;#34;)&#39;&gt;
 			&lt;div class=&#34;font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral-300&#34;&gt;
 				春江花朝秋月夜
 			&lt;/div&gt;
 			&lt;div class=&#34;text-[0.8rem] leading-3 text-neutral-500 dark:text-neutral-400&#34;&gt;
 				春江潮水连海平，海上明月共潮生
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;style&gt;
+	.place-self-center{
+		cursor:pointer;
+	}
+
+	.author:hover img{
+ transition: 0.9s !important;
+ -webkit-transition: 0.9s !important;
+ -moz-transition: 0.9s !important;
+ -o-transition: 0.9s !important;
+ -ms-transition: 0.9s !important;
+ transform: rotate(360deg) !important;
+ -webkit-transform: rotate(360deg) !important;
+ -moz-transform: rotate(360deg) !important;
+ -o-transform: rotate(360deg) !important;
+ -ms-transform: rotate(360deg) !important;
+}
+&lt;/style&gt;
+ 
+&lt;div&gt;
+	&lt;hr/&gt;
+	&lt;div class=&#34;flex author&#34;&gt;
+		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;mare.png&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
+		&lt;div class=&#34;place-self-center&#34; onclick=&#39;window.open(&amp;#34;https://lab.imgb.space/&amp;#34;)&#39;&gt;
+			&lt;div class=&#34;font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral-300&#34;&gt;
+				草方块
+			&lt;/div&gt;
+			&lt;div class=&#34;text-[0.8rem] leading-3 text-neutral-500 dark:text-neutral-400&#34;&gt;
+				77569号奇点观察员的观察日志
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -3009,13 +3080,13 @@ document.getElementById(&#39;github-07dec849e5e9ea5a1cbc04ae72555331-forks&#39;)
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;link &lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://karlukle.site&#34;   target=&#34;_blank&#34;&gt;
-    https://karlukle.site&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://karlukle.site/&#34;   target=&#34;_blank&#34;&gt;
+    https://karlukle.site/&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;avatar&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://gitee.com/smileguide/mywebsite/raw/main/static/avatar.png&#34;   target=&#34;_blank&#34;&gt;
-    https://gitee.com/smileguide/mywebsite/raw/main/static/avatar.png&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://karlukle.site/avatar.png&#34;   target=&#34;_blank&#34;&gt;
+    https://karlukle.site/avatar.png&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;description&lt;/code&gt;&lt;/td&gt;
@@ -3037,15 +3108,15 @@ document.getElementById(&#39;github-07dec849e5e9ea5a1cbc04ae72555331-forks&#39;)
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;link&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://karlukle.site&#34;   target=&#34;_blank&#34;&gt;
-    https://karlukle.site&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://karlukle.site/en&#34;   target=&#34;_blank&#34;&gt;
-    https://karlukle.site/en&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://karlukle.site/ja&#34;   target=&#34;_blank&#34;&gt;
-    https://karlukle.site/ja&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://karlukle.site/&#34;   target=&#34;_blank&#34;&gt;
+    https://karlukle.site/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://karlukle.site/en/&#34;   target=&#34;_blank&#34;&gt;
+    https://karlukle.site/en/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://karlukle.site/ja/&#34;   target=&#34;_blank&#34;&gt;
+    https://karlukle.site/ja/&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;avatar&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://gitee.com/smileguide/mywebsite/raw/main/static/avatar.png&#34;   target=&#34;_blank&#34;&gt;
-    https://gitee.com/smileguide/mywebsite/raw/main/static/avatar.png&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://karlukle.site/avatar.png&#34;   target=&#34;_blank&#34;&gt;
+    https://karlukle.site/avatar.png&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;description&lt;/code&gt;&lt;/td&gt;
@@ -5306,6 +5377,30 @@ new ClipboardJS(&#39;#cpy&#39;, {
       
       <guid>https://www.karlukle.site/shuoshuo/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;span style=&#34;display: inline-block;margin-left: 2.5%;&#34; align=&#34;left&#34;&gt;
+&lt;div class=&#34;article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md&#34; style=&#39;width:&#39; &gt;
+  &lt;div class=&#34;p-6&#34;&gt;
+&lt;h1  class=&#34;font-semibold&#34;&gt;对Blowfish主题的新贡献&lt;/h1&gt;
+&lt;div class=&#34;dark:text-neutral overflow-auto&#34; style=&#34;height: auto; word-wrap:break-word; word-break:break-all; overflow: hidden;&#34;&gt;
+  &lt;img src=&#34;https://www.karlukle.site/shuoshuo-single/截图_选择区域_20240222233400.png&#34; /&gt;  
+&lt;/div&gt;
+&lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+  &lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+&lt;time&gt;2024年2月22日&lt;/time&gt;
+&lt;p&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;·&lt;/span&gt;
+&lt;span&gt;22:25&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;·&lt;/span&gt;
+&lt;span&gt;查看PR &lt;a href=&#34;https://github.com/nunocoracao/blowfish/pull/1254&#34;   target=&#34;_blank&#34;&gt;
+#1254&lt;/a&gt;&lt;/p&gt;
+  &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
+    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; aria-hidden=&#34;true&#34; x=&#34;0px&#34; y=&#34;0px&#34; viewBox=&#34;0 0 100 100&#34; width=&#34;15&#34; height=&#34;15&#34; class=&#34;icon outbound&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z&#34;&gt;&lt;/path&gt; &lt;polygon fill=&#34;currentColor&#34; points=&#34;45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9&#34;&gt;&lt;/polygon&gt;&lt;/svg&gt;
+  &lt;/span&gt;&lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;br/&gt;
+&lt;/span&gt;
+&lt;span style=&#34;display: inline-block;margin-left: 2.5%;&#34; align=&#34;left&#34;&gt;
 &lt;div class=&#34;article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md&#34; style=&#39;width:&#39; &gt;
   &lt;div class=&#34;p-6&#34;&gt;
 &lt;h1  class=&#34;font-semibold&#34;&gt;更新&lt;/h1&gt;

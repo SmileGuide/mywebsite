@@ -9,4 +9,3 @@ date: 2022-06-13T20:55:37+08:00
 有空也搞搞 [创作✍🏻](/tags/文学/)  
 <br/>
 <span id="notice">{{% include "/notice.md" %}}</span>
-{{% include "/shuoshuo-single/add-kanban.md" %}}

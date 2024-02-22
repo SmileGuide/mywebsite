@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Wed, 21 Feb 2024 21:52:13 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/ja/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Feb 2024 23:47:05 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/ja/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Classical</title>
       <link>https://www.karlukle.site/ja/radio/classical/</link>
@@ -542,7 +542,7 @@
 &lt;div&gt;
 	&lt;hr/&gt;
 	&lt;div class=&#34;flex author&#34;&gt;
-		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;https://bu.dusays.com/2023/12/23/65867c3357bb6.jpg&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
+		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;kegongteng.jpeg&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
 		&lt;div class=&#34;place-self-center&#34; onclick=&#39;window.open(&amp;#34;https://kegongteng.cn/&amp;#34;)&#39;&gt;
 			&lt;div class=&#34;font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral-300&#34;&gt;
 				Kegongteng
@@ -717,7 +717,7 @@
 &lt;div&gt;
 	&lt;hr/&gt;
 	&lt;div class=&#34;flex author&#34;&gt;
-		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;https://bkryofu.xyz/resources/avatar.webp&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
+		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;minus-k.webp&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
 		&lt;div class=&#34;place-self-center&#34; onclick=&#39;window.open(&amp;#34;https://bkryofu.xyz/&amp;#34;)&#39;&gt;
 			&lt;div class=&#34;font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral-300&#34;&gt;
 				冻符「Minus-K」
@@ -892,13 +892,48 @@
 &lt;div&gt;
 	&lt;hr/&gt;
 	&lt;div class=&#34;flex author&#34;&gt;
-		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;https://cdn.jsdelivr.net/gh/Todreamr/img-cloud/img/202402072106574.png&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
+		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;chunjianghuayueye.png&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
 		&lt;div class=&#34;place-self-center&#34; onclick=&#39;window.open(&amp;#34;https://todreamr.github.io/&amp;#34;)&#39;&gt;
 			&lt;div class=&#34;font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral-300&#34;&gt;
 				春川花朝秋月夜
 			&lt;/div&gt;
 			&lt;div class=&#34;text-[0.8rem] leading-3 text-neutral-500 dark:text-neutral-400&#34;&gt;
 				川の春の潮が海面とつながり、明るい月が海面に一斉に昇ります。
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;br&gt;
+&lt;style&gt;
+	.place-self-center{
+		cursor:pointer;
+	}
+
+	.author:hover img{
+ transition: 0.9s !important;
+ -webkit-transition: 0.9s !important;
+ -moz-transition: 0.9s !important;
+ -o-transition: 0.9s !important;
+ -ms-transition: 0.9s !important;
+ transform: rotate(360deg) !important;
+ -webkit-transform: rotate(360deg) !important;
+ -moz-transform: rotate(360deg) !important;
+ -o-transform: rotate(360deg) !important;
+ -ms-transform: rotate(360deg) !important;
+}
+&lt;/style&gt;
+ 
+&lt;div&gt;
+	&lt;hr/&gt;
+	&lt;div class=&#34;flex author&#34;&gt;
+		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;mare.png&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
+		&lt;div class=&#34;place-self-center&#34; onclick=&#39;window.open(&amp;#34;https://lab.imgb.space/&amp;#34;)&#39;&gt;
+			&lt;div class=&#34;font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral-300&#34;&gt;
+				Mare_Infinitus
+			&lt;/div&gt;
+			&lt;div class=&#34;text-[0.8rem] leading-3 text-neutral-500 dark:text-neutral-400&#34;&gt;
+				オブザーバー77569の特異点観測日誌
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;

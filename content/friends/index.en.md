@@ -29,7 +29,7 @@ We are all in the gutter, but some of us are looking at the stars.
 </div>
 
 {{< friend name="Pinpe's Cloud" link="https://pinpe.top" avatar="https://i0.hdslb.com/bfs/face/a2bb7859939871165f438ab2f96d72b8343dae41.jpg" description="My own cloud" >}}
-{{< friend name="Kegongteng" link="https://kegongteng.cn/" avatar="https://bu.dusays.com/2023/12/23/65867c3357bb6.jpg" description="Blogger / Technophile / Student" >}}
+{{< friend name="Kegongteng" link="https://kegongteng.cn/" avatar="kegongteng.jpeg" description="Blogger / Technophile / Student" >}}
 {{< friend name="yuublog" link="https://potteto11.github.io/home/about/index.html" avatar="https://potteto11.github.io/home/yuublog_files/IMG_2852.jpeg" description="High school student blogger. Struggling everyday to achieve the fastest results in the age of 2025!" >}}
 {{< friend name="Heo" link="https://blog.zhheo.com/" avatar="https://bu.dusays.com/2022/12/28/63ac2812183aa.png" description="Sharing Design and Technology for Life" >}}
 {{< friend name="Ice and Fire" link="https://blog.marice.top/link/" avatar="https://bu.dusays.com/2023/11/29/6567122d3f4a6.jpg" description="Ice-cold faith forges fiery ambitions" >}}
@@ -39,8 +39,8 @@ We are all in the gutter, but some of us are looking at the stars.
 {{< friend name="Star Field" link="https://byer.top/" avatar="https://bu.dusays.com/2023/10/01/6519291503349.jpg" description="I'm young with passion of youth" >}}
 {{< friend name="Anzhiyu" link="https://blog.anheyu.com/" avatar="https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg" description="Life is bright, everything is lovely" >}}
 {{< friend name="Mr Byte" link="https://blog.lvbyte.top/" avatar="https://npm.elemecdn.com/lvbyte-cdn/20230104/%E8%8B%B9%E6%9E%9C.156l7bksen40.jpg" description="Love is boundless, life has its limits" >}}
-{{< friend name="Rainy-Heights" link="https://todreamr.github.io/" avatar="https://cdn.jsdelivr.net/gh/Todreamr/img-cloud/img/202402072106574.png" description="In spring the river rises as high as the sea, and with the river’s tide uprises the moon bright." >}}
-
+{{< friend name="Rainy-Heights" link="https://todreamr.github.io/" avatar="chunjianghuayueye.png" description="In spring the river rises as high as the sea, and with the river’s tide uprises the moon bright." >}}
+{{< friend name=Mare_Infinitus link=https://lab.imgb.space/ avatar=mare.png description="Observer #77569's log of Singularity" >}}
 
 ----
 <br/><br/><br/>

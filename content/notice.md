@@ -9,6 +9,6 @@ cardView: true
 showPagination: false
 ---
 {{< alert >}}
-本站主要域名 [karlukle.site](https://karlukle.site) 已备案完成，2024/2/19日起使用该域名作为唯一网址，原 smileguide.github.io 和 i.karlukle.site 停止解析。
+本站主要域名 [karlukle.site](https://karlukle.site) 已备案完成，2024/2/19起使用该域名作为唯一网址，原 [smileguide.github.io](https://smileguide.github.io) 和 [i.karlukle.site](https://i.karlukle.site) 停止解析。
 {{< /alert >}}
 <br/>
