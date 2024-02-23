@@ -65,7 +65,7 @@
 
 [[main]]
  name = "Travelling"
- pageRef = "/go-by-clouds"
+ pageRef = "/go"
  weight = 50
 
 #[[main]]
@@ -120,3 +120,4 @@
   name = "Series"
   pageRef = "series"
   weight = 20
+

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Fri, 23 Feb 2024 17:22:22 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Feb 2024 17:38:49 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>古典乐 Classical</title>
       <link>https://www.karlukle.site/radio/classical/</link>
@@ -5377,7 +5377,10 @@ new ClipboardJS(&#39;#cpy&#39;, {
       
       <guid>https://www.karlukle.site/go/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;script&gt;
-window.location.href=&#34;https://www.karlukle.site/travelling/go-by-clouds.html&#34;
+	var referrerURL = document.referrer;
+	if (referrerURL.includes(&#34;karlukle.site&#34;)) {
+		window.location.href=&#34;https://www.travellings.cn/go-by-clouds.html&#34;;
+	}
 &lt;/script&gt;
 </description>
       

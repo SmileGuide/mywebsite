@@ -64,7 +64,7 @@
 
 [[main]]
  name = "旅立ち"
- pageRef = "/go-by-clouds"
+ pageRef = "/go"
  weight = 50
 
 #[[main]]

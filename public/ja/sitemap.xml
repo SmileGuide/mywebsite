@@ -465,6 +465,27 @@
     />
   </url>
   <url>
+    <loc>https://www.karlukle.site/ja/go/</loc>
+    <lastmod>2022-06-13T20:55:37+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="https://www.karlukle.site/go/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://www.karlukle.site/en/go/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://www.karlukle.site/ja/go/"
+    />
+  </url>
+  <url>
     <loc>https://www.karlukle.site/ja/</loc>
     <lastmod>2022-06-13T20:55:37+08:00</lastmod>
     <changefreq>daily</changefreq>

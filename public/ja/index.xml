@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Fri, 23 Feb 2024 17:22:22 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/ja/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Feb 2024 17:38:49 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/ja/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Classical</title>
       <link>https://www.karlukle.site/ja/radio/classical/</link>
@@ -1734,6 +1734,22 @@
 &lt;p&gt;&lt;ruby&gt;銀&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ぎん&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;龍&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;りゅう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;背&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;せ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;に&lt;ruby&gt;乗&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;の&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;って&lt;/p&gt;
 </description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/ja/blogs/hello-world/feature.jpg" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.karlukle.site/ja/go/</link>
+      <pubDate>Mon, 13 Jun 2022 20:55:37 +0800</pubDate>
+      
+      <guid>https://www.karlukle.site/ja/go/</guid>
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;script&gt;
+	var referrerURL = document.referrer;
+	if (referrerURL.includes(&#34;karlukle.site&#34;)) {
+		window.location.href=&#34;https://www.travellings.cn/go-by-clouds.html&#34;;
+	}
+&lt;/script&gt;
+</description>
+      
     </item>
     
   </channel>
