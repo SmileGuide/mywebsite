@@ -62,6 +62,10 @@
  pageRef = "/docs"
  weight = 40
 
+[[main]]
+ name = "旅立ち"
+ pageRef = "/go-by-clouds"
+ weight = 50
 
 #[[main]]
 #  name = "Parent"

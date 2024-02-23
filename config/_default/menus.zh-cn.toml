@@ -74,6 +74,10 @@
  pageRef = "/docs"
  weight = 50
 
+ [[main]]
+ name = "开往"
+ pageRef = "/go"
+ weight = 60
 
 #[[main]]
 #  name = "Parent"
