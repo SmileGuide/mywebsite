@@ -1,5 +1,4 @@
 ---
-title: 开往...
 showAuthor: false
 showDate: false
 showZenMode: false
