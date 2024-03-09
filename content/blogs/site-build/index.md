@@ -19,7 +19,7 @@ keywords:
 ## 前端框架
 ### Hugo
 本站前端采用静态网站生成器 [Hugo](https://gohugo.io/) 制作，所用主题为 [Blowfish](https://blowfish.page/)。
-Blowfish 是[Nuno Coração](https://n9o.xyz/) 建设维护的，文档为英文。
+Blowfish 是由葡萄牙的[Nuno Coração](https://n9o.xyz/) 建设维护的，文档为英文。
 [Blowfish 文档](https://blowfish.page/docs/) 内详细说明了 Hugo 和主题的使用方法，这里不再赘述。
 ### GitHub Pages
 本站前端部署在 [GitHub Pages](https://pages.github.com/) 上。
@@ -417,7 +417,7 @@ $(element).wrap("<a href='{{i18n "pathAppendix"}}/radio/pick/'></a>");
     });}
 ````
 至此，你在博客页面上看到看板娘了。  
-另外，本站的自建API地址是 [live2dapi.karlukle.site](https://live2dapi.karlukle.site)，如果不想自建API，欢迎你来使用。  
+另外，本站的自建API地址是 [live2d.api.karlukle.site](https://live2d.api.karlukle.site)，如果不想自建API，也欢迎你来使用。  
 --更新于2024/2/18--  
 
 ## 对 Blowfish 主题的贡献  

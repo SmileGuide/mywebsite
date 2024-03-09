@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Sat, 09 Mar 2024 15:50:52 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Mar 2024 16:08:10 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于本站的部署</title>
       <link>https://www.karlukle.site/blogs/site-publish/</link>
@@ -655,7 +655,7 @@
 &lt;p&gt;本站前端采用静态网站生成器 &lt;a href=&#34;https://gohugo.io/&#34;   target=&#34;_blank&#34;&gt;
     Hugo&lt;/a&gt; 制作，所用主题为 &lt;a href=&#34;https://blowfish.page/&#34;   target=&#34;_blank&#34;&gt;
     Blowfish&lt;/a&gt;。
-Blowfish 是&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&gt;
+Blowfish 是由葡萄牙的&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&gt;
     Nuno Coração&lt;/a&gt; 建设维护的，文档为英文。
 &lt;a href=&#34;https://blowfish.page/docs/&#34;   target=&#34;_blank&#34;&gt;
     Blowfish 文档&lt;/a&gt; 内详细说明了 Hugo 和主题的使用方法，这里不再赘述。&lt;/p&gt;
@@ -1422,8 +1422,8 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        });
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    });}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;至此，你在博客页面上看到看板娘了。&lt;br&gt;
-另外，本站的自建API地址是 &lt;a href=&#34;https://live2dapi.karlukle.site&#34;   target=&#34;_blank&#34;&gt;
-    live2dapi.karlukle.site&lt;/a&gt;，如果不想自建API，欢迎你来使用。&lt;br&gt;
+另外，本站的自建API地址是 &lt;a href=&#34;https://live2d.api.karlukle.site&#34;   target=&#34;_blank&#34;&gt;
+    live2d.api.karlukle.site&lt;/a&gt;，如果不想自建API，也欢迎你来使用。&lt;br&gt;
 &amp;ndash;更新于2024/2/18&amp;ndash;&lt;/p&gt;
 
 
