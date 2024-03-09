@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Sat, 09 Mar 2024 16:08:10 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 09 Mar 2024 16:51:55 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>古典乐 Classical</title>
       <link>https://www.karlukle.site/radio/classical/</link>
@@ -1582,8 +1582,8 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
       <pubDate>Thu, 22 Feb 2024 23:31:09 +0800</pubDate>
       
       <guid>https://www.karlukle.site/shuoshuo-single/blowfish-fix-bug/</guid>
-      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;span style=&#34;display: inline-block;margin-left: 2.5%;&#34; align=&#34;left&#34;&gt;
-&lt;div class=&#34;article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md&#34; style=&#39;width:&#39; &gt;
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;span style=&#34;display: inline-block;margin-left: 2.5%;&#34; align=&#34;left&#34; id=&#34;%E5%AF%B9blowfish%E4%B8%BB%E9%A2%98%E7%9A%84%E6%96%B0%E8%B4%A1%E7%8C%AE&#34; &gt;
+&lt;div class=&#34;article border border-neutral-200 dark:border-neutral-700 border-1 rounded-md backdrop-blur-2xl shadow-2xl&#34; style=&#39;width:&#39; &gt;
   &lt;div class=&#34;p-6&#34;&gt;
 &lt;h1  class=&#34;font-semibold&#34;&gt;对Blowfish主题的新贡献&lt;/h1&gt;
 &lt;div class=&#34;dark:text-neutral overflow-auto&#34; style=&#34;height: auto; word-wrap:break-word; word-break:break-all; overflow: hidden;&#34;&gt;
@@ -2226,8 +2226,8 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
       <pubDate>Thu, 15 Feb 2024 22:01:04 +0800</pubDate>
       
       <guid>https://www.karlukle.site/shuoshuo-single/add-kanban/</guid>
-      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;span style=&#34;display: inline-block;margin-left: 2.5%;&#34; align=&#34;left&#34;&gt;
-&lt;div class=&#34;article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md&#34; style=&#39;width:&#39; &gt;
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;span style=&#34;display: inline-block;margin-left: 2.5%;&#34; align=&#34;left&#34; id=&#34;%E6%9B%B4%E6%96%B0&#34; &gt;
+&lt;div class=&#34;article border border-neutral-200 dark:border-neutral-700 border-1 rounded-md backdrop-blur-2xl shadow-2xl&#34; style=&#39;width:&#39; &gt;
   &lt;div class=&#34;p-6&#34;&gt;
 &lt;h1  class=&#34;font-semibold&#34;&gt;更新&lt;/h1&gt;
 &lt;div class=&#34;dark:text-neutral overflow-auto&#34; style=&#34;height: auto; word-wrap:break-word; word-break:break-all; overflow: hidden;&#34;&gt;
@@ -2308,8 +2308,8 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
    
    
 
-&lt;span style=&#34;display: inline-block;margin-left: 2.5%;&#34; align=&#34;left&#34;&gt;
-&lt;div class=&#34;article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md&#34; style=&#39;width:&#39; &gt;
+&lt;span style=&#34;display: inline-block;margin-left: 2.5%;&#34; align=&#34;left&#34; id=&#34;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF&#34; &gt;
+&lt;div class=&#34;article border border-neutral-200 dark:border-neutral-700 border-1 rounded-md backdrop-blur-2xl shadow-2xl&#34; style=&#39;width:&#39; &gt;
   &lt;div class=&#34;p-6&#34;&gt;
 
 &lt;h1  class=&#34;font-semibold&#34;&gt;こんにちは🌞&lt;/h1&gt;
@@ -2424,7 +2424,7 @@ document.getElementById(&#39;github-07dec849e5e9ea5a1cbc04ae72555331-forks&#39;)
   })
   .catch(error =&gt; console.error(error))
   &lt;/script&gt;
-&lt;/a&gt;
+&lt;/a&gt;  
 
 &lt;/div&gt;
 &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
@@ -5392,8 +5392,8 @@ new ClipboardJS(&#39;#cpy&#39;, {
       <pubDate>Mon, 13 Jun 2022 20:55:37 +0800</pubDate>
       
       <guid>https://www.karlukle.site/shuoshuo/</guid>
-      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;span style=&#34;display: inline-block;margin-left: 2.5%;&#34; align=&#34;left&#34;&gt;
-&lt;div class=&#34;article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md&#34; style=&#39;width:&#39; &gt;
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;span style=&#34;display: inline-block;margin-left: 2.5%;&#34; align=&#34;left&#34; id=&#34;%E5%AF%B9blowfish%E4%B8%BB%E9%A2%98%E7%9A%84%E6%96%B0%E8%B4%A1%E7%8C%AE&#34; &gt;
+&lt;div class=&#34;article border border-neutral-200 dark:border-neutral-700 border-1 rounded-md backdrop-blur-2xl shadow-2xl&#34; style=&#39;width:&#39; &gt;
   &lt;div class=&#34;p-6&#34;&gt;
 &lt;h1  class=&#34;font-semibold&#34;&gt;对Blowfish主题的新贡献&lt;/h1&gt;
 &lt;div class=&#34;dark:text-neutral overflow-auto&#34; style=&#34;height: auto; word-wrap:break-word; word-break:break-all; overflow: hidden;&#34;&gt;
@@ -5416,8 +5416,8 @@ new ClipboardJS(&#39;#cpy&#39;, {
 &lt;/div&gt;
 &lt;br/&gt;
 &lt;/span&gt;
-&lt;span style=&#34;display: inline-block;margin-left: 2.5%;&#34; align=&#34;left&#34;&gt;
-&lt;div class=&#34;article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md&#34; style=&#39;width:&#39; &gt;
+&lt;span style=&#34;display: inline-block;margin-left: 2.5%;&#34; align=&#34;left&#34; id=&#34;%E6%9B%B4%E6%96%B0&#34; &gt;
+&lt;div class=&#34;article border border-neutral-200 dark:border-neutral-700 border-1 rounded-md backdrop-blur-2xl shadow-2xl&#34; style=&#39;width:&#39; &gt;
   &lt;div class=&#34;p-6&#34;&gt;
 &lt;h1  class=&#34;font-semibold&#34;&gt;更新&lt;/h1&gt;
 &lt;div class=&#34;dark:text-neutral overflow-auto&#34; style=&#34;height: auto; word-wrap:break-word; word-break:break-all; overflow: hidden;&#34;&gt;
@@ -5443,8 +5443,8 @@ new ClipboardJS(&#39;#cpy&#39;, {
    
    
 
-&lt;span style=&#34;display: inline-block;margin-left: 2.5%;&#34; align=&#34;left&#34;&gt;
-&lt;div class=&#34;article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md&#34; style=&#39;width:&#39; &gt;
+&lt;span style=&#34;display: inline-block;margin-left: 2.5%;&#34; align=&#34;left&#34; id=&#34;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF&#34; &gt;
+&lt;div class=&#34;article border border-neutral-200 dark:border-neutral-700 border-1 rounded-md backdrop-blur-2xl shadow-2xl&#34; style=&#39;width:&#39; &gt;
   &lt;div class=&#34;p-6&#34;&gt;
 
 &lt;h1  class=&#34;font-semibold&#34;&gt;こんにちは🌞&lt;/h1&gt;
@@ -5559,7 +5559,7 @@ document.getElementById(&#39;github-07dec849e5e9ea5a1cbc04ae72555331-forks&#39;)
   })
   .catch(error =&gt; console.error(error))
   &lt;/script&gt;
-&lt;/a&gt;
+&lt;/a&gt;  
 
 &lt;/div&gt;
 &lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;

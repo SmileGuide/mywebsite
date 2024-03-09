@@ -10,6 +10,6 @@ date: 2024-02-11T22:43:00+08:00
 说说功能通过自定义主题的 `shortcode` 实现，有即时性。  
 想知道说说功能是如何实现的？翻一翻本站的源代码吧。
 
-{{< github repo="SmileGuide/mywebsite" >}}
-
+{{< github repo="SmileGuide/mywebsite" >}}  
+  
 {{< /memo >}}
