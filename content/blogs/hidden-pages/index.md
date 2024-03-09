@@ -27,3 +27,5 @@ isCJKLanguage: true
 
 旧域名到新域名的跳转页面（已投稿为[“开往”的跳转页面](https://www.travellings.cn/docs/pages#go-by-clouds-%E4%B9%98%E4%BA%91%E8%80%8C%E5%8E%BB) ）  
 -  [smileguide.github.io](https://smileguide.github.io) --> [travellings.cn/go-by-clouds.html](https://www.travellings.cn/go-by-clouds.html)  
+
+--终--
