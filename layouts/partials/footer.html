@@ -42,7 +42,7 @@ $(document).snowfall({image:"/snowflake.png", flakeCount:90, minSpeed:1, minSize
   {{ end }}
 
 
-{{ if eq .IsHome true }}  
+{{ if eq .IsHome true }}
 <div class="flex items-center justify-between">
   <p class="text-sm text-neutral-500 dark:text-neutral-400">
   {{i18n "footer.visitors"}}
@@ -77,6 +77,10 @@ observer.observe(article, options);
 </script>
 {{ if eq $.Language.Lang "zh-cn" }}
 <p class="text-sm text-neutral-500 dark:text-neutral-400">
+  
+<a  href="https://www.travellings.cn/go-by-clouds.html"  class="hover:text-primary-500" >
+  🚇
+</a>
 <a href="https://beian.miit.gov.cn/" class="hover:text-primary-500 beian" target="_blank" >辽ICP备2024021519号-1</a>
 </p>
 {{ end }}
