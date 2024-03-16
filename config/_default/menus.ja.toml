@@ -64,7 +64,7 @@
 
 [[main]]
  name = "旅立ち"
- pageRef = "/go"
+ url = "https://www.travellings.cn/go-by-clouds.html"
  weight = 50
 
 #[[main]]
