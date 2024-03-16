@@ -49,7 +49,7 @@ git push -u github main
 如果你没有域名，慎用 Vercel，因为 Vercel 被GFW污染，不用自己的域名做解析就无法访问部署好的网站。   
 
 建立仓库、push的过程与 GitHub Pages 相同，但仓库不用必须公开，仓库名自定义。  
-访问 [Verccel网站](https://vercel.com/)，用 GitHub 登录。![](截图_选择区域_20240220142422.png)  
+访问 [Vercel网站](https://vercel.com/)，用 GitHub 登录。![](截图_选择区域_20240220142422.png)  
 
 {{< timeline >}}
 
