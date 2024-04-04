@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Sat, 16 Mar 2024 17:30:04 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/shuoshuo-single/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Apr 2024 14:05:51 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/shuoshuo-single/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>https://www.karlukle.site/shuoshuo-single/blowfish-fix-bug/</link>
@@ -92,60 +92,11 @@
 &lt;h1  class=&#34;font-semibold&#34;&gt;こんにちは🌞&lt;/h1&gt;
 
 &lt;div class=&#34;dark:text-neutral overflow-auto&#34; style=&#34;height: auto; word-wrap:break-word; word-break:break-all; overflow: hidden;&#34;&gt;
-  &lt;div id=&#34;carousel-901e03c7728ff01d3e2089fbcf9f6102&#34; class=&#34;relative&#34; data-te-carousel-init data-te-ride=&#34;carousel&#34;&gt;
-&lt;div class=&#34;absolute right-0 bottom-0 left-0 z-[2] mx-[15%] mb-10 flex list-none justify-center p-0&#34;
-data-te-carousel-indicators&gt;
-&lt;p&gt;&lt;button type=&#34;button&#34; data-te-target=&#34;#carousel-901e03c7728ff01d3e2089fbcf9f6102&#34; data-te-slide-to=&#34;0&#34;  data-te-carousel-active aria-current=&#34;true&#34;  
-class=&#34;mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none&#34;
-aria-label=&#34;Slide 0&#34;&gt;&lt;/button&gt;&lt;/p&gt;
-&lt;p&gt;&lt;button type=&#34;button&#34; data-te-target=&#34;#carousel-901e03c7728ff01d3e2089fbcf9f6102&#34; data-te-slide-to=&#34;1&#34;  
-class=&#34;mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none&#34;
-aria-label=&#34;Slide 1&#34;&gt;&lt;/button&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class=&#34;relative w-full overflow-hidden after:clear-both after:block after:content-[&#39;&#39;]&#34;&gt;
-&lt;div class=&#34;relative float-left -mr-[100%]  w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none&#34;
-data-te-carousel-item  data-te-carousel-active &gt;
-&lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
-&lt;img src=&#34;https://www.karlukle.site/IMG_20240211_113424_13817760578581767787.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 0&#34;/&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;relative float-left -mr-[100%]  hidden  w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none&#34;
-data-te-carousel-item &gt;
-&lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
-&lt;img src=&#34;https://www.karlukle.site/IMG_20240211_115539_10314602612029808839.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 1&#34;/&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;button
-class=&#34;absolute top-0 bottom-0 left-0 z-[2] flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center text-white opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:text-white hover:no-underline hover:opacity-90 hover:outline-none focus:text-white focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none&#34;
-type=&#34;button&#34; data-te-target=&#34;#carousel-901e03c7728ff01d3e2089fbcf9f6102&#34; data-te-slide=&#34;prev&#34;&gt;
-&lt;span class=&#34;inline-block h-8 w-8&#34;&gt;
-&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;4.5&#34;
-stroke=&#34;currentColor&#34; class=&#34;h-6 w-6&#34;&gt;
-&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M15.75 19.5L8.25 12l7.5-7.5&#34; /&gt;
-&lt;/svg&gt;
-&lt;/span&gt;
-&lt;span
-class=&#34;!absolute !-m-px !h-px !w-px !overflow-hidden !whitespace-nowrap !border-0 !p-0 ![clip:rect(0,0,0,0)]&#34;&gt;Previous&lt;/span&gt;
-&lt;/button&gt;
-&lt;button
-class=&#34;absolute top-0 bottom-0 right-0 z-[1] flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center text-white opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:text-white hover:no-underline hover:opacity-90 hover:outline-none focus:text-white focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none&#34;
-type=&#34;button&#34; data-te-target=&#34;#carousel-901e03c7728ff01d3e2089fbcf9f6102&#34; data-te-slide=&#34;next&#34;&gt;
-&lt;span class=&#34;inline-block h-8 w-8&#34;&gt;
-&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;4.5&#34;
-stroke=&#34;currentColor&#34; class=&#34;h-6 w-6&#34;&gt;
-&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M8.25 4.5l7.5 7.5-7.5 7.5&#34; /&gt;
-&lt;/svg&gt;
-&lt;/span&gt;
-&lt;span
-class=&#34;!absolute !-m-px !h-px !w-px !overflow-hidden !whitespace-nowrap !border-0 !p-0 ![clip:rect(0,0,0,0)]&#34;&gt;Nextsads&lt;/span&gt;
-&lt;/button&gt;
-&lt;/div&gt;   
-&lt;p&gt;这是我的第一条说说。&lt;br&gt;
+  &lt;p&gt;这是我的第一条说说。&lt;br&gt;
 在本站中，说说是与文章的全然不同的结构，因为它将多项图文平铺在一页上。&lt;br&gt;
 说说功能通过自定义主题的 &lt;code&gt;shortcode&lt;/code&gt; 实现，有即时性。&lt;br&gt;
 想知道说说功能是如何实现的？翻一翻本站的源代码吧。&lt;/p&gt;
-&lt;a id=&#34;github-07dec849e5e9ea5a1cbc04ae72555331&#34; target=&#34;_blank&#34; href=&#34;https://github.com/SmileGuide/mywebsite&#34; class=&#34;cursor-pointer&#34;&gt;
+&lt;a id=&#34;github-901e03c7728ff01d3e2089fbcf9f6102&#34; target=&#34;_blank&#34; href=&#34;https://github.com/SmileGuide/mywebsite&#34; class=&#34;cursor-pointer&#34;&gt;
   &lt;div
 class=&#34;w-full md:w-auto pt-3 p-5 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl&#34;&gt;
 &lt;div class=&#34;flex items-center&#34;&gt;
@@ -155,12 +106,12 @@ class=&#34;w-full md:w-auto pt-3 p-5 border border-neutral-200 dark:border-neutr
   &lt;/span&gt;
   &lt;/span&gt;
   &lt;div
-id=&#34;github-07dec849e5e9ea5a1cbc04ae72555331-full_name&#34;
+id=&#34;github-901e03c7728ff01d3e2089fbcf9f6102-full_name&#34;
 class=&#34;m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;&gt;
 SmileGuide/mywebsite
   &lt;/div&gt;
 &lt;/div&gt;
-&lt;p id=&#34;github-07dec849e5e9ea5a1cbc04ae72555331-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+&lt;p id=&#34;github-901e03c7728ff01d3e2089fbcf9f6102-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
 &lt;/p&gt;
 &lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
 &lt;p&gt;&lt;span class=&#34;mr-1 inline-block h-3 w-3 rounded-full&#34;
@@ -173,16 +124,16 @@ style=&#34;background-color: #e34c26&#34;&gt;&lt;/span&gt;&lt;/p&gt;
     &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 576 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M287.9 0C297.1 0 305.5 5.25 309.5 13.52L378.1 154.8L531.4 177.5C540.4 178.8 547.8 185.1 550.7 193.7C553.5 202.4 551.2 211.9 544.8 218.2L433.6 328.4L459.9 483.9C461.4 492.9 457.7 502.1 450.2 507.4C442.8 512.7 432.1 513.4 424.9 509.1L287.9 435.9L150.1 509.1C142.9 513.4 133.1 512.7 125.6 507.4C118.2 502.1 114.5 492.9 115.1 483.9L142.2 328.4L31.11 218.2C24.65 211.9 22.36 202.4 25.2 193.7C28.03 185.1 35.5 178.8 44.49 177.5L197.7 154.8L266.3 13.52C270.4 5.249 278.7 0 287.9 0L287.9 0zM287.9 78.95L235.4 187.2C231.9 194.3 225.1 199.3 217.3 200.5L98.98 217.9L184.9 303C190.4 308.5 192.9 316.4 191.6 324.1L171.4 443.7L276.6 387.5C283.7 383.7 292.2 383.7 299.2 387.5L404.4 443.7L384.2 324.1C382.9 316.4 385.5 308.5 391 303L476.9 217.9L358.6 200.5C350.7 199.3 343.9 194.3 340.5 187.2L287.9 78.95z&#34;/&gt;&lt;/svg&gt;
   &lt;/span&gt;
   &lt;/span&gt;
-  &lt;div id=&#34;github-07dec849e5e9ea5a1cbc04ae72555331-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-0
+  &lt;div id=&#34;github-901e03c7728ff01d3e2089fbcf9f6102-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+2
   &lt;/div&gt;
   &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
   &lt;span class=&#34;relative block icon&#34;&gt;
     &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M80 104c13.3 0 24-10.7 24-24s-10.7-24-24-24S56 66.7 56 80s10.7 24 24 24zm80-24c0 32.8-19.7 61-48 73.3V192c0 17.7 14.3 32 32 32H304c17.7 0 32-14.3 32-32V153.3C307.7 141 288 112.8 288 80c0-44.2 35.8-80 80-80s80 35.8 80 80c0 32.8-19.7 61-48 73.3V192c0 53-43 96-96 96H256v70.7c28.3 12.3 48 40.5 48 73.3c0 44.2-35.8 80-80 80s-80-35.8-80-80c0-32.8 19.7-61 48-73.3V288H144c-53 0-96-43-96-96V153.3C19.7 141 0 112.8 0 80C0 35.8 35.8 0 80 0s80 35.8 80 80zm208 24c13.3 0 24-10.7 24-24s-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24zM248 432c0-13.3-10.7-24-24-24s-24 10.7-24 24s10.7 24 24 24s24-10.7 24-24z&#34;/&gt;&lt;/svg&gt;
   &lt;/span&gt;
   &lt;/span&gt;
-  &lt;div id=&#34;github-07dec849e5e9ea5a1cbc04ae72555331-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-1
+  &lt;div id=&#34;github-901e03c7728ff01d3e2089fbcf9f6102-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+0
   &lt;/div&gt;
 &lt;/div&gt;
   &lt;/div&gt;
@@ -194,10 +145,10 @@ fetch(&#34;https://api.github.com/repos/SmileGuide/mywebsite&#34;, {
 })
   .then(response =&gt; response.json())
   .then(data =&gt; {
-document.getElementById(&#39;github-07dec849e5e9ea5a1cbc04ae72555331-full_name&#39;).innerHTML = data.full_name;
-document.getElementById(&#39;github-07dec849e5e9ea5a1cbc04ae72555331-description&#39;).innerHTML = data.description;
-document.getElementById(&#39;github-07dec849e5e9ea5a1cbc04ae72555331-stargazers&#39;).innerHTML = data.stargazers_count;
-document.getElementById(&#39;github-07dec849e5e9ea5a1cbc04ae72555331-forks&#39;).innerHTML = data.forks;
+document.getElementById(&#39;github-901e03c7728ff01d3e2089fbcf9f6102-full_name&#39;).innerHTML = data.full_name;
+document.getElementById(&#39;github-901e03c7728ff01d3e2089fbcf9f6102-description&#39;).innerHTML = data.description;
+document.getElementById(&#39;github-901e03c7728ff01d3e2089fbcf9f6102-stargazers&#39;).innerHTML = data.stargazers_count;
+document.getElementById(&#39;github-901e03c7728ff01d3e2089fbcf9f6102-forks&#39;).innerHTML = data.forks;
   })
   .catch(error =&gt; console.error(error))
   &lt;/script&gt;

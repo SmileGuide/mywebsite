@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Sat, 16 Mar 2024 17:30:04 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Apr 2024 14:05:51 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>在本站的角落里……</title>
       <link>https://www.karlukle.site/blogs/hidden-pages/</link>
@@ -105,7 +105,7 @@
 &lt;h3 id=&#34;部署到-vercel&#34;&gt;部署到 Vercel&lt;/h3&gt;
 &lt;p&gt;如果你没有域名，慎用 Vercel，因为 Vercel 被GFW污染，不用自己的域名做解析就无法访问部署好的网站。&lt;/p&gt;
 &lt;p&gt;建立仓库、push的过程与 GitHub Pages 相同，但仓库不用必须公开，仓库名自定义。&lt;br&gt;
-访问 &lt;a href=&#34;https://vercel.com/&#34;&gt;Verccel网站&lt;/a&gt;，用 GitHub 登录。&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220142422.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
+访问 &lt;a href=&#34;https://vercel.com/&#34;&gt;Vercel网站&lt;/a&gt;，用 GitHub 登录。&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220142422.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
 &lt;ol class=&#34;border-l-2 list-none border-primary-500 dark:border-primary-300&#34;&gt;
 
 
@@ -1214,7 +1214,7 @@ style=&#34;background-color: #e34c26&#34;&gt;&lt;/span&gt;
 
   &lt;/span&gt;
   &lt;div id=&#34;github-4d14627a6284367469b3e1753ed15067-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-0
+2
   &lt;/div&gt;
 
   &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -1227,7 +1227,7 @@ style=&#34;background-color: #e34c26&#34;&gt;&lt;/span&gt;
 
   &lt;/span&gt;
   &lt;div id=&#34;github-4d14627a6284367469b3e1753ed15067-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-1
+0
   &lt;/div&gt;
 
 &lt;/div&gt;
@@ -1308,7 +1308,7 @@ style=&#34;background-color: #f1e05a&#34;&gt;&lt;/span&gt;
 
   &lt;/span&gt;
   &lt;div id=&#34;github-5243defe6dc593e5b718e5d34ac2b2d0-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-8028
+8155
   &lt;/div&gt;
 
   &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -1321,7 +1321,7 @@ style=&#34;background-color: #f1e05a&#34;&gt;&lt;/span&gt;
 
   &lt;/span&gt;
   &lt;div id=&#34;github-5243defe6dc593e5b718e5d34ac2b2d0-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-2258
+2260
   &lt;/div&gt;
 
 &lt;/div&gt;
@@ -1426,7 +1426,7 @@ style=&#34;background-color: #4F5D95&#34;&gt;&lt;/span&gt;
 
   &lt;/span&gt;
   &lt;div id=&#34;github-b4af9da902f97ae74adaf5d7dafb7818-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-1058
+1075
   &lt;/div&gt;
 
   &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -1439,7 +1439,7 @@ style=&#34;background-color: #4F5D95&#34;&gt;&lt;/span&gt;
 
   &lt;/span&gt;
   &lt;div id=&#34;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-482
+481
   &lt;/div&gt;
 
 &lt;/div&gt;
@@ -1589,7 +1589,7 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
 &lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
   
   
-  &lt;time datetime=&#34;2024-02-20 13:42:42 &amp;#43;0800 CST&#34;&gt;2024年2月20日&lt;/time&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span&gt;1401 字&lt;/span&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span title=&#34;预计阅读&#34;&gt;3 分钟&lt;/span&gt;
+  &lt;time datetime=&#34;2024-02-20 13:42:42 &amp;#43;0800 CST&#34;&gt;2024年2月20日&lt;/time&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span&gt;1400 字&lt;/span&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span title=&#34;预计阅读&#34;&gt;3 分钟&lt;/span&gt;
   
 
   
@@ -2233,7 +2233,7 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
 &lt;script&gt;
     document.addEventListener(&#34;DOMContentLoaded&#34;, function () {
       new TypeIt(&#34;#typeit-29fe62e8a8c61889517139a4dc65bfec&#34;, {
-        strings: [&#34;&#34;,&#34;1. 爱党爱国爱人民。了解党史国情，珍视国家荣誉，热爱祖国，热爱人民，热爱中国共产党。  &#34;,&#34;2. 好学多问肯钻研。上课专心听讲，积极发表见解，乐于科学探索，养成阅读习惯。  &#34;,&#34;3. 勤劳笃行乐奉献。自己事自己做，主动分担家务，参与劳动实践，热心志愿服务。  &#34;,&#34;4. 明礼守法讲美德。遵守国法校纪，自觉礼让排队，保持公共卫生，爱护公共财物。  &#34;,&#34;5. 孝亲尊师善待人。孝父母敬师长，爱集体助同学，虚心接受批评，学会合作共处。  &#34;,&#34;6. 诚实守信有担当。保持言行一致，不说谎不作弊，借东西及时还，做到知错就改。  &#34;,&#34;7. 自强自律健身心。坚持锻炼身体，乐观开朗向上，不吸烟不喝酒，文明绿色上网。  &#34;,&#34;8. 珍爱生命保安全。红灯停绿灯行，防溺水不玩火，会自护懂求救，坚决远离毒品。  &#34;,&#34;9. 勤俭节约护家园。不比吃喝穿戴，爱惜花草树木，节粮节水节电，低碳环保生活。&#34;,&#34;&#34;],
+        strings: [&#34;\r&#34;,&#34;1. 爱党爱国爱人民。了解党史国情，珍视国家荣誉，热爱祖国，热爱人民，热爱中国共产党。  \r&#34;,&#34;2. 好学多问肯钻研。上课专心听讲，积极发表见解，乐于科学探索，养成阅读习惯。  \r&#34;,&#34;3. 勤劳笃行乐奉献。自己事自己做，主动分担家务，参与劳动实践，热心志愿服务。  \r&#34;,&#34;4. 明礼守法讲美德。遵守国法校纪，自觉礼让排队，保持公共卫生，爱护公共财物。  \r&#34;,&#34;5. 孝亲尊师善待人。孝父母敬师长，爱集体助同学，虚心接受批评，学会合作共处。  \r&#34;,&#34;6. 诚实守信有担当。保持言行一致，不说谎不作弊，借东西及时还，做到知错就改。  \r&#34;,&#34;7. 自强自律健身心。坚持锻炼身体，乐观开朗向上，不吸烟不喝酒，文明绿色上网。  \r&#34;,&#34;8. 珍爱生命保安全。红灯停绿灯行，防溺水不玩火，会自护懂求救，坚决远离毒品。  \r&#34;,&#34;9. 勤俭节约护家园。不比吃喝穿戴，爱惜花草树木，节粮节水节电，低碳环保生活。\r&#34;,&#34;&#34;],
         speed:  100 ,
         lifeLike:  true ,
         startDelay:  0 ,

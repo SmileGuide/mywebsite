@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Sat, 16 Mar 2024 17:30:05 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/ja/tags/%E3%81%9D%E3%81%AE%E4%BB%96/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Apr 2024 14:05:52 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/ja/tags/%E3%81%9D%E3%81%AE%E4%BB%96/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World🎉</title>
       <link>https://www.karlukle.site/ja/blogs/hello-world/</link>
@@ -31,7 +31,7 @@
 &lt;script&gt;
     document.addEventListener(&#34;DOMContentLoaded&#34;, function () {
       new TypeIt(&#34;#typeit-00be73afddf8249653edcd3f27ed62c8&#34;, {
-        strings: [&#34;&#34;,&#34;よろしくお願いいたします。  &#34;,&#34;これは僕が個人サイトで発表した最初のブログです。  &#34;,&#34;僕は主にブログで僕の思考を共有したり、技術を交流したりします。  &#34;,&#34;これからは、自分の考えを心を込めて記録し、皆さんに助けと良い気持ちをもたらしていきたいと思います。  &#34;,&#34;&#34;],
+        strings: [&#34;\r&#34;,&#34;よろしくお願いいたします。  \r&#34;,&#34;これは僕が個人サイトで発表した最初のブログです。  \r&#34;,&#34;僕は主にブログで僕の思考を共有したり、技術を交流したりします。  \r&#34;,&#34;これからは、自分の考えを心を込めて記録し、皆さんに助けと良い気持ちをもたらしていきたいと思います。  \r&#34;,&#34;&#34;],
         speed:  100 ,
         lifeLike:  true ,
         startDelay:  0 ,

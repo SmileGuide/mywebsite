@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Sat, 16 Mar 2024 17:30:05 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/en/categories/others/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 04 Apr 2024 14:05:51 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/en/categories/others/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World🎉</title>
       <link>https://www.karlukle.site/en/blogs/hello-world/</link>
@@ -64,7 +64,7 @@ For more information, please search the following keywords on google:&lt;/p&gt;
 &lt;script&gt;
     document.addEventListener(&#34;DOMContentLoaded&#34;, function () {
       new TypeIt(&#34;#typeit-dd0b34172664abcadcaf3127b218febd&#34;, {
-        strings: [&#34;&#34;,&#34;Every night in my dreams  &#34;,&#34;I see you,I feel you  &#34;,&#34;That is how I know you go on  &#34;,&#34;Far across the distance  &#34;,&#34;And spaces between us  &#34;,&#34;You have come to show you go on  &#34;,&#34;Near far  &#34;,&#34;Wherever you are  &#34;,&#34;I believe  &#34;,&#34;That the heart does go on  &#34;,&#34;Once more you open the door  &#34;,&#34;And you&#39;re here in my heart  &#34;,&#34;And my heart will go on and on  &#34;,&#34;Love can touch us one time  &#34;,&#34;And last for a lifetime  &#34;,&#34;And never let go till we&#39;re gone  &#34;,&#34;Love was when I loved you  &#34;,&#34;One true time I hold to  &#34;,&#34;In my life we&#39;ll always go on  &#34;,&#34;Near far  &#34;,&#34;Wherever you are  &#34;,&#34;I believe  &#34;,&#34;That the heart does go on  &#34;,&#34;Once more you open the door  &#34;,&#34;And you&#39;re here in my heart  &#34;,&#34;And my heart will go on and on  &#34;,&#34;you&#39;re here  &#34;,&#34;There&#39;s nothing I fear  &#34;,&#34;And I know  &#34;,&#34;That my heart will go on  &#34;,&#34;We&#39;ll stay forever this way  &#34;,&#34;You are safe in my heart  &#34;,&#34;And my heart will go on and on  &#34;,&#34;&#34;],
+        strings: [&#34;\r&#34;,&#34;Every night in my dreams  \r&#34;,&#34;I see you,I feel you  \r&#34;,&#34;That is how I know you go on  \r&#34;,&#34;Far across the distance  \r&#34;,&#34;And spaces between us  \r&#34;,&#34;You have come to show you go on  \r&#34;,&#34;Near far  \r&#34;,&#34;Wherever you are  \r&#34;,&#34;I believe  \r&#34;,&#34;That the heart does go on  \r&#34;,&#34;Once more you open the door  \r&#34;,&#34;And you&#39;re here in my heart  \r&#34;,&#34;And my heart will go on and on  \r&#34;,&#34;Love can touch us one time  \r&#34;,&#34;And last for a lifetime  \r&#34;,&#34;And never let go till we&#39;re gone  \r&#34;,&#34;Love was when I loved you  \r&#34;,&#34;One true time I hold to  \r&#34;,&#34;In my life we&#39;ll always go on  \r&#34;,&#34;Near far  \r&#34;,&#34;Wherever you are  \r&#34;,&#34;I believe  \r&#34;,&#34;That the heart does go on  \r&#34;,&#34;Once more you open the door  \r&#34;,&#34;And you&#39;re here in my heart  \r&#34;,&#34;And my heart will go on and on  \r&#34;,&#34;you&#39;re here  \r&#34;,&#34;There&#39;s nothing I fear  \r&#34;,&#34;And I know  \r&#34;,&#34;That my heart will go on  \r&#34;,&#34;We&#39;ll stay forever this way  \r&#34;,&#34;You are safe in my heart  \r&#34;,&#34;And my heart will go on and on  \r&#34;,&#34;&#34;],
         speed:  100 ,
         lifeLike:  true ,
         startDelay:  0 ,

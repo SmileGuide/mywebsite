@@ -15,7 +15,7 @@ title = "群青流星"
 
 [author]
   name = "金圣皓"
-  image = "https://cdn.jsdelivr.net/gh/SmileGuide/myimagehost/img/avatar.png"
+  image = "/img/avatar.png"
   headline = "我喜欢听花开的声音，更想自由地深情地呼吸"
   bio = ""
   links = [
