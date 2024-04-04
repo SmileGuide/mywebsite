@@ -12,7 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 smartTOC = true
-smartTOCHideUnfocusedChildren = true
+smartTOCHideUnfocusedChildren = false
 mainSections = ["blogs"]
 # robots = ""
 
@@ -23,8 +23,7 @@ defaultBackgroundImage = "/img/background.jpg" # used as default for background 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
 highlightCurrentMenuArea = true
-# smartTOC = true
-# smartTOCHideUnfocusedChildren = false
+
 
 [header]
   layout = "fixed" # valid options: basic, fixed, fixed-fill, fixed-fill-blur
