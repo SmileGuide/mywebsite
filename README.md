@@ -1,4 +1,4 @@
-# This is the root of my website [karlukle.site](https://karlukle.site/) .
+# The root of my website [karlukle.site](https://karlukle.site/) .
 <!-- 
 # TIPS(for me)
 - in layouts  
