@@ -19,7 +19,7 @@ keywords:
 ## 前端框架
 ### Hugo
 本站前端采用静态网站生成器 [Hugo](https://gohugo.io/) 制作，所用主题为 [Blowfish](https://blowfish.page/)。
-Blowfish 是由葡萄牙的[Nuno Coração](https://n9o.xyz/) 建设维护的，文档为英文。
+Blowfish 是由[Nuno Coração](https://n9o.xyz/) 建设维护的。
 [Blowfish 文档](https://blowfish.page/docs/) 内详细说明了 Hugo 和主题的使用方法，这里不再赘述。
 ### GitHub Pages
 本站前端部署在 [GitHub Pages](https://pages.github.com/) 上。
