@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Thu, 04 Apr 2024 14:47:30 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Apr 2024 11:23:42 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>在本站的角落里……</title>
       <link>https://www.karlukle.site/blogs/hidden-pages/</link>
@@ -714,8 +714,8 @@
 &lt;p&gt;本站前端采用静态网站生成器 &lt;a href=&#34;https://gohugo.io/&#34;   target=&#34;_blank&#34;&gt;
     Hugo&lt;/a&gt; 制作，所用主题为 &lt;a href=&#34;https://blowfish.page/&#34;   target=&#34;_blank&#34;&gt;
     Blowfish&lt;/a&gt;。
-Blowfish 是由葡萄牙的&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&gt;
-    Nuno Coração&lt;/a&gt; 建设维护的，文档为英文。
+Blowfish 是由&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&gt;
+    Nuno Coração&lt;/a&gt; 建设维护的。
 &lt;a href=&#34;https://blowfish.page/docs/&#34;   target=&#34;_blank&#34;&gt;
     Blowfish 文档&lt;/a&gt; 内详细说明了 Hugo 和主题的使用方法，这里不再赘述。&lt;/p&gt;
 
