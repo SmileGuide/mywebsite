@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Sat, 06 Jul 2024 20:11:54 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Jul 2024 00:19:52 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>古典乐 Classical</title>
       <link>https://www.karlukle.site/radio/classical/</link>
@@ -2277,6 +2277,37 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
 &lt;time&gt;2024年2月15日&lt;/time&gt;
 &lt;p&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;·&lt;/span&gt;
 &lt;span&gt;22:01&lt;/span&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;br/&gt;
+&lt;/span&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.karlukle.site/shuoshuo-single/attack/</link>
+      <pubDate>Mon, 12 Feb 2024 22:06:18 +0800</pubDate>
+      
+      <guid>https://www.karlukle.site/shuoshuo-single/attack/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;span style=&#34;display: inline-block;margin-left: 2.5%;&#34; align=&#34;left&#34; id=&#34;%E4%B8%80%E6%AC%A1%E6%94%BB%E5%87%BB&#34; &gt;
+&lt;div class=&#34;article border border-neutral-200 dark:border-neutral-700 border-1 rounded-md backdrop-blur-2xl shadow-2xl&#34; style=&#39;width:&#39; &gt;
+  &lt;div class=&#34;p-6&#34;&gt;
+&lt;h1  class=&#34;font-semibold&#34;&gt;一次攻击&lt;/h1&gt;
+&lt;div class=&#34;dark:text-neutral overflow-auto&#34; style=&#34;height: auto; word-wrap:break-word; word-break:break-all; overflow: hidden;&#34;&gt;
+  &lt;img src=&#34;https://www.karlukle.site/shuoshuo-single/屏幕截图 2024-07-06 222040-1.png&#34; /&gt;  
+&lt;img src=&#34;https://www.karlukle.site/shuoshuo-single/屏幕截图 2024-07-06 222012-2.png&#34; /&gt;  
+&lt;img src=&#34;https://www.karlukle.site/shuoshuo-single/屏幕截图 2024-07-06 222108-1.png&#34; /&gt;  
+&lt;img src=&#34;https://www.karlukle.site/shuoshuo-single/屏幕截图 2024-07-06 222127-1.png&#34; /&gt; 
+&lt;/div&gt;
+&lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+  &lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+&lt;time&gt;2024年7月6日&lt;/time&gt;
+&lt;p&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;·&lt;/span&gt;
+&lt;span&gt;22:25&lt;/span&gt;&lt;/p&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -5387,7 +5418,28 @@ new ClipboardJS(&#39;#cpy&#39;, {
       <pubDate>Mon, 13 Jun 2022 20:55:37 +0800</pubDate>
       
       <guid>https://www.karlukle.site/shuoshuo/</guid>
-      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;span style=&#34;display: inline-block;margin-left: 2.5%;&#34; align=&#34;left&#34; id=&#34;%E5%AF%B9blowfish%E4%B8%BB%E9%A2%98%E7%9A%84%E6%96%B0%E8%B4%A1%E7%8C%AE&#34; &gt;
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;span style=&#34;display: inline-block;margin-left: 2.5%;&#34; align=&#34;left&#34; id=&#34;%E4%B8%80%E6%AC%A1%E6%94%BB%E5%87%BB&#34; &gt;
+&lt;div class=&#34;article border border-neutral-200 dark:border-neutral-700 border-1 rounded-md backdrop-blur-2xl shadow-2xl&#34; style=&#39;width:&#39; &gt;
+  &lt;div class=&#34;p-6&#34;&gt;
+&lt;h1  class=&#34;font-semibold&#34;&gt;一次攻击&lt;/h1&gt;
+&lt;div class=&#34;dark:text-neutral overflow-auto&#34; style=&#34;height: auto; word-wrap:break-word; word-break:break-all; overflow: hidden;&#34;&gt;
+  &lt;img src=&#34;https://www.karlukle.site/shuoshuo-single/屏幕截图 2024-07-06 222040-1.png&#34; /&gt;  
+&lt;img src=&#34;https://www.karlukle.site/shuoshuo-single/屏幕截图 2024-07-06 222012-2.png&#34; /&gt;  
+&lt;img src=&#34;https://www.karlukle.site/shuoshuo-single/屏幕截图 2024-07-06 222108-1.png&#34; /&gt;  
+&lt;img src=&#34;https://www.karlukle.site/shuoshuo-single/屏幕截图 2024-07-06 222127-1.png&#34; /&gt; 
+&lt;/div&gt;
+&lt;div class=&#34;text-sm text-neutral-500 dark:text-neutral-400&#34;&gt;
+  &lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+&lt;time&gt;2024年7月6日&lt;/time&gt;
+&lt;p&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;·&lt;/span&gt;
+&lt;span&gt;22:25&lt;/span&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;br/&gt;
+&lt;/span&gt;
+&lt;span style=&#34;display: inline-block;margin-left: 2.5%;&#34; align=&#34;left&#34; id=&#34;%E5%AF%B9blowfish%E4%B8%BB%E9%A2%98%E7%9A%84%E6%96%B0%E8%B4%A1%E7%8C%AE&#34; &gt;
 &lt;div class=&#34;article border border-neutral-200 dark:border-neutral-700 border-1 rounded-md backdrop-blur-2xl shadow-2xl&#34; style=&#39;width:&#39; &gt;
   &lt;div class=&#34;p-6&#34;&gt;
 &lt;h1  class=&#34;font-semibold&#34;&gt;对Blowfish主题的新贡献&lt;/h1&gt;
