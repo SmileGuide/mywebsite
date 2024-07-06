@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Fri, 05 Apr 2024 11:23:43 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/ja/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Jul 2024 14:29:11 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/ja/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Classical</title>
       <link>https://www.karlukle.site/ja/radio/classical/</link>
@@ -324,6 +324,7 @@
       
     &lt;/div&gt;
   &lt;/a&gt;
+
         
     
 &lt;/section&gt;</description>
@@ -577,7 +578,7 @@
 &lt;div&gt;
 	&lt;hr/&gt;
 	&lt;div class=&#34;flex author&#34;&gt;
-		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;https://potteto11.github.io/home/yuublog_files/IMG_2852.jpeg&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
+		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;yuu.jpg&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
 		&lt;div class=&#34;place-self-center&#34; onclick=&#39;window.open(&amp;#34;https://potteto11.github.io/home/about/index.html&amp;#34;)&#39;&gt;
 			&lt;div class=&#34;font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral-300&#34;&gt;
 				yuublog
@@ -939,7 +940,42 @@
 	&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;
+
+&lt;style&gt;
+	.place-self-center{
+		cursor:pointer;
+	}
+
+	.author:hover img{
+ transition: 0.9s !important;
+ -webkit-transition: 0.9s !important;
+ -moz-transition: 0.9s !important;
+ -o-transition: 0.9s !important;
+ -ms-transition: 0.9s !important;
+ transform: rotate(360deg) !important;
+ -webkit-transform: rotate(360deg) !important;
+ -moz-transform: rotate(360deg) !important;
+ -o-transform: rotate(360deg) !important;
+ -ms-transform: rotate(360deg) !important;
+}
+&lt;/style&gt;
+ 
+&lt;div&gt;
+	&lt;hr/&gt;
+	&lt;div class=&#34;flex author&#34;&gt;
+		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;henry.png&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
+		&lt;div class=&#34;place-self-center&#34; onclick=&#39;window.open(&amp;#34;https://blog.henrywhu.cn&amp;#34;)&#39;&gt;
+			&lt;div class=&#34;font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral-300&#34;&gt;
+				Henry Moreau
+			&lt;/div&gt;
+			&lt;div class=&#34;text-[0.8rem] leading-3 text-neutral-500 dark:text-neutral-400&#34;&gt;
+				学生／デザイナー／ドリーマー
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+　　&lt;/p&gt;
 &lt;hr&gt;
 
 
@@ -968,9 +1004,7 @@
 &lt;/h3&gt;
 &lt;p&gt;友好リンクをここに表示させるには、2つの方法があります：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;メールを送る (&lt;a href=&#34;mailto:3556932400@qq.com?body=name%3A%20%0Alink%3A%20%0Aavatar%3A%20%0Adescrition%3A%20&#34;  &gt;
-    3556932400@qq.com&lt;/a&gt; または &lt;a href=&#34;mailto:smileguide@163.com?body=name%3A%20%0Alink%3A%20%0Aavatar%3A%20%0Adescrition%3A%20&#34;  &gt;
-    smileguide@163.com&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;メールを送る (&lt;a href=&#34;mailto:3556932400@qq.com?body=name%3A%20%0Alink%3A%20%0Aavatar%3A%20%0Adescrition%3A%20&#34;&gt;3556932400@qq.com&lt;/a&gt; または &lt;a href=&#34;mailto:smileguide@163.com?body=name%3A%20%0Alink%3A%20%0Aavatar%3A%20%0Adescrition%3A%20&#34;&gt;smileguide@163.com&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;以下のコメント欄にメッセージをどうぞ（&lt;strong&gt;お勧めしません&lt;/strong&gt;）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;従って、あなたのサイトにも友好リンクがある場合は、&lt;strong&gt;このサイトを入れてください&lt;/strong&gt;。&lt;/p&gt;
@@ -1066,13 +1100,11 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;link &lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://karlukle.site&#34;   target=&#34;_blank&#34;&gt;
-    https://karlukle.site&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://karlukle.site&#34; target=&#34;_blank&#34;&gt;https://karlukle.site&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;avatar&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://karlukle.site/avatar.png&#34;   target=&#34;_blank&#34;&gt;
-    https://karlukle.site/avatar.png&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://karlukle.site/avatar.png&#34; target=&#34;_blank&#34;&gt;https://karlukle.site/avatar.png&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;description&lt;/code&gt;&lt;/td&gt;
@@ -1094,15 +1126,11 @@
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;link&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://karlukle.site&#34;   target=&#34;_blank&#34;&gt;
-    https://karlukle.site&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://karlukle.site/en&#34;   target=&#34;_blank&#34;&gt;
-    https://karlukle.site/en&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://karlukle.site/ja&#34;   target=&#34;_blank&#34;&gt;
-    https://karlukle.site/ja&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://karlukle.site&#34; target=&#34;_blank&#34;&gt;https://karlukle.site&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://karlukle.site/en&#34; target=&#34;_blank&#34;&gt;https://karlukle.site/en&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://karlukle.site/ja&#34; target=&#34;_blank&#34;&gt;https://karlukle.site/ja&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;avatar&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://karlukle.site/avatar.png&#34;   target=&#34;_blank&#34;&gt;
-    https://karlukle.site/avatar.png&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://karlukle.site/avatar.png&#34; target=&#34;_blank&#34;&gt;https://karlukle.site/avatar.png&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;description&lt;/code&gt;&lt;/td&gt;
@@ -1121,9 +1149,7 @@
       <pubDate>Fri, 26 Jan 2024 10:11:15 +0800</pubDate>
       
       <guid>https://www.karlukle.site/ja/player/</guid>
-      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;このウェブサイトの音楽システムは、&lt;a href=&#34;#%e3%83%9b%e3%83%90%e3%83%bc%e3%83%97%e3%83%ac%e3%82%a4%e3%83%a4%e3%83%bc&#34;  &gt;
-    ホバー・プレイヤー&lt;/a&gt; と &lt;a href=&#34;#%e9%9f%b3%e6%a5%bd%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3&#34;  &gt;
-    音楽ステーション&lt;/a&gt;の2つの部分に分かれています。&lt;/p&gt;
+      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;このウェブサイトの音楽システムは、&lt;a href=&#34;#%e3%83%9b%e3%83%90%e3%83%bc%e3%83%97%e3%83%ac%e3%82%a4%e3%83%a4%e3%83%bc&#34;&gt;ホバー・プレイヤー&lt;/a&gt; と &lt;a href=&#34;#%e9%9f%b3%e6%a5%bd%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3&#34;&gt;音楽ステーション&lt;/a&gt;の2つの部分に分かれています。&lt;/p&gt;
 
 
 &lt;h2 class=&#34;relative group&#34;&gt;ホバー・プレイヤー 
@@ -1347,6 +1373,7 @@
       
     &lt;/div&gt;
   &lt;/a&gt;
+
         
     
 &lt;/section&gt;

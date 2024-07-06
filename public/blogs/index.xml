@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Fri, 05 Apr 2024 11:23:42 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Jul 2024 14:29:11 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>在本站的角落里……</title>
       <link>https://www.karlukle.site/blogs/hidden-pages/</link>
@@ -20,23 +20,19 @@
 
 &lt;p&gt;首先，不要忘了本站的两个外语版本哦&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;英文&lt;a href=&#34;https://www.karlukle.site/en/&#34;  &gt;
-    karlukle.site/en&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;日文&lt;a href=&#34;https://www.karlukle.site/ja/&#34;  &gt;
-    karlukle.site/ja&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;英文&lt;a href=&#34;https://www.karlukle.site/en/&#34;&gt;karlukle.site/en&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;日文&lt;a href=&#34;https://www.karlukle.site/ja/&#34;&gt;karlukle.site/ja&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;还有一些不容易发现的文章&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;介绍悬浮播放器里歌曲的&lt;a href=&#34;https://www.karlukle.site/player/&#34;  &gt;
-    精选音乐信息&lt;/a&gt;
+&lt;li&gt;介绍悬浮播放器里歌曲的&lt;a href=&#34;https://www.karlukle.site/player/&#34;&gt;精选音乐信息&lt;/a&gt;
 
   &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
     &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; aria-hidden=&#34;true&#34; x=&#34;0px&#34; y=&#34;0px&#34; viewBox=&#34;0 0 100 100&#34; width=&#34;15&#34; height=&#34;15&#34; class=&#34;icon outbound&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z&#34;&gt;&lt;/path&gt; &lt;polygon fill=&#34;currentColor&#34; points=&#34;45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9&#34;&gt;&lt;/polygon&gt;&lt;/svg&gt;
   &lt;/span&gt;
 
 &lt;/li&gt;
-&lt;li&gt;叙述音乐站、播放器原理的&lt;a href=&#34;https://www.karlukle.site/radio/pick/&#34;  &gt;
-    关于网站音乐系统&lt;/a&gt;
+&lt;li&gt;叙述音乐站、播放器原理的&lt;a href=&#34;https://www.karlukle.site/radio/pick/&#34;&gt;关于网站音乐系统&lt;/a&gt;
 
   &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
     &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; aria-hidden=&#34;true&#34; x=&#34;0px&#34; y=&#34;0px&#34; viewBox=&#34;0 0 100 100&#34; width=&#34;15&#34; height=&#34;15&#34; class=&#34;icon outbound&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z&#34;&gt;&lt;/path&gt; &lt;polygon fill=&#34;currentColor&#34; points=&#34;45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9&#34;&gt;&lt;/polygon&gt;&lt;/svg&gt;
@@ -46,21 +42,14 @@
 &lt;/ul&gt;
 &lt;p&gt;一些子域名&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;人生重开模拟器 &lt;a href=&#34;https://liferestart.karlukle.site&#34;   target=&#34;_blank&#34;&gt;
-    liferestart.karlukle.site&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;看板娘（Live2D Widget） API接口 &lt;a href=&#34;https://live2d.api.karlukle.site&#34;   target=&#34;_blank&#34;&gt;
-    live2d.api.karlukle.site&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;音乐解锁（🤫ssh~） &lt;a href=&#34;https://unlockmusic.karlukle.site&#34;   target=&#34;_blank&#34;&gt;
-    unlockmusic.karlukle.site&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;上一代站点 &lt;a href=&#34;https://old.karlukle.site&#34;   target=&#34;_blank&#34;&gt;
-    old.karlukle.site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;人生重开模拟器 &lt;a href=&#34;https://liferestart.karlukle.site&#34; target=&#34;_blank&#34;&gt;liferestart.karlukle.site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;看板娘（Live2D Widget） API接口 &lt;a href=&#34;https://live2d.api.karlukle.site&#34; target=&#34;_blank&#34;&gt;live2d.api.karlukle.site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;音乐解锁（🤫ssh~） &lt;a href=&#34;https://unlockmusic.karlukle.site&#34; target=&#34;_blank&#34;&gt;unlockmusic.karlukle.site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;上一代站点 &lt;a href=&#34;https://old.karlukle.site&#34; target=&#34;_blank&#34;&gt;old.karlukle.site&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;旧域名到新域名的跳转页面（已投稿为&lt;a href=&#34;https://www.travellings.cn/docs/pages#go-by-clouds-%E4%B9%98%E4%BA%91%E8%80%8C%E5%8E%BB&#34;   target=&#34;_blank&#34;&gt;
-    “开往”的跳转页面&lt;/a&gt; ）&lt;/p&gt;
+&lt;p&gt;旧域名到新域名的跳转页面（已投稿为&lt;a href=&#34;https://www.travellings.cn/docs/pages#go-by-clouds-%E4%B9%98%E4%BA%91%E8%80%8C%E5%8E%BB&#34; target=&#34;_blank&#34;&gt;“开往”的跳转页面&lt;/a&gt; ）&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://smileguide.github.io&#34;   target=&#34;_blank&#34;&gt;
-    smileguide.github.io&lt;/a&gt; &amp;ndash;&amp;gt; &lt;a href=&#34;https://www.travellings.cn/go-by-clouds.html&#34;   target=&#34;_blank&#34;&gt;
-    travellings.cn/go-by-clouds.html&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://smileguide.github.io&#34; target=&#34;_blank&#34;&gt;smileguide.github.io&lt;/a&gt; &amp;ndash;&amp;gt; &lt;a href=&#34;https://www.travellings.cn/go-by-clouds.html&#34; target=&#34;_blank&#34;&gt;travellings.cn/go-by-clouds.html&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&amp;ndash;终&amp;ndash;&lt;/p&gt;
 </description>
@@ -106,14 +95,14 @@
 &lt;p&gt;如果你没有域名，慎用 Vercel，因为 Vercel 被GFW污染，不用自己的域名做解析就无法访问部署好的网站。&lt;/p&gt;
 &lt;p&gt;建立仓库、push的过程与 GitHub Pages 相同，但仓库不用必须公开，仓库名自定义。&lt;br&gt;
 访问 &lt;a href=&#34;https://vercel.com/&#34;&gt;Vercel网站&lt;/a&gt;，用 GitHub 登录。&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220142422.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
-&lt;ol class=&#34;border-l-2 list-none border-primary-500 dark:border-primary-300&#34;&gt;
+&lt;ol class=&#34;border-l-2 border-primary-500 dark:border-primary-300 list-none&#34;&gt;
 
 
 
 
 
 
-&lt;li class=&#34;list-none&#34;&gt;
+&lt;li&gt;
   &lt;div class=&#34;flex flex-start&#34;&gt;
     &lt;div class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
       
@@ -135,12 +124,12 @@
         
       &lt;/div&gt;
       
-      &lt;p class=&#34;text-gray-700 mb-6&#34;&gt;  
+      &lt;div class=&#34;mb-6&#34;&gt;  
 
 &lt;img src=&#34;截图_选择区域_20240220142622.png&#34;/&gt;   
 
 
-&lt;/p&gt;
+&lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/li&gt;
@@ -152,7 +141,7 @@
 
 
 
-&lt;li class=&#34;list-none&#34;&gt;
+&lt;li&gt;
   &lt;div class=&#34;flex flex-start&#34;&gt;
     &lt;div class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
       
@@ -174,9 +163,9 @@
         
       &lt;/div&gt;
       
-      &lt;p class=&#34;text-gray-700 mb-6&#34;&gt;
+      &lt;div class=&#34;mb-6&#34;&gt;
 &lt;img src=&#34;截图_选择区域_20240220142818.png&#34;/&gt;   
-&lt;/p&gt;
+&lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/li&gt;
@@ -187,7 +176,7 @@
 
 
 
-&lt;li class=&#34;list-none&#34;&gt;
+&lt;li&gt;
   &lt;div class=&#34;flex flex-start&#34;&gt;
     &lt;div class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
       
@@ -209,9 +198,9 @@
         
       &lt;/div&gt;
       
-      &lt;p class=&#34;text-gray-700 mb-6&#34;&gt;
+      &lt;div class=&#34;mb-6&#34;&gt;
 &lt;img src=&#34;截图_选择区域_20240220142949.png&#34;/&gt;  
-&lt;/p&gt;
+&lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/li&gt;
@@ -222,7 +211,7 @@
 
 
 
-&lt;li class=&#34;list-none&#34;&gt;
+&lt;li&gt;
   &lt;div class=&#34;flex flex-start&#34;&gt;
     &lt;div class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
       
@@ -244,9 +233,9 @@
         
       &lt;/div&gt;
       
-      &lt;p class=&#34;text-gray-700 mb-6&#34;&gt;
+      &lt;div class=&#34;mb-6&#34;&gt;
 &lt;img src=&#34;截图_选择区域_20240220143543.png&#34;/&gt;  
-&lt;/p&gt;
+&lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/li&gt;
@@ -362,14 +351,14 @@
 &lt;p&gt;&lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220163309.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
 &lt;p&gt;然后来到 Vercel 给要使用CDN的网站添加一个自定义的二级域名（如 &lt;code&gt;&amp;lt;自定义&amp;gt;.&amp;lt;你的域名&amp;gt;.&amp;lt;你的后缀&amp;gt;&lt;/code&gt; ） &lt;img src=&#34;https://www.karlukle.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220162821.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
 &lt;h3 id=&#34;配置cdn-1&#34;&gt;配置CDN&lt;/h3&gt;
-&lt;ol class=&#34;border-l-2 list-none border-primary-500 dark:border-primary-300&#34;&gt;
+&lt;ol class=&#34;border-l-2 border-primary-500 dark:border-primary-300 list-none&#34;&gt;
 
 
 
 
 
 
-&lt;li class=&#34;list-none&#34;&gt;
+&lt;li&gt;
   &lt;div class=&#34;flex flex-start&#34;&gt;
     &lt;div class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
       
@@ -391,12 +380,12 @@
         
       &lt;/div&gt;
       
-      &lt;p class=&#34;text-gray-700 mb-6&#34;&gt;  
+      &lt;div class=&#34;mb-6&#34;&gt;  
 
 &lt;img src=&#34;截图_选择区域_20240220161819.png&#34;/&gt;   
 
 
-&lt;/p&gt;
+&lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/li&gt;
@@ -408,7 +397,7 @@
 
 
 
-&lt;li class=&#34;list-none&#34;&gt;
+&lt;li&gt;
   &lt;div class=&#34;flex flex-start&#34;&gt;
     &lt;div class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
       
@@ -430,9 +419,9 @@
         
       &lt;/div&gt;
       
-      &lt;p class=&#34;text-gray-700 mb-6&#34;&gt;
+      &lt;div class=&#34;mb-6&#34;&gt;
 &lt;img src=&#34;截图_选择区域_20240220162357.png&#34;/&gt;   
-&lt;/p&gt;
+&lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/li&gt;
@@ -443,7 +432,7 @@
 
 
 
-&lt;li class=&#34;list-none&#34;&gt;
+&lt;li&gt;
   &lt;div class=&#34;flex flex-start&#34;&gt;
     &lt;div class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
       
@@ -465,10 +454,10 @@
         
       &lt;/div&gt;
       
-      &lt;p class=&#34;text-gray-700 mb-6&#34;&gt;
+      &lt;div class=&#34;mb-6&#34;&gt;
 &lt;img src=&#34;截图_选择区域_20240220165304.png&#34;/&gt;  
 （你可以参照我的配置）
-&lt;/p&gt;
+&lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/li&gt;
@@ -479,7 +468,7 @@
 
 
 
-&lt;li class=&#34;list-none&#34;&gt;
+&lt;li&gt;
   &lt;div class=&#34;flex flex-start&#34;&gt;
     &lt;div class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
       
@@ -501,9 +490,9 @@
         
       &lt;/div&gt;
       
-      &lt;p class=&#34;text-gray-700 mb-6&#34;&gt;
+      &lt;div class=&#34;mb-6&#34;&gt;
 &lt;img src=&#34;截图_选择区域_20240220165330.png&#34;/&gt;   
-&lt;/p&gt;
+&lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/li&gt;
@@ -514,7 +503,7 @@
 
 
 
-&lt;li class=&#34;list-none&#34;&gt;
+&lt;li&gt;
   &lt;div class=&#34;flex flex-start&#34;&gt;
     &lt;div class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
       
@@ -536,11 +525,11 @@
         
       &lt;/div&gt;
       
-      &lt;p class=&#34;text-gray-700 mb-6&#34;&gt;
+      &lt;div class=&#34;mb-6&#34;&gt;
 &lt;img src=&#34;截图_选择区域_20240220180819.png&#34;/&gt;  
 &lt;img src=&#34;截图_选择区域_20240220180950.png&#34;/&gt;  
 
-&lt;/p&gt;
+&lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/li&gt;
@@ -550,7 +539,7 @@
 
 
 
-&lt;li class=&#34;list-none&#34;&gt;
+&lt;li&gt;
   &lt;div class=&#34;flex flex-start&#34;&gt;
     &lt;div class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
       
@@ -572,9 +561,9 @@
         
       &lt;/div&gt;
       
-      &lt;p class=&#34;text-gray-700 mb-6&#34;&gt;
+      &lt;div class=&#34;mb-6&#34;&gt;
 &lt;img src=&#34;截图_选择区域_20240220181111.png&#34;/&gt;  
-&lt;/p&gt;
+&lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/li&gt;
@@ -584,7 +573,7 @@
 
 
 
-&lt;li class=&#34;list-none&#34;&gt;
+&lt;li&gt;
   &lt;div class=&#34;flex flex-start&#34;&gt;
     &lt;div class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
       
@@ -606,9 +595,9 @@
         
       &lt;/div&gt;
       
-      &lt;p class=&#34;text-gray-700 mb-6&#34;&gt;
+      &lt;div class=&#34;mb-6&#34;&gt;
 &lt;img src=&#34;截图_选择区域_20240220181504.png&#34;/&gt;  
-&lt;/p&gt;
+&lt;/div&gt;
     &lt;/div&gt;
   &lt;/div&gt;
 &lt;/li&gt;
@@ -711,13 +700,9 @@
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;本站前端采用静态网站生成器 &lt;a href=&#34;https://gohugo.io/&#34;   target=&#34;_blank&#34;&gt;
-    Hugo&lt;/a&gt; 制作，所用主题为 &lt;a href=&#34;https://blowfish.page/&#34;   target=&#34;_blank&#34;&gt;
-    Blowfish&lt;/a&gt;。
-Blowfish 是由&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&gt;
-    Nuno Coração&lt;/a&gt; 建设维护的。
-&lt;a href=&#34;https://blowfish.page/docs/&#34;   target=&#34;_blank&#34;&gt;
-    Blowfish 文档&lt;/a&gt; 内详细说明了 Hugo 和主题的使用方法，这里不再赘述。&lt;/p&gt;
+&lt;p&gt;本站前端采用静态网站生成器 &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; 制作，所用主题为 &lt;a href=&#34;https://blowfish.page/&#34; target=&#34;_blank&#34;&gt;Blowfish&lt;/a&gt;。
+Blowfish 是由&lt;a href=&#34;https://n9o.xyz/&#34; target=&#34;_blank&#34;&gt;Nuno Coração&lt;/a&gt; 建设维护的。
+&lt;a href=&#34;https://blowfish.page/docs/&#34; target=&#34;_blank&#34;&gt;Blowfish 文档&lt;/a&gt; 内详细说明了 Hugo 和主题的使用方法，这里不再赘述。&lt;/p&gt;
 
 
 &lt;h3 class=&#34;relative group&#34;&gt;GitHub Pages 
@@ -730,8 +715,7 @@ Blowfish 是由&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&g
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;本站前端部署在 &lt;a href=&#34;https://pages.github.com/&#34;   target=&#34;_blank&#34;&gt;
-    GitHub Pages&lt;/a&gt; 上。
+&lt;p&gt;本站前端部署在 &lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34;&gt;GitHub Pages&lt;/a&gt; 上。
 
   
 
@@ -763,11 +747,8 @@ Blowfish 是由&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&g
     &gt;如果你所在地区GitHub访问受限，需要自行准备梯子。你也可以使用国内的 Gitee Pages，但缺点是需备案，需实名认证，内容需审核。&lt;/span&gt;
 &lt;/div&gt;
 &lt;/p&gt;
-&lt;p&gt;为部署网页，你需要先安装 &lt;a href=&#34;https://git-scm.com/&#34;   target=&#34;_blank&#34;&gt;
-    Git&lt;/a&gt; ，然后在 &lt;a href=&#34;https://github.com/&#34;   target=&#34;_blank&#34;&gt;
-    GitHub&lt;/a&gt;  上添加本地SSH密钥。&lt;/p&gt;
-&lt;p&gt;在&lt;a href=&#34;https://github.com/&#34;   target=&#34;_blank&#34;&gt;
-    GitHub&lt;/a&gt;上建立一个名为 &lt;code&gt;&amp;lt;账号&amp;gt;.github.io&lt;/code&gt; 的公有 Repo 作为网页文件的容器，再建立一个名称随意的私有 Repo 作为网站 Hugo 源文件的容器。把本地用 Hugo 写好的文件提交到私有 Repo 中，然后用 GitHub Actions 把私有 Repo 链接到公有 Repo 。&lt;/p&gt;
+&lt;p&gt;为部署网页，你需要先安装 &lt;a href=&#34;https://git-scm.com/&#34; target=&#34;_blank&#34;&gt;Git&lt;/a&gt; ，然后在 &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;  上添加本地SSH密钥。&lt;/p&gt;
+&lt;p&gt;在&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;上建立一个名为 &lt;code&gt;&amp;lt;账号&amp;gt;.github.io&lt;/code&gt; 的公有 Repo 作为网页文件的容器，再建立一个名称随意的私有 Repo 作为网站 Hugo 源文件的容器。把本地用 Hugo 写好的文件提交到私有 Repo 中，然后用 GitHub Actions 把私有 Repo 链接到公有 Repo 。&lt;/p&gt;
 
 
 &lt;h3 class=&#34;relative group&#34;&gt;GitHub Actions 
@@ -780,8 +761,7 @@ Blowfish 是由&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&g
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://docs.github.com/zh/actions&#34;   target=&#34;_blank&#34;&gt;
-    GitHub Actions&lt;/a&gt; 是 GitHub 提供的自动化服务。它会把私有 Repo 中的源文件在服务器中用 Hugo 自动生成网页文件，而不用我们在本地执行&lt;code&gt;hugo&lt;/code&gt;指令，再把&lt;code&gt;public&lt;/code&gt;文件夹中的网页文件提交到公有 Repo。这样我们再更新网站内容时需要运行的指令更少，省时省力。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.github.com/zh/actions&#34; target=&#34;_blank&#34;&gt;GitHub Actions&lt;/a&gt; 是 GitHub 提供的自动化服务。它会把私有 Repo 中的源文件在服务器中用 Hugo 自动生成网页文件，而不用我们在本地执行&lt;code&gt;hugo&lt;/code&gt;指令，再把&lt;code&gt;public&lt;/code&gt;文件夹中的网页文件提交到公有 Repo。这样我们再更新网站内容时需要运行的指令更少，省时省力。&lt;/p&gt;
 &lt;p&gt;要配置 GitHub Actions，你需要在本地网站根目录新建&lt;code&gt;.github/workflows/hugo.yaml&lt;/code&gt;，把以下内容写到YAML文件里。&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Action名称&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;#自定义名称&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;on&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
@@ -850,8 +830,7 @@ Blowfish 是由&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&g
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;本站采用带后端的评论系统 &lt;a href=&#34;https://waline.js.org/&#34;   target=&#34;_blank&#34;&gt;
-    Waline&lt;/a&gt; ，但完全免费。&lt;/p&gt;
+&lt;p&gt;本站采用带后端的评论系统 &lt;a href=&#34;https://waline.js.org/&#34; target=&#34;_blank&#34;&gt;Waline&lt;/a&gt; ，但完全免费。&lt;/p&gt;
 
 
 &lt;h3 class=&#34;relative group&#34;&gt;LeanCloud 
@@ -891,10 +870,8 @@ Blowfish 是由&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&g
     &lt;/span&gt;        
     
 &lt;/h4&gt;
-&lt;p&gt;注册 Deta 账号，然后到 &lt;a href=&#34;https://deta.space/discovery/@lizheming/waline&#34;   target=&#34;_blank&#34;&gt;
-    Deta 应用市场 Waline 页&lt;/a&gt; ，点击 Install on Space 安装应用到工作区。&lt;/p&gt;
-&lt;p&gt;安装完成后可在 &lt;a href=&#34;https://deta.space/&#34;   target=&#34;_blank&#34;&gt;
-    工作区&lt;/a&gt; 看到应用。点击应用左上角的小圆圈，进入 &lt;code&gt;Settings - Configuration&lt;/code&gt; 修改环境变量，把&lt;code&gt;LEAN_ID、lEAN_KEY&lt;/code&gt;和&lt;code&gt;LEAN_MASTER_KEY&lt;/code&gt;设置为LeanCloud &lt;code&gt;设置 - 应用凭证&lt;/code&gt;中的&lt;code&gt;AppID&lt;/code&gt;、&lt;code&gt;AppKey&lt;/code&gt;和&lt;code&gt;MasterKey&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;注册 Deta 账号，然后到 &lt;a href=&#34;https://deta.space/discovery/@lizheming/waline&#34; target=&#34;_blank&#34;&gt;Deta 应用市场 Waline 页&lt;/a&gt; ，点击 Install on Space 安装应用到工作区。&lt;/p&gt;
+&lt;p&gt;安装完成后可在 &lt;a href=&#34;https://deta.space/&#34; target=&#34;_blank&#34;&gt;工作区&lt;/a&gt; 看到应用。点击应用左上角的小圆圈，进入 &lt;code&gt;Settings - Configuration&lt;/code&gt; 修改环境变量，把&lt;code&gt;LEAN_ID、lEAN_KEY&lt;/code&gt;和&lt;code&gt;LEAN_MASTER_KEY&lt;/code&gt;设置为LeanCloud &lt;code&gt;设置 - 应用凭证&lt;/code&gt;中的&lt;code&gt;AppID&lt;/code&gt;、&lt;code&gt;AppKey&lt;/code&gt;和&lt;code&gt;MasterKey&lt;/code&gt;。&lt;/p&gt;
 &lt;p&gt;现在便完成了评论后端的基本配置。&lt;/p&gt;
 
 
@@ -1043,8 +1020,7 @@ Blowfish 是由&lt;a href=&#34;https://n9o.xyz/&#34;   target=&#34;_blank&#34;&g
     
 &lt;/h3&gt;
 &lt;p&gt;本站播放器的原方案是：在LeanCloud &lt;code&gt;数据存储 - 文件&lt;/code&gt; 中上传音频文件、专辑封面文件。歌词文件放在&lt;code&gt;static&lt;/code&gt;文件夹下，以便直接引用。&lt;/p&gt;
-&lt;p&gt;然而，这种部署方式仅运行两天就出现欠费的情况，于是改用直链工具：&lt;a href=&#34;https://up.ly93.cc/&#34;   target=&#34;_blank&#34;&gt;
-    涟漪文件直链&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;然而，这种部署方式仅运行两天就出现欠费的情况，于是改用直链工具：&lt;a href=&#34;https://up.ly93.cc/&#34; target=&#34;_blank&#34;&gt;涟漪文件直链&lt;/a&gt;。&lt;/p&gt;
 
 
 &lt;h3 class=&#34;relative group&#34;&gt;前端 
@@ -1404,8 +1380,7 @@ fghrsh/live2d_api
 &lt;/div&gt;
 
 &lt;p id=&#34;github-b4af9da902f97ae74adaf5d7dafb7818-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-  Live2D 看板娘插件 (&lt;a href=&#34;https://www.fghrsh.net/post/123.html&#34;   target=&#34;_blank&#34;&gt;
-    https://www.fghrsh.net/post/123.html&lt;/a&gt;) 上使用的后端 API
+  Live2D 看板娘插件 (&lt;a href=&#34;https://www.fghrsh.net/post/123.html&#34; target=&#34;_blank&#34;&gt;https://www.fghrsh.net/post/123.html&lt;/a&gt;) 上使用的后端 API
 &lt;/p&gt;
 
 &lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
@@ -1463,8 +1438,7 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
 &lt;/a&gt;&lt;br&gt;
 由于 Vercel 无法识别根目录不带 &lt;code&gt;index.html&lt;/code&gt; 的项目，你需要新建一个，里面可以写一写介绍等。&lt;br&gt;
 在目录中，&lt;code&gt;model_list.json&lt;/code&gt; 用于描述有哪些模型。如果要添加模型，请把模型放在&lt;code&gt;model&lt;/code&gt;目录中，并检查新加的模型的目录中的JSON文件是否更名为 &lt;code&gt;index.json&lt;/code&gt;，然后改写 Repo 根目录中的 &lt;code&gt;model_list.json&lt;/code&gt; 以便识别新模型。&lt;br&gt;
-修改完毕后，把 Repo 提交到 GitHub，部署到 Vercel 上(流程&lt;a href=&#34;#vercel&#34;  &gt;
-    同前&lt;/a&gt;)
+修改完毕后，把 Repo 提交到 GitHub，部署到 Vercel 上(流程&lt;a href=&#34;#vercel&#34;&gt;同前&lt;/a&gt;)
 最后，把在博客的&lt;code&gt;static&lt;/code&gt;文件夹的 Repo 中的&lt;code&gt;autoload.js&lt;/code&gt;修改一下：&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-diff&#34; data-lang=&#34;diff&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    Promise.all([
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        loadExternalResource(live2d_path + &amp;#34;waifu-basic.css&amp;#34;, &amp;#34;css&amp;#34;),
@@ -1481,8 +1455,7 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        });
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    });}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;至此，你在博客页面上看到看板娘了。&lt;br&gt;
-另外，本站的自建API地址是 &lt;a href=&#34;https://live2d.api.karlukle.site&#34;   target=&#34;_blank&#34;&gt;
-    live2d.api.karlukle.site&lt;/a&gt;，如果不想自建API，也欢迎你来使用。&lt;br&gt;
+另外，本站的自建API地址是 &lt;a href=&#34;https://live2d.api.karlukle.site&#34; target=&#34;_blank&#34;&gt;live2d.api.karlukle.site&lt;/a&gt;，如果不想自建API，也欢迎你来使用。&lt;br&gt;
 &amp;ndash;更新于2024/2/18&amp;ndash;&lt;/p&gt;
 
 
@@ -1497,12 +1470,9 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
     
 &lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;增加简体中文翻译 &lt;a href=&#34;https://github.com/nunocoracao/blowfish/pull/1208&#34;   target=&#34;_blank&#34;&gt;
-    #1208&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;修补Bug：中日韩文本标题无法页内定位 &lt;a href=&#34;https://github.com/nunocoracao/blowfish/pull/1254&#34;   target=&#34;_blank&#34;&gt;
-    #1254&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;增加繁体中文翻译 &lt;a href=&#34;https://github.com/nunocoracao/blowfish/pull/1255&#34;   target=&#34;_blank&#34;&gt;
-    #1255&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;增加简体中文翻译 &lt;a href=&#34;https://github.com/nunocoracao/blowfish/pull/1208&#34; target=&#34;_blank&#34;&gt;#1208&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;修补Bug：中日韩文本标题无法页内定位 &lt;a href=&#34;https://github.com/nunocoracao/blowfish/pull/1254&#34; target=&#34;_blank&#34;&gt;#1254&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;增加繁体中文翻译 &lt;a href=&#34;https://github.com/nunocoracao/blowfish/pull/1255&#34; target=&#34;_blank&#34;&gt;#1255&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;br/&gt;
 &lt;br/&gt;  
@@ -1632,6 +1602,7 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
       
     &lt;/div&gt;
   &lt;/a&gt;
+
         
     
 &lt;/section&gt;

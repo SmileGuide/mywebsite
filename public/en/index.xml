@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Fri, 05 Apr 2024 11:23:43 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Jul 2024 14:29:11 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Classical</title>
       <link>https://www.karlukle.site/en/radio/classical/</link>
@@ -833,6 +833,7 @@ background:linear-gradient(to top left,#d39340,#ffd194);
       
     &lt;/div&gt;
   &lt;/a&gt;
+
         
     
 &lt;/section&gt;
@@ -1144,7 +1145,7 @@ We are all in the gutter, but some of us are looking at the stars.
 &lt;div&gt;
 	&lt;hr/&gt;
 	&lt;div class=&#34;flex author&#34;&gt;
-		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;https://potteto11.github.io/home/yuublog_files/IMG_2852.jpeg&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
+		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;yuu.jpg&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
 		&lt;div class=&#34;place-self-center&#34; onclick=&#39;window.open(&amp;#34;https://potteto11.github.io/home/about/index.html&amp;#34;)&#39;&gt;
 			&lt;div class=&#34;font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral-300&#34;&gt;
 				yuublog
@@ -1506,7 +1507,42 @@ We are all in the gutter, but some of us are looking at the stars.
 	&lt;/div&gt;
 &lt;/div&gt;
 
-&lt;/p&gt;
+
+&lt;style&gt;
+	.place-self-center{
+		cursor:pointer;
+	}
+
+	.author:hover img{
+ transition: 0.9s !important;
+ -webkit-transition: 0.9s !important;
+ -moz-transition: 0.9s !important;
+ -o-transition: 0.9s !important;
+ -ms-transition: 0.9s !important;
+ transform: rotate(360deg) !important;
+ -webkit-transform: rotate(360deg) !important;
+ -moz-transform: rotate(360deg) !important;
+ -o-transform: rotate(360deg) !important;
+ -ms-transform: rotate(360deg) !important;
+}
+&lt;/style&gt;
+ 
+&lt;div&gt;
+	&lt;hr/&gt;
+	&lt;div class=&#34;flex author&#34;&gt;
+		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;henry.png&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
+		&lt;div class=&#34;place-self-center&#34; onclick=&#39;window.open(&amp;#34;https://blog.henrywhu.cn&amp;#34;)&#39;&gt;
+			&lt;div class=&#34;font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral-300&#34;&gt;
+				Henry Moreau
+			&lt;/div&gt;
+			&lt;div class=&#34;text-[0.8rem] leading-3 text-neutral-500 dark:text-neutral-400&#34;&gt;
+				Student / Designer / Dreamchaser
+			&lt;/div&gt;
+		&lt;/div&gt;
+	&lt;/div&gt;
+&lt;/div&gt;
+
+　　&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 
@@ -1536,9 +1572,7 @@ We are all in the gutter, but some of us are looking at the stars.
 &lt;/h3&gt;
 &lt;p&gt;There are two ways to get your link to appear here:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Email me via &lt;a href=&#34;mailto:3556932400@qq.com?body=name%3A%20%0Alink%3A%20%0Aavatar%3A%20%0Adescrition%3A%20&#34;  &gt;
-    3556932400@qq.com&lt;/a&gt; or &lt;a href=&#34;mailto:smileguide@163.com?body=name%3A%20%0Alink%3A%20%0Aavatar%3A%20%0Adescrition%3A%20&#34;  &gt;
-    smileguide@163.com&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Email me via &lt;a href=&#34;mailto:3556932400@qq.com?body=name%3A%20%0Alink%3A%20%0Aavatar%3A%20%0Adescrition%3A%20&#34;&gt;3556932400@qq.com&lt;/a&gt; or &lt;a href=&#34;mailto:smileguide@163.com?body=name%3A%20%0Alink%3A%20%0Aavatar%3A%20%0Adescrition%3A%20&#34;&gt;smileguide@163.com&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;Leave a message in the comments area (not recommended)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Accordingly, if your site also has a friend link section, please &lt;strong&gt;put this site in&lt;/strong&gt;.&lt;/p&gt;
@@ -1634,13 +1668,11 @@ Alternatively, if your site is available in English and Japanese, the &lt;code&g
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;link &lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://karlukle.site/en&#34;   target=&#34;_blank&#34;&gt;
-    https://karlukle.site/en&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://karlukle.site/en&#34; target=&#34;_blank&#34;&gt;https://karlukle.site/en&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;avatar&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://karlukle.site/avatar.png&#34;   target=&#34;_blank&#34;&gt;
-    https://karlukle.site/avatar.png&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://karlukle.site/avatar.png&#34; target=&#34;_blank&#34;&gt;https://karlukle.site/avatar.png&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;description&lt;/code&gt;&lt;/td&gt;
@@ -1662,15 +1694,11 @@ Alternatively, if your site is available in English and Japanese, the &lt;code&g
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;link&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://karlukle.site&#34;   target=&#34;_blank&#34;&gt;
-    https://karlukle.site&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://karlukle.site/en&#34;   target=&#34;_blank&#34;&gt;
-    https://karlukle.site/en&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://karlukle.site/ja&#34;   target=&#34;_blank&#34;&gt;
-    https://karlukle.site/ja&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://karlukle.site&#34; target=&#34;_blank&#34;&gt;https://karlukle.site&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://karlukle.site/en&#34; target=&#34;_blank&#34;&gt;https://karlukle.site/en&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://karlukle.site/ja&#34; target=&#34;_blank&#34;&gt;https://karlukle.site/ja&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;avatar&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://karlukle.site/avatar.png&#34;   target=&#34;_blank&#34;&gt;
-    https://karlukle.site/avatar.png&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://karlukle.site/avatar.png&#34; target=&#34;_blank&#34;&gt;https://karlukle.site/avatar.png&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;description&lt;/code&gt;&lt;/td&gt;
@@ -1701,9 +1729,7 @@ Alternatively, if your site is available in English and Japanese, the &lt;code&g
       <pubDate>Fri, 26 Jan 2024 10:11:15 +0800</pubDate>
       
       <guid>https://www.karlukle.site/en/player/</guid>
-      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;p&gt;The music system of this website is divided into two parts: &lt;a href=&#34;#hover-player&#34;  &gt;
-    Hover Player&lt;/a&gt; and &lt;a href=&#34;#music-station&#34;  &gt;
-    Music Station&lt;/a&gt;.&lt;/p&gt;
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;p&gt;The music system of this website is divided into two parts: &lt;a href=&#34;#hover-player&#34;&gt;Hover Player&lt;/a&gt; and &lt;a href=&#34;#music-station&#34;&gt;Music Station&lt;/a&gt;.&lt;/p&gt;
 
 
 &lt;h2 class=&#34;relative group&#34;&gt;Hover Player 
