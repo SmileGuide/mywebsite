@@ -1,30 +1,30 @@
 @echo off
  
-title ÈºÇàÁ÷ĞÇ~ÍøÕ¾¸üĞÂ¿ì½İ·¢²¼
+title ç¾¤é’æµæ˜Ÿ~ç½‘ç«™æ›´æ–°å¿«æ·å‘å¸ƒ
 color 3
-echo µ±Ç°Ä¿Â¼£º%cd%
+echo å½“å‰ç›®å½•ï¼š%cd%
 echo;
  echo;
-echo ¿ªÊ¼add...
+echo å¼€å§‹add...
 git add .
 echo;
  
-echo addÍê³É!
+echo addå®Œæˆ!
 echo;
 
-:: set /p declation=ÇëÊäÈëcommitĞÅÏ¢:
+:: set /p declation=è¯·è¾“å…¥commitä¿¡æ¯:
 :: git commit -m "%declation%"
 :: echo;
  
-echo ÕıÔÚcommit...
+echo æ­£åœ¨commit...
 git commit -m "routine update"
 echo;
 
-echo ÕıÔÚ½«commitÌá½»µ½Ô¶³Ì·şÎñÆ÷...
+echo æ­£åœ¨å°†commitæäº¤åˆ°è¿œç¨‹æœåŠ¡å™¨...
 git push -u github main
 echo;
  
-echo ·¢²¼Íê±Ï£¡
+echo å‘å¸ƒå®Œæ¯•ï¼
 echo;
  
 pause
