@@ -6,6 +6,9 @@ categories: [Others]
 series: []
 date: 2023-02-19T09:06:11+08:00
 draft: false
+showAuthor: false
+authors:
+- jin_shenghao
 ---
 ## My first blog.
 

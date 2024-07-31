@@ -12,7 +12,7 @@ title = "群青流星"
   # secondaryLogo = "img/secondary-logo.png"
   description = "我喜欢听花开的声音，更想自由地深情地呼吸。这是金圣皓的个人网站。"
   copyright = ":copyright: { year } JIN Shenghao"
-
+  
 [author]
   name = "金圣皓"
   image = "/img/avatar.png"

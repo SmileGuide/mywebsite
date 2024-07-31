@@ -1,7 +1,6 @@
 ---
 title: 我的微信号
 description: 在这里复制我的微信号
-authors: [金圣皓]
 date: 2024-01-01T10:11:15+08:00
 showDate: false
 ---

@@ -6,6 +6,9 @@ tags: [其他]
 date: 2023-02-19T09:06:11+08:00
 draft: false
 isCJKLanguage: true
+showAuthor: false
+authors:
+- 金圣皓
 ---
 
 ## 我的第一个博客。

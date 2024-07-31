@@ -1,7 +1,6 @@
 ---
 title: 关于我曾经的个性签名
 description: “保尔思伊 / 疾苦已满楼 / 以一币摁须”
-authors: [金圣皓]
 tags: ["语言"]
 date: 2023-03-25T23:08:18+08:00
 isCJKLanguage: true

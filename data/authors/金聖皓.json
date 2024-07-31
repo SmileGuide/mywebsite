@@ -1,0 +1,26 @@
+{
+    "name": "金聖皓",
+    "image": "/img/avatar_.png",
+    "headline": "",
+    "bio": "花が咲く音が好きで、心から自由に息をしたい。",
+    "social": [
+      {
+        "email": "mailto:3556932400@qq.com"
+      },
+      {
+        "qq": "/contact/myqq/"
+      },
+      {
+        "wechat": "/contact/myweixin/"
+      },
+      {
+        "zhihu": "https://www.zhihu.com/people/karlukle"
+      },
+      {
+        "github": "https://github.com/smileguide"
+      },
+      {
+        "x-twitter": "https://twitter.com/SmileGuide7"
+      }
+    ]
+  }

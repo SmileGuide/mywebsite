@@ -1,0 +1,26 @@
+{
+    "name": "JIN Shenghao",
+    "image": "/img/avatar_.png",
+    "headline": "",
+    "bio": "We are all in the gutter, but some of us are looking at the stars.",
+    "social": [
+      {
+        "email": "mailto:3556932400@qq.com"
+      },
+      {
+        "qq": "/contact/myqq/"
+      },
+      {
+        "wechat": "/contact/myweixin/"
+      },
+      {
+        "zhihu": "https://www.zhihu.com/people/karlukle"
+      },
+      {
+        "github": "https://github.com/smileguide"
+      },
+      {
+        "x-twitter": "https://twitter.com/SmileGuide7"
+      }
+    ]
+  }

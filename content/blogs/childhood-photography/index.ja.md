@@ -2,7 +2,6 @@
 title: PHOTO大変身——少年時代の写真の処理
 description: 集合写真の新規加工について...
 toc: true
-authors: [金聖皓]
 tags: ["撮影","PPT"]
 date: 2023-02-22T14:58:34+08:00
 draft: false

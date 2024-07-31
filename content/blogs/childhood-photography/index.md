@@ -1,7 +1,6 @@
 ---
 title: 旧照换新颜
 description: 关于一张合影的新处理
-authors: [金圣皓]
 tags: ["摄影","PPT"]
 date: 2023-02-22T14:58:34+08:00
 isCJKLanguage: true

@@ -1,7 +1,6 @@
 ---
 title: 关于两张照片
 description: ~两张童年照片最新公开~
-authors: [金圣皓]
 tags: [摄影,语言]
 date: 2023-03-25T15:42:59+08:00
 draft: false
