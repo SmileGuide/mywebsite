@@ -7,29 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>:copyright: 2024 JIN Shenghao</copyright>
-    <lastBuildDate>Thu, 01 Aug 2024 10:43:41 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/ja/authors/%E9%87%91%E8%81%96%E7%9A%93/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Classical</title>
-      <link>https://www.karlukle.site/ja/radio/classical/</link>
-      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
-      
-      <guid>https://www.karlukle.site/ja/radio/classical/</guid>
-      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
-&lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
-&lt;span style=&#34;color:#111827&#34;&gt;
-&lt;meting-js server=&#34;netease&#34; type=&#34;playlist&#34; id=&#34;9177890344&#34; autoplay=&#34;true&#34; listFolded=&#34;true&#34;&gt;&lt;/meting-js&gt;
-&lt;/span&gt;
-&lt;hr/&gt;
-
-&lt;section class=&#34;space-y-10 w-full&#34;&gt;
-    
-    
-&lt;/section&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/ja/radio/classical/feature.jpg" />
-    </item>
-    
+    <lastBuildDate>Thu, 01 Aug 2024 10:54:05 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/ja/authors/%E9%87%91%E8%81%96%E7%9A%93/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ガラス（完成品）</title>
       <link>https://www.karlukle.site/ja/docs/vb/glass/</link>
@@ -62,27 +40,6 @@
 &lt;p&gt;使用中に問題が発生した場合は、コメント欄で質問してください。&lt;/p&gt;
 </description>
       
-    </item>
-    
-    <item>
-      <title>New Age</title>
-      <link>https://www.karlukle.site/ja/radio/newage/</link>
-      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
-      
-      <guid>https://www.karlukle.site/ja/radio/newage/</guid>
-      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
-&lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
-&lt;span style=&#34;color:#111827&#34;&gt;
-&lt;meting-js server=&#34;netease&#34; type=&#34;playlist&#34; id=&#34;9178337946&#34; autoplay=&#34;true&#34; listFolded=&#34;true&#34;&gt;&lt;/meting-js&gt;
-&lt;/span&gt;&lt;hr/&gt;
-
-&lt;section class=&#34;space-y-10 w-full&#34;&gt;
-    
-    
-&lt;/section&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/ja/radio/newage/feature.jpg" />
     </item>
     
     <item>
@@ -129,27 +86,6 @@
 &lt;p&gt;使用中に問題が発生した場合は、コメント欄で質問してください。&lt;/p&gt;
 </description>
       
-    </item>
-    
-    <item>
-      <title>PanPop</title>
-      <link>https://www.karlukle.site/ja/radio/panpop/</link>
-      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
-      
-      <guid>https://www.karlukle.site/ja/radio/panpop/</guid>
-      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
-&lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
-&lt;span style=&#34;color:#111827&#34;&gt;
-&lt;meting-js server=&#34;netease&#34; type=&#34;playlist&#34; id=&#34;9177267468&#34; autoplay=&#34;true&#34; listFolded=&#34;true&#34;&gt;&lt;/meting-js&gt;
-&lt;/span&gt;&lt;hr/&gt;
-
-&lt;section class=&#34;space-y-10 w-full&#34;&gt;
-    
-    
-&lt;/section&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/ja/radio/panpop/feature.jpg" />
     </item>
     
     <item>
@@ -366,27 +302,6 @@
     </item>
     
     <item>
-      <title>Murmurs of Earth</title>
-      <link>https://www.karlukle.site/ja/radio/murmurs/</link>
-      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
-      
-      <guid>https://www.karlukle.site/ja/radio/murmurs/</guid>
-      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
-&lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
-&lt;span style=&#34;color:#111827&#34;&gt;
-&lt;meting-js server=&#34;netease&#34; type=&#34;album&#34; id=&#34;2848433&#34; autoplay=&#34;true&#34; listFolded=&#34;true&#34;&gt;&lt;/meting-js&gt;
-&lt;/span&gt;&lt;hr/&gt;
-
-&lt;section class=&#34;space-y-10 w-full&#34;&gt;
-    
-    
-&lt;/section&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/ja/radio/murmurs/feature.jpg" />
-    </item>
-    
-    <item>
       <title>31中 学生情報管理システム（完成品）</title>
       <link>https://www.karlukle.site/ja/docs/vb/31infsystem/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
@@ -590,17 +505,6 @@
       
       <guid>https://www.karlukle.site/ja/blogs/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/></description>
-      
-    </item>
-    
-    <item>
-      <title>音楽ステーション</title>
-      <link>https://www.karlukle.site/ja/radio/</link>
-      <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
-      
-      <guid>https://www.karlukle.site/ja/radio/</guid>
-      <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
-</description>
       
     </item>
     
