@@ -18,7 +18,7 @@ The sun buries my paradise.
 
 >蜡黄的枯草间奔跑者花开一样的火焰  
 
-A flame like a blossom runs through the waxen grass.
+A flame like blossom runs through the waxen grass.
 
 >昨天还微笑着唤醒花开的孩子  
 
@@ -26,27 +26,27 @@ The child who yesterday smiled and awakened the blossoms
 
 >躺在干涸的河床边  
 
-Lying by the dry riverbed 
+Lies by the dry riverbed, 
 
 >温柔的双眼萎缩成坚硬的石头  
 
-Tender eyes shriveled to hard stone.
+Whose tender eyes shriveled to hard stone.
 
 >稚嫩的双手炭化成黝黑的木柴  
 
-Delicacy hands charred into blackened firewood.
+Whose delicacy hands charred into blackened firewood.
 
 >他像千年前  
 
-He looks like  
+And looks like  
 
 >尼罗河边上被遗忘的老者  
 
-An forgotten old man on the Nile
+The forgotten old man on the Nile,
 
 >但灵魂得不到神圣的祝福  
 
-But the soul has no divine blessing.
+But his soul deserves no divine blessing.
 
 ____________
 
@@ -56,23 +56,23 @@ The roaring fire
 
 >贪婪地吮吸最后的汁液  
 
-Greedily sucking the last of the sap.
+Greedily sucks the last of the sap.
 
 >如果他的生命还没有在火光中弥散  
 
-If his life hadn't been dispersed in the flames.
+If his life hadn't been dispersed in the flames, 
 
 >他会伤心地哭  
 
-He would have wept sadly
+He would have wept sadly.
 
 >从前  
 
-In the past  
+In the past,  
 
 >泪珠会打湿他可爱的脸颊  
 
-Teardrops would wet his lovely cheeks
+Teardrops would wet his beloved cheeks,
 
 >勉强上扬的嘴角让人泪下  
 
@@ -80,63 +80,63 @@ With a heartbreaking forced smile.
 
 >现在  
 
-But now  
+Yet now,  
 
 >干瘪的泪腺挤不出一粒灰烬  
 
-Withered tear ducts can't squeeze out a speck of ash
+From his withered tear ducts one can't squeeze out a speck of ash, 
 
 >皱缩的皮肤换不来半点怜悯  
 
-The wrinkled skin can't exchange for half a mercy
+His wrinkled skin one can't exchange for even half a mercy.
 
 >他是太阳的敌人  
 
-He is the enemy of the sun  
+He is the enemy of the sun.  
 
 -----------
 
 >烈火在太阳的指使下置办她的佳肴  
 
-The fire cooks her delicacies at the sun's behest.
+Fire cooks her delicacies at the sun's behest,
 
 >从焦黑的眼窝里  
 
-From the blackened sockets of his eyes
+From the blackened sockets of eyes. 
 
 >还能想象出他拥有过的  
 
-I can still imagine
+We can still imagine,
 
 >纯真得可怜的过往  
 
-the pathetic innocence past he had  
+His pathetic innocence past he once had.  
 
 >他曾深情地期待着花开  
 
-He had fondly looked forward to the blossoms
+He had once fondly looked forward to the blossoms.
 
 >和他一样茁壮成长的花儿  
 
-Flowers that thrieved as him, though
+Flowers that thrieved as him, though, 
 
 >现在为他陪葬  
 
-are buried with him
+Are buried with him
 
 -----------
 
 >撑一把锈伞  
 
-With a rusty umbrella
+With a rusty umbrella, 
 
 >踏上失火的故土  
 
-Stepping onto the land of past
+I step onto the land of past.
 
 >他的灰烬和月光都溶在雨水里  
 
-His ashes and moonlight dissolve in the rain.
+His ashes along with the moonlight dissolve in the rain.
 
 >阳台上幻化着色彩的
 
@@ -144,23 +144,23 @@ The glass bottle
 
 >玻璃瓶  
 
-on the balcony with colors changing
+On the balcony with colors changing, 
 
 >是他小小的坟墓  
 
-is his tiny tomb
+Is his tiny tomb
 
 >我看见瓶里盛开的
 
-I see in the bottle
+In the bottle I see
 
 >太阳帮他创造的
 
-a smile like a blossom
+Smile like a blossom,
 
 >花开一样的笑脸  
 
-that the sun created for him.
+That the sun created for him.
 
 
 --END--
