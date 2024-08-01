@@ -1,7 +1,6 @@
 ---
 title: PanPop
 description: 著作権の都合上、抜粋でしか聴けない楽曲もありますので、聴きたい場合はご自身で検索してください。
-authors: [金聖皓]
 date: 2024-01-01T10:11:15+08:00
 showdate: false
 layoutBackgroundBlur: false

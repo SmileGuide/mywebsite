@@ -3,7 +3,6 @@ title: プレイヤー↙の中の音楽の構成
 description: 
 date: 2024-01-26T10:11:15+08:00
 isCJKLanguage: true
-tags: [音楽]
 ---
 ```md
 1. 正解(混声三部合唱) – RADWIMPS
