@@ -71,7 +71,9 @@ The song's PV was uploaded to Bilibili, garnering over 1,500 plays.  ![Bilibili]
 
 Now comes the rant about Tencent Musician and QQ Music. {{<blackbox>}}Extremely unfriendly toward VOCALOID producers—no contract options for songs, zero traffic exposure, and nightmare-tier customer service{{</blackbox>}}
 
-PS: NetEase Cloud Musician's lifetime membership serves me well 🍉.
+PS: NetEase Cloud Musician's lifetime membership serves me well 🍉.  
+
+Yesterday, during Niconico's VOCALOID event in Japan, I uploaded the song to Niconico. Surprisingly, it received around 10 live comments! ![Niconico](74410387b988795452a8c1403fff2ed.jpg){{<lead>}}↑They actually praised my lyrics! 😂{{</lead>}}
 
 ## Preview of Next Post
 Random musings like this—unlikely to attract attention elsewhere—are perfect for personal blogs. 😊  
