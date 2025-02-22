@@ -49,7 +49,7 @@ Ambient sounds play a significant role. Cicadas evoke endless summer days, vinyl
 
 ## The Future of This Site
 
-Over the past year, academic pressures and boarding school life left little time for site maintenance, resulting in a nearly year-long hiatus. Starting in June, the site will resume **regular updates**. I'll share insights on music theory, arrangement, and mixing. After entering university, I'll transform this into a **tech-focused blog** documenting my learning journey. The "Shuoshuo" section will be retired—life updates will migrate to NetEase Cloud notes and Bilibili {{<blackbox>}}BB space 🐕{{</blackbox>}} dynamics.  
+Over the past year, academic pressures and boarding school life left little time for site maintenance, resulting in a nearly year-long hiatus. Starting in June, the site will resume **regular updates**. I'll share insights on music theory, arrangement, and mixing. After entering university, I'll transform this into a **tech-focused blog** documenting my learning journey. The "Shuoshuo" section will be retired—life updates will migrate to NetEase Cloud notes and Bilibili {{<blackbox>}}BB Zone 🐕{{</blackbox>}} dynamics.  
 
 As an amateur producer, I'll maintain a separate online identity. To prepare for potential visibility, this update removes real names and personal details{{<blackbox>}}(anti-doxxing measures){{</blackbox>}}. The placeholder name "Karlukle"{{<blackbox>}}(awkward and meaningless){{</blackbox>}} will eventually be replaced by my producer alias. The domain name will change accordingly.  
 
