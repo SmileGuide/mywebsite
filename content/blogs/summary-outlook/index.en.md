@@ -32,14 +32,14 @@ Contrast is crucial. Key changes create pitch contrast, variations in instrument
 Ambient sounds play a significant role. Cicadas evoke endless summer days, vinyl crackles embody nostalgia, slightly detuned synth solos recall childhood birthday candles... Incorporating these elements builds unique atmospheres.
 
 ## Favorite VOCALOID Producers
-|Name|Introduction|  
+| Name | Impression |
 |--|--|  
-|[Neru](https://music.163.com/#/artist?id=546614)|The first to combine pop punk with VOCALOID.|  
-|[*Luna](https://music.163.com/#/artist?id=12323325)|Vocaloid duo. Bibi's vocal tuning—particularly the breath sounds and growls—left a deep impression.|  
-|[傘村トータ](https://music.163.com/#/artist?id=30828483) |Gentle ballads with masterful keyboard work.|  
-|[Orangestar](https://music.163.com/#/artist?id=1072042) |My earliest inspiration—summer vibes, young prodigy, Mormon faith, lived in the US.|  
-|[羽生まゐご](https://music.163.com/#/artist?id=12741288) |Delicate Japanese-style compositions.|  
-|[カンザキイオリ](https://music.163.com/#/artist?id=15250024)| Story-driven summer tracks.|  
+|[Neru](https://music.163.com/#/artist?id=546614)|Pioneer in blending pop-punk with VOCALOID music.|  
+|[*Luna](https://music.163.com/#/artist?id=12323325)|VOCALOID duo. Bibi's vocal tuning—with masterful breath sounds, growls, and portamento—left a deep first impression.|  
+|[傘村トータ](https://music.163.com/#/artist?id=30828483) |Gentle ballads with exceptional keyboard artistry.|  
+|[Orangestar](https://music.163.com/#/artist?id=1072042) |My gateway producer. Summer vibes, young prodigy, Mormon follower with stateside experience.|  
+|[羽生まゐご](https://music.163.com/#/artist?id=12741288) |Delicate Japanese-style melodies.|  
+|[カンザキイオリ](https://music.163.com/#/artist?id=15250024)| Narrative-driven summer anthems.|   
 |……| ……|  
 
 "One defining work per artist:
