@@ -63,6 +63,16 @@ This trilingual site (Chinese/English/Japanese) will prioritize Chinese updates 
 Having maintained ICP filing for a year, my conclusion: {{<blackbox>}}Not worth the hassle{{</blackbox>}}  
 While ICP filing enables Baidu indexing and domestic CDN access, it's server-dependent—problematic for static sites on Vercel. Baidu's ad-ridden search and strict policies make it less useful anyway. Vercel's built-in CDN suffices. For student bloggers, ICP filing proves time-consuming, costly, and ultimately ineffective.  
 
+## Platform Data (As of Date)
+
+I first released my track on NetEase Cloud Music. To my surprise, it surpassed 1,000 plays within just a few days (likely due to the virtual singer's fanbase effect).  ![NEM](18c24ad021e6d1044cea3c983433405.jpg)
+
+The song's PV was uploaded to Bilibili, garnering over 1,500 plays.  ![Bilibili](1b5fc8fde7db81bae002971a0518a36.jpg)  
+
+Now comes the rant about Tencent Musician and QQ Music. {{<blackbox>}}Extremely unfriendly toward VOCALOID producers—no contract options for songs, zero traffic exposure, and nightmare-tier customer service{{</blackbox>}}
+
+PS: NetEase Cloud Musician's lifetime membership serves me well 🍉.
+
 ## Preview of Next Post
 Random musings like this—unlikely to attract attention elsewhere—are perfect for personal blogs. 😊  
 
