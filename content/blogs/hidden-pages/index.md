@@ -24,7 +24,7 @@ tags: ["其他"]
 - 人生重开模拟器 [liferestart.karlukle.site](https://liferestart.karlukle.site)
 - 看板娘（Live2D Widget） API接口 [live2d.api.karlukle.site](https://live2d.api.karlukle.site)   
 - 音乐解锁（🤫ssh~） [unlockmusic.karlukle.site](https://unlockmusic.karlukle.site)   
-- 上一代站点 [old.karlukle.site](https://old.karlukle.site)
+<!-- - 上一代站点 [old.karlukle.site](https://old.karlukle.site) -->
 
 旧域名到新域名的跳转页面（已投稿为[“开往”的跳转页面](https://www.travellings.cn/docs/pages#go-by-clouds-%E4%B9%98%E4%BA%91%E8%80%8C%E5%8E%BB) ）  
 -  [smileguide.github.io](https://smileguide.github.io) --> [travellings.cn/go-by-clouds.html](https://www.travellings.cn/go-by-clouds.html)  

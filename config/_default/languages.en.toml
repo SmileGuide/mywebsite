@@ -11,10 +11,10 @@ title = "U'Marine Meteoroid"
   logo = ""
   # secondaryLogo = "img/secondary-logo.png"
   description = "We are all in the gutter, but some of us are looking at the stars. This is JIN Shenghao's Website."
-  copyright = ":copyright: { year } JIN Shenghao"
+  copyright = ":copyright: { year } Karlukle"
 
 [author]
-  name = "JIN Shenghao"
+  name = "Karlukle"
   image = "/img/avatar.png"
   headline = "We are all in the gutter, but some of us are looking at the stars."
   bio = ""

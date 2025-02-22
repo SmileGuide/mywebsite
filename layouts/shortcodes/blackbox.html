@@ -1,0 +1,52 @@
+<span class="blackbox-container">
+  <span class="blackbox-mask">{{ .Inner | markdownify }}</span>
+</span>
+
+<style>
+.blackbox-mask {
+  /* 基础样式保持不变 */
+  background: #000;
+  color: #000;
+  padding: 0;
+  margin: 0 -0.05em;
+  letter-spacing: -0.05em;
+  box-shadow: 0 0 0 1px #000;
+  display: inline-block;
+  line-height: 1;
+  position: relative;
+  transition: 
+    color 0.4s cubic-bezier(0.32, 0.72, 0, 1),
+    text-shadow 0.3s ease,
+    filter 0.4s ease; /* 新增滤镜过渡 */
+
+  /* Emoji 特殊处理 */
+  filter: 
+    grayscale(100%) 
+    brightness(0%) 
+    contrast(1000%); /* 强制单色 */
+}
+
+/* 悬停/激活状态 */
+.blackbox-mask:hover,
+.blackbox-mask.active {
+  color: #fff !important;
+  filter: none; /* 移除滤镜 */
+  text-shadow: 
+    0 0 2px rgba(255,255,255,0.2),
+    0 0 4px rgba(255,255,255,0.1);
+}
+
+/* 伪元素增强保持不变 */
+.blackbox-mask::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -1px;
+  bottom: -1px;
+  background: inherit;
+  z-index: -1;
+  transition: inherit;
+  opacity: 0.98;
+}
+</style>

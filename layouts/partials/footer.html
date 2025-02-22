@@ -100,7 +100,6 @@ observer.observe(article, options);
 
 
 
-
   <div class="flex items-center justify-between">
 
     {{/* Copyright */}}
@@ -129,6 +128,7 @@ observer.observe(article, options);
     {{ end }}
 
   </div>
+
   <script>
     {{ if not .Site.Params.disableImageZoom | default true }}
     mediumZoom(document.querySelectorAll("img:not(.nozoom)"), {
@@ -141,8 +141,10 @@ observer.observe(article, options);
   {{ $jsProcess := resources.Get "js/process.js" }}
   {{ $jsProcess = $jsProcess | resources.Minify | resources.Fingerprint "sha512" }}
   <script type="text/javascript" src="{{ $jsProcess.RelPermalink }}" integrity="{{ $jsProcess.Data.Integrity }}"></script>
+
   {{/* Extend footer - eg. for extra scripts, etc. */}}
   {{ if templates.Exists "partials/extend-footer.html" }}
   {{ partialCached "extend-footer.html" . }}
   {{ end }}
+
 </footer>

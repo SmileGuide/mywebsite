@@ -10,18 +10,21 @@ title = "群青流星"
   dateFormat = "2006年1月2日"
   logo = ""
   # secondaryLogo = "img/secondary-logo.png"
-  description = "我喜欢听花开的声音，更想自由地深情地呼吸。这是金圣皓的个人网站。"
-  copyright = ":copyright: { year } JIN Shenghao"
+  description = "像树海的风一样深情呼吸。"
+  copyright = ":copyright: { year } Karlukle"
   
 [author]
-  name = "金圣皓"
+  name = "Karlukle"
   image = "/img/avatar.png"
-  headline = "我喜欢听花开的声音，更想自由地深情地呼吸"
+  headline = "像树海的风一样深情呼吸"
+#  headline = "我喜欢听花开的声音，更想自由地深情地呼吸"
+
   bio = ""
   links = [
-    { email = "mailto:3556932400@qq.com" },
+    { email = "mailto:smileguide@163.com" },
     { qq = "/contact/myqq/" },
     { wechat = "/contact/myweixin/" },
+    { bilibili = "https://space.bilibili.com/3546736442215050" },
     { zhihu = "https://www.zhihu.com/people/karlukle" },
 #     { link = "https://link-to-some-website.com/" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
@@ -62,8 +65,8 @@ title = "群青流星"
 #     { tumblr = "https://username.tumblr.com" },
 #     { twitch = "https://twitch.tv/username" },
 #     { twitter = "https://twitter.com/username" },
-    { x-twitter = "https://twitter.com/SmileGuide7" },
+#   { x-twitter = "https://twitter.com/SmileGuide7" },
 #     { whatsapp = "https://wa.me/phone-number" },
-#     { youtube = "https://youtube.com/username" },
+ { youtube = "https://www.youtube.com/@Aoki-P" },
 #     { ko-fi = "https://ko-fi.com/username" },
   ]

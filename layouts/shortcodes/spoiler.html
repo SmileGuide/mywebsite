@@ -1,0 +1,40 @@
+{{/* layouts/shortcodes/spoiler.html */}}
+<div class="spoiler-box">
+  <button class="spoiler-button" onclick="this.nextElementSibling.classList.toggle('visible');this.classList.toggle('active')">
+    {{ .Get "title" | default "隐藏内容" }}
+  </button>
+  <div class="spoiler-content">
+    {{ .Inner | markdownify }}
+  </div>
+</div>
+
+<style>
+.spoiler-box {
+  margin: 1em 0;
+}
+.spoiler-button {
+  background: #333;
+  color: white !important;
+  border: none;
+  padding: 8px 15px;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+.spoiler-button:hover {
+  background: #555;
+}
+.spoiler-button.active {
+  background: #666;
+}
+.spoiler-content {
+  display: none;
+  padding: 10px;
+  border: 1px solid #ddd;
+  margin-top: 5px;
+  border-radius: 4px;
+}
+.spoiler-content.visible {
+  display: block;
+}
+</style>
