@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>:copyright: 2025 Karlukle</copyright>
-    <lastBuildDate>Sat, 22 Feb 2025 20:08:58 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Feb 2025 20:11:33 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Classical</title>
       <link>https://www.karlukle.site/en/radio/classical/</link>
@@ -1030,10 +1030,10 @@ At the same time, when translating Karlukle into Katakana, I learned from the na
     
     <item>
       <title>Miscellaneous Talk — Summary and Outlook</title>
-      <link>https://www.karlukle.site/en/blogs/summary-expectations/</link>
+      <link>https://www.karlukle.site/en/blogs/summary-outlook/</link>
       <pubDate>Sat, 22 Feb 2025 12:03:06 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/en/blogs/summary-expectations/</guid>
+      <guid>https://www.karlukle.site/en/blogs/summary-outlook/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>
 
 &lt;h2 class=&#34;relative group&#34;&gt;New Identity As A VOCALOID Producer 
@@ -1539,42 +1539,42 @@ While ICP filing enables Baidu indexing and domestic CDN access, it&amp;rsquo;s 
     
 
 
-&lt;div id=&#34;carousel-606f57930ede04cb11a8bffa6c13ddff&#34; class=&#34;relative&#34; data-twe-carousel-init data-twe-ride=&#34;carousel&#34;&gt;
+&lt;div id=&#34;carousel-36a84e2a85d1031dce82be2247c84729&#34; class=&#34;relative&#34; data-twe-carousel-init data-twe-ride=&#34;carousel&#34;&gt;
     &lt;div class=&#34;absolute right-0 bottom-0 left-0 z-[2] mx-[15%] mb-10 flex list-none justify-center p-0&#34;
         data-twe-carousel-indicators&gt;
 
         
         
 
-        &lt;button type=&#34;button&#34; data-twe-target=&#34;#carousel-606f57930ede04cb11a8bffa6c13ddff&#34; data-twe-slide-to=&#34;0&#34;  data-twe-carousel-active aria-current=&#34;true&#34;  
+        &lt;button type=&#34;button&#34; data-twe-target=&#34;#carousel-36a84e2a85d1031dce82be2247c84729&#34; data-twe-slide-to=&#34;0&#34;  data-twe-carousel-active aria-current=&#34;true&#34;  
         class=&#34;mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none&#34;
         aria-label=&#34;Slide 0&#34;&gt;&lt;/button&gt;
 
         
         
 
-        &lt;button type=&#34;button&#34; data-twe-target=&#34;#carousel-606f57930ede04cb11a8bffa6c13ddff&#34; data-twe-slide-to=&#34;1&#34;  
+        &lt;button type=&#34;button&#34; data-twe-target=&#34;#carousel-36a84e2a85d1031dce82be2247c84729&#34; data-twe-slide-to=&#34;1&#34;  
         class=&#34;mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none&#34;
         aria-label=&#34;Slide 1&#34;&gt;&lt;/button&gt;
 
         
         
 
-        &lt;button type=&#34;button&#34; data-twe-target=&#34;#carousel-606f57930ede04cb11a8bffa6c13ddff&#34; data-twe-slide-to=&#34;2&#34;  
+        &lt;button type=&#34;button&#34; data-twe-target=&#34;#carousel-36a84e2a85d1031dce82be2247c84729&#34; data-twe-slide-to=&#34;2&#34;  
         class=&#34;mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none&#34;
         aria-label=&#34;Slide 2&#34;&gt;&lt;/button&gt;
 
         
         
 
-        &lt;button type=&#34;button&#34; data-twe-target=&#34;#carousel-606f57930ede04cb11a8bffa6c13ddff&#34; data-twe-slide-to=&#34;3&#34;  
+        &lt;button type=&#34;button&#34; data-twe-target=&#34;#carousel-36a84e2a85d1031dce82be2247c84729&#34; data-twe-slide-to=&#34;3&#34;  
         class=&#34;mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none&#34;
         aria-label=&#34;Slide 3&#34;&gt;&lt;/button&gt;
 
         
         
 
-        &lt;button type=&#34;button&#34; data-twe-target=&#34;#carousel-606f57930ede04cb11a8bffa6c13ddff&#34; data-twe-slide-to=&#34;4&#34;  
+        &lt;button type=&#34;button&#34; data-twe-target=&#34;#carousel-36a84e2a85d1031dce82be2247c84729&#34; data-twe-slide-to=&#34;4&#34;  
         class=&#34;mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none&#34;
         aria-label=&#34;Slide 4&#34;&gt;&lt;/button&gt;
 
@@ -1590,7 +1590,7 @@ While ICP filing enables Baidu indexing and domestic CDN access, it&amp;rsquo;s 
         &lt;div class=&#34;relative float-left -mr-[100%]  w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none&#34;
             data-twe-carousel-item  data-twe-carousel-active &gt;
             &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
-                &lt;img src=&#34;https://www.karlukle.site/en/blogs/summary-expectations/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241231125803-1.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 0&#34;/&gt;
+                &lt;img src=&#34;https://www.karlukle.site/en/blogs/summary-outlook/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241231125803-1.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 0&#34;/&gt;
             &lt;/div&gt;
         &lt;/div&gt;
 
@@ -1600,7 +1600,7 @@ While ICP filing enables Baidu indexing and domestic CDN access, it&amp;rsquo;s 
         &lt;div class=&#34;relative float-left -mr-[100%]  hidden  w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none&#34;
             data-twe-carousel-item &gt;
             &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
-                &lt;img src=&#34;https://www.karlukle.site/en/blogs/summary-expectations/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241231125759-1.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 1&#34;/&gt;
+                &lt;img src=&#34;https://www.karlukle.site/en/blogs/summary-outlook/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241231125759-1.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 1&#34;/&gt;
             &lt;/div&gt;
         &lt;/div&gt;
 
@@ -1610,7 +1610,7 @@ While ICP filing enables Baidu indexing and domestic CDN access, it&amp;rsquo;s 
         &lt;div class=&#34;relative float-left -mr-[100%]  hidden  w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none&#34;
             data-twe-carousel-item &gt;
             &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
-                &lt;img src=&#34;https://www.karlukle.site/en/blogs/summary-expectations/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241231125755-1.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 2&#34;/&gt;
+                &lt;img src=&#34;https://www.karlukle.site/en/blogs/summary-outlook/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241231125755-1.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 2&#34;/&gt;
             &lt;/div&gt;
         &lt;/div&gt;
 
@@ -1620,7 +1620,7 @@ While ICP filing enables Baidu indexing and domestic CDN access, it&amp;rsquo;s 
         &lt;div class=&#34;relative float-left -mr-[100%]  hidden  w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none&#34;
             data-twe-carousel-item &gt;
             &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
-                &lt;img src=&#34;https://www.karlukle.site/en/blogs/summary-expectations/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241231125743-1.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 3&#34;/&gt;
+                &lt;img src=&#34;https://www.karlukle.site/en/blogs/summary-outlook/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241231125743-1.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 3&#34;/&gt;
             &lt;/div&gt;
         &lt;/div&gt;
 
@@ -1630,7 +1630,7 @@ While ICP filing enables Baidu indexing and domestic CDN access, it&amp;rsquo;s 
         &lt;div class=&#34;relative float-left -mr-[100%]  hidden  w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none&#34;
             data-twe-carousel-item &gt;
             &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
-                &lt;img src=&#34;https://www.karlukle.site/en/blogs/summary-expectations/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241231125750-1.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 4&#34;/&gt;
+                &lt;img src=&#34;https://www.karlukle.site/en/blogs/summary-outlook/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241231125750-1.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 4&#34;/&gt;
             &lt;/div&gt;
         &lt;/div&gt;
 
@@ -1640,7 +1640,7 @@ While ICP filing enables Baidu indexing and domestic CDN access, it&amp;rsquo;s 
     &lt;/div&gt;
     &lt;button
         class=&#34;absolute top-0 bottom-0 left-0 z-[2] flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center text-white opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:text-white hover:no-underline hover:opacity-90 hover:outline-none focus:text-white focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none&#34;
-        type=&#34;button&#34; data-twe-target=&#34;#carousel-606f57930ede04cb11a8bffa6c13ddff&#34; data-twe-slide=&#34;prev&#34;&gt;
+        type=&#34;button&#34; data-twe-target=&#34;#carousel-36a84e2a85d1031dce82be2247c84729&#34; data-twe-slide=&#34;prev&#34;&gt;
         &lt;span class=&#34;inline-block h-8 w-8&#34;&gt;
             &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;4.5&#34;
                 stroke=&#34;currentColor&#34; class=&#34;h-6 w-6&#34;&gt;
@@ -1652,7 +1652,7 @@ While ICP filing enables Baidu indexing and domestic CDN access, it&amp;rsquo;s 
     &lt;/button&gt;
     &lt;button
         class=&#34;absolute top-0 bottom-0 right-0 z-[1] flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center text-white opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:text-white hover:no-underline hover:opacity-90 hover:outline-none focus:text-white focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none&#34;
-        type=&#34;button&#34; data-twe-target=&#34;#carousel-606f57930ede04cb11a8bffa6c13ddff&#34; data-twe-slide=&#34;next&#34;&gt;
+        type=&#34;button&#34; data-twe-target=&#34;#carousel-36a84e2a85d1031dce82be2247c84729&#34; data-twe-slide=&#34;next&#34;&gt;
         &lt;span class=&#34;inline-block h-8 w-8&#34;&gt;
             &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;4.5&#34;
                 stroke=&#34;currentColor&#34; class=&#34;h-6 w-6&#34;&gt;
@@ -1666,7 +1666,7 @@ While ICP filing enables Baidu indexing and domestic CDN access, it&amp;rsquo;s 
 
 (the smile of &lt;em&gt;Fuwapuchi&lt;/em&gt;)&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/en/blogs/summary-expectations/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/en/blogs/summary-outlook/feature.jpg" />
     </item>
     
     <item>
