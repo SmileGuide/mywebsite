@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>群青流星</title>
+    <link>https://www.karlukle.site/tags/%E5%85%B6%E4%BB%96/</link>
+    <description>像树海的风一样深情呼吸</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>:copyright: 2025 Karlukle</copyright>
+    <lastBuildDate>Sat, 22 Feb 2025 18:12:09 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/tags/%E5%85%B6%E4%BB%96/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>在本站的角落里……</title>
+      <link>https://www.karlukle.site/blogs/hidden-pages/</link>
+      <pubDate>Sat, 09 Mar 2024 16:52:15 +0800</pubDate>
+      
+      <guid>https://www.karlukle.site/blogs/hidden-pages/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  听说有一些页面是躲起来的🤐
+&lt;/div&gt;
+
+&lt;p&gt;首先，不要忘了本站的两个外语版本哦&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;英文&lt;a href=&#34;https://www.karlukle.site/en/&#34;&gt;karlukle.site/en&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;日文&lt;a href=&#34;https://www.karlukle.site/ja/&#34;&gt;karlukle.site/ja&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;还有一些不容易发现的文章&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;介绍悬浮播放器里歌曲的&lt;a href=&#34;https://www.karlukle.site/player/&#34;&gt;精选音乐信息&lt;/a&gt;
+
+  &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
+    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; aria-hidden=&#34;true&#34; x=&#34;0px&#34; y=&#34;0px&#34; viewBox=&#34;0 0 100 100&#34; width=&#34;15&#34; height=&#34;15&#34; class=&#34;icon outbound&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z&#34;&gt;&lt;/path&gt; &lt;polygon fill=&#34;currentColor&#34; points=&#34;45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9&#34;&gt;&lt;/polygon&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+
+&lt;/li&gt;
+&lt;li&gt;叙述音乐站、播放器原理的&lt;a href=&#34;https://www.karlukle.site/radio/pick/&#34;&gt;关于网站音乐系统&lt;/a&gt;
+
+  &lt;span class=&#34;relative inline-block align-text-bottom icon&#34;&gt;
+    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; aria-hidden=&#34;true&#34; x=&#34;0px&#34; y=&#34;0px&#34; viewBox=&#34;0 0 100 100&#34; width=&#34;15&#34; height=&#34;15&#34; class=&#34;icon outbound&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M18.8,85.1h56l0,0c2.2,0,4-1.8,4-4v-32h-8v28h-48v-48h28v-8h-32l0,0c-2.2,0-4,1.8-4,4v56C14.8,83.3,16.6,85.1,18.8,85.1z&#34;&gt;&lt;/path&gt; &lt;polygon fill=&#34;currentColor&#34; points=&#34;45.7,48.7 51.3,54.3 77.2,28.5 77.2,37.2 85.2,37.2 85.2,14.9 62.8,14.9 62.8,22.9 71.5,22.9&#34;&gt;&lt;/polygon&gt;&lt;/svg&gt;
+  &lt;/span&gt;
+
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;一些子域名&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;人生重开模拟器 &lt;a href=&#34;https://liferestart.karlukle.site&#34; target=&#34;_blank&#34;&gt;liferestart.karlukle.site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;看板娘（Live2D Widget） API接口 &lt;a href=&#34;https://live2d.api.karlukle.site&#34; target=&#34;_blank&#34;&gt;live2d.api.karlukle.site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;音乐解锁（🤫ssh~） &lt;a href=&#34;https://unlockmusic.karlukle.site&#34; target=&#34;_blank&#34;&gt;unlockmusic.karlukle.site&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;!-- - 上一代站点 [old.karlukle.site](https://old.karlukle.site) --&gt;
+&lt;p&gt;旧域名到新域名的跳转页面（已投稿为&lt;a href=&#34;https://www.travellings.cn/docs/pages#go-by-clouds-%E4%B9%98%E4%BA%91%E8%80%8C%E5%8E%BB&#34; target=&#34;_blank&#34;&gt;“开往”的跳转页面&lt;/a&gt; ）&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://smileguide.github.io&#34; target=&#34;_blank&#34;&gt;smileguide.github.io&lt;/a&gt; &amp;ndash;&amp;gt; &lt;a href=&#34;https://www.travellings.cn/go-by-clouds.html&#34; target=&#34;_blank&#34;&gt;travellings.cn/go-by-clouds.html&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&amp;ndash;终&amp;ndash;&lt;/p&gt;
+</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/blogs/hidden-pages/feature.jpg" />
+    </item>
+    
+    <item>
+      <title>Hello World🎉</title>
+      <link>https://www.karlukle.site/blogs/hello-world/</link>
+      <pubDate>Sun, 19 Feb 2023 09:06:11 +0800</pubDate>
+      
+      <guid>https://www.karlukle.site/blogs/hello-world/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>
+
+&lt;h2 class=&#34;relative group&#34;&gt;我的第一个博客。 
+    &lt;div id=&#34;%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;这是我在个人网站上发表的第一篇博客。&lt;/p&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;这个网站是怎么搭建的？ 
+    &lt;div id=&#34;%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E6%98%AF%E6%80%8E%E4%B9%88%E6%90%AD%E5%BB%BA%E7%9A%84&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E8%BF%99%E4%B8%AA%E7%BD%91%E7%AB%99%E6%98%AF%E6%80%8E%E4%B9%88%E6%90%AD%E5%BB%BA%E7%9A%84&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;p&gt;我的个人网站是用 GitHub 的个人静态页面托管服务和静态页面构建工具 Hugo 共同建造而成的。
+有关详细信息，请搜索以下关键词：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;GitHub Pages&lt;/li&gt;
+&lt;li&gt;Hugo&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2 class=&#34;relative group&#34;&gt;中小学生守则（测试文本） 
+    &lt;div id=&#34;%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AE%88%E5%88%99%E6%B5%8B%E8%AF%95%E6%96%87%E6%9C%AC&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E4%B8%AD%E5%B0%8F%E5%AD%A6%E7%94%9F%E5%AE%88%E5%88%99%E6%B5%8B%E8%AF%95%E6%96%87%E6%9C%AC&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
+&lt;div id=&#34;typeit-29fe62e8a8c61889517139a4dc65bfec&#34;&gt;&lt;/div&gt;
+
+&lt;script&gt;
+    document.addEventListener(&#34;DOMContentLoaded&#34;, function () {
+      new TypeIt(&#34;#typeit-29fe62e8a8c61889517139a4dc65bfec&#34;, {
+        strings: [&#34;\r&#34;,&#34;1. 爱党爱国爱人民。了解党史国情，珍视国家荣誉，热爱祖国，热爱人民，热爱中国共产党。  \r&#34;,&#34;2. 好学多问肯钻研。上课专心听讲，积极发表见解，乐于科学探索，养成阅读习惯。  \r&#34;,&#34;3. 勤劳笃行乐奉献。自己事自己做，主动分担家务，参与劳动实践，热心志愿服务。  \r&#34;,&#34;4. 明礼守法讲美德。遵守国法校纪，自觉礼让排队，保持公共卫生，爱护公共财物。  \r&#34;,&#34;5. 孝亲尊师善待人。孝父母敬师长，爱集体助同学，虚心接受批评，学会合作共处。  \r&#34;,&#34;6. 诚实守信有担当。保持言行一致，不说谎不作弊，借东西及时还，做到知错就改。  \r&#34;,&#34;7. 自强自律健身心。坚持锻炼身体，乐观开朗向上，不吸烟不喝酒，文明绿色上网。  \r&#34;,&#34;8. 珍爱生命保安全。红灯停绿灯行，防溺水不玩火，会自护懂求救，坚决远离毒品。  \r&#34;,&#34;9. 勤俭节约护家园。不比吃喝穿戴，爱惜花草树木，节粮节水节电，低碳环保生活。\r&#34;,&#34;&#34;],
+        speed:  100 ,
+        lifeLike:  true ,
+        startDelay:  0 ,
+        breakLines:  true ,
+        waitUntilVisible:  true ,
+        loop:  false 
+      }).go();
+    });
+&lt;/script&gt;
+</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/blogs/hello-world/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>
