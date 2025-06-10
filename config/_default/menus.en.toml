@@ -71,6 +71,11 @@
  weight = 90
 
 [[main]]
+ name = "Links"
+ url = "/en/friends"
+ weight = 60
+
+[[main]]
  name = "Travelling"
  url = "https://www.travellings.cn/go-by-clouds.html"
  weight = 60

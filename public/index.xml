@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2025 Jukai Sarai</copyright>
-    <lastBuildDate>Tue, 10 Jun 2025 18:56:06 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 10 Jun 2025 19:23:44 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>古典乐 Classical</title>
       <link>https://www.karlukle.site/radio/classical/</link>
@@ -2822,48 +2822,13 @@ document.getElementById(&#39;github-901e03c7728ff01d3e2089fbcf9f6102-forks&#39;)
 &lt;div&gt;
 	&lt;hr/&gt;
 	&lt;div class=&#34;flex author&#34;&gt;
-		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;https://bu.dusays.com/2023/11/29/6567122d3f4a6.jpg&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
+		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;marice-1.jpg&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
 		&lt;div class=&#34;place-self-center&#34; onclick=&#39;window.open(&amp;#34;https://blog.marice.top/link/&amp;#34;)&#39;&gt;
 			&lt;div class=&#34;font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral-300&#34;&gt;
 				冰火之砺
 			&lt;/div&gt;
 			&lt;div class=&#34;text-[0.8rem] leading-3 text-neutral-500 dark:text-neutral-400&#34;&gt;
 				以坚冰信念铸烈火雄心
-			&lt;/div&gt;
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;style&gt;
-	.place-self-center{
-		cursor:pointer;
-	}
-
-	.author:hover img{
- transition: 0.9s !important;
- -webkit-transition: 0.9s !important;
- -moz-transition: 0.9s !important;
- -o-transition: 0.9s !important;
- -ms-transition: 0.9s !important;
- transform: rotate(360deg) !important;
- -webkit-transform: rotate(360deg) !important;
- -moz-transform: rotate(360deg) !important;
- -o-transform: rotate(360deg) !important;
- -ms-transform: rotate(360deg) !important;
-}
-&lt;/style&gt;
- 
-&lt;div&gt;
-	&lt;hr/&gt;
-	&lt;div class=&#34;flex author&#34;&gt;
-		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;https://josephz.top/image/avatar.webp&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
-		&lt;div class=&#34;place-self-center&#34; onclick=&#39;window.open(&amp;#34;https://josephz.top/&amp;#34;)&#39;&gt;
-			&lt;div class=&#34;font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral-300&#34;&gt;
-				云藉
-			&lt;/div&gt;
-			&lt;div class=&#34;text-[0.8rem] leading-3 text-neutral-500 dark:text-neutral-400&#34;&gt;
-				这里必须根绝一切犹豫。
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -2934,41 +2899,6 @@ document.getElementById(&#39;github-901e03c7728ff01d3e2089fbcf9f6102-forks&#39;)
 			&lt;/div&gt;
 			&lt;div class=&#34;text-[0.8rem] leading-3 text-neutral-500 dark:text-neutral-400&#34;&gt;
 				发现巷子里的那颗星星
-			&lt;/div&gt;
-		&lt;/div&gt;
-	&lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;style&gt;
-	.place-self-center{
-		cursor:pointer;
-	}
-
-	.author:hover img{
- transition: 0.9s !important;
- -webkit-transition: 0.9s !important;
- -moz-transition: 0.9s !important;
- -o-transition: 0.9s !important;
- -ms-transition: 0.9s !important;
- transform: rotate(360deg) !important;
- -webkit-transform: rotate(360deg) !important;
- -moz-transform: rotate(360deg) !important;
- -o-transform: rotate(360deg) !important;
- -ms-transform: rotate(360deg) !important;
-}
-&lt;/style&gt;
- 
-&lt;div&gt;
-	&lt;hr/&gt;
-	&lt;div class=&#34;flex author&#34;&gt;
-		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;https://bu.dusays.com/2023/10/01/6519291503349.jpg&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
-		&lt;div class=&#34;place-self-center&#34; onclick=&#39;window.open(&amp;#34;https://byer.top/&amp;#34;)&#39;&gt;
-			&lt;div class=&#34;font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral-300&#34;&gt;
-				星の野
-			&lt;/div&gt;
-			&lt;div class=&#34;text-[0.8rem] leading-3 text-neutral-500 dark:text-neutral-400&#34;&gt;
-				我自是年少，韶华倾负
 			&lt;/div&gt;
 		&lt;/div&gt;
 	&lt;/div&gt;
@@ -3179,7 +3109,7 @@ document.getElementById(&#39;github-901e03c7728ff01d3e2089fbcf9f6102-forks&#39;)
 &lt;/h3&gt;
 &lt;p&gt;要想让你的友链出现在此处，有以下两种方式：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;向我（&lt;a href=&#34;mailto:3556932400@qq.com?body=name%3A%20%0Alink%3A%20%0Aavatar%3A%20%0Adescrition%3A%20&#34;&gt;3556932400@qq.com&lt;/a&gt;或&lt;a href=&#34;mailto:smileguide@163.com?body=name%3A%20%0Alink%3A%20%0Aavatar%3A%20%0Adescrition%3A%20&#34;&gt;smileguide@163.com&lt;/a&gt;）发送电子邮件&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;向我 &lt;a href=&#34;mailto:jukaisr@outkook.com?body=name%3A%20%0Alink%3A%20%0Aavatar%3A%20%0Adescrition%3A%20&#34;&gt;jukaisr@outkook.com&lt;/a&gt;发送电子邮件&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;在下方评论区&lt;strong&gt;留言&lt;/strong&gt;（审核较慢，不推荐）&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;相应地，如果你的网站也有友链区，请&lt;strong&gt;把本站放入&lt;/strong&gt;。&lt;/p&gt;
@@ -3271,15 +3201,15 @@ document.getElementById(&#39;github-901e03c7728ff01d3e2089fbcf9f6102-forks&#39;)
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;name&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;群青流星&lt;/td&gt;
+&lt;td&gt;樹海サライ 或 JUKAI.SITE&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;link &lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://karlukle.site/&#34; target=&#34;_blank&#34;&gt;https://karlukle.site/&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://jukai.site/&#34; target=&#34;_blank&#34;&gt;https://jukai.site/&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;avatar&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://karlukle.site/avatar.png&#34; target=&#34;_blank&#34;&gt;https://karlukle.site/avatar.png&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://jukai.site/avatar.png&#34; target=&#34;_blank&#34;&gt;https://jukai.site/avatar.png&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;description&lt;/code&gt;&lt;/td&gt;
@@ -3297,19 +3227,19 @@ document.getElementById(&#39;github-901e03c7728ff01d3e2089fbcf9f6102-forks&#39;)
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;name&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;群青流星&lt;br&gt;U&amp;rsquo;Marine Meteoroid&lt;br&gt;群青流れ星&lt;/td&gt;
+&lt;td&gt;樹海サライ 或 JUKAI.SITE&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;link&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://karlukle.site/&#34; target=&#34;_blank&#34;&gt;https://karlukle.site/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://karlukle.site/en/&#34; target=&#34;_blank&#34;&gt;https://karlukle.site/en/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://karlukle.site/ja/&#34; target=&#34;_blank&#34;&gt;https://karlukle.site/ja/&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://jukai.site/&#34; target=&#34;_blank&#34;&gt;https://jukai.site/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://jukai.site/en/&#34; target=&#34;_blank&#34;&gt;https://jukai.site/en/&lt;/a&gt;&lt;br&gt;&lt;a href=&#34;https://jukai.site/ja/&#34; target=&#34;_blank&#34;&gt;https://jukai.site/ja/&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;avatar&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;&lt;a href=&#34;https://karlukle.site/avatar.png&#34; target=&#34;_blank&#34;&gt;https://karlukle.site/avatar.png&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;https://jukai.site/avatar.png&#34; target=&#34;_blank&#34;&gt;https://jukai.site/avatar.png&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;&lt;code&gt;description&lt;/code&gt;&lt;/td&gt;
-&lt;td&gt;我喜欢听花开的声音，更想自由地深情地呼吸&lt;br&gt;We are all in the gutter, but some of us are looking at the stars.&lt;br&gt;花が咲く音が好きで、心から自由に息をしたい。&lt;/td&gt;
+&lt;td&gt;我喜欢听花开的声音，更想自由地深情地呼吸&lt;br&gt;Twilight descends in woodlands.&lt;br&gt;風渡る樹海に夕闇降る。&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;

@@ -31,11 +31,9 @@ We are all in the gutter, but some of us are looking at the stars.
 {{< friend name="Pinpe's Cloud" link="https://pinpe.top" avatar="https://i0.hdslb.com/bfs/face/a2bb7859939871165f438ab2f96d72b8343dae41.jpg" description="My own cloud" >}}
 {{< friend name="Kegongteng" link="https://kegongteng.cn/" avatar="kegongteng.jpeg" description="Blogger / Technophile / Student" >}}
 {{< friend name="Heo" link="https://blog.zhheo.com/" avatar="https://bu.dusays.com/2022/12/28/63ac2812183aa.png" description="Sharing Design and Technology for Life" >}}
-{{< friend name="Ice and Fire" link="https://blog.marice.top/link/" avatar="https://bu.dusays.com/2023/11/29/6567122d3f4a6.jpg" description="Ice-cold faith forges fiery ambitions" >}}
-{{< friend name="Yunji" link="https://josephz.top/" avatar="https://josephz.top/image/avatar.webp" description="All hesitation must be eradicated here." >}}
+{{< friend name="Ice and Fire" link="https://blog.marice.top/link/" avatar="marice-1.jpg" description="Ice-cold faith forges fiery ambitions" >}}
 {{< friend name="Minus-K" link="https://bkryofu.xyz/" avatar="https://bkryofu.xyz/resources/avatar.webp" description="Despair is the same as hope for fabrication." >}}
 {{< friend name="SnowyMoe Observatory" link="https://blog.snowy.moe" avatar="https://img.snowy.moe/head.png" description="Discover the star in the alley" >}}
-{{< friend name="Star Field" link="https://byer.top/" avatar="https://bu.dusays.com/2023/10/01/6519291503349.jpg" description="I'm young with passion of youth" >}}
 {{< friend name="Anzhiyu" link="https://blog.anheyu.com/" avatar="https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg" description="Life is bright, everything is lovely" >}}
 {{< friend name="Mr Byte" link="https://blog.lvbyte.top/" avatar="https://npm.elemecdn.com/lvbyte-cdn/20230104/%E8%8B%B9%E6%9E%9C.156l7bksen40.jpg" description="Love is boundless, life has its limits" >}}
 {{< friend name="Rainy-Heights" link="https://todreamr.github.io/" avatar="chunjianghuayueye.png" description="In spring the river rises as high as the sea, and with the river’s tide uprises the moon bright." >}}
@@ -45,46 +43,48 @@ We are all in the gutter, but some of us are looking at the stars.
 ----
 <br/><br/><br/>
 
-## 1. About Friend Links
-The Internet is a big web, and links are the thread that connects this site to the vast community of bloggers. Through the links, you can find more personal websites.  
-### 1.1 How to make my link appear here?  
-There are two ways to get your link to appear here:
-- **Email me via [3556932400@qq.com](mailto:3556932400@qq.com?body=name%3A%20%0Alink%3A%20%0Aavatar%3A%20%0Adescrition%3A%20) or [smileguide@163.com](mailto:smileguide@163.com?body=name%3A%20%0Alink%3A%20%0Aavatar%3A%20%0Adescrition%3A%20)**
-- Leave a message in the comments area (not recommended)   
+## 1. About Friendship Links
+The Internet is a vast net, and friendship links are threads connecting this site to the blogosphere. Through these links, you can discover more personal websites.
+### 1.1 How to Apply
+To add your link here:
+- **Email me at [jukaisr@outkook.com](mailto:jukaisr@outkook.com?body=name%3A%20%0Alink%3A%20%0Aavatar%3A%20%0Adescrition%3A%20)**
+- **Comment below** (slower processing)
 
-Accordingly, if your site also has a friend link section, please **put this site in**.   
+If your site has a links section, please **add this site**.
+
 ### 1.2 Required Information
-|Your email or message needs to contain the following fields: |
-|  ----  | ---- |
-| `name` | The name of your site |
-| `link` | The URL of your site|
-| `avatar` | The URL of the image that will appear as an avatar |
-| `description` | The description of your site |   
+| Include these fields in your request: |
+| ---- | ---- |
+| `name` | Site Name |
+| `link` | Site URL |
+| `avatar` | Avatar URL |
+| `description` | Brief Description |
 
-It is worth noting that since this site is available in three languages, you can provide the site's **Name** and **Introduction** in three languages, in the order `Chinese/English/Japanese`. If **Default**, the foreign language of these two items will be translated by me.   
-Alternatively, if your site is available in English and Japanese, the `link` field can also be filled with **multiple entries**.  
+◉ Multilingual fields (Chinese/English/Japanese order) are accepted for `name` and `description`. Untranslated fields will be localized.  
+◉ For multilingual sites, provide multiple URLs in the `link` field.
 
-|Example of a trilingual field:  |
-|  ----  | ---- |
-| `name` | 网站名<br>Website name<br>ウェブサイトの名  |
-| `link` |网站链接<br>(Link)<br>(リンク)|
-| `avatar` | 头像地址 |
-| `description` | 介绍<br>Description<br>紹介  |   
+| Multilingual Example: |
+| ---- | ---- |
+| `name` | サイト名<br>Website Name<br>ウェブサイト名 |
+| `link` | https://example.com/<br>(English URL)<br>(日本語URL) |
+| `avatar` | https://example.com/avatar.png |
+| `description` | サイト説明<br>Description<br>サイトの説明文 |
 
-### 1.3 Information on This Site
-|1.3.1|The information on this site is as follows:|
-|  ----  | ---- |
-| `name` | U'Marine Meteoroid |
-| `link `| https://karlukle.site/en |
-| `avatar` | https://karlukle.site/avatar.png |
-| `description` | We are all in the gutter, but some of us are looking at the stars. | 
+### 1.3 Our Site Info
+| 1.3.1 Basic Info |
+| ---- | ---- |
+| `name` | 樹海サライ or JUKAI.SITE |
+| `link` | https://jukai.site/ |
+| `avatar` | https://jukai.site/avatar.png |
+| `description` | I listen to blossoms blooming, and breathe freely with passion |
 
-|1.3.2|The trilingual version of the information on this site is as follows:|
-|  ----  | ---- |
-| `name` | 群青流星<br>U'Marine Meteoroid<br>群青流れ星 |
-| `link` | https://karlukle.site<br>https://karlukle.site/en<br>https://karlukle.site/ja |
-| `avatar` | https://karlukle.site/avatar.png |
-| `description` | 我喜欢听花开的声音，更想自由地深情地呼吸<br>We are all in the gutter, but some of us are looking at the stars.<br>花が咲く音が好きで、心から自由に息をしたい。 | 
+| 1.3.2 Multilingual Version |
+| ---- | ---- |
+| `name` | 樹海サライ or JUKAI.SITE |
+| `link` | https://jukai.site/<br>https://jukai.site/en/<br>https://jukai.site/ja/ |
+| `avatar` | https://jukai.site/avatar.png |
+| `description` | 我喜欢听花开的声音，更想自由地深情地呼吸<br>Twilight descends in woodlands.<br>風渡る樹海に夕闇降る。 |
 
-## 2. Prerequisites
-For the sake of simplicity and elegance, please fill in the `description` field in a concise manner.  
+## 2. Guidelines
+Keep `description` concise.  
+Contact via email or comments for inquiries.
