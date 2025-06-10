@@ -2,7 +2,7 @@
 title: "Miscellaneous Talk — Summary and Outlook"
 date: 2025-02-22T12:03:06+08:00
 draft: false
-tag: ["Others","Miscellaneous Talk"]
+tags: ["Others","Miscellaneous Talk"]
 ---
 
 ## New Identity As A VOCALOID Producer

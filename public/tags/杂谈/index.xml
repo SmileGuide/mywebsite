@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JUKAI.SITE</title>
+    <link>https://www.karlukle.site/tags/%E6%9D%82%E8%B0%88/</link>
+    <description>我喜欢听花开的声音，更想自由地深情地呼吸</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <copyright>:copyright: 2025 Jukai Sarai</copyright>
+    <lastBuildDate>Tue, 10 Jun 2025 19:56:01 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/tags/%E6%9D%82%E8%B0%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>杂谈——总结和展望</title>
+      <link>https://www.karlukle.site/blogs/summary-outlook/</link>
+      <pubDate>Sat, 22 Feb 2025 12:03:06 +0800</pubDate>
+      
+      <guid>https://www.karlukle.site/blogs/summary-outlook/</guid>
+      <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;h2 id=&#34;vocaloid-p主新身份&#34;&gt;VOCALOID P主新身份&lt;/h2&gt;
+&lt;style&gt;
+    .aspect-ratio {
+        position: relative;
+        width: 100%;
+        height: 0;
+        padding-bottom: 75%;
+        }
+          
+    .aspect-ratio iframe {
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        left: 0;
+        top: 0;
+        }
+    &lt;/style&gt;
+          
+    
+    &lt;div align=center class=&#34;aspect-ratio&#34;&gt;
+        &lt;iframe src=&#34;https://player.bilibili.com/player.html?aid=113988297822905&amp;&amp;page=1&amp;as_wide=1&amp;high_quality=1&amp;danmaku=0&#34; 
+        scrolling=&#34;no&#34; 
+        border=&#34;0&#34; 
+        frameborder=&#34;no&#34; 
+        framespacing=&#34;0&#34; 
+        allowfullscreen=&#34;true&#34;&gt; 
+        &lt;/iframe&gt;
+    &lt;/div&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
+&lt;p&gt;&lt;meting-js
+auto=&#34;https://music.163.com/#/song?id=2672507555&#34;&gt;
+&lt;/meting-js&gt;&lt;/p&gt;
+&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  &amp;ldquo;这个春节，我在B站和网易云音乐投稿了 Vocaloid 原创曲，以 Aoki-P 的身份开启了P主生涯。&amp;rdquo;
+&lt;/div&gt;
+
+&lt;p&gt;投稿这首曲子主要是为了&lt;del&gt;尝试新的东西&lt;/del&gt;&lt;span class=&#34;blackbox-container&#34;&gt;
+  &lt;span class=&#34;blackbox-mask&#34;&gt;未成年投稿P的属性🤭&lt;/span&gt;
+&lt;/span&gt;
+
+&lt;style&gt;
+.blackbox-mask {
+   
+  background: #000;
+  color: #000;
+  padding: 0;
+  margin: 0 -0.05em;
+  letter-spacing: -0.05em;
+  box-shadow: 0 0 0 1px #000;
+  display: inline-block;
+  line-height: 1;
+  position: relative;
+  transition: 
+    color 0.4s cubic-bezier(0.32, 0.72, 0, 1),
+    text-shadow 0.3s ease,
+    filter 0.4s ease;  
+
+   
+  filter: 
+    grayscale(100%) 
+    brightness(0%) 
+    contrast(1000%);  
+}
+
+ 
+.blackbox-mask:hover,
+.blackbox-mask.active {
+  color: #fff !important;
+  filter: none;  
+  text-shadow: 
+    0 0 2px rgba(255,255,255,0.2),
+    0 0 4px rgba(255,255,255,0.1);
+}
+
+ 
+.blackbox-mask::after {
+  content: &#34;&#34;;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -1px;
+  bottom: -1px;
+  background: inherit;
+  z-index: -1;
+  transition: inherit;
+  opacity: 0.98;
+}
+&lt;/style&gt;。&lt;/p&gt;
+&lt;p&gt;计划在高考后（2025年6月）系统地学习编曲和混音，潜心研究引起听众共鸣的方法，找到自己的风格，然后换一个让人印象深刻的名字，再次出发。&lt;/p&gt;
+&lt;h2 id=&#34;对音乐的一些见解&#34;&gt;对音乐的一些见解&lt;/h2&gt;
+&lt;p&gt;无论怎样的风格，只要能让听众舒适、感动，得到放松、愉悦甚至从歌曲中找到自己的影子，就是好音乐。&lt;/p&gt;
+&lt;p&gt;越来越感觉写歌和写文章大差不差。利用自己的技术和审美，打磨出能被喜欢的作品，二者的创作是同样的心路历程。&lt;/p&gt;
+&lt;p&gt;营造对比是很重要的。移调带来音高的对比，配器数量的变化带来响度的对比……大多数流行音乐本质和古典交响乐一样，是“信息的盛宴”。和弦、复调形成变化多端的音程关系，在规律中创造不规律，由不稳定走向稳定，从提出问题到解决问题……节奏律动和旋律运动相结合，就创造出悦耳的旋律。这时如果再加上有情感张力或是娓娓道来的歌词，配上富有色彩抑或是简单至真的和弦进行，就能创造出让人印象深刻的信息盛宴。&lt;/p&gt;
+&lt;p&gt;氛围音的作用很大。蝉鸣勾起悠远的夏日时光，黑胶唱片的杂音饱含对一去不返的回忆的追思，略微走调的合成器独奏让人回想起儿时生日蛋糕上的花形蜡烛……在乐曲中加入这些声音会营造独特的氛围。&lt;/p&gt;
+&lt;h2 id=&#34;喜欢的vocaloid-p主&#34;&gt;喜欢的VOCALOID P主&lt;/h2&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;名字&lt;/th&gt;
+&lt;th&gt;印象&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://music.163.com/#/artist?id=546614&#34;&gt;Neru&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;流行朋克和术力口结合第一人。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://music.163.com/#/artist?id=12323325&#34;&gt;*Luna&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;术曲创作组合。びび的调教第一次听时，对其呼吸音、怒音、滑音的使用印象深刻。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://music.163.com/#/artist?id=30828483&#34;&gt;傘村トータ&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;温柔抒情曲，高超键盘力。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://music.163.com/#/artist?id=1072042&#34;&gt;Orangestar&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;最早接触的P主，夏天感，低龄触，信仰摩门教，在美国生活过。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://music.163.com/#/artist?id=12741288&#34;&gt;羽生まゐご&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;温柔和风。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;&lt;a href=&#34;https://music.163.com/#/artist?id=15250024&#34;&gt;カンザキイオリ&lt;/a&gt;&lt;/td&gt;
+&lt;td&gt;故事感夏曲。&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;……&lt;/td&gt;
+&lt;td&gt;……&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;一人一首代表作：
+&lt;meting-js
+server=&#34;netease&#34; type=&#34;playlist&#34; id=&#34;13356030364&#34;&gt;
+&lt;/meting-js&gt;&lt;/p&gt;
+&lt;h2 id=&#34;本站的未来&#34;&gt;本站的未来&lt;/h2&gt;
+&lt;p&gt;之前一年忙于学业，加上寄宿生的身份，打理网站的时间少之又少，所以断更了差不多一年。不过，接下来的日子里，从六月份开始，网站将&lt;strong&gt;恢复正常状态&lt;/strong&gt;。届时，我将会把一些乐理、编曲、混音方面的知识心得分享在网站上；大学入学后，我会把在学习过程中获得的体会写成文章，把本站打造成一个&lt;strong&gt;技术型博客&lt;/strong&gt;。“说说”将会关闭，生活动态等非技术类内容将转移到网易云音乐笔记和 Bilibili &lt;span class=&#34;blackbox-container&#34;&gt;
+  &lt;span class=&#34;blackbox-mask&#34;&gt;BB空间🐶&lt;/span&gt;
+&lt;/span&gt;
+
+&lt;style&gt;
+.blackbox-mask {
+   
+  background: #000;
+  color: #000;
+  padding: 0;
+  margin: 0 -0.05em;
+  letter-spacing: -0.05em;
+  box-shadow: 0 0 0 1px #000;
+  display: inline-block;
+  line-height: 1;
+  position: relative;
+  transition: 
+    color 0.4s cubic-bezier(0.32, 0.72, 0, 1),
+    text-shadow 0.3s ease,
+    filter 0.4s ease;  
+
+   
+  filter: 
+    grayscale(100%) 
+    brightness(0%) 
+    contrast(1000%);  
+}
+
+ 
+.blackbox-mask:hover,
+.blackbox-mask.active {
+  color: #fff !important;
+  filter: none;  
+  text-shadow: 
+    0 0 2px rgba(255,255,255,0.2),
+    0 0 4px rgba(255,255,255,0.1);
+}
+
+ 
+.blackbox-mask::after {
+  content: &#34;&#34;;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -1px;
+  bottom: -1px;
+  background: inherit;
+  z-index: -1;
+  transition: inherit;
+  opacity: 0.98;
+}
+&lt;/style&gt;动态之类的平台。&lt;/p&gt;
+&lt;p&gt;正式成为一名业余P主后，会多一个网络身份，或许也会得到很大的群众关注度。因此，本次更新的同时去除了原有的本名、个人信息&lt;span class=&#34;blackbox-container&#34;&gt;
+  &lt;span class=&#34;blackbox-mask&#34;&gt;（防止被开盒）&lt;/span&gt;
+&lt;/span&gt;
+
+&lt;style&gt;
+.blackbox-mask {
+   
+  background: #000;
+  color: #000;
+  padding: 0;
+  margin: 0 -0.05em;
+  letter-spacing: -0.05em;
+  box-shadow: 0 0 0 1px #000;
+  display: inline-block;
+  line-height: 1;
+  position: relative;
+  transition: 
+    color 0.4s cubic-bezier(0.32, 0.72, 0, 1),
+    text-shadow 0.3s ease,
+    filter 0.4s ease;  
+
+   
+  filter: 
+    grayscale(100%) 
+    brightness(0%) 
+    contrast(1000%);  
+}
+
+ 
+.blackbox-mask:hover,
+.blackbox-mask.active {
+  color: #fff !important;
+  filter: none;  
+  text-shadow: 
+    0 0 2px rgba(255,255,255,0.2),
+    0 0 4px rgba(255,255,255,0.1);
+}
+
+ 
+.blackbox-mask::after {
+  content: &#34;&#34;;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -1px;
+  bottom: -1px;
+  background: inherit;
+  z-index: -1;
+  transition: inherit;
+  opacity: 0.98;
+}
+&lt;/style&gt;，在想好作为P主的正式名称后，还会移除 Karlukle 这一&lt;span class=&#34;blackbox-container&#34;&gt;
+  &lt;span class=&#34;blackbox-mask&#34;&gt;难记而且没有实际意义的&lt;/span&gt;
+&lt;/span&gt;
+
+&lt;style&gt;
+.blackbox-mask {
+   
+  background: #000;
+  color: #000;
+  padding: 0;
+  margin: 0 -0.05em;
+  letter-spacing: -0.05em;
+  box-shadow: 0 0 0 1px #000;
+  display: inline-block;
+  line-height: 1;
+  position: relative;
+  transition: 
+    color 0.4s cubic-bezier(0.32, 0.72, 0, 1),
+    text-shadow 0.3s ease,
+    filter 0.4s ease;  
+
+   
+  filter: 
+    grayscale(100%) 
+    brightness(0%) 
+    contrast(1000%);  
+}
+
+ 
+.blackbox-mask:hover,
+.blackbox-mask.active {
+  color: #fff !important;
+  filter: none;  
+  text-shadow: 
+    0 0 2px rgba(255,255,255,0.2),
+    0 0 4px rgba(255,255,255,0.1);
+}
+
+ 
+.blackbox-mask::after {
+  content: &#34;&#34;;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -1px;
+  bottom: -1px;
+  background: inherit;
+  z-index: -1;
+  transition: inherit;
+  opacity: 0.98;
+}
+&lt;/style&gt;名称属性，把新名称作为线上活动的唯一标识名。本站的域名也会因此改变。&lt;/p&gt;
+&lt;p&gt;音乐站也将重新改组，精简分类，并和我的网易云音乐歌单绑定，再加一栏“我的原创音乐”。&lt;/p&gt;
+&lt;p&gt;同时，本站还会移除一些依赖后端的东西，比如点击量显示。由于Leancloud日渐不稳定，正在考虑把评论系统迁移到其他平台上。&lt;/p&gt;
+&lt;p&gt;本站是个三语网站……鉴于本人日语水平十分有限，翻译长文会吐血&lt;span class=&#34;blackbox-container&#34;&gt;
+  &lt;span class=&#34;blackbox-mask&#34;&gt;其实是因为没有日语读者&lt;/span&gt;
+&lt;/span&gt;
+
+&lt;style&gt;
+.blackbox-mask {
+   
+  background: #000;
+  color: #000;
+  padding: 0;
+  margin: 0 -0.05em;
+  letter-spacing: -0.05em;
+  box-shadow: 0 0 0 1px #000;
+  display: inline-block;
+  line-height: 1;
+  position: relative;
+  transition: 
+    color 0.4s cubic-bezier(0.32, 0.72, 0, 1),
+    text-shadow 0.3s ease,
+    filter 0.4s ease;  
+
+   
+  filter: 
+    grayscale(100%) 
+    brightness(0%) 
+    contrast(1000%);  
+}
+
+ 
+.blackbox-mask:hover,
+.blackbox-mask.active {
+  color: #fff !important;
+  filter: none;  
+  text-shadow: 
+    0 0 2px rgba(255,255,255,0.2),
+    0 0 4px rgba(255,255,255,0.1);
+}
+
+ 
+.blackbox-mask::after {
+  content: &#34;&#34;;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -1px;
+  bottom: -1px;
+  background: inherit;
+  z-index: -1;
+  transition: inherit;
+  opacity: 0.98;
+}
+&lt;/style&gt;，以后主要更新中文（尽量同步更新英文），等本人日语水平到达一定高度再恢复日文更新。&lt;/p&gt;
+&lt;h2 id=&#34;关于icp备案&#34;&gt;关于ICP备案&lt;/h2&gt;
+&lt;p&gt;本站ICP备案已经一年了，对此我的看法是：&lt;span class=&#34;blackbox-container&#34;&gt;
+  &lt;span class=&#34;blackbox-mask&#34;&gt;别备了，没用&lt;/span&gt;
+&lt;/span&gt;
+
+&lt;style&gt;
+.blackbox-mask {
+   
+  background: #000;
+  color: #000;
+  padding: 0;
+  margin: 0 -0.05em;
+  letter-spacing: -0.05em;
+  box-shadow: 0 0 0 1px #000;
+  display: inline-block;
+  line-height: 1;
+  position: relative;
+  transition: 
+    color 0.4s cubic-bezier(0.32, 0.72, 0, 1),
+    text-shadow 0.3s ease,
+    filter 0.4s ease;  
+
+   
+  filter: 
+    grayscale(100%) 
+    brightness(0%) 
+    contrast(1000%);  
+}
+
+ 
+.blackbox-mask:hover,
+.blackbox-mask.active {
+  color: #fff !important;
+  filter: none;  
+  text-shadow: 
+    0 0 2px rgba(255,255,255,0.2),
+    0 0 4px rgba(255,255,255,0.1);
+}
+
+ 
+.blackbox-mask::after {
+  content: &#34;&#34;;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -1px;
+  bottom: -1px;
+  background: inherit;
+  z-index: -1;
+  transition: inherit;
+  opacity: 0.98;
+}
+&lt;/style&gt;&lt;br&gt;
+ICP备案确实能给网站带来一些好东西，比如上百度的能力、国内CDN加速的权利……但是，ICP备案大多是和服务器绑定的，理论上，站点必须建在服务器上才能备案。对于像本站一样的部署在Vercel上的静态网站，备案是挂羊头卖狗肉行为。更何况百度&lt;span class=&#34;blackbox-container&#34;&gt;
+  &lt;span class=&#34;blackbox-mask&#34;&gt;由于满屏的广告和不备案不收录的规定&lt;/span&gt;
+&lt;/span&gt;
+
+&lt;style&gt;
+.blackbox-mask {
+   
+  background: #000;
+  color: #000;
+  padding: 0;
+  margin: 0 -0.05em;
+  letter-spacing: -0.05em;
+  box-shadow: 0 0 0 1px #000;
+  display: inline-block;
+  line-height: 1;
+  position: relative;
+  transition: 
+    color 0.4s cubic-bezier(0.32, 0.72, 0, 1),
+    text-shadow 0.3s ease,
+    filter 0.4s ease;  
+
+   
+  filter: 
+    grayscale(100%) 
+    brightness(0%) 
+    contrast(1000%);  
+}
+
+ 
+.blackbox-mask:hover,
+.blackbox-mask.active {
+  color: #fff !important;
+  filter: none;  
+  text-shadow: 
+    0 0 2px rgba(255,255,255,0.2),
+    0 0 4px rgba(255,255,255,0.1);
+}
+
+ 
+.blackbox-mask::after {
+  content: &#34;&#34;;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -1px;
+  bottom: -1px;
+  background: inherit;
+  z-index: -1;
+  transition: inherit;
+  opacity: 0.98;
+}
+&lt;/style&gt;已搜不到什么有用的东西，而且有Vercel自带的CDN已经足够。所以对学生博主来说，ICP备案是费时、费力、费钱的东西，也不一定会有好的结果。&lt;/p&gt;
+&lt;h2 id=&#34;平台数据截至当日&#34;&gt;平台数据（截至当日）&lt;/h2&gt;
+&lt;p&gt;我的曲子首先发布在网易云音乐上。没想到短短几天时间播放量就破千（可能是虚拟歌姬引流作用）。&lt;img src=&#34;https://www.karlukle.site/blogs/summary-outlook/18c24ad021e6d1044cea3c983433405.jpg&#34; alt=&#34;网易云音乐&#34;  /&gt;
+歌曲的PV发布在B站上，获得了 1700 余个播放量。  &lt;img src=&#34;https://www.karlukle.site/blogs/summary-outlook/1b5fc8fde7db81bae002971a0518a36.jpg&#34; alt=&#34;B站&#34;  /&gt;&lt;br&gt;
+这里就要吐槽一下腾讯音乐人和QQ音乐。&lt;span class=&#34;blackbox-container&#34;&gt;
+  &lt;span class=&#34;blackbox-mask&#34;&gt;对VOCALOID职人极度不友好，歌曲不能签约，根本没有流量，与客服沟通困难&lt;/span&gt;
+&lt;/span&gt;
+
+&lt;style&gt;
+.blackbox-mask {
+   
+  background: #000;
+  color: #000;
+  padding: 0;
+  margin: 0 -0.05em;
+  letter-spacing: -0.05em;
+  box-shadow: 0 0 0 1px #000;
+  display: inline-block;
+  line-height: 1;
+  position: relative;
+  transition: 
+    color 0.4s cubic-bezier(0.32, 0.72, 0, 1),
+    text-shadow 0.3s ease,
+    filter 0.4s ease;  
+
+   
+  filter: 
+    grayscale(100%) 
+    brightness(0%) 
+    contrast(1000%);  
+}
+
+ 
+.blackbox-mask:hover,
+.blackbox-mask.active {
+  color: #fff !important;
+  filter: none;  
+  text-shadow: 
+    0 0 2px rgba(255,255,255,0.2),
+    0 0 4px rgba(255,255,255,0.1);
+}
+
+ 
+.blackbox-mask::after {
+  content: &#34;&#34;;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -1px;
+  bottom: -1px;
+  background: inherit;
+  z-index: -1;
+  transition: inherit;
+  opacity: 0.98;
+}
+&lt;/style&gt;&lt;br&gt;
+PS: 网易云音乐人的永久会员用起来很香🍉。&lt;/p&gt;
+&lt;p&gt;昨天日本的 Niconico 搞术曲活动，遂投至N站。竟有约 10 条弹幕。&lt;img src=&#34;https://www.karlukle.site/blogs/summary-outlook/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20250222223718.jpg&#34; alt=&#34;N站&#34;  /&gt;&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  ↑歌词收获母语者的赞赏😂
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;下一篇文章的内容预测&#34;&gt;下一篇文章的内容预测&lt;/h2&gt;
+&lt;p&gt;这样没有主题、放在其他平台上都不会有人看的杂文，放在博客上是再好不过了。以后这样的东西都会只发在博客上。☺️&lt;/p&gt;
+&lt;p&gt;下一篇可能是个测评？🤔&lt;span class=&#34;blackbox-container&#34;&gt;
+  &lt;span class=&#34;blackbox-mask&#34;&gt;《6月XX日：关于为大学准备的笔电、外设、声卡、Midi 控制器、监听耳机……》&lt;/span&gt;
+&lt;/span&gt;
+
+&lt;style&gt;
+.blackbox-mask {
+   
+  background: #000;
+  color: #000;
+  padding: 0;
+  margin: 0 -0.05em;
+  letter-spacing: -0.05em;
+  box-shadow: 0 0 0 1px #000;
+  display: inline-block;
+  line-height: 1;
+  position: relative;
+  transition: 
+    color 0.4s cubic-bezier(0.32, 0.72, 0, 1),
+    text-shadow 0.3s ease,
+    filter 0.4s ease;  
+
+   
+  filter: 
+    grayscale(100%) 
+    brightness(0%) 
+    contrast(1000%);  
+}
+
+ 
+.blackbox-mask:hover,
+.blackbox-mask.active {
+  color: #fff !important;
+  filter: none;  
+  text-shadow: 
+    0 0 2px rgba(255,255,255,0.2),
+    0 0 4px rgba(255,255,255,0.1);
+}
+
+ 
+.blackbox-mask::after {
+  content: &#34;&#34;;
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -1px;
+  bottom: -1px;
+  background: inherit;
+  z-index: -1;
+  transition: inherit;
+  opacity: 0.98;
+}
+&lt;/style&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+    
+        
+    
+
+    
+        
+    
+
+    
+        
+    
+
+    
+        
+    
+
+    
+        
+    
+
+
+&lt;div id=&#34;carousel-1ce9568aa0a4f9733e54889d669e7901&#34; class=&#34;relative&#34; data-twe-carousel-init data-twe-ride=&#34;carousel&#34;&gt;
+    &lt;div class=&#34;absolute right-0 bottom-0 left-0 z-[2] mx-[15%] mb-10 flex list-none justify-center p-0&#34;
+        data-twe-carousel-indicators&gt;
+
+        
+        
+
+        &lt;button type=&#34;button&#34; data-twe-target=&#34;#carousel-1ce9568aa0a4f9733e54889d669e7901&#34; data-twe-slide-to=&#34;0&#34;  data-twe-carousel-active aria-current=&#34;true&#34;  
+        class=&#34;mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none&#34;
+        aria-label=&#34;Slide 0&#34;&gt;&lt;/button&gt;
+
+        
+        
+
+        &lt;button type=&#34;button&#34; data-twe-target=&#34;#carousel-1ce9568aa0a4f9733e54889d669e7901&#34; data-twe-slide-to=&#34;1&#34;  
+        class=&#34;mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none&#34;
+        aria-label=&#34;Slide 1&#34;&gt;&lt;/button&gt;
+
+        
+        
+
+        &lt;button type=&#34;button&#34; data-twe-target=&#34;#carousel-1ce9568aa0a4f9733e54889d669e7901&#34; data-twe-slide-to=&#34;2&#34;  
+        class=&#34;mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none&#34;
+        aria-label=&#34;Slide 2&#34;&gt;&lt;/button&gt;
+
+        
+        
+
+        &lt;button type=&#34;button&#34; data-twe-target=&#34;#carousel-1ce9568aa0a4f9733e54889d669e7901&#34; data-twe-slide-to=&#34;3&#34;  
+        class=&#34;mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none&#34;
+        aria-label=&#34;Slide 3&#34;&gt;&lt;/button&gt;
+
+        
+        
+
+        &lt;button type=&#34;button&#34; data-twe-target=&#34;#carousel-1ce9568aa0a4f9733e54889d669e7901&#34; data-twe-slide-to=&#34;4&#34;  
+        class=&#34;mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none&#34;
+        aria-label=&#34;Slide 4&#34;&gt;&lt;/button&gt;
+
+        
+        
+
+    &lt;/div&gt;
+    &lt;div class=&#34;relative w-full overflow-hidden after:clear-both after:block after:content-[&#39;&#39;]&#34;&gt;
+
+        
+        
+
+        &lt;div class=&#34;relative float-left -mr-[100%]  w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none&#34;
+            data-twe-carousel-item  data-twe-carousel-active &gt;
+            &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
+                &lt;img src=&#34;https://www.karlukle.site/blogs/summary-outlook/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241231125803-1.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 0&#34;/&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+        
+        
+
+        &lt;div class=&#34;relative float-left -mr-[100%]  hidden  w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none&#34;
+            data-twe-carousel-item &gt;
+            &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
+                &lt;img src=&#34;https://www.karlukle.site/blogs/summary-outlook/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241231125759-1.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 1&#34;/&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+        
+        
+
+        &lt;div class=&#34;relative float-left -mr-[100%]  hidden  w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none&#34;
+            data-twe-carousel-item &gt;
+            &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
+                &lt;img src=&#34;https://www.karlukle.site/blogs/summary-outlook/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241231125755-1.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 2&#34;/&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+        
+        
+
+        &lt;div class=&#34;relative float-left -mr-[100%]  hidden  w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none&#34;
+            data-twe-carousel-item &gt;
+            &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
+                &lt;img src=&#34;https://www.karlukle.site/blogs/summary-outlook/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241231125743-1.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 3&#34;/&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+        
+        
+
+        &lt;div class=&#34;relative float-left -mr-[100%]  hidden  w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none&#34;
+            data-twe-carousel-item &gt;
+            &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
+                &lt;img src=&#34;https://www.karlukle.site/blogs/summary-outlook/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241231125750-1.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 4&#34;/&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+
+        
+        
+
+    &lt;/div&gt;
+    &lt;button
+        class=&#34;absolute top-0 bottom-0 left-0 z-[2] flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center text-white opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:text-white hover:no-underline hover:opacity-90 hover:outline-none focus:text-white focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none&#34;
+        type=&#34;button&#34; data-twe-target=&#34;#carousel-1ce9568aa0a4f9733e54889d669e7901&#34; data-twe-slide=&#34;prev&#34;&gt;
+        &lt;span class=&#34;inline-block h-8 w-8&#34;&gt;
+            &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;4.5&#34;
+                stroke=&#34;currentColor&#34; class=&#34;h-6 w-6&#34;&gt;
+                &lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M15.75 19.5L8.25 12l7.5-7.5&#34; /&gt;
+            &lt;/svg&gt;
+        &lt;/span&gt;
+        &lt;span
+            class=&#34;!absolute !-m-px !h-px !w-px !overflow-hidden !whitespace-nowrap !border-0 !p-0 ![clip:rect(0,0,0,0)]&#34;&gt;Previous&lt;/span&gt;
+    &lt;/button&gt;
+    &lt;button
+        class=&#34;absolute top-0 bottom-0 right-0 z-[1] flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center text-white opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:text-white hover:no-underline hover:opacity-90 hover:outline-none focus:text-white focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none&#34;
+        type=&#34;button&#34; data-twe-target=&#34;#carousel-1ce9568aa0a4f9733e54889d669e7901&#34; data-twe-slide=&#34;next&#34;&gt;
+        &lt;span class=&#34;inline-block h-8 w-8&#34;&gt;
+            &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;4.5&#34;
+                stroke=&#34;currentColor&#34; class=&#34;h-6 w-6&#34;&gt;
+                &lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M8.25 4.5l7.5 7.5-7.5 7.5&#34; /&gt;
+            &lt;/svg&gt;
+        &lt;/span&gt;
+        &lt;span
+            class=&#34;!absolute !-m-px !h-px !w-px !overflow-hidden !whitespace-nowrap !border-0 !p-0 ![clip:rect(0,0,0,0)]&#34;&gt;Nextsads&lt;/span&gt;
+    &lt;/button&gt;
+&lt;/div&gt;
+
+（来自新款公式 fu 的微笑）&lt;/p&gt;
+</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/blogs/summary-outlook/feature.jpg" />
+    </item>
+    
+  </channel>
+</rss>
