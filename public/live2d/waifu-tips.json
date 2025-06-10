@@ -1,0 +1,231 @@
+{
+	"mouseover": [{
+        "selector": "a[href=\"/radio/\"]",
+        "text": ["要去 <span style=\"color:#0099cc;\">音乐站</span> 听听歌么？","看看主人的歌品怎么样。","去 <span style=\"color:#0099cc;\">音乐站</span> 听听歌吧"]
+        },{
+		"selector": "[title=\"说说\"]",
+		"text": ["这里有主人的动态哦~"]
+	}, {
+		"selector": "a[aria-label=\"X-Twitter\"]",
+		"text": ["Twitter？好像是不存在的东西？"]
+	}, {
+		"selector": "a[aria-label=\"Github\"]",
+		"text": ["去主人的Github看看吧"]
+	}, {
+		"selector": "a[aria-label=\"Zhihu\"]",
+		"text": ["去主人的知乎首页看看吧"]
+	}, {
+		"selector": "a[aria-label=\"Qq\"]",
+		"text": ["要加主人的QQ？"]
+	}, {
+		"selector": "a[aria-label=\"Wechat\"]",
+		"text": ["要加主人的微信？"]
+	},{
+		"selector": "#waifu-tool-hitokoto",
+		"text": ["我从青蛙王子那里听到了不少人生经验。"]
+	},{
+		"selector":".wl-reaction-img",
+		"text":["读完表个态吧"]
+	},{
+        "selector": ".thumbnail_card,.px-6 .py-4",
+        "text": ["点击来阅读全文哦~"]
+        },{
+		"selector": ".appearance-switcher",
+		"text": ["点击来切换日夜间模式哦~"]
+	},{
+		"selector": "#waifu-tool-asteroids",
+		"text": ["要不要来玩飞机大战？(仅限PC)"]
+	}, {
+		"selector": "#waifu-tool-switch-model",
+		"text": ["要换个形象吗？"]
+	}, {
+		"selector": "#waifu-tool-switch-texture",
+		"text": ["变身！"]
+	}, {
+		"selector": "#waifu-tool-photo",
+		"text": ["你要给我拍照？"]
+	}, {
+		"selector": "#waifu-tool-info",
+		"text": ["想要知道更多关于我的事么？"]
+	}, {
+		"selector": "#waifu-tool-quit",
+		"text": ["到了要说再见的时候了么？", "呜呜 QAQ 后会有期……", "不要抛弃我呀……", "我们还能再见面吗……"]
+	}, {
+		"selector": ".to-home",
+		"text": ["点击前往首页，想回到上一页可以使用浏览器的后退功能哦。", "点它就可以到首页去啦！", "去首页看看吧。"]
+	}, {
+		"selector": ".flex .px-4 .py-3 .rounded-md .bg-primary-100",
+		"text": ["注意看！"]
+	}, {
+		"selector": ".intro",
+		"text": ["你想知道我家主人是谁吗？"]
+	}, {
+		"selector": "[title=友情链接],[title=\"Friend Links\"]",
+		"text": ["这是主人的朋友们哦ヾ(◍°∇°◍)ﾉﾞ", "要去大佬们的家看看吗？", "要去拜访一下主人的朋友们吗？"]
+	}, {
+		"selector": "[aria-label=Search]",
+		"text": ["找不到想看的内容？搜索看看吧！", "要找什么东西呢？"]
+	}, {
+		"selector": "[title=日志],[title=文档]",
+		"text": ["快看看这里都有什么呢？","这里有很多好东西哦！"]
+	}, {
+		"selector": "a[href=\"/shuoshuo/\"]",
+		"text": ["这里有主人的动态哦"]
+	}, {
+		"selector": "#appearance-switcher",
+		"text": ["点这里可以切换日夜间模式哦！"]
+	}, {
+		"selector": "[alt=金圣皓],[alt=\"JIN Shenghao\"],[alt=\"金聖皓\"]",
+		"text": ["我家主人好看吗？", "这是我家主人(*´∇｀*)"]
+	}, {
+		"selector": ".contact",
+		"text": ["这里有主人的联系方式！"]
+	}, {
+		"selector": ".medium-zoom-image",
+		"text": ["点击图片可以放大呢！"]
+	}, {
+		"selector": ".copy-button",
+		"text": ["代码可以一键复制"]
+	}, {
+		"selector": ".waline-pageview-count",
+		"text": ["你也是来访者之一哦~"]
+	}, {
+		"selector": "a[href^='mailto']",
+		"text": ["邮件主人会及时回复的！", "点击就可以发送邮件给主人啦～"]
+	}, {
+		"selector": "a[href=\"/tags/\"]",
+		"text": ["要去看看都有哪些标签么？", "点它可以查看所有标签哟！"]
+	}, {
+		"selector": "a[href=\"/series/\"]",
+		"text": ["要去看看都有哪些选集么？", "点它可以查看此选集下的所有文章哟！"]
+	}, {
+		"selector": "a[href^='/blogs/'],a[href^='/tags/']",
+		"text": ["要看看 <span>{text}</span> 吗？"]
+	}, {
+		"selector": ".beian ",
+		"text": ["我也是有户口的人哦。", "我的主人可是遵纪守法的好主人。"]
+	}, {
+		"selector": "a[href^=http]",
+		"text": ["要到 <span>{text}</span> 逛逛么？", "去 <span>{text}</span> 那里逛逛吧。", "到 <span>{text}</span> 那里看看吧。"]
+	}, {
+		"selector": "a[href='#the-top']",
+		"text": ["点它就可以回到顶部啦！", "要回到开始的地方么？"]
+	}, {
+		"selector": "a[href^=\"twitter\"]",
+		"text": ["Twitter？好像是不存在的东西？"]
+	}, {
+		"selector": "#wl-nick",
+		"text": ["该怎么称呼你呢？", "留下你的尊姓大名！","留下你的昵称，要不就是无名人士了！"]
+	}, {
+		"selector": "#wl-mail",
+		"text": ["为了方便通知你最新的回复，一定要留下邮箱哦！"]
+	}, {
+		"selector": "#wl-link",
+		"text": ["快快告诉我你的家在哪里，好让我去参观参观！"]
+	}, {
+		"selector": ".wl-editor",
+		"text": ["你会不会熟练使用 Markdown 呀？", "使用 Markdown 让评论更美观吧～","左下角按钮依次为：插入表情、插入动图、插入图片、预览"]
+	}, {
+		"selector": ".wl-emoji-popup",
+		"text": ["选择一个表情吧","Σ(O_O)竟然是透明底……"]
+	}, {
+		"selector": ".wl-gif-popup",
+		"text": ["选择一个表情包吧","Σ(O_O)竟然是透明底……"]
+	},{
+		"selector": "[type=submit]",
+		"text": ["要对自己的发言负责哦～", "要提交了吗，请耐心等待回复哦～"]
+	}, {
+		"selector": ".wl-card",
+		"text": ["哇，快看看这个精彩评论！"]
+	},{
+		"selector": "[type=button]",
+		"text": ["只有登录了才能知道你是谁哦"]
+	}, {
+		"selector": ".vsubmit",
+		"text": ["输入验证码就可以提交评论啦～"]
+	}, {
+		"selector": "[title=\"主页\"]",
+		"text": ["我还不会说外语呢"]
+	},{
+		"selector":"[title=喜欢]",
+		"text":["如果你喜欢这条评论，就点个赞吧"]
+	}],
+	"click": [{
+		"selector": "#waifu-tool-asteroids",
+		"text": ["按 Esc 退出哦~ 想恢复正常就按 F5 刷新一下页面吧"]
+	}],
+	"seasons": [{
+		"date": "01/01",
+		"text": "<span>元旦</span>了呢，新的一年又开始了，美好的{year}～"
+	}, {
+		"date": "02/14",
+		"text": "今天是<span>情人节❤️</span>"
+	}, {
+		"date": "03/08",
+		"text": "今天是<span>国际妇女节👩🏻</span>！"
+	}, {
+		"date": "03/12",
+		"text": "今天是<span>植树节🌳</span>，要保护环境呀！"
+	}, {
+		"date": "04/01",
+		"text": "悄悄告诉你一个秘密～<span>今天是愚人节，不要被骗了哦～</span>"
+	}, {
+		"date": "05/01",
+		"text": "今天是<span>五一劳动节</span>，计划好假期去哪里了吗～"
+	}, {
+		"date": "05/05",
+		"text": "今天是<span>男孩节🎏</span>～"
+	}, {
+		"date": "06/01",
+		"text": "<span>儿童节</span>了呢，快活的时光总是短暂，要是永远长不大该多好…"
+	}, {
+		"date": "09/03",
+		"text": "<span>中国人民抗日战争胜利纪念日</span>。铭记历史，缅怀先烈,珍爱和平,开创未来。"
+	}, {
+		"date": "09/10",
+		"text": "<span>教师节</span>，在学校要给老师问声好～"
+	}, {
+		"date": "10/01",
+		"text": "<span>国庆节</span>到了，为祖国庆生！"
+	}, {
+		"date": "11/05-11/12",
+		"text": "今年的<span>双十一</span>是和谁一起过的呢～"
+	}, {
+		"date": "11/15",
+		"text": "今天是主人的生日🎂~"
+	}, {
+		"date": "12/20-12/31",
+		"text": "这几天是<span>圣诞节</span>，Merry Xmas🎄～"
+	}],
+	"time": [{
+		"hour": "5-7",
+		"text": "🌅早上好！一日之计在于晨，美好的一天就要开始了～"
+	}, {
+		"hour": "8-11",
+		"text": "🌞上午好！工作顺利嘛，不要久坐，多起来走动走动哦！"
+	}, {
+		"hour": "12-13",
+		"text": "☀️中午了，工作了一个上午，现在是午餐时间！"
+	}, {
+		"hour": "14-16",
+		"text": ["午后很容易犯困吧😪","今天的运动目标👟完成了吗？","喝杯下午茶吧🍵"]
+	}, {
+		"hour": "17-18",
+		"text": "🌇傍晚了！窗外的景色很美呢～"
+	}, {
+		"hour": "19-21",
+		"text": "🌆晚上好！今天过得怎么样？"
+	}, {
+		"hour": "22-23",
+		"text": ["🌃已经这么晚了呀","早点休息，晚安🌛～", "要爱护眼睛呀👀！"]
+	}, {
+		"hour": "0-4",
+		"text": ["🌉你是夜猫子吗？","你在床上？🛌","谢谢你，这么晚还来🤗~"]
+	}],
+	"message": {
+		"default": ["好久不见，日子过得好快呢……", "嗨～快来逗我玩吧！","记得把本站加入收藏夹⭐哦！","使用 RSS （订阅地址为根目录后加<span style=\"color:#0099cc;\">/index.xml）</span>，快速获取网站更新"],
+		"console": "哈哈，你打开了控制台，是想要看看我的小秘密吗？",
+		"copy": "你都复制了些什么呀，转载要记得加上出处哦！",
+		"visibilitychange": ["哇，你终于回来了～","你回来了~","一直在等你哦"]
+	}
+}
