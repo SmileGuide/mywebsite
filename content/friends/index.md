@@ -61,7 +61,7 @@ showWordCount: false
 {{< friend name=安知鱼 link=https://blog.anheyu.com/ avatar=https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg description=生活明朗，万物可爱 >}}
 {{< friend name=字节君 link=https://blog.lvbyte.top/ avatar=https://npm.elemecdn.com/lvbyte-cdn/20230104/%E8%8B%B9%E6%9E%9C.156l7bksen40.jpg description=热爱漫无边际,生活自有分寸 >}}
 {{< friend name=春江花朝秋月夜 link=https://todreamr.github.io/ avatar=chunjianghuayueye.png description=春江潮水连海平，海上明月共潮生 >}}
-{{< friend name=草方块 link=https://lab.imgb.space/ avatar=mare.png description=77569号奇点观察员的观察日志 >}}
+{{< friend name=草方块 link=https://lab.imgb.space/ avatar=mare.png description=此处会不定时产生包含大量废话的日志文件 >}}
 {{< friend name="Henry Moreau" link=https://blog.henrywhu.cn avatar=henry.png description="Student / Designer / Dreamchaser" >}}
 
 ----

@@ -37,7 +37,7 @@ We are all in the gutter, but some of us are looking at the stars.
 {{< friend name="Anzhiyu" link="https://blog.anheyu.com/" avatar="https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg" description="Life is bright, everything is lovely" >}}
 {{< friend name="Mr Byte" link="https://blog.lvbyte.top/" avatar="https://npm.elemecdn.com/lvbyte-cdn/20230104/%E8%8B%B9%E6%9E%9C.156l7bksen40.jpg" description="Love is boundless, life has its limits" >}}
 {{< friend name="Rainy-Heights" link="https://todreamr.github.io/" avatar="chunjianghuayueye.png" description="In spring the river rises as high as the sea, and with the river’s tide uprises the moon bright." >}}
-{{< friend name=Mare_Infinitus link=https://lab.imgb.space/ avatar=mare.png description="Observer #77569's log of Singularity" >}}
+{{< friend name=Mare_Infinitus link=https://lab.imgb.space/ avatar=mare.png description="Log files containing a large amount of redundant information will be generated here at irregular intervals." >}}
 {{< friend name="Henry Moreau" link=https://blog.henrywhu.cn avatar=henry.png description="Student / Designer / Dreamchaser" >}}　　
 
 ----
