@@ -3,6 +3,7 @@ title: Music Information (In Player ↙)
 description: Due to copyright reasons, some of the music can only be listened to as clips, if you want to listen to it freely, please search for yourself.
 date: 2024-01-26T10:11:15+08:00
 tags: [Music]
+showPagination: false
 ---
 ```md
 1. 正解(混声三部合唱) Seikai – RADWIMPS

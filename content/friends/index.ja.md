@@ -27,7 +27,6 @@ showWordCount: false
 
 {{< friend name="ピンペの雲" link="https://pinpe.top" avatar="https://i0.hdslb.com/bfs/face/a2bb7859939871165f438ab2f96d72b8343dae41.jpg" description="自分のクラウドです。" >}}  
 {{< friend name="Kegongteng" link="https://kegongteng.cn/" avatar="kegongteng.jpeg" description="Blogger / Technophile / Student" >}}  
-{{< friend name="yuublog" link="https://potteto11.github.io/home/about/index.html" avatar="yuu.jpg" description="高校生ブロガー。令和の時代最速で成果を出していくために、日々奮闘中！" >}}  
 {{< friend name="張洪Heo" link="https://blog.zhheo.com/" avatar="https://bu.dusays.com/2022/12/28/63ac2812183aa.png" description="生活のためのデザインと技術を共有します。" >}}  
 {{< friend name="火と氷の砺" link="https://blog.marice.top/link/" avatar="https://bu.dusays.com/2023/11/29/6567122d3f4a6.jpg" description="氷のように冷たい信念が燃えるような野心を生みます。" >}}  
 {{< friend name="雲藉" link="https://josephz.top/" avatar="https://josephz.top/image/avatar.webp" description="すべてのためらいをここで払拭しなければならない。" >}}  

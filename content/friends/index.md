@@ -36,10 +36,10 @@ showWordCount: false
  <div tag="friends">
 	<hr/>
 	<div class="flex author">
-		<img class="!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image" src="//gitee.com/smileguide/mywebsite/raw/main/static/avatar.png" referrerpolicy="no-referrer">
+		<img class="!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image" src="avatar.png" referrerpolicy="no-referrer">
 		<div class="place-self-center" >
 			<div class="font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral-300">
-				群青流星(本站)
+				樹海サライ
 			</div>
 			<div class="text-[0.8rem] leading-3 text-neutral-500 dark:text-neutral-400">
 				我喜欢听花开的声音，更想自由地深情地呼吸
@@ -54,7 +54,6 @@ showWordCount: false
 
 {{< friend name="Pinpe 的云端" link=https://pinpe.top avatar=https://i0.hdslb.com/bfs/face/a2bb7859939871165f438ab2f96d72b8343dae41.jpg description=一个属于自己的云朵。 >}}
 {{< friend name=Kegongteng link=https://kegongteng.cn/ avatar=kegongteng.jpeg description="Blogger / Technophile / Student" >}} 
-{{< friend name=yuublog link=https://potteto11.github.io/home/about/index.html avatar=https://gitee.com/smileguide/mywebsite/raw/main/content/friends/yuu.jpg description=高校生ブロガー。令和の時代最速で成果を出していくために、日々奮闘中！ >}}
 {{< friend name=张洪Heo link=https://blog.zhheo.com/ avatar=https://bu.dusays.com/2022/12/28/63ac2812183aa.png description=分享设计与科技生活 >}}
 {{< friend name=冰火之砺 link=https://blog.marice.top/link/ avatar=https://bu.dusays.com/2023/11/29/6567122d3f4a6.jpg description=以坚冰信念铸烈火雄心 >}}
 {{< friend name=云藉 link=https://josephz.top/ avatar=https://josephz.top/image/avatar.webp description=这里必须根绝一切犹豫。 >}}

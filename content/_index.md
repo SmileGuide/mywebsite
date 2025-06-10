@@ -8,4 +8,4 @@ date: 2022-06-13T20:55:37+08:00
 喜欢 [摄影📷](/tags/摄影/)  拉琴🎻  [听歌🎵](/tags/音乐)   
 有空也搞搞 [创作✍🏻](/tags/文学/)  
 <br/> -->
-<!-- <span id="notice">{{% include "/notice.md" %}}</span> -->
+{{% include "/notice.md" %}}

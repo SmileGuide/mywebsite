@@ -15,59 +15,54 @@
  pageRef = "blogs"
  weight = 10
 
-[[main]]
- name = "说说"
- pageRef = "shuoshuo"
- weight = 20
+# [[main]]
+#  name = "说说"
+#  pageRef = "shuoshuo"
+#  weight = 20
 
-[[main]]
- name = "音乐站"
- pageRef = "/radio"
- weight = 30
+# [[main]]
+#  name = "音乐站"
+#  pageRef = "/radio"
+#  weight = 30
 
-[[main]]
- name = "摇滚 Rocks"
- parent = "音乐站"
- pageRef = "/radio/rocks"
- weight = 31
-
-
-[[main]]
- name = "泛流行 PanPop"
- parent = "音乐站"
- pageRef = "/radio/panpop"
- weight = 32
+# [[main]]
+#  name = "摇滚 Rocks"
+#  parent = "音乐站"
+#  pageRef = "/radio/rocks"
+#  weight = 31
 
 
-[[main]]
- name = "新世纪音乐 New Age"
- parent = "音乐站"
- pageRef = "/radio/newage"
- weight = 33
-
-[[main]]
- name = "古典乐 Classical"
- parent = "音乐站"
- pageRef = "/radio/classical"
- weight = 34
-
- [[main]]
- name = "地球呢喃 Murmurs of Earth"
- parent = "音乐站"
- pageRef = "/radio/murmurs"
- weight = 35
-
- [[main]]
- name = "About：精选音乐"
- parent = "音乐站"
- pageRef = "/radio/pick"
- weight = 36
+# [[main]]
+#  name = "泛流行 PanPop"
+#  parent = "音乐站"
+#  pageRef = "/radio/panpop"
+#  weight = 32
 
 
- [[main]]
- name = "友链"
- pageRef = "/friends"
- weight = 40
+# [[main]]
+#  name = "新世纪音乐 New Age"
+#  parent = "音乐站"
+#  pageRef = "/radio/newage"
+#  weight = 33
+
+# [[main]]
+#  name = "古典乐 Classical"
+#  parent = "音乐站"
+#  pageRef = "/radio/classical"
+#  weight = 34
+
+#  [[main]]
+#  name = "地球呢喃 Murmurs of Earth"
+#  parent = "音乐站"
+#  pageRef = "/radio/murmurs"
+#  weight = 35
+
+#  [[main]]
+#  name = "About：精选音乐"
+#  parent = "音乐站"
+#  pageRef = "/radio/pick"
+#  weight = 36
+
 
  [[main]]
  name = "文档"
@@ -75,11 +70,22 @@
  weight = 50
 
  [[main]]
+ name = "联系我"
+ url = "/contact"
+ weight = 90
+
+ [[main]]
+ name = "友链"
+ pageRef = "/friends"
+ weight = 70
+ 
+
+ [[main]]
  name = "开往"
  url = "https://www.travellings.cn/go-by-clouds.html"
- weight = 60
+ weight = 80
 
-#[[main]]
+# [[main]]
 #  name = "Parent"
 #  weight = 20
 

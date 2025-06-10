@@ -15,47 +15,43 @@
  pageRef = "blogs"
  weight = 10
 
-[[main]]
- name = "音楽ステーション"
- pageRef = "/radio"
- weight = 20
+# [[main]]
+#  name = "音楽ステーション"
+#  pageRef = "/radio"
+#  weight = 20
 
-[[main]]
- name = "Rocks"
- parent = "音楽ステーション"
- pageRef = "/radio/rocks"
- weight = 21
-
-
-[[main]]
- name = "PanPop"
- parent = "音楽ステーション"
- pageRef = "/radio/panpop"
- weight = 22
+# [[main]]
+#  name = "Rocks"
+#  parent = "音楽ステーション"
+#  pageRef = "/radio/rocks"
+#  weight = 21
 
 
-[[main]]
- name = "New Age"
- parent = "音楽ステーション"
- pageRef = "/radio/newage"
- weight = 23
+# [[main]]
+#  name = "PanPop"
+#  parent = "音楽ステーション"
+#  pageRef = "/radio/panpop"
+#  weight = 22
 
-[[main]]
- name = "Classical"
- parent = "音楽ステーション"
- pageRef = "/radio/classical"
- weight = 24
 
- [[main]]
- name = "Murmurs of Earth"
- parent = "音楽ステーション"
- pageRef = "/radio/murmurs"
- weight = 25
+# [[main]]
+#  name = "New Age"
+#  parent = "音楽ステーション"
+#  pageRef = "/radio/newage"
+#  weight = 23
 
- [[main]]
- name = "友好リング"
- pageRef = "/friends"
- weight = 30
+# [[main]]
+#  name = "Classical"
+#  parent = "音楽ステーション"
+#  pageRef = "/radio/classical"
+#  weight = 24
+
+#  [[main]]
+#  name = "Murmurs of Earth"
+#  parent = "音楽ステーション"
+#  pageRef = "/radio/murmurs"
+#  weight = 25
+
 
  [[main]]
  name = "ドキュメント"
@@ -63,9 +59,22 @@
  weight = 40
 
 [[main]]
+ name = "ご連絡"
+ url = "/ja/contact"
+ weight = 90
+
+
+ [[main]]
+ name = "リング"
+ pageRef = "/friends"
+ weight = 55
+
+[[main]]
  name = "旅立ち"
  url = "https://www.travellings.cn/go-by-clouds.html"
- weight = 50
+ weight = 60
+
+
 
 #[[main]]
 #  name = "Parent"

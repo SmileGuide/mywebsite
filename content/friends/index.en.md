@@ -30,7 +30,6 @@ We are all in the gutter, but some of us are looking at the stars.
 
 {{< friend name="Pinpe's Cloud" link="https://pinpe.top" avatar="https://i0.hdslb.com/bfs/face/a2bb7859939871165f438ab2f96d72b8343dae41.jpg" description="My own cloud" >}}
 {{< friend name="Kegongteng" link="https://kegongteng.cn/" avatar="kegongteng.jpeg" description="Blogger / Technophile / Student" >}}
-{{< friend name="yuublog" link="https://potteto11.github.io/home/about/index.html" avatar="yuu.jpg" description="High school student blogger. Struggling everyday to achieve the fastest results in the age of 2025!" >}}
 {{< friend name="Heo" link="https://blog.zhheo.com/" avatar="https://bu.dusays.com/2022/12/28/63ac2812183aa.png" description="Sharing Design and Technology for Life" >}}
 {{< friend name="Ice and Fire" link="https://blog.marice.top/link/" avatar="https://bu.dusays.com/2023/11/29/6567122d3f4a6.jpg" description="Ice-cold faith forges fiery ambitions" >}}
 {{< friend name="Yunji" link="https://josephz.top/" avatar="https://josephz.top/image/avatar.webp" description="All hesitation must be eradicated here." >}}

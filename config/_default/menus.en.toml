@@ -15,47 +15,47 @@
  pageRef = "blogs"
  weight = 10
 
-[[main]]
- name = "Music Station"
- pageRef = "/radio"
- weight = 20
+# [[main]]
+#  name = "Music Station"
+#  pageRef = "/radio"
+#  weight = 20
 
-[[main]]
- name = "Rocks"
- parent = "Music Station"
- pageRef = "/radio/rocks"
- weight = 21
-
-
-[[main]]
- name = "PanPop"
- parent = "Music Station"
- pageRef = "/radio/panpop"
- weight = 22
+# [[main]]
+#  name = "Rocks"
+#  parent = "Music Station"
+#  pageRef = "/radio/rocks"
+#  weight = 21
 
 
-[[main]]
- name = "New Age"
- parent = "Music Station"
- pageRef = "/radio/newage"
- weight = 23
+# [[main]]
+#  name = "PanPop"
+#  parent = "Music Station"
+#  pageRef = "/radio/panpop"
+#  weight = 22
 
-[[main]]
- name = "Classical"
- parent = "Music Station"
- pageRef = "/radio/classical"
- weight = 24
 
- [[main]]
- name = "Murmurs of Earth"
- parent = "Music Station"
- pageRef = "/radio/murmurs"
- weight = 25
+# [[main]]
+#  name = "New Age"
+#  parent = "Music Station"
+#  pageRef = "/radio/newage"
+#  weight = 23
 
- [[main]]
- name = "Friend Links"
- pageRef = "/friends"
- weight = 30
+# [[main]]
+#  name = "Classical"
+#  parent = "Music Station"
+#  pageRef = "/radio/classical"
+#  weight = 24
+
+#  [[main]]
+#  name = "Murmurs of Earth"
+#  parent = "Music Station"
+#  pageRef = "/radio/murmurs"
+#  weight = 25
+
+#  [[main]]
+#  name = "Friend Links"
+#  pageRef = "/friends"
+#  weight = 30
 
 
  [[main]]
@@ -63,11 +63,17 @@
  pageRef = "/docs"
  weight = 40
 
+
+
+[[main]]
+ name = "Contact"
+ url = "/en/contact"
+ weight = 90
+
 [[main]]
  name = "Travelling"
  url = "https://www.travellings.cn/go-by-clouds.html"
- weight = 50
-
+ weight = 60
 #[[main]]
 #  name = "Parent"
 #  weight = 20

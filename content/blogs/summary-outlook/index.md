@@ -3,6 +3,7 @@ title: "杂谈——总结和展望"
 date: 2025-02-22T12:03:06+08:00
 draft: false
 isCJKLanguage: true
+tag: ["其他"]
 ---
 
 ## VOCALOID P主新身份
