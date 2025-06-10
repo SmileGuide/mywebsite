@@ -6,6 +6,7 @@ showZenMode: false
 showReadingTime: false
 showDate: false
 showWordCount: false
+showPagination: false
 ---  
 
 

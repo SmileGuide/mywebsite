@@ -2,6 +2,7 @@
  
 title 群青流星~网站更新快捷发布
 color 3
+hugo 
 echo 当前目录：%cd%
 echo;
  echo;
