@@ -42,6 +42,25 @@ $(document).snowfall({image:"/snowflake.png", flakeCount:90, minSpeed:1, minSize
   {{ end }}
 
 
+
+
+
+
+
+    <!-- 以下在备案注销后删除 -->
+<br>
+    <p class="text-sm text-neutral-500 dark:text-neutral-400" style="text-align: center;">
+<a href="https://beian.miit.gov.cn/" class="hover:text-primary-500 beian" target="_blank" >辽ICP备2024021519号-1</a>
+</p>
+    <!-- 以上在备案注销后删除 -->
+
+
+
+
+    
+
+
+
 {{ if eq .IsHome true }}
 <div class="flex items-center justify-between">
   <p class="text-sm text-neutral-500 dark:text-neutral-400">
@@ -77,7 +96,7 @@ observer.observe(article, options);
 </script>
 {{ if eq $.Language.Lang "zh-cn" }}
 <p class="text-sm text-neutral-500 dark:text-neutral-400">
-<a href="https://beian.miit.gov.cn/" class="hover:text-primary-500 beian" target="_blank" >辽ICP备2024021519号-1</a>
+<a href="https://icp.gov.moe/?keyword=20257657" class="hover:text-primary-500 beian" target="_blank">萌ICP备20257766号</a>
 </p>
 {{ end }}
 </div>
@@ -125,6 +144,7 @@ observer.observe(article, options);
         href="https://blowfish.page/" target="_blank" rel="noopener noreferrer">Blowfish</a>` }}
       {{ i18n "footer.powered_by" (dict "Hugo" $hugo "Theme" $blowfish) | safeHTML }}
     </p>
+
     {{ end }}
 
   </div>
