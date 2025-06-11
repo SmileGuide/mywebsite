@@ -360,6 +360,21 @@
     <lastmod>2024-02-11T22:43:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://www.jukai.site/en/notice/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://www.jukai.site/ja/notice/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="https://www.jukai.site/notice/"
+    />
   </url>
   <url>
     <loc>https://www.jukai.site/shuoshuo-single/first/</loc>

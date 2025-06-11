@@ -314,6 +314,27 @@
     />
   </url>
   <url>
+    <loc>https://www.jukai.site/en/notice/</loc>
+    <lastmod>2024-02-11T22:43:00+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-cn"
+      href="https://www.jukai.site/notice/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="ja"
+      href="https://www.jukai.site/ja/notice/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://www.jukai.site/en/notice/"
+    />
+  </url>
+  <url>
     <loc>https://www.jukai.site/en/friends/</loc>
     <lastmod>2024-02-05T09:09:28+08:00</lastmod>
     <changefreq>daily</changefreq>

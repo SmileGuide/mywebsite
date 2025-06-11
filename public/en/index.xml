@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>:copyright: 2025 Jukai Sarai</copyright>
-    <lastBuildDate>Wed, 11 Jun 2025 11:52:10 +0800</lastBuildDate><atom:link href="https://www.jukai.site/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jun 2025 12:00:54 +0800</lastBuildDate><atom:link href="https://www.jukai.site/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Classical</title>
       <link>https://www.jukai.site/en/radio/classical/</link>
@@ -1537,6 +1537,78 @@ While ICP filing enables Baidu indexing and domestic CDN access, it&amp;rsquo;s 
 (the smile of &lt;em&gt;Fuwapuchi&lt;/em&gt;)&lt;/p&gt;
 </description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/en/blogs/summary-outlook/feature.jpg" />
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.jukai.site/en/notice/</link>
+      <pubDate>Sun, 11 Feb 2024 22:43:00 +0800</pubDate>
+      
+      <guid>https://www.jukai.site/en/notice/</guid>
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;!-- 
+  
+
+
+
+&lt;div
+  
+    class=&#34;flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900&#34;
+  &gt;
+
+  &lt;span
+    
+      class=&#34;text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center&#34;
+    &gt;
+
+    
+
+  &lt;span class=&#34;relative block icon&#34;&gt;
+    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z&#34;/&gt;&lt;/svg&gt;
+
+  &lt;/span&gt;
+
+
+  &lt;/span&gt;
+
+  &lt;span
+    
+      class=&#34;dark:text-neutral-300&#34;
+    &gt;本站主要域名 &lt;a href=&#34;https://karlukle.site&#34; target=&#34;_blank&#34;&gt;karlukle.site&lt;/a&gt; 已备案完成，2024/2/19起使用该域名作为唯一网址，原 &lt;a href=&#34;https://smileguide.github.io&#34; target=&#34;_blank&#34;&gt;smileguide.github.io&lt;/a&gt; 和 &lt;a href=&#34;https://i.karlukle.site&#34; target=&#34;_blank&#34;&gt;i.karlukle.site&lt;/a&gt; 停止解析。&lt;/span&gt;
+&lt;/div&gt;
+ --&gt;
+
+  
+
+
+
+&lt;div
+  
+    class=&#34;flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900&#34;
+  &gt;
+
+  &lt;span
+    
+      class=&#34;text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center&#34;
+    &gt;
+
+    
+
+  &lt;span class=&#34;relative block icon&#34;&gt;
+    &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z&#34;/&gt;&lt;/svg&gt;
+
+  &lt;/span&gt;
+
+
+  &lt;/span&gt;
+
+  &lt;span
+    
+      class=&#34;dark:text-neutral-300&#34;
+    &gt;Due to a shift in identity, this site has permanently moved its domain from karlukle.site to &lt;a href=&#34;https://jukai.site/en&#34; target=&#34;_blank&#34;&gt;jukai.site&lt;/a&gt;. Beginning June 2025, this site will serve as a musician&amp;rsquo;s homepage while also functioning as a blog.&lt;/span&gt;
+&lt;/div&gt;
+
+&lt;br/&gt;</description>
+      
     </item>
     
     <item>
