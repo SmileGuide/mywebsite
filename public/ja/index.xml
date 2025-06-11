@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JUKAI.SITE</title>
-    <link>https://www.karlukle.site/ja/</link>
+    <link>https://www.jukai.site/ja/</link>
     <description>風渡る樹海に夕闇降る。</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>:copyright: 2025 Jukai Sarai</copyright>
-    <lastBuildDate>Wed, 11 Jun 2025 11:04:00 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/ja/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jun 2025 11:23:41 +0800</lastBuildDate><atom:link href="https://www.jukai.site/ja/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Classical</title>
-      <link>https://www.karlukle.site/ja/radio/classical/</link>
+      <link>https://www.jukai.site/ja/radio/classical/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/ja/radio/classical/</guid>
+      <guid>https://www.jukai.site/ja/radio/classical/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
@@ -27,15 +27,15 @@
     
     
 &lt;/section&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/ja/radio/classical/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/ja/radio/classical/feature.jpg" />
     </item>
     
     <item>
       <title>ガラス（完成品）</title>
-      <link>https://www.karlukle.site/ja/docs/vb/glass/</link>
+      <link>https://www.jukai.site/ja/docs/vb/glass/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/ja/docs/vb/glass/</guid>
+      <guid>https://www.jukai.site/ja/docs/vb/glass/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;画面上で透明なガラスをシミュレートできるツールで、マルチオープニング、着色、サイズ変更、カラーシーケンスによるガラスの作成などの高度な機能もサポートしています。&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
@@ -57,7 +57,7 @@
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/vbprojects/glass.rar&#34; class=&#34;DDot&#34;&gt;クリックしてダウンロード&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.jukai.site/vbprojects/glass.rar&#34; class=&#34;DDot&#34;&gt;クリックしてダウンロード&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;使用中に問題が発生した場合は、コメント欄で質問してください。&lt;/p&gt;
 </description>
@@ -66,10 +66,10 @@
     
     <item>
       <title>New Age</title>
-      <link>https://www.karlukle.site/ja/radio/newage/</link>
+      <link>https://www.jukai.site/ja/radio/newage/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/ja/radio/newage/</guid>
+      <guid>https://www.jukai.site/ja/radio/newage/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
@@ -82,15 +82,15 @@
     
     
 &lt;/section&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/ja/radio/newage/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/ja/radio/newage/feature.jpg" />
     </item>
     
     <item>
       <title>お絵かきボード(完成品)</title>
-      <link>https://www.karlukle.site/ja/docs/vb/board/</link>
+      <link>https://www.jukai.site/ja/docs/vb/board/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/ja/docs/vb/board/</guid>
+      <guid>https://www.jukai.site/ja/docs/vb/board/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;これは、空白のキャンバスや絵に描画できるツールで、教師が赤い手書きでマークを付けるための簡単な機能を提供します。&lt;/p&gt;
 
 
@@ -124,7 +124,7 @@
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/vbprojects/board.rar&#34; class=&#34;DDot&#34;&gt;クリックしてダウンロード&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.jukai.site/vbprojects/board.rar&#34; class=&#34;DDot&#34;&gt;クリックしてダウンロード&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;使用中に問題が発生した場合は、コメント欄で質問してください。&lt;/p&gt;
 </description>
@@ -133,10 +133,10 @@
     
     <item>
       <title>PanPop</title>
-      <link>https://www.karlukle.site/ja/radio/panpop/</link>
+      <link>https://www.jukai.site/ja/radio/panpop/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/ja/radio/panpop/</guid>
+      <guid>https://www.jukai.site/ja/radio/panpop/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
@@ -149,15 +149,15 @@
     
     
 &lt;/section&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/ja/radio/panpop/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/ja/radio/panpop/feature.jpg" />
     </item>
     
     <item>
       <title>オンラインコースガジェット～クリップボード画像保存ツール（完成品）</title>
-      <link>https://www.karlukle.site/ja/docs/vb/screenshot/</link>
+      <link>https://www.jukai.site/ja/docs/vb/screenshot/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/ja/docs/vb/screenshot/</guid>
+      <guid>https://www.jukai.site/ja/docs/vb/screenshot/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;PrintScreenキーを押してクリップボードにコピーしたスクリーンショットを簡単にキャプチャし、指定したディレクトリにタイムスタンプ付きのファイル名で保存できるツールです。&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
@@ -179,7 +179,7 @@
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/vbprojects/screenshot.rar&#34; class=&#34;DDot&#34;&gt;クリックしてダウンロード&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.jukai.site/vbprojects/screenshot.rar&#34; class=&#34;DDot&#34;&gt;クリックしてダウンロード&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;使用中に問題が発生した場合は、コメント欄で質問してください。&lt;/p&gt;
 </description>
@@ -188,10 +188,10 @@
     
     <item>
       <title>Rocks</title>
-      <link>https://www.karlukle.site/ja/radio/rocks/</link>
+      <link>https://www.jukai.site/ja/radio/rocks/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/ja/radio/rocks/</guid>
+      <guid>https://www.jukai.site/ja/radio/rocks/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
@@ -204,15 +204,15 @@
     
     
 &lt;/section&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/ja/radio/rocks/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/ja/radio/rocks/feature.jpg" />
     </item>
     
     <item>
       <title>オンライン クラス ガジェット～コース スケジュール (未完成)</title>
-      <link>https://www.karlukle.site/ja/docs/vb/schedule/</link>
+      <link>https://www.jukai.site/ja/docs/vb/schedule/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/ja/docs/vb/schedule/</guid>
+      <guid>https://www.jukai.site/ja/docs/vb/schedule/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;これは、オンライン授業中の時間を計画したり、週ごとのクラスごとにアラームを設定したりするために使用できる実用的なツールで、組み込みのコマンド ライン操作もサポートしており、さまざまなスキンから選択できます。&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
@@ -234,7 +234,7 @@
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/vbprojects/schedule.rar&#34; class=&#34;DDot&#34;&gt;クリックしてダウンロード&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.jukai.site/vbprojects/schedule.rar&#34; class=&#34;DDot&#34;&gt;クリックしてダウンロード&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;使用中に問題が発生した場合は、コメント欄で質問してください。&lt;/p&gt;
 </description>
@@ -243,10 +243,10 @@
     
     <item>
       <title>Murmurs of Earth</title>
-      <link>https://www.karlukle.site/ja/radio/murmurs/</link>
+      <link>https://www.jukai.site/ja/radio/murmurs/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/ja/radio/murmurs/</guid>
+      <guid>https://www.jukai.site/ja/radio/murmurs/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
@@ -259,15 +259,15 @@
     
     
 &lt;/section&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/ja/radio/murmurs/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/ja/radio/murmurs/feature.jpg" />
     </item>
     
     <item>
       <title>31中 学生情報管理システム（完成品）</title>
-      <link>https://www.karlukle.site/ja/docs/vb/31infsystem/</link>
+      <link>https://www.jukai.site/ja/docs/vb/31infsystem/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/ja/docs/vb/31infsystem/</guid>
+      <guid>https://www.jukai.site/ja/docs/vb/31infsystem/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;荘河第三一中学校の2019年度クラスの生徒情報を照会できるデータ管理システムで、ワイルドカード検索やクリップボード認識による自動検索などの機能を備えています。 この作業を組織の情報管理システムに組み込むこともできます。&lt;/p&gt;
 
 
@@ -301,7 +301,7 @@
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/vbprojects/31infsystem.rar&#34; class=&#34;DDot&#34;&gt;クリックしてダウンロード&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.jukai.site/vbprojects/31infsystem.rar&#34; class=&#34;DDot&#34;&gt;クリックしてダウンロード&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;使用中に問題が発生した場合は、コメント欄で質問してください。&lt;/p&gt;
 </description>
@@ -310,10 +310,10 @@
     
     <item>
       <title>平文と暗号文の変換ツール（未完成）</title>
-      <link>https://www.karlukle.site/ja/docs/vb/cipher/</link>
+      <link>https://www.jukai.site/ja/docs/vb/cipher/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/ja/docs/vb/cipher/</guid>
+      <guid>https://www.jukai.site/ja/docs/vb/cipher/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;カスタムキーに基づいてテキストを暗号化および復号化できるツールで、さまざまな機能が開発中です。&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
@@ -335,7 +335,7 @@
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/vbprojects/cipher.rar&#34; class=&#34;DDot&#34;&gt;クリックしてダウンロード&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.jukai.site/vbprojects/cipher.rar&#34; class=&#34;DDot&#34;&gt;クリックしてダウンロード&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;使用中に問題が発生した場合は、コメント欄で質問してください。&lt;/p&gt;
 </description>
@@ -344,14 +344,14 @@
     
     <item>
       <title>相互リンク</title>
-      <link>https://www.karlukle.site/ja/friends/</link>
+      <link>https://www.jukai.site/ja/friends/</link>
       <pubDate>Mon, 05 Feb 2024 09:09:28 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/ja/friends/</guid>
+      <guid>https://www.jukai.site/ja/friends/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;div tag=&#34;friends&#34;&gt;
 	&lt;hr/&gt;
 	&lt;div class=&#34;flex author&#34;&gt;
-		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;https://www.karlukle.site/avatar.png&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
+		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;https://www.jukai.site/avatar.png&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
 		&lt;div class=&#34;place-self-center&#34; &gt;
 			&lt;div class=&#34;font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2  dark:text-neutral-300&#34;&gt;
 				群青流れ星(当サイト)
@@ -929,10 +929,10 @@
     
     <item>
       <title>サイトの音楽について</title>
-      <link>https://www.karlukle.site/ja/blogs/music/</link>
+      <link>https://www.jukai.site/ja/blogs/music/</link>
       <pubDate>Fri, 26 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/ja/blogs/music/</guid>
+      <guid>https://www.jukai.site/ja/blogs/music/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;このウェブサイトの音楽システムは、&lt;a href=&#34;#%e3%83%9b%e3%83%90%e3%83%bc%e3%83%97%e3%83%ac%e3%82%a4%e3%83%a4%e3%83%bc&#34;&gt;ホバー・プレイヤー&lt;/a&gt; と &lt;a href=&#34;#%e9%9f%b3%e6%a5%bd%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3&#34;&gt;音楽ステーション&lt;/a&gt;の2つの部分に分かれています。&lt;/p&gt;
 
 
@@ -1011,15 +1011,15 @@
 &lt;p&gt;音楽ステーションは、私のリスニングスタイルを反映するために、いくつかのコラムに分かれています。&lt;/p&gt;
 &lt;p&gt;音楽ステーションの主な目的は、外部音楽プラットフォームの再生制限のため、音楽リスト、&lt;strong&gt;おすすめ&lt;/strong&gt;、&lt;strong&gt;試聴&lt;/strong&gt;を提供することです。&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/ja/blogs/music/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/ja/blogs/music/feature.jpg" />
     </item>
     
     <item>
       <title>プレイヤー↙の中の音楽の構成</title>
-      <link>https://www.karlukle.site/ja/radio/pick/</link>
+      <link>https://www.jukai.site/ja/radio/pick/</link>
       <pubDate>Fri, 26 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/ja/radio/pick/</guid>
+      <guid>https://www.jukai.site/ja/radio/pick/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-md&#34; data-lang=&#34;md&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;1.&lt;/span&gt; 正解(混声三部合唱) – RADWIMPS
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;2.&lt;/span&gt; カイコ (蚕) – RADWIMPS
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;3.&lt;/span&gt; シザースタンド (Scissor Stand) – RADWIMPS
@@ -1038,15 +1038,15 @@
     
 &lt;/section&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/ja/radio/pick/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/ja/radio/pick/feature.jpg" />
     </item>
     
     <item>
       <title>詩『白日の殇』</title>
-      <link>https://www.karlukle.site/ja/blogs/gothic-stake/</link>
+      <link>https://www.jukai.site/ja/blogs/gothic-stake/</link>
       <pubDate>Sun, 21 Jan 2024 22:50:23 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/ja/blogs/gothic-stake/</guid>
+      <guid>https://www.jukai.site/ja/blogs/gothic-stake/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;これは私が作った短い詩です。中国語で殇（シャン）は未成年者の死、または戦争による死を意味します。&lt;br&gt;
 &lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 
@@ -1211,15 +1211,15 @@
 &lt;p&gt;彼に花が咲いたような笑顔を作るのを助けた&lt;/p&gt;
 &lt;p&gt;&amp;ndash;おわる&amp;ndash;&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/ja/blogs/gothic-stake/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/ja/blogs/gothic-stake/feature.jpg" />
     </item>
     
     <item>
       <title>詩『壁の中のメモリアム』</title>
-      <link>https://www.karlukle.site/ja/blogs/memoriam/</link>
+      <link>https://www.jukai.site/ja/blogs/memoriam/</link>
       <pubDate>Sat, 20 Jan 2024 20:13:20 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/ja/blogs/memoriam/</guid>
+      <guid>https://www.jukai.site/ja/blogs/memoriam/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
 
 
@@ -1292,18 +1292,18 @@
 &lt;p&gt;記念碑は彼の墓石　　&lt;/p&gt;
 &lt;p&gt;&amp;ndash;おわる&amp;ndash;&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/ja/blogs/memoriam/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/ja/blogs/memoriam/feature.jpg" />
     </item>
     
     <item>
       <title>PHOTO大変身——少年時代の写真の処理</title>
-      <link>https://www.karlukle.site/ja/blogs/childhood-photography/</link>
+      <link>https://www.jukai.site/ja/blogs/childhood-photography/</link>
       <pubDate>Wed, 22 Feb 2023 14:58:34 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/ja/blogs/childhood-photography/</guid>
+      <guid>https://www.jukai.site/ja/blogs/childhood-photography/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;h2 id=&#34;写真情報&#34;&gt;写真情報&lt;/h2&gt;
 &lt;p&gt;この写真は2011年の沈陽市世博園で撮影された。撮影時間はUTC+8 5月1日14:15。&lt;br&gt;
-&lt;img src=&#34;https://www.karlukle.site/ja/blogs/childhood-photography/childhood_ph.jpg&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
+&lt;img src=&#34;https://www.jukai.site/ja/blogs/childhood-photography/childhood_ph.jpg&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
 &lt;h2 id=&#34;この写真のpptについて&#34;&gt;この写真のPPTについて&lt;/h2&gt;
 &lt;h3 id=&#34;ダウンロードして見るなら&#34;&gt;ダウンロードして見るなら&amp;hellip;&lt;/h3&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.123pan.com/s/eNTzVv-lohg3.html&#34;&gt;クリックしてPPTをダウンロード(「取り出しコード」は di4u)&lt;/a&gt;&lt;/p&gt;
@@ -1311,15 +1311,15 @@
 &lt;a href=&#34;https://www.123pan.com/s/eNTzVv-Tmhg3.html&#34;&gt;クリックしてPPTをダウンロード(「取り出しコード」は di4u)&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;これらのPPTはMicrosoft Office PowerPointを使用して作成されており、Microsoft Office PowerPoint（Windows版、Android版、iOS版）アプリケーションを使用して開くことを推奨しています。Windows以外のデバイスを使用する場合は、最高の体験を得るためにPowerPointアプリをダウンロードする必要があります。&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/ja/blogs/childhood-photography/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/ja/blogs/childhood-photography/feature.jpg" />
     </item>
     
     <item>
       <title>Hello World🎉</title>
-      <link>https://www.karlukle.site/ja/blogs/hello-world/</link>
+      <link>https://www.jukai.site/ja/blogs/hello-world/</link>
       <pubDate>Sun, 19 Feb 2023 09:06:11 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/ja/blogs/hello-world/</guid>
+      <guid>https://www.jukai.site/ja/blogs/hello-world/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>
 
 &lt;h2 class=&#34;relative group&#34;&gt;こんにちは。これは僕の最初のブログです。 
@@ -1420,15 +1420,15 @@
 &lt;p&gt;&lt;ruby&gt;銀&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ぎん&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;龍&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;りゅう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;背&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;せ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;に&lt;ruby&gt;乗&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;の&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;って&lt;/p&gt;
 &lt;p&gt;&lt;ruby&gt;銀&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ぎん&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;龍&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;りゅう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;背&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;せ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;に&lt;ruby&gt;乗&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;の&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;って&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/ja/blogs/hello-world/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/ja/blogs/hello-world/feature.jpg" />
     </item>
     
     <item>
       <title></title>
-      <link>https://www.karlukle.site/ja/go/</link>
+      <link>https://www.jukai.site/ja/go/</link>
       <pubDate>Mon, 13 Jun 2022 20:55:37 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/ja/go/</guid>
+      <guid>https://www.jukai.site/ja/go/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;script&gt;
 	var referrerURL = document.referrer;
 	if (referrerURL.includes(&#34;karlukle.site&#34;)) {
@@ -1441,10 +1441,10 @@
     
     <item>
       <title>音楽愛好家の皆さん、ようこそ！ご連絡お待ちしています！</title>
-      <link>https://www.karlukle.site/ja/contact/</link>
+      <link>https://www.jukai.site/ja/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.karlukle.site/ja/contact/</guid>
+      <guid>https://www.jukai.site/ja/contact/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;ul&gt;
 &lt;li&gt;お仕事のご依頼・ご相談&lt;/li&gt;
 &lt;li&gt;イラスト提供 / PV制作&lt;/li&gt;

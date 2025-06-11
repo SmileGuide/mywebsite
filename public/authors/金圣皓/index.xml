@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JUKAI.SITE</title>
-    <link>https://www.karlukle.site/authors/%E9%87%91%E5%9C%A3%E7%9A%93/</link>
+    <link>https://www.jukai.site/authors/%E9%87%91%E5%9C%A3%E7%9A%93/</link>
     <description>我喜欢听花开的声音，更想自由地深情地呼吸</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2025 Jukai Sarai</copyright>
-    <lastBuildDate>Wed, 11 Jun 2025 11:04:00 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/authors/%E9%87%91%E5%9C%A3%E7%9A%93/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jun 2025 11:23:40 +0800</lastBuildDate><atom:link href="https://www.jukai.site/authors/%E9%87%91%E5%9C%A3%E7%9A%93/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关系框图</title>
-      <link>https://www.karlukle.site/docs/myoc/relationship/</link>
+      <link>https://www.jukai.site/docs/myoc/relationship/</link>
       <pubDate>Mon, 05 Jun 2023 14:36:30 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/docs/myoc/relationship/</guid>
+      <guid>https://www.jukai.site/docs/myoc/relationship/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;script type=&#34;module&#34;&gt;
   import mermaid from &#39;https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs&#39;;
 &lt;/script&gt;
@@ -168,10 +168,10 @@ timeline
     
     <item>
       <title>玻璃（已完结）</title>
-      <link>https://www.karlukle.site/docs/vb/glass/</link>
+      <link>https://www.jukai.site/docs/vb/glass/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/docs/vb/glass/</guid>
+      <guid>https://www.jukai.site/docs/vb/glass/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;这是一个可以模拟屏幕上的透明玻璃的工具，同时支持多开、染色、调整大小、按颜色序列创建玻璃等花样功能。&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
@@ -193,7 +193,7 @@ timeline
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/vbprojects/glass.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.jukai.site/vbprojects/glass.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;如果你在使用过程中遇到问题，欢迎在评论区提问！&lt;/p&gt;
 </description>
@@ -202,10 +202,10 @@ timeline
     
     <item>
       <title>人物介绍</title>
-      <link>https://www.karlukle.site/docs/myoc/characters/</link>
+      <link>https://www.jukai.site/docs/myoc/characters/</link>
       <pubDate>Tue, 06 Jun 2023 09:13:09 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/docs/myoc/characters/</guid>
+      <guid>https://www.jukai.site/docs/myoc/characters/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;style&gt;
 /*@font-face{ 
   font-family: &#34;NotoSerifJP&#34;;
@@ -436,10 +436,10 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     
     <item>
       <title>绘图板（已完结）</title>
-      <link>https://www.karlukle.site/docs/vb/board/</link>
+      <link>https://www.jukai.site/docs/vb/board/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/docs/vb/board/</guid>
+      <guid>https://www.jukai.site/docs/vb/board/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;这是一个可以在空白画布或图片上作画的工具，特别提供教师使用红色笔迹进行评卷的快捷功能。&lt;/p&gt;
 
 
@@ -473,7 +473,7 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/vbprojects/board.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.jukai.site/vbprojects/board.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;如果你在使用过程中遇到问题，欢迎在评论区提问！&lt;/p&gt;
 </description>
@@ -482,10 +482,10 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     
     <item>
       <title>概念阐释</title>
-      <link>https://www.karlukle.site/docs/myoc/pedia/</link>
+      <link>https://www.jukai.site/docs/myoc/pedia/</link>
       <pubDate>Tue, 06 Jun 2023 21:23:49 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/docs/myoc/pedia/</guid>
+      <guid>https://www.jukai.site/docs/myoc/pedia/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>
 
 &lt;h2 class=&#34;relative group&#34;&gt;地上世界 
@@ -524,7 +524,7 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;由于不允许两个&lt;a href=&#34;https://www.karlukle.site/docs/myoc/pedia/#eltraveller&#34;&gt;叶世旅人&lt;/a&gt;同时存在，当有两个人间本灵所有者受&lt;a href=&#34;https://www.karlukle.site/docs/myoc/pedia/#gotensamastorture&#34;&gt;御天樣之凌&lt;/a&gt;时，痛苦减轻一半，先行者将顺利成为叶世旅人并承载双倍的本灵能量加成，但另一人的魂魄将灰飞烟灭。&lt;/p&gt;
+&lt;p&gt;由于不允许两个&lt;a href=&#34;https://www.jukai.site/docs/myoc/pedia/#eltraveller&#34;&gt;叶世旅人&lt;/a&gt;同时存在，当有两个人间本灵所有者受&lt;a href=&#34;https://www.jukai.site/docs/myoc/pedia/#gotensamastorture&#34;&gt;御天樣之凌&lt;/a&gt;时，痛苦减轻一半，先行者将顺利成为叶世旅人并承载双倍的本灵能量加成，但另一人的魂魄将灰飞烟灭。&lt;/p&gt;
 
 
 &lt;h2 class=&#34;relative group&#34;&gt;葉の世界 
@@ -537,7 +537,7 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;第四维度上的平行世界。叶之世界可以通过意念控制的方式与&lt;a href=&#34;https://www.karlukle.site/docs/myoc/pedia/#owner&#34;&gt;人间本灵所有者&lt;/a&gt;产生联系、进行交流。梦境是通过四维轴往返于地上世界和叶之世界的唯一途径。据说只有小孩才会有这样的“叶世界之梦”。&lt;/p&gt;
+&lt;p&gt;第四维度上的平行世界。叶之世界可以通过意念控制的方式与&lt;a href=&#34;https://www.jukai.site/docs/myoc/pedia/#owner&#34;&gt;人间本灵所有者&lt;/a&gt;产生联系、进行交流。梦境是通过四维轴往返于地上世界和叶之世界的唯一途径。据说只有小孩才会有这样的“叶世界之梦”。&lt;/p&gt;
 
 
 &lt;h2 class=&#34;relative group&#34;&gt;葉の本霊（叶之本灵） 
@@ -550,7 +550,7 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/docs/myoc/pedia/#owner&#34;&gt;人间本灵所有者&lt;/a&gt;的魂魄在叶之世界的投影。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.jukai.site/docs/myoc/pedia/#owner&#34;&gt;人间本灵所有者&lt;/a&gt;的魂魄在叶之世界的投影。&lt;/p&gt;
 
 
 &lt;h2 class=&#34;relative group&#34;&gt;体 
@@ -563,7 +563,7 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/docs/myoc/pedia/#owner&#34;&gt;人间本灵所有者&lt;/a&gt;来到&lt;a href=&#34;https://www.karlukle.site/docs/myoc/pedia/#leafworld&#34;&gt;叶之世界&lt;/a&gt;后就会失去自由，直至化为&lt;a href=&#34;https://www.karlukle.site/docs/myoc/pedia/#eltraveller&#34;&gt;叶世旅人&lt;/a&gt;才会获得返回的能力。这样的失去自由者称为“体”。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.jukai.site/docs/myoc/pedia/#owner&#34;&gt;人间本灵所有者&lt;/a&gt;来到&lt;a href=&#34;https://www.jukai.site/docs/myoc/pedia/#leafworld&#34;&gt;叶之世界&lt;/a&gt;后就会失去自由，直至化为&lt;a href=&#34;https://www.jukai.site/docs/myoc/pedia/#eltraveller&#34;&gt;叶世旅人&lt;/a&gt;才会获得返回的能力。这样的失去自由者称为“体”。&lt;/p&gt;
 
 
 &lt;h2 class=&#34;relative group&#34;&gt;葉世旅人（叶世旅人） 
@@ -576,7 +576,7 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;能够在&lt;a href=&#34;https://www.karlukle.site/docs/myoc/pedia/#earthlyworld&#34;&gt;地上世界&lt;/a&gt;和&lt;a href=&#34;https://www.karlukle.site/docs/myoc/pedia/#leafworld&#34;&gt;叶之世界&lt;/a&gt;由梦境往返的&lt;a href=&#34;https://www.karlukle.site/docs/myoc/pedia/#owner&#34;&gt;人间本灵所有者&lt;/a&gt;。&lt;a href=&#34;https://www.karlukle.site/docs/myoc/characters/#karlukle&#34;&gt;天野カルクル&lt;/a&gt;是一名葉世旅人，他每晚通过梦游叶之世界获得叶世旅人能力，降临在地上世界的各个角落与人对话。&lt;/p&gt;
+&lt;p&gt;能够在&lt;a href=&#34;https://www.jukai.site/docs/myoc/pedia/#earthlyworld&#34;&gt;地上世界&lt;/a&gt;和&lt;a href=&#34;https://www.jukai.site/docs/myoc/pedia/#leafworld&#34;&gt;叶之世界&lt;/a&gt;由梦境往返的&lt;a href=&#34;https://www.jukai.site/docs/myoc/pedia/#owner&#34;&gt;人间本灵所有者&lt;/a&gt;。&lt;a href=&#34;https://www.jukai.site/docs/myoc/characters/#karlukle&#34;&gt;天野カルクル&lt;/a&gt;是一名葉世旅人，他每晚通过梦游叶之世界获得叶世旅人能力，降临在地上世界的各个角落与人对话。&lt;/p&gt;
 
 
 &lt;h2 class=&#34;relative group&#34;&gt;ご天樣（御天樣） 
@@ -602,7 +602,7 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;叶之世界的苦刑，有肉体与精神的双重折磨。受御天樣之凌时，有身体缓慢裂解般的疼痛和万念俱灰的绝望。&lt;a href=&#34;https://www.karlukle.site/docs/myoc/pedia/#tay&#34;&gt;体&lt;/a&gt;想要获得自由，必须受御天樣之凌，成为&lt;a href=&#34;https://www.karlukle.site/docs/myoc/pedia/#eltraveller&#34;&gt;叶世旅人&lt;/a&gt;。&lt;/p&gt;
+&lt;p&gt;叶之世界的苦刑，有肉体与精神的双重折磨。受御天樣之凌时，有身体缓慢裂解般的疼痛和万念俱灰的绝望。&lt;a href=&#34;https://www.jukai.site/docs/myoc/pedia/#tay&#34;&gt;体&lt;/a&gt;想要获得自由，必须受御天樣之凌，成为&lt;a href=&#34;https://www.jukai.site/docs/myoc/pedia/#eltraveller&#34;&gt;叶世旅人&lt;/a&gt;。&lt;/p&gt;
 
 
 &lt;h2 class=&#34;relative group&#34;&gt;人間本霊所有者（人间本灵所有者） 
@@ -622,10 +622,10 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     
     <item>
       <title>网课小工具-剪贴板存图工具（已完结）</title>
-      <link>https://www.karlukle.site/docs/vb/screenshot/</link>
+      <link>https://www.jukai.site/docs/vb/screenshot/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/docs/vb/screenshot/</guid>
+      <guid>https://www.jukai.site/docs/vb/screenshot/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;这是一个可以方便地把按下PrintScreen键复制到剪贴板的截图捕获、并以时间戳文件名保存到指定目录内的工具。&lt;/p&gt;
 
 
@@ -659,7 +659,7 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/vbprojects/screenshot.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.jukai.site/vbprojects/screenshot.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;如果你在使用过程中遇到问题，欢迎在评论区提问！&lt;/p&gt;
 </description>
@@ -668,10 +668,10 @@ background:linear-gradient(to top left,#d39340,#ffd194);
     
     <item>
       <title>创作背景问答</title>
-      <link>https://www.karlukle.site/docs/myoc/questionaire/</link>
+      <link>https://www.jukai.site/docs/myoc/questionaire/</link>
       <pubDate>Tue, 06 Jun 2023 23:00:25 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/docs/myoc/questionaire/</guid>
+      <guid>https://www.jukai.site/docs/myoc/questionaire/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>
 
 &lt;h2 class=&#34;relative group&#34;&gt;为什么采用“天野”这个姓？ 
@@ -731,10 +731,10 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
     
     <item>
       <title>网课小工具-课程表（未完结）</title>
-      <link>https://www.karlukle.site/docs/vb/schedule/</link>
+      <link>https://www.jukai.site/docs/vb/schedule/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/docs/vb/schedule/</guid>
+      <guid>https://www.jukai.site/docs/vb/schedule/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;这是一个可以在网课期间规划时间、区分星期地按课程设定闹铃的实用工具，另支持内置的命令行操作，并有多种皮肤可选。&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
@@ -756,7 +756,7 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/vbprojects/schedule.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.jukai.site/vbprojects/schedule.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;如果你在使用过程中遇到问题，欢迎在评论区提问！&lt;/p&gt;
 </description>
@@ -765,10 +765,10 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
     
     <item>
       <title>三十一中学生信息管理系统（已完结）</title>
-      <link>https://www.karlukle.site/docs/vb/31infsystem/</link>
+      <link>https://www.jukai.site/docs/vb/31infsystem/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/docs/vb/31infsystem/</guid>
+      <guid>https://www.jukai.site/docs/vb/31infsystem/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;这是一个可以查询庄河市第三十一初级中学2019届学生信息的数据管理系统，并有通配符查找、剪贴板识别自动查找等功能。你也可以将本作品更改成你单位的信息管理系统。&lt;/p&gt;
 
 
@@ -802,7 +802,7 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/vbprojects/31infsystem.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.jukai.site/vbprojects/31infsystem.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;如果你在使用过程中遇到问题，欢迎在评论区提问！&lt;/p&gt;
 </description>
@@ -811,10 +811,10 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
     
     <item>
       <title>明文密文转换工具（未完结）</title>
-      <link>https://www.karlukle.site/docs/vb/cipher/</link>
+      <link>https://www.jukai.site/docs/vb/cipher/</link>
       <pubDate>Sat, 25 Mar 2023 17:35:02 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/docs/vb/cipher/</guid>
+      <guid>https://www.jukai.site/docs/vb/cipher/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;这是一个可以根据自定义的密钥加密解密文本的工具，多种花样功能正在开发中。&lt;/p&gt;
 &lt;style&gt;
 	.DDot{
@@ -836,7 +836,7 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/vbprojects/cipher.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.jukai.site/vbprojects/cipher.rar&#34; class=&#34;DDot&#34;&gt;点击下载&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;如果你在使用过程中遇到问题，欢迎在评论区提问！&lt;/p&gt;
 </description>
@@ -845,10 +845,10 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
     
     <item>
       <title>关于网站音乐系统</title>
-      <link>https://www.karlukle.site/blogs/music/</link>
+      <link>https://www.jukai.site/blogs/music/</link>
       <pubDate>Fri, 26 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/blogs/music/</guid>
+      <guid>https://www.jukai.site/blogs/music/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;本网站的音乐系统分为两部分：&lt;a href=&#34;#%e6%82%ac%e6%b5%ae%e6%92%ad%e6%94%be%e5%99%a8&#34;&gt;悬浮播放器&lt;/a&gt; 和 &lt;a href=&#34;#%e9%9f%b3%e4%b9%90%e7%ab%99&#34;&gt;音乐站&lt;/a&gt; 。&lt;/p&gt;
 
 
@@ -927,15 +927,15 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
 &lt;p&gt;音乐站分为多个专栏，多元地反应我的听歌风格。&lt;/p&gt;
 &lt;p&gt;正由于外音乐平台的播放限制，音乐站的主要目的是提供音乐列表，起&lt;strong&gt;推荐&lt;/strong&gt;和&lt;strong&gt;试听&lt;/strong&gt;作用。&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/blogs/music/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/blogs/music/feature.jpg" />
     </item>
     
     <item>
       <title>我早期的Visual Baisc编程作品</title>
-      <link>https://www.karlukle.site/docs/vb/</link>
+      <link>https://www.jukai.site/docs/vb/</link>
       <pubDate>Tue, 02 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/docs/vb/</guid>
+      <guid>https://www.jukai.site/docs/vb/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;style&gt;
 	.DDot{
 		text-decoration:underline;
@@ -946,37 +946,37 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
 &lt;p&gt;这里存放着我的Visual Basic编程作品的源代码。这些源代码都处于持续更新状态，欢迎大家借鉴交流。&lt;/p&gt;
 &lt;p&gt;需要注意的是，在查看这些源代码之前，你的计算机需要安装Microsoft Visual Basic 6.0。&lt;a href=&#34;https://www.baidu.com/s?wd=VB6.0%E4%B8%8B%E8%BD%BD&#34; class=&#34;DDot&#34;&gt;点击此处可以在搜索引擎搜索以下载。&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;另外，如果你使用高分辨率显示器，你需要在EXE的『属性——兼容性——更改高DPI设置』中，选中『替代高DPI缩放行为。缩放执行：』，然后点击『确定』。这样你能获得更清晰的UI体验。&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.karlukle.site/docs/vb/glass&#34;&gt;第一个项目：玻璃 &amp;gt; &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.jukai.site/docs/vb/glass&#34;&gt;第一个项目：玻璃 &amp;gt; &lt;/a&gt;&lt;/p&gt;
 </description>
       
     </item>
     
     <item>
       <title>日志</title>
-      <link>https://www.karlukle.site/blogs/</link>
+      <link>https://www.jukai.site/blogs/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/blogs/</guid>
+      <guid>https://www.jukai.site/blogs/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/></description>
       
     </item>
     
     <item>
       <title>文档</title>
-      <link>https://www.karlukle.site/docs/</link>
+      <link>https://www.jukai.site/docs/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/docs/</guid>
+      <guid>https://www.jukai.site/docs/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/></description>
       
     </item>
     
     <item>
       <title>Hello World🎉</title>
-      <link>https://www.karlukle.site/blogs/hello-world/</link>
+      <link>https://www.jukai.site/blogs/hello-world/</link>
       <pubDate>Sun, 19 Feb 2023 09:06:11 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/blogs/hello-world/</guid>
+      <guid>https://www.jukai.site/blogs/hello-world/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>
 
 &lt;h2 class=&#34;relative group&#34;&gt;我的第一个博客。 
@@ -1036,15 +1036,15 @@ Karlukle包含两个部分，“Karl”是“Charles”的日耳曼和斯堪的�
     });
 &lt;/script&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/blogs/hello-world/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/blogs/hello-world/feature.jpg" />
     </item>
     
     <item>
       <title>My Original Characters</title>
-      <link>https://www.karlukle.site/docs/myoc/</link>
+      <link>https://www.jukai.site/docs/myoc/</link>
       <pubDate>Tue, 06 Jun 2023 23:00:25 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/docs/myoc/</guid>
+      <guid>https://www.jukai.site/docs/myoc/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;br/&gt;
 &amp;nbsp;He was made to be the angel of the world.  
 &lt;br/&gt;

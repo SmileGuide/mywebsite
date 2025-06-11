@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JUKAI.SITE</title>
-    <link>https://www.karlukle.site/ja/tags/%E9%9F%B3%E6%A5%BD/</link>
+    <link>https://www.jukai.site/ja/tags/%E9%9F%B3%E6%A5%BD/</link>
     <description>風渡る樹海に夕闇降る。</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>:copyright: 2025 Jukai Sarai</copyright>
-    <lastBuildDate>Wed, 11 Jun 2025 11:04:00 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/ja/tags/%E9%9F%B3%E6%A5%BD/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jun 2025 11:23:41 +0800</lastBuildDate><atom:link href="https://www.jukai.site/ja/tags/%E9%9F%B3%E6%A5%BD/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>サイトの音楽について</title>
-      <link>https://www.karlukle.site/ja/blogs/music/</link>
+      <link>https://www.jukai.site/ja/blogs/music/</link>
       <pubDate>Fri, 26 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/ja/blogs/music/</guid>
+      <guid>https://www.jukai.site/ja/blogs/music/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>&lt;p&gt;このウェブサイトの音楽システムは、&lt;a href=&#34;#%e3%83%9b%e3%83%90%e3%83%bc%e3%83%97%e3%83%ac%e3%82%a4%e3%83%a4%e3%83%bc&#34;&gt;ホバー・プレイヤー&lt;/a&gt; と &lt;a href=&#34;#%e9%9f%b3%e6%a5%bd%e3%82%b9%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3&#34;&gt;音楽ステーション&lt;/a&gt;の2つの部分に分かれています。&lt;/p&gt;
 
 
@@ -92,7 +92,7 @@
 &lt;p&gt;音楽ステーションは、私のリスニングスタイルを反映するために、いくつかのコラムに分かれています。&lt;/p&gt;
 &lt;p&gt;音楽ステーションの主な目的は、外部音楽プラットフォームの再生制限のため、音楽リスト、&lt;strong&gt;おすすめ&lt;/strong&gt;、&lt;strong&gt;試聴&lt;/strong&gt;を提供することです。&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/ja/blogs/music/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/ja/blogs/music/feature.jpg" />
     </item>
     
   </channel>

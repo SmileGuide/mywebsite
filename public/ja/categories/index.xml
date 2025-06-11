@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JUKAI.SITE</title>
-    <link>https://www.karlukle.site/ja/categories/</link>
+    <link>https://www.jukai.site/ja/categories/</link>
     <description>風渡る樹海に夕闇降る。</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>:copyright: 2025 Jukai Sarai</copyright>
-    <lastBuildDate>Wed, 11 Jun 2025 11:04:00 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/ja/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jun 2025 11:23:41 +0800</lastBuildDate><atom:link href="https://www.jukai.site/ja/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

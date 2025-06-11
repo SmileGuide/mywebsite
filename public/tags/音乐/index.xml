@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JUKAI.SITE</title>
-    <link>https://www.karlukle.site/tags/%E9%9F%B3%E4%B9%90/</link>
+    <link>https://www.jukai.site/tags/%E9%9F%B3%E4%B9%90/</link>
     <description>我喜欢听花开的声音，更想自由地深情地呼吸</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2025 Jukai Sarai</copyright>
-    <lastBuildDate>Wed, 11 Jun 2025 11:04:00 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/tags/%E9%9F%B3%E4%B9%90/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jun 2025 11:23:40 +0800</lastBuildDate><atom:link href="https://www.jukai.site/tags/%E9%9F%B3%E4%B9%90/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于网站音乐系统</title>
-      <link>https://www.karlukle.site/blogs/music/</link>
+      <link>https://www.jukai.site/blogs/music/</link>
       <pubDate>Fri, 26 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/blogs/music/</guid>
+      <guid>https://www.jukai.site/blogs/music/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;p&gt;本网站的音乐系统分为两部分：&lt;a href=&#34;#%e6%82%ac%e6%b5%ae%e6%92%ad%e6%94%be%e5%99%a8&#34;&gt;悬浮播放器&lt;/a&gt; 和 &lt;a href=&#34;#%e9%9f%b3%e4%b9%90%e7%ab%99&#34;&gt;音乐站&lt;/a&gt; 。&lt;/p&gt;
 
 
@@ -92,15 +92,15 @@
 &lt;p&gt;音乐站分为多个专栏，多元地反应我的听歌风格。&lt;/p&gt;
 &lt;p&gt;正由于外音乐平台的播放限制，音乐站的主要目的是提供音乐列表，起&lt;strong&gt;推荐&lt;/strong&gt;和&lt;strong&gt;试听&lt;/strong&gt;作用。&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/blogs/music/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/blogs/music/feature.jpg" />
     </item>
     
     <item>
       <title>精选音乐信息 (悬浮播放器↙)</title>
-      <link>https://www.karlukle.site/radio/pick/</link>
+      <link>https://www.jukai.site/radio/pick/</link>
       <pubDate>Fri, 26 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/radio/pick/</guid>
+      <guid>https://www.jukai.site/radio/pick/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>
 
 &lt;h2 class=&#34;relative group&#34;&gt;音乐信息 
@@ -418,7 +418,7 @@ The last gala should be as grand as the first&lt;/p&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/radio/pick/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/radio/pick/feature.jpg" />
     </item>
     
   </channel>

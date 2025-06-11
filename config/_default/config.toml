@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-baseURL = "https://www.karlukle.site/"
+baseURL = "https://www.jukai.site/"
 defaultContentLanguage = "zh-cn"
 defaultContentLanguageInSubdir = false
 pluralizeListTitles = "true" 

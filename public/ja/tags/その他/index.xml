@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JUKAI.SITE</title>
-    <link>https://www.karlukle.site/ja/tags/%E3%81%9D%E3%81%AE%E4%BB%96/</link>
+    <link>https://www.jukai.site/ja/tags/%E3%81%9D%E3%81%AE%E4%BB%96/</link>
     <description>風渡る樹海に夕闇降る。</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <copyright>:copyright: 2025 Jukai Sarai</copyright>
-    <lastBuildDate>Wed, 11 Jun 2025 11:04:00 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/ja/tags/%E3%81%9D%E3%81%AE%E4%BB%96/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jun 2025 11:23:41 +0800</lastBuildDate><atom:link href="https://www.jukai.site/ja/tags/%E3%81%9D%E3%81%AE%E4%BB%96/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello World🎉</title>
-      <link>https://www.karlukle.site/ja/blogs/hello-world/</link>
+      <link>https://www.jukai.site/ja/blogs/hello-world/</link>
       <pubDate>Sun, 19 Feb 2023 09:06:11 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/ja/blogs/hello-world/</guid>
+      <guid>https://www.jukai.site/ja/blogs/hello-world/</guid>
       <description>RSSリーダーはブログの内容を完璧に表示しないので、ブラウザで読むことをお勧めします。<br/>
 
 &lt;h2 class=&#34;relative group&#34;&gt;こんにちは。これは僕の最初のブログです。 
@@ -114,7 +114,7 @@
 &lt;p&gt;&lt;ruby&gt;銀&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ぎん&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;龍&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;りゅう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;背&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;せ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;に&lt;ruby&gt;乗&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;の&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;って&lt;/p&gt;
 &lt;p&gt;&lt;ruby&gt;銀&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;ぎん&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;龍&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;りゅう&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;の&lt;ruby&gt;背&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;せ&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;に&lt;ruby&gt;乗&lt;rp&gt;(&lt;/rp&gt;&lt;rt&gt;の&lt;/rt&gt;&lt;rp&gt;)&lt;/rp&gt;&lt;/ruby&gt;って&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/ja/blogs/hello-world/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/ja/blogs/hello-world/feature.jpg" />
     </item>
     
   </channel>

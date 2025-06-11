@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JUKAI.SITE</title>
-    <link>https://www.karlukle.site/radio/</link>
+    <link>https://www.jukai.site/radio/</link>
     <description>我喜欢听花开的声音，更想自由地深情地呼吸</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2025 Jukai Sarai</copyright>
-    <lastBuildDate>Wed, 11 Jun 2025 11:04:00 +0800</lastBuildDate><atom:link href="https://www.karlukle.site/radio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 11 Jun 2025 11:23:40 +0800</lastBuildDate><atom:link href="https://www.jukai.site/radio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>古典乐 Classical</title>
-      <link>https://www.karlukle.site/radio/classical/</link>
+      <link>https://www.jukai.site/radio/classical/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/radio/classical/</guid>
+      <guid>https://www.jukai.site/radio/classical/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
@@ -26,15 +26,15 @@
     
     
 &lt;/section&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/radio/classical/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/radio/classical/feature.jpg" />
     </item>
     
     <item>
       <title>新世纪音乐 New Age</title>
-      <link>https://www.karlukle.site/radio/newage/</link>
+      <link>https://www.jukai.site/radio/newage/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/radio/newage/</guid>
+      <guid>https://www.jukai.site/radio/newage/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
@@ -47,15 +47,15 @@
     
     
 &lt;/section&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/radio/newage/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/radio/newage/feature.jpg" />
     </item>
     
     <item>
       <title>泛流行 PanPop</title>
-      <link>https://www.karlukle.site/radio/panpop/</link>
+      <link>https://www.jukai.site/radio/panpop/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/radio/panpop/</guid>
+      <guid>https://www.jukai.site/radio/panpop/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
@@ -68,15 +68,15 @@
     
     
 &lt;/section&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/radio/panpop/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/radio/panpop/feature.jpg" />
     </item>
     
     <item>
       <title>摇滚 Rocks</title>
-      <link>https://www.karlukle.site/radio/rocks/</link>
+      <link>https://www.jukai.site/radio/rocks/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/radio/rocks/</guid>
+      <guid>https://www.jukai.site/radio/rocks/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
@@ -89,15 +89,15 @@
     
     
 &lt;/section&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/radio/rocks/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/radio/rocks/feature.jpg" />
     </item>
     
     <item>
       <title>地球呢喃 Murmurs of Earth</title>
-      <link>https://www.karlukle.site/radio/murmurs/</link>
+      <link>https://www.jukai.site/radio/murmurs/</link>
       <pubDate>Mon, 01 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/radio/murmurs/</guid>
+      <guid>https://www.jukai.site/radio/murmurs/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
@@ -110,15 +110,15 @@
     
     
 &lt;/section&gt;</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/radio/murmurs/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/radio/murmurs/feature.jpg" />
     </item>
     
     <item>
       <title>精选音乐信息 (悬浮播放器↙)</title>
-      <link>https://www.karlukle.site/radio/pick/</link>
+      <link>https://www.jukai.site/radio/pick/</link>
       <pubDate>Fri, 26 Jan 2024 10:11:15 +0800</pubDate>
       
-      <guid>https://www.karlukle.site/radio/pick/</guid>
+      <guid>https://www.jukai.site/radio/pick/</guid>
       <description>由于RSS阅读器无法完美地展示博客内容，建议到浏览器阅读。<br/>
 
 &lt;h2 class=&#34;relative group&#34;&gt;音乐信息 
@@ -436,7 +436,7 @@ The last gala should be as grand as the first&lt;/p&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.karlukle.site/radio/pick/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/radio/pick/feature.jpg" />
     </item>
     
   </channel>
