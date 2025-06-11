@@ -20,10 +20,10 @@ showPagination: false
 		<img class="!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image" src="/avatar.png" referrerpolicy="no-referrer">
 		<div class="place-self-center">
 			<div class="font-semibold leading-6 text-neutral-800 dark:text-neutral-300 decoration-primary-500 hover:underline hover:underline-offset-2 ">
-				U'Marine Meteoroid (this site)
+				JUKAI.SITE (this site)
 			</div>
 			<div class="text-[0.8rem] leading-3 text-neutral-500 dark:text-neutral-400">
-We are all in the gutter, but some of us are looking at the stars.
+Twilight descends in woodlands.
 			</div>
 		</div>
 	</div>
@@ -48,7 +48,7 @@ We are all in the gutter, but some of us are looking at the stars.
 The Internet is a vast net, and friendship links are threads connecting this site to the blogosphere. Through these links, you can discover more personal websites.
 ### 1.1 How to Apply
 To add your link here:
-- **Email me at [jukaisr@outkook.com](mailto:jukaisr@outkook.com?body=name%3A%20%0Alink%3A%20%0Aavatar%3A%20%0Adescrition%3A%20)**
+- **Email me at [jukaisr@outkook.com](mailto:jukaisr@outkook.com?subject=Friend%20Links%20Application&body=name%3A%20%0Alink%3A%20%0Aavatar%3A%20%0Adescrition%3A%20)**
 - **Comment below** (slower processing)
 
 If your site has a links section, please **add this site**.

@@ -72,7 +72,7 @@ showPagination: false
 Internet 是一张大网，而友情链接是一根蛛丝，把本站和广大博客群落连接起来。通过友情链接，你可以发现更多个人网站。  
 ### 1.1 如何申请友链？
 要想让你的友链出现在此处，有以下两种方式：
-- **向我 [jukaisr@outkook.com](mailto:jukaisr@outkook.com?body=name%3A%20%0Alink%3A%20%0Aavatar%3A%20%0Adescrition%3A%20)发送电子邮件**
+- **向我 [jukaisr@outkook.com](mailto:jukaisr@outkook.com?subject=%20%E5%8F%8B%E9%93%BE%E7%94%B3%E8%AF%B7&body=name%3A%20%0Alink%3A%20%0Aavatar%3A%20%0Adescrition%3A%20)发送电子邮件**
 - 在下方评论区**留言**（审核较慢，不推荐）   
 
 相应地，如果你的网站也有友链区，请**把本站放入**。 

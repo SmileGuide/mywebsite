@@ -16,10 +16,10 @@ showPagination: false
 		<img class="!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image" src="/avatar.png" referrerpolicy="no-referrer">
 		<div class="place-self-center" >
 			<div class="font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2  dark:text-neutral-300">
-				群青流れ星(当サイト)
+				JUKAI.SITE(当サイト)
 			</div>
 			<div class="text-[0.8rem] leading-3 text-neutral-500 dark:text-neutral-400">
-				花が咲く音が好きで、心から自由に息をしたい。
+				風渡る樹海に夕闇降る。
 			</div>
 		</div>
 	</div>
@@ -43,7 +43,7 @@ showPagination: false
 インターネットは巨大な網であり、相互リンクは一本の糸のように当サイトとブログ群を繋ぎます。相互リンクを通じて、より多くの個人サイトを発見できます。
 ### 1.1 リンク申請方法
 当サイトにリンクを掲載するには以下の方法があります：
-- **メール送信 [jukaisr@outkook.com](mailto:jukaisr@outkook.com?body=name%3A%20%0Alink%3A%20%0Aavatar%3A%20%0Adescrition%3A%20)**
+- **メール送信 [jukaisr@outkook.com](mailto:jukaisr@outkook.com?subject=%E7%9B%B8%E4%BA%92%E3%83%AA%E3%83%B3%E3%82%AF%E7%94%B3%E8%AB%8B&body=name%3A%20%0Alink%3A%20%0Aavatar%3A%20%0Adescrition%3A%20)**
 - コメント欄への**書き込み**（審査に時間を要します）
 
 ご自身のサイトにリンク集がある場合、**当サイトを追加**してください。
