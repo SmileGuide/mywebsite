@@ -1,7 +1,6 @@
 ---
 title: 关于网站音乐系统
 description: 
-authors: [金圣皓]
 date: 2024-01-26T10:11:15+08:00
 isCJKLanguage: true
 tags: [音乐]

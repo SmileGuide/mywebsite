@@ -1,7 +1,6 @@
 ---
 title: サイトの音楽について
 description: 
-authors: [金聖皓]
 date: 2024-01-26T10:11:15+08:00
 showdate: true
 isCJKLanguage: true

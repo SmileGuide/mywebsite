@@ -7,8 +7,6 @@ date: 2023-02-19T09:06:11+08:00
 draft: false
 isCJKLanguage: true
 showAuthor: false
-authors:
-- 金聖皓
 ---
 ##	こんにちは。これは僕の最初のブログです。  
 {{< typeit 
