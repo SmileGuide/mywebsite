@@ -11,9 +11,8 @@ title = "Blowfish"
   logo = "img/blowfish_logo_transparent.png"
   description = "強力で、軽量な Hugo のテーマです。"
 
-[params.author]
+[author]
   name = "Blowfish"
-  email = "nuno@n9o.xyz"
   image = "img/blowfish_logo.png"
   headline = "強力で、軽量な Hugo のテーマです。"
   bio = "強力で、軽量な Hugo のテーマです。"

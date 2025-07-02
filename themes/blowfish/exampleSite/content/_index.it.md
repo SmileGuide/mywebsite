@@ -18,7 +18,7 @@ description: "Questa pagina è stata creata utilizzando il tema Blowfish per Hug
 </div>
 
 
-```shell
+```node
 npx blowfish-tools
 ```  
 

@@ -4,7 +4,7 @@ summary: "一年前我创建了 Blowfish，这是一个为了打造我的个人�
 description: "一年前我创建了 Blowfish，这是一个为了打造我的个人主页而精心设计的 Hugo 主题。我决定将其作为一个开源项目。直到今天，Blowfish 已经变成了一个蓬勃发展的开源项目，在 GitHub 上拥有超过900个 star 和数百名用户。在本教程中，我向像你展示如何搭建并在几分钟内让你的网站运行起来。"
 categories: ["开源", "Blowfish"]
 tags: ["指南", "blowfish", "hugo"]
-externalUrl: "https://n9o.xyz/posts/202310-blowfish-tutorial/"
+externalUrl: "https://nunocoracao.com/posts/202310-blowfish-tutorial/"
 date: 2023-10-04
 draft: false
 showauthor: false
@@ -113,7 +113,7 @@ emmmm… 页面未找到404了，是吧？
 git submodule add -b main https://github.com/nunocoracao/blowfish.git themes/blowfish
 ```
 
-接下来，在你的代码根目录下创建 `config/_default/` 文件夹。现在你需要下载[这些文件](https://github.com/nunocoracao/blowfish/releases/latest/download/config-default.zip)，并把它们放在刚刚创建的 _\_default_ 文件夹内。最终的文件结构看起来应该是这样的。
+接下来，在你的代码根目录下创建 `config/_default/` 文件夹。现在你需要下载[这些文件](https://minhaskamal.github.io/DownGit/#/home?url=https:%2F%2Fgithub.com%2Fnunocoracao%2Fblowfish%2Ftree%2Fmain%2Fconfig%2F%5C_default)，并把它们放在刚刚创建的 _\_default_ 文件夹内。最终的文件结构看起来应该是这样的。
 
 ```md
 config/_default/
@@ -208,7 +208,7 @@ defaultBackgroundImage = "image.jpg" # used as default for background images
   showRecent = true
   showRecentItems = 6
   showMoreLink = true
-  showMoreLinkDest = "/posts/"
+  showMoreLinkDest = "/posts"
   cardView = true
   cardViewScreenWidth = false
   layoutBackgroundBlur = true # only used when layout equals background

@@ -26,6 +26,7 @@ article:
   this_article: "Тази Статия"
   related_articles: "Подобни"
 
+
 author:
   byline_title: "Автор"
 
@@ -59,7 +60,6 @@ search:
 sharing:
   email: "Изпрати чрез имейл"
   facebook: "Сподели на Facebook"
-  line: "Споделяне в LINE"
   linkedin: "Сподели на LinkedIn"
   pinterest: "Закачи в Pinterest"
   reddit: "Добави на Reddit"

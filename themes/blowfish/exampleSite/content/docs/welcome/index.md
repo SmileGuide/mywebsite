@@ -24,9 +24,9 @@ Tailwind CSS is at the heart of Blowfish and this release contains the very late
 
 A highly requested feature, Blowfish is now multilingual! If you publish your content in multiple languages, the site will be built with all the translations available.
 
-<div class="text-2xl text-center" style="font-size: 2.8rem">🇬🇧 🇩🇪 🇫🇷 🇪🇸 🇨🇳 🇧🇷 🇹🇷 🇧🇩</div>
+<div class="text-2xl text-center" style="font-size: 2.8rem">:gb: :de: :fr: :es: :cn: :brazil: :tr: :bangladesh:</div>
 
-Thanks to submissions from the community, Blowfish has already been translated into [thirty languages](https://github.com/nunocoracao/blowfish/tree/main/i18n) with more to be added over time. By the way, [pull requests](https://github.com/nunocoracao/blowfish/pulls) for new languages are always welcome!
+Thanks to submissions from the community, Blowfish has already been translated into [twenty-eight languages](https://github.com/nunocoracao/blowfish/tree/main/i18n) with more to be added over time. By the way, [pull requests](https://github.com/nunocoracao/blowfish/pulls) for new languages are always welcome!
 
 ## RTL language support
 
@@ -38,7 +38,7 @@ RTL is controlled on a per-language basis so you can mix and match both RTL and 
 
 A big change in Blowfish 2.0 is the addition of automatic image resizing. Using the power of Hugo Pipes, images in Markdown content are now automatically scaled to different output sizes. These are then presented using HTML `srcset` attributes enabling optimised file sizes to be served to your site visitors.
 
-![Image with alternate text](image-resizing.png)
+![](image-resizing.png)
 
 ```html
 <!-- Markdown: ![My image](image.jpg) -->
@@ -46,7 +46,8 @@ A big change in Blowfish 2.0 is the addition of automatic image resizing. Using 
   srcset="
     /image_320x0_resize_q75_box.jpg 320w,
     /image_635x0_resize_q75_box.jpg 635w,
-    /image_1024x0_resize_q75_box.jpg 1024w"
+    /image_1024x0_resize_q75_box.jpg 1024w,
+    /image_1270x0_resize_q75_box.jpg 2x"
   src="/image_635x0_resize_q75_box.jpg"
   alt="My image"
 />

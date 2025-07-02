@@ -1,77 +1,79 @@
 ---
-title: "Blowfish へようこそ"
+title: "Welcome to Blowfish"
 weight: 1
 draft: false
-description: "Blowfish バージョン 2.0 の新機能をご紹介。"
+description: "Discover what's new in Blowfish version 2.0."
 tags: ["new", "docs"]
 series: ["Documentation"]
 series_order: 1
 ---
 
 {{< lead >}}
-Blowfish にはたくさんの機能が詰まっています。
+Blowfish is packed with tons of features.
 {{< /lead >}}
 
-元々、Blowfish の目標は、シンプルで軽量なテーマを開発することでした。このテーマは <a target="_blank" href="https://github.com/nunocoracao/congo">Congo</a> をフォークし、その当初のビジョンを発展させたものです。
+The original aim of Blowfish was to develop a theme that was simple and lightweight. The theme is a fork of <a target="_blank" href="https://github.com/nunocoracao/congo">Congo</a> and expands its initial vision.
 
 ## Tailwind CSS 3.0
 
-Tailwind CSS は Blowfish の中核であり、今回のリリースには最新の [Tailwind CSS バージョン 3](https://tailwindcss.com/blog/tailwindcss-v3) が含まれています。パフォーマンスの最適化と、いくつかの素晴らしい新しい CSS 機能のサポートが追加されています。
+Tailwind CSS is at the heart of Blowfish and this release contains the very latest [Tailwind CSS version 3](https://tailwindcss.com/blog/tailwindcss-v3). It brings with it performance optimisations and support for some great new CSS features.
 
 {{< youtube "TmWIrBPE6Bc" >}}
 
-## 多言語対応
+## Multilingual support
 
-多くの要望が寄せられていた多言語対応が Blowfish に追加されました！コンテンツを複数の言語で公開すると、サイトは利用可能なすべての翻訳で構築されます。
+A highly requested feature, Blowfish is now multilingual! If you publish your content in multiple languages, the site will be built with all the translations available.
 
-<div class="text-2xl text-center" style="font-size: 2.8rem">🇬🇧 🇩🇪 🇫🇷 🇪🇸 🇨🇳 🇧🇷 🇹🇷 🇧🇩</div>
+<div class="text-2xl text-center" style="font-size: 2.8rem">:gb: :de: :fr: :es: :cn: :brazil: :tr: :bangladesh:</div>
 
-コミュニティからの貢献のおかげで、Blowfish はすでに[30の言語](https://github.com/nunocoracao/blowfish/tree/main/i18n)に翻訳されており、今後も追加される予定です。ちなみに、新しい言語の[プルリクエスト](https://github.com/nunocoracao/blowfish/pulls)はいつでも大歓迎です！
+Thanks to submissions from the community, Blowfish has already been translated into [twenty-six languages](https://github.com/nunocoracao/blowfish/tree/main/i18n) with more to be added over time. By the way, [pull requests](https://github.com/nunocoracao/blowfish/pulls) for new languages are always welcome!
 
-## RTL 言語対応
+## RTL language support
 
-新しい Tailwind と多言語機能の利点の1つは、RTL 言語サポートを追加できることです。有効にすると、サイト全体のコンテンツが右から左に並べ替えられます。テーマ内のすべての要素が、このモードで見栄えが良くなるように再スタイルされており、RTL 言語でコンテンツを生成したい制作者を支援します。
+One of the benefits of the new Tailwind and Multilingual features is the ability to add RTL language support. When enabled, the entire site will reflow content from right-to-left. Every element in the theme has been restyled to ensure it looks great in this mode which aids authors who wish to generate content in RTL languages.
 
-RTL は言語ごとに制御されるため、プロジェクト内で RTL と LTR の両方のコンテンツを混在させることができ、テーマはそれに応じて対応します。
+RTL is controlled on a per-language basis so you can mix and match both RTL and LTR content in your projects and the theme will respond accordingly.
 
-## 自動画像リサイズ
+## Automatic image resizing
 
-Blowfish 2.0 の大きな変更点は、自動画像リサイズ機能の追加です。Hugo Pipes の力を使って、Markdown コンテンツ内の画像が自動的に異なる出力サイズにスケーリングされるようになりました。これらは HTML の `srcset` 属性を使用して表示され、最適化されたファイルサイズをサイト訪問者に提供できます。
+A big change in Blowfish 2.0 is the addition of automatic image resizing. Using the power of Hugo Pipes, images in Markdown content are now automatically scaled to different output sizes. These are then presented using HTML `srcset` attributes enabling optimised file sizes to be served to your site visitors.
 
-![Image with alternate text](image-resizing.png)
+![](image-resizing.png)
 
 ```html
-<!-- Markdown: ![私の画像](image.jpg) -->
+<!-- Markdown: ![My image](image.jpg) -->
 <img
   srcset="
     /image_320x0_resize_q75_box.jpg 320w,
     /image_635x0_resize_q75_box.jpg 635w,
-    /image_1024x0_resize_q75_box.jpg 1024w"
+    /image_1024x0_resize_q75_box.jpg 1024w,
+    /image_1270x0_resize_q75_box.jpg 2x"
   src="/image_635x0_resize_q75_box.jpg"
-  alt="私の画像"
+  alt="My image"
 />
 ```
 
-何よりも、何も変更する必要はありません！標準の Markdown 画像構文を挿入するだけで、あとはテーマが処理してくれます。もう少し細かく制御したい場合は、`figure` ショートコードが完全に書き変えれば、同じリサイズ機能が利用できます。
+Best of all there's nothing you need to change! Simply insert standard Markdown image syntax and let the theme do the rest. If you want a little more control, the `figure` shortcode has been completely rewritten to provide the same resizing benefits.
 
-## サイト内検索
 
-[Fuse.js](https://fusejs.io) を搭載したサイト内検索により、訪問者はコンテンツをすばやく簡単に見つけることができます。すべての検索はクライアント側で実行されるため、サーバー側で設定する必要はなく、クエリは非常に高速に実行されます。サイト設定で機能を有効にするだけで、準備完了です。もちろん、完全なキーボードナビゲーションもサポートされています！
+## Site search
 
-## 目次
+Powered by [Fuse.js](https://fusejs.io), site search allows visitors to quickly and easily find your content. All searches are performed client-side meaning there's nothing to configure on the server and queries are performed super fast. Simply enable the feature in your site configuration and you're all set. Oh, and it also supports full keyboard navigation!
 
-多くの要望が寄せられていた機能である、記事ページに目次を表示できるようになりました。このページで実際に動作を確認できます。目次は完全にレスポンシブ対応で、さまざまな画面解像度で利用可能なスペースを活用するように調整されます。
+## Tables of contents
 
-グローバルまたは記事ごとに利用可能な目次は、標準の Hugo 設定値を使用して完全にカスタマイズでき、プロジェクトに合わせて動作を調整できます。
+A highly requested feature, Blowfish now supports tables of contents on article pages. You can see it in action on this page. The contents are fully responsive and will adjust to take advantage of the space available at different screen resolutions.
 
-## アクセシビリティの改善
+Available on a global or per article basis, the table of contents can be fully customised using standard Hugo configuration values, allowing you to adjust the behaviour to suit your project.
 
-ARIA 属性説明をより多くの項目に追加したり、特定のテキスト要素のコントラストを調整したりするなど、今回のリリースはこれまでで最もアクセシブルなものとなっています。
+## Accessibility improvements
 
-バージョン2では、「コンテンツへスキップ」リンクと「トップへスクロール」リンクも導入され、すばやく移動できるようになりました。マウスを使わずに検索などの項目を有効にするためのキーボードショートカットもあります。
+From adding ARIA descriptions to more items or simply adjusting the contrast of certain text elements, this release is the most accessible yet.
 
-新しい画像リサイズ機能では、`alt` 属性と `title` 属性を完全に制御できるため、すべての訪問者にアクセシブルなエクスペリエンスを提供できます。
+Version 2 also introduces "skip to content" and "scroll to top" links that enable quick navigation. There's also keyboard shortcuts for enabling items like search without reaching for the mouse.
 
-## その他にもたくさん
+The new image resizing features also provide full control over `alt` and `title` elements enabling an accessible experience for all visitors.
 
-他にもたくさんの新機能があります。記事やリストページにタクソノミーを表示したり、新しい `headline` 著者パラメータを使用してホームページをカスタマイズしたりできます。また、JSON-LD 構造化データが改善され、SEO パフォーマンスがさらに最適化されています。
+## A whole lot more
+
+There's countless other features to explore. From being able to display taxonomies on articles and list pages, to using the new `headline` author parameter to customise your homepage. There's also improved JSON-LD structured data which further optimises SEO performance. 

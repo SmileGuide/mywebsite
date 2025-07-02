@@ -44,11 +44,6 @@ googleAnalytics = "G-MEASUREMENT_ID"
 
 To enable Umami Analytics support, simply provide your [Umami tracking code](https://umami.is/docs/collect-data) in the `config/_default/params.toml` file.
 If you also use the custom domain feature of Umami and would like to serve their script from your domain, you can also additionally provide the `domain` configuration value. If you don't provide a `domain` value, the script will load directly from Umami DNS (analytics.umami.is).
-If you want the tracker to only run on specific domains, you can provide the `dataDomains` configuration value. If you don't provide a `dataDomains` value, the script will run on any website where the `domain` and`websiteid` match. If the environment variable `TRACKER_SCRIPT_NAME` is configured, you can specify a custom script name `scriptName`. If it is not configured, either comment it out or use the default `script.js`.
-
-{{< alert >}}
-**Note:** If you enable Umami Analytics, Blowfish will support [Umami Track Event](https://umami.is/docs/track-events) automatically. If you do not want to support Track Event, the param `enableTrackEvent` must set to `false`.
-{{< /alert >}}
 
 ```toml
 # config/_default/params.toml
@@ -56,25 +51,6 @@ If you want the tracker to only run on specific domains, you can provide the `da
 [umamiAnalytics]
   websiteid = "ABC12345"
   domain = "llama.yoursite.com"
-  dataDomains = "yoursite.com,yoursite2.com"
-  scriptName = "TRACKER_SCRIPT_NAME"
-  enableTrackEvent = true
-```
-
-### Seline Analytics
-
-To enable Seline Analytics support, simply provide your [Seline token](https://seline.so/docs/install-seline) in the `config/_default/params.toml` file.
-
-{{< alert >}}
-**Note:** If you enable Seline Analytics, Blowfish will support [Seline Track Event](https://seline.so/docs/custom-events) automatically. If you do not want to support Track Event, the param `enableTrackEvent` must set to `false`.
-{{< /alert >}}
-
-```toml
-# config/_default/params.toml
-
-[selineAnalytics]
-  token = "XXXXXX"
-  enableTrackEvent = true
 ```
 
 ### Custom analytics providers
@@ -137,11 +113,3 @@ If you wish to insert additional code after article links, create a `layouts/par
 The theme allows for inserting additional code directly into the `<head>` and `<footer>` sections of the template. These can be useful for providing scripts or other logic that isn't part of the theme.
 
 Simply create either `layouts/partials/extend-head.html` or `layouts/partials/extend-footer.html` and these will automatically be included in your website build. Both partials are injected as the last items in `<head>` and `<footer>` so they can be used to override theme defaults.
-
-### Uncached Head Extension
-
-The `extend-head.html` is [cached](https://gohugo.io/functions/partials/includecached/), and Blowfish also supports an uncached head extension for **conditionally** including scripts or metadata based on page-level properties. To use this feature, create a `layouts/partials/extend-head-uncached.html` file in your project. This file will be included in `<head>` HTML tag.
-
-This is useful when you need to include dynamic elements—such as scripts or metadata—based on properties like shortcodes, front matter flags, or other page-specific data that should not be cached across builds.
-
-For example, to dynamically load a CDN JavaScript file base on the appearance of a shortcode, you can use the [HasShortcode](https://gohugo.io/methods/page/hasshortcode/#article) method within `extend-head-uncached.html`.

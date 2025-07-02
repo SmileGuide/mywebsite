@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>:copyright: 2025 Jukai Sarai</copyright>
-    <lastBuildDate>Wed, 02 Jul 2025 10:52:15 +0800</lastBuildDate><atom:link href="https://www.jukai.site/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Jul 2025 11:02:20 +0800</lastBuildDate><atom:link href="https://www.jukai.site/tags/%E6%8A%80%E6%9C%AF/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于本站的部署</title>
       <link>https://www.jukai.site/blogs/site-publish/</link>
@@ -53,10 +53,10 @@
 
 
 
+
 &lt;li&gt;
   &lt;div class=&#34;flex flex-start&#34;&gt;
-    &lt;div
-      class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
+    &lt;div class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
       
 
   &lt;span class=&#34;relative block icon&#34;&gt;
@@ -69,7 +69,9 @@
     &lt;div class=&#34;block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words&#34;&gt;
       &lt;div class=&#34;flex justify-between&#34;&gt;
         
-          &lt;h2 class=&#34;mt-0&#34;&gt;新建项目&lt;/h2&gt;
+        &lt;h2 class=&#34;mt-0&#34;&gt;
+          新建项目 
+        &lt;/h2&gt;
         
         
       &lt;/div&gt;
@@ -90,10 +92,10 @@
 
 
 
+
 &lt;li&gt;
   &lt;div class=&#34;flex flex-start&#34;&gt;
-    &lt;div
-      class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
+    &lt;div class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
       
 
   &lt;span class=&#34;relative block icon&#34;&gt;
@@ -106,7 +108,9 @@
     &lt;div class=&#34;block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words&#34;&gt;
       &lt;div class=&#34;flex justify-between&#34;&gt;
         
-          &lt;h2 class=&#34;mt-0&#34;&gt;载入仓库&lt;/h2&gt;
+        &lt;h2 class=&#34;mt-0&#34;&gt;
+          载入仓库 
+        &lt;/h2&gt;
         
         
       &lt;/div&gt;
@@ -123,10 +127,10 @@
 
 
 
+
 &lt;li&gt;
   &lt;div class=&#34;flex flex-start&#34;&gt;
-    &lt;div
-      class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
+    &lt;div class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
       
 
   &lt;span class=&#34;relative block icon&#34;&gt;
@@ -139,7 +143,9 @@
     &lt;div class=&#34;block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words&#34;&gt;
       &lt;div class=&#34;flex justify-between&#34;&gt;
         
-          &lt;h2 class=&#34;mt-0&#34;&gt;配置如下，点击部署&lt;/h2&gt;
+        &lt;h2 class=&#34;mt-0&#34;&gt;
+          配置如下，点击部署 
+        &lt;/h2&gt;
         
         
       &lt;/div&gt;
@@ -156,10 +162,10 @@
 
 
 
+
 &lt;li&gt;
   &lt;div class=&#34;flex flex-start&#34;&gt;
-    &lt;div
-      class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
+    &lt;div class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
       
 
   &lt;span class=&#34;relative block icon&#34;&gt;
@@ -172,7 +178,9 @@
     &lt;div class=&#34;block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words&#34;&gt;
       &lt;div class=&#34;flex justify-between&#34;&gt;
         
-          &lt;h2 class=&#34;mt-0&#34;&gt;等待部署完成后，进入仪表板&lt;/h2&gt;
+        &lt;h2 class=&#34;mt-0&#34;&gt;
+          等待部署完成后，进入仪表板 
+        &lt;/h2&gt;
         
         
       &lt;/div&gt;
@@ -186,7 +194,6 @@
 
 
 &lt;/ol&gt;
-
 &lt;p&gt;至此，基本的 Vercel 部署已经完成。但如果想通过 Vercel 授予的二级域名访问网站，可能需要魔法.:dog:&lt;img src=&#34;https://www.jukai.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220144937.png&#34; alt=&#34;&#34;  /&gt;
 &lt;img src=&#34;https://www.jukai.site/blogs/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220145430.png&#34; alt=&#34;&#34;  /&gt;&lt;/p&gt;
 &lt;h4 id=&#34;优点-1&#34;&gt;优点&lt;/h4&gt;
@@ -302,10 +309,10 @@
 
 
 
+
 &lt;li&gt;
   &lt;div class=&#34;flex flex-start&#34;&gt;
-    &lt;div
-      class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
+    &lt;div class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
       
 
   &lt;span class=&#34;relative block icon&#34;&gt;
@@ -318,7 +325,9 @@
     &lt;div class=&#34;block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words&#34;&gt;
       &lt;div class=&#34;flex justify-between&#34;&gt;
         
-          &lt;h2 class=&#34;mt-0&#34;&gt;到腾讯云CDN控制台，点击添加域名&lt;/h2&gt;
+        &lt;h2 class=&#34;mt-0&#34;&gt;
+          到腾讯云CDN控制台，点击添加域名 
+        &lt;/h2&gt;
         
         
       &lt;/div&gt;
@@ -339,10 +348,10 @@
 
 
 
+
 &lt;li&gt;
   &lt;div class=&#34;flex flex-start&#34;&gt;
-    &lt;div
-      class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
+    &lt;div class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
       
 
   &lt;span class=&#34;relative block icon&#34;&gt;
@@ -355,7 +364,9 @@
     &lt;div class=&#34;block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words&#34;&gt;
       &lt;div class=&#34;flex justify-between&#34;&gt;
         
-          &lt;h2 class=&#34;mt-0&#34;&gt;输入你已备案的域名（**给根域名添加CDN需带www**），按照下图进行配置&lt;/h2&gt;
+        &lt;h2 class=&#34;mt-0&#34;&gt;
+          输入你已备案的域名（**给根域名添加CDN需带www**），按照下图进行配置 
+        &lt;/h2&gt;
         
         
       &lt;/div&gt;
@@ -372,10 +383,10 @@
 
 
 
+
 &lt;li&gt;
   &lt;div class=&#34;flex flex-start&#34;&gt;
-    &lt;div
-      class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
+    &lt;div class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
       
 
   &lt;span class=&#34;relative block icon&#34;&gt;
@@ -388,7 +399,9 @@
     &lt;div class=&#34;block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words&#34;&gt;
       &lt;div class=&#34;flex justify-between&#34;&gt;
         
-          &lt;h2 class=&#34;mt-0&#34;&gt;自定义缓存配置&lt;/h2&gt;
+        &lt;h2 class=&#34;mt-0&#34;&gt;
+          自定义缓存配置 
+        &lt;/h2&gt;
         
         
       &lt;/div&gt;
@@ -406,10 +419,10 @@
 
 
 
+
 &lt;li&gt;
   &lt;div class=&#34;flex flex-start&#34;&gt;
-    &lt;div
-      class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
+    &lt;div class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
       
 
   &lt;span class=&#34;relative block icon&#34;&gt;
@@ -422,7 +435,9 @@
     &lt;div class=&#34;block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words&#34;&gt;
       &lt;div class=&#34;flex justify-between&#34;&gt;
         
-          &lt;h2 class=&#34;mt-0&#34;&gt;自定义压缩配置&lt;/h2&gt;
+        &lt;h2 class=&#34;mt-0&#34;&gt;
+          自定义压缩配置 
+        &lt;/h2&gt;
         
         
       &lt;/div&gt;
@@ -439,10 +454,10 @@
 
 
 
+
 &lt;li&gt;
   &lt;div class=&#34;flex flex-start&#34;&gt;
-    &lt;div
-      class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
+    &lt;div class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
       
 
   &lt;span class=&#34;relative block icon&#34;&gt;
@@ -455,7 +470,9 @@
     &lt;div class=&#34;block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words&#34;&gt;
       &lt;div class=&#34;flex justify-between&#34;&gt;
         
-          &lt;h2 class=&#34;mt-0&#34;&gt;按需配置用量封顶&lt;/h2&gt;
+        &lt;h2 class=&#34;mt-0&#34;&gt;
+          按需配置用量封顶 
+        &lt;/h2&gt;
         
         
       &lt;/div&gt;
@@ -473,10 +490,10 @@
 
 
 
+
 &lt;li&gt;
   &lt;div class=&#34;flex flex-start&#34;&gt;
-    &lt;div
-      class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
+    &lt;div class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
       
 
   &lt;span class=&#34;relative block icon&#34;&gt;
@@ -489,7 +506,9 @@
     &lt;div class=&#34;block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words&#34;&gt;
       &lt;div class=&#34;flex justify-between&#34;&gt;
         
-          &lt;h2 class=&#34;mt-0&#34;&gt;启用HTTPS服务，选择刚才配置好的证书&lt;/h2&gt;
+        &lt;h2 class=&#34;mt-0&#34;&gt;
+          启用HTTPS服务，选择刚才配置好的证书 
+        &lt;/h2&gt;
         
         
       &lt;/div&gt;
@@ -505,10 +524,10 @@
 
 
 
+
 &lt;li&gt;
   &lt;div class=&#34;flex flex-start&#34;&gt;
-    &lt;div
-      class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
+    &lt;div class=&#34;bg-primary-500 dark:bg-primary-300 text-neutral-50 dark:text-neutral-700 min-w-[30px] h-8 text-2xl flex items-center justify-center rounded-full -ml-12 mt-5&#34;&gt;
       
 
   &lt;span class=&#34;relative block icon&#34;&gt;
@@ -521,7 +540,9 @@
     &lt;div class=&#34;block p-6 rounded-lg shadow-2xl min-w-full ml-6 mb-10 break-words&#34;&gt;
       &lt;div class=&#34;flex justify-between&#34;&gt;
         
-          &lt;h2 class=&#34;mt-0&#34;&gt;点击一键配置，CDN的CNAME解析记录就会自动添加&lt;/h2&gt;
+        &lt;h2 class=&#34;mt-0&#34;&gt;
+          点击一键配置，CDN的CNAME解析记录就会自动添加 
+        &lt;/h2&gt;
         
         
       &lt;/div&gt;
@@ -535,7 +556,6 @@
 
 &lt;/ol&gt;
 
-
   
   
   
@@ -546,13 +566,13 @@
 &lt;div
   
     class=&#34;flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900&#34;
-  
   &gt;
+
   &lt;span
     
       class=&#34;text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center&#34;
-    
     &gt;
+
     
 
 
@@ -561,7 +581,6 @@
   &lt;span
     
       class=&#34;dark:text-neutral-300&#34;
-    
     &gt;&lt;p&gt;※ 如果给根域名加速，你还要把&lt;strong&gt;不带www的根域名&lt;/strong&gt;进行如下配置（这是为不带www的访问自动加上www）：
 
 
@@ -610,59 +629,45 @@
 &lt;/div&gt;
 
 
+
 &lt;h2 class=&#34;relative group&#34;&gt;前端框架 
-    &lt;div id=&#34;前端框架&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%89%8d%e7%ab%af%e6%a1%86%e6%9e%b6&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%89%8D%E7%AB%AF%E6%A1%86%E6%9E%B6&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
+
 
 &lt;h3 class=&#34;relative group&#34;&gt;Hugo 
     &lt;div id=&#34;hugo&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#hugo&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#hugo&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;本站前端采用静态网站生成器 &lt;a
-  href=&#34;https://gohugo.io/&#34;
-    target=&#34;_blank&#34;
-  &gt;Hugo&lt;/a&gt;
- 制作，所用主题为 &lt;a
-  href=&#34;https://blowfish.page/&#34;
-    target=&#34;_blank&#34;
-  &gt;Blowfish&lt;/a&gt;
-。
-Blowfish 是由&lt;a
-  href=&#34;https://n9o.xyz/&#34;
-    target=&#34;_blank&#34;
-  &gt;Nuno Coração&lt;/a&gt;
- 建设维护的。
-&lt;a
-  href=&#34;https://blowfish.page/docs/&#34;
-    target=&#34;_blank&#34;
-  &gt;Blowfish 文档&lt;/a&gt;
- 内详细说明了 Hugo 和主题的使用方法，这里不再赘述。&lt;/p&gt;
+&lt;p&gt;本站前端采用静态网站生成器 &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34;&gt;Hugo&lt;/a&gt; 制作，所用主题为 &lt;a href=&#34;https://blowfish.page/&#34; target=&#34;_blank&#34;&gt;Blowfish&lt;/a&gt;。
+Blowfish 是由&lt;a href=&#34;https://n9o.xyz/&#34; target=&#34;_blank&#34;&gt;Nuno Coração&lt;/a&gt; 建设维护的。
+&lt;a href=&#34;https://blowfish.page/docs/&#34; target=&#34;_blank&#34;&gt;Blowfish 文档&lt;/a&gt; 内详细说明了 Hugo 和主题的使用方法，这里不再赘述。&lt;/p&gt;
+
 
 &lt;h3 class=&#34;relative group&#34;&gt;GitHub Pages 
     &lt;div id=&#34;github-pages&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#github-pages&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#github-pages&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;本站前端部署在 &lt;a
-  href=&#34;https://pages.github.com/&#34;
-    target=&#34;_blank&#34;
-  &gt;GitHub Pages&lt;/a&gt;
- 上。
+&lt;p&gt;本站前端部署在 &lt;a href=&#34;https://pages.github.com/&#34; target=&#34;_blank&#34;&gt;GitHub Pages&lt;/a&gt; 上。
 
   
 
@@ -671,13 +676,13 @@ Blowfish 是由&lt;a
 &lt;div
   
     class=&#34;flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900&#34;
-  
   &gt;
+
   &lt;span
     
       class=&#34;text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center&#34;
-    
     &gt;
+
     
 
   &lt;span class=&#34;relative block icon&#34;&gt;
@@ -691,39 +696,24 @@ Blowfish 是由&lt;a
   &lt;span
     
       class=&#34;dark:text-neutral-300&#34;
-    
     &gt;如果你所在地区GitHub访问受限，需要自行准备梯子。你也可以使用国内的 Gitee Pages，但缺点是需备案，需实名认证，内容需审核。&lt;/span&gt;
 &lt;/div&gt;
 &lt;/p&gt;
-&lt;p&gt;为部署网页，你需要先安装 &lt;a
-  href=&#34;https://git-scm.com/&#34;
-    target=&#34;_blank&#34;
-  &gt;Git&lt;/a&gt;
- ，然后在 &lt;a
-  href=&#34;https://github.com/&#34;
-    target=&#34;_blank&#34;
-  &gt;GitHub&lt;/a&gt;
-  上添加本地SSH密钥。&lt;/p&gt;
-&lt;p&gt;在&lt;a
-  href=&#34;https://github.com/&#34;
-    target=&#34;_blank&#34;
-  &gt;GitHub&lt;/a&gt;
-上建立一个名为 &lt;code&gt;&amp;lt;账号&amp;gt;.github.io&lt;/code&gt; 的公有 Repo 作为网页文件的容器，再建立一个名称随意的私有 Repo 作为网站 Hugo 源文件的容器。把本地用 Hugo 写好的文件提交到私有 Repo 中，然后用 GitHub Actions 把私有 Repo 链接到公有 Repo 。&lt;/p&gt;
+&lt;p&gt;为部署网页，你需要先安装 &lt;a href=&#34;https://git-scm.com/&#34; target=&#34;_blank&#34;&gt;Git&lt;/a&gt; ，然后在 &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;  上添加本地SSH密钥。&lt;/p&gt;
+&lt;p&gt;在&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34;&gt;GitHub&lt;/a&gt;上建立一个名为 &lt;code&gt;&amp;lt;账号&amp;gt;.github.io&lt;/code&gt; 的公有 Repo 作为网页文件的容器，再建立一个名称随意的私有 Repo 作为网站 Hugo 源文件的容器。把本地用 Hugo 写好的文件提交到私有 Repo 中，然后用 GitHub Actions 把私有 Repo 链接到公有 Repo 。&lt;/p&gt;
+
 
 &lt;h3 class=&#34;relative group&#34;&gt;GitHub Actions 
     &lt;div id=&#34;github-actions&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#github-actions&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#github-actions&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
-&lt;p&gt;&lt;a
-  href=&#34;https://docs.github.com/zh/actions&#34;
-    target=&#34;_blank&#34;
-  &gt;GitHub Actions&lt;/a&gt;
- 是 GitHub 提供的自动化服务。它会把私有 Repo 中的源文件在服务器中用 Hugo 自动生成网页文件，而不用我们在本地执行&lt;code&gt;hugo&lt;/code&gt;指令，再把&lt;code&gt;public&lt;/code&gt;文件夹中的网页文件提交到公有 Repo。这样我们再更新网站内容时需要运行的指令更少，省时省力。&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.github.com/zh/actions&#34; target=&#34;_blank&#34;&gt;GitHub Actions&lt;/a&gt; 是 GitHub 提供的自动化服务。它会把私有 Repo 中的源文件在服务器中用 Hugo 自动生成网页文件，而不用我们在本地执行&lt;code&gt;hugo&lt;/code&gt;指令，再把&lt;code&gt;public&lt;/code&gt;文件夹中的网页文件提交到公有 Repo。这样我们再更新网站内容时需要运行的指令更少，省时省力。&lt;/p&gt;
 &lt;p&gt;要配置 GitHub Actions，你需要在本地网站根目录新建&lt;code&gt;.github/workflows/hugo.yaml&lt;/code&gt;，把以下内容写到YAML文件里。&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;name&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;Action名称&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;c&#34;&gt;#自定义名称&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;on&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
@@ -766,12 +756,14 @@ Blowfish 是由&lt;a
 &lt;p&gt;提交代码之后，GitHub Actions 会根据源码，用 Hugo 自动生成网页，并发布到公有 Repo ，这又会触发 GitHub Pages 的 Action。&lt;/p&gt;
 &lt;p&gt;现在便完成了 GitHub Pages 的自动发布配置。此后，你只要持续提交源码到私有 Repo，网站就会自动发布。&lt;/p&gt;
 
+
 &lt;h3 class=&#34;relative group&#34;&gt;Vercel 
     &lt;div id=&#34;vercel&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#vercel&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#vercel&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -779,71 +771,69 @@ Blowfish 是由&lt;a
 然而，使用 Vercel 的前提是你拥有一个域名，然后给 Vercel 工程设置自定义域名，因为 Vercel 提供的子域名被GFW进行了DNS污染。&lt;br&gt;
 &amp;ndash;更新于2024/2/18&amp;ndash;&lt;/p&gt;
 
+
 &lt;h2 class=&#34;relative group&#34;&gt;评论系统和浏览量统计 
-    &lt;div id=&#34;评论系统和浏览量统计&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E5%92%8C%E6%B5%8F%E8%A7%88%E9%87%8F%E7%BB%9F%E8%AE%A1&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e8%af%84%e8%ae%ba%e7%b3%bb%e7%bb%9f%e5%92%8c%e6%b5%8f%e8%a7%88%e9%87%8f%e7%bb%9f%e8%ae%a1&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E5%92%8C%E6%B5%8F%E8%A7%88%E9%87%8F%E7%BB%9F%E8%AE%A1&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
-&lt;p&gt;本站采用带后端的评论系统 &lt;a
-  href=&#34;https://waline.js.org/&#34;
-    target=&#34;_blank&#34;
-  &gt;Waline&lt;/a&gt;
- ，但完全免费。&lt;/p&gt;
+&lt;p&gt;本站采用带后端的评论系统 &lt;a href=&#34;https://waline.js.org/&#34; target=&#34;_blank&#34;&gt;Waline&lt;/a&gt; ，但完全免费。&lt;/p&gt;
+
 
 &lt;h3 class=&#34;relative group&#34;&gt;LeanCloud 
     &lt;div id=&#34;leancloud&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#leancloud&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#leancloud&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
 &lt;p&gt;在配置 Waline 前，你需要配置 LeanCloud 数据库。&lt;/p&gt;
 &lt;p&gt;注册 LeanCloud 国际版账号，创建开发版应用，名称随意。这将是你网站的评论数据库。&lt;/p&gt;
 
+
 &lt;h3 class=&#34;relative group&#34;&gt;服务端配置 
-    &lt;div id=&#34;服务端配置&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E6%9C%8D%E5%8A%A1%E7%AB%AF%E9%85%8D%E7%BD%AE&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%9c%8d%e5%8a%a1%e7%ab%af%e9%85%8d%e7%bd%ae&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E6%9C%8D%E5%8A%A1%E7%AB%AF%E9%85%8D%E7%BD%AE&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
 &lt;p&gt;本网站先是使用免费的部署平台 Deta（没有被墙且速度较快），在注册域名后使用免费的 Vercel 部署评论前端。你也可以使用别的平台，Waline 官网有介绍。&lt;/p&gt;
 
+
 &lt;h4 class=&#34;relative group&#34;&gt;后端 
-    &lt;div id=&#34;后端&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E5%90%8E%E7%AB%AF&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%90%8e%e7%ab%af&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%90%8E%E7%AB%AF&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h4&gt;
-&lt;p&gt;注册 Deta 账号，然后到 &lt;a
-  href=&#34;https://deta.space/discovery/@lizheming/waline&#34;
-    target=&#34;_blank&#34;
-  &gt;Deta 应用市场 Waline 页&lt;/a&gt;
- ，点击 Install on Space 安装应用到工作区。&lt;/p&gt;
-&lt;p&gt;安装完成后可在 &lt;a
-  href=&#34;https://deta.space/&#34;
-    target=&#34;_blank&#34;
-  &gt;工作区&lt;/a&gt;
- 看到应用。点击应用左上角的小圆圈，进入 &lt;code&gt;Settings - Configuration&lt;/code&gt; 修改环境变量，把&lt;code&gt;LEAN_ID、lEAN_KEY&lt;/code&gt;和&lt;code&gt;LEAN_MASTER_KEY&lt;/code&gt;设置为LeanCloud &lt;code&gt;设置 - 应用凭证&lt;/code&gt;中的&lt;code&gt;AppID&lt;/code&gt;、&lt;code&gt;AppKey&lt;/code&gt;和&lt;code&gt;MasterKey&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;注册 Deta 账号，然后到 &lt;a href=&#34;https://deta.space/discovery/@lizheming/waline&#34; target=&#34;_blank&#34;&gt;Deta 应用市场 Waline 页&lt;/a&gt; ，点击 Install on Space 安装应用到工作区。&lt;/p&gt;
+&lt;p&gt;安装完成后可在 &lt;a href=&#34;https://deta.space/&#34; target=&#34;_blank&#34;&gt;工作区&lt;/a&gt; 看到应用。点击应用左上角的小圆圈，进入 &lt;code&gt;Settings - Configuration&lt;/code&gt; 修改环境变量，把&lt;code&gt;LEAN_ID、lEAN_KEY&lt;/code&gt;和&lt;code&gt;LEAN_MASTER_KEY&lt;/code&gt;设置为LeanCloud &lt;code&gt;设置 - 应用凭证&lt;/code&gt;中的&lt;code&gt;AppID&lt;/code&gt;、&lt;code&gt;AppKey&lt;/code&gt;和&lt;code&gt;MasterKey&lt;/code&gt;。&lt;/p&gt;
 &lt;p&gt;现在便完成了评论后端的基本配置。&lt;/p&gt;
 
+
 &lt;h4 class=&#34;relative group&#34;&gt;前端 
-    &lt;div id=&#34;前端&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E5%89%8D%E7%AB%AF&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%89%8d%e7%ab%af&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%89%8D%E7%AB%AF&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h4&gt;
@@ -957,39 +947,41 @@ Blowfish 是由&lt;a
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{ else }}  
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{ end }}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
 &lt;h2 class=&#34;relative group&#34;&gt;悬浮播放器 
-    &lt;div id=&#34;悬浮播放器&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E6%82%AC%E6%B5%AE%E6%92%AD%E6%94%BE%E5%99%A8&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e6%82%ac%e6%b5%ae%e6%92%ad%e6%94%be%e5%99%a8&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E6%82%AC%E6%B5%AE%E6%92%AD%E6%94%BE%E5%99%A8&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
 &lt;p&gt;本网站的悬浮播放器可以跨网页播放，配置方法如下。&lt;/p&gt;
 
+
 &lt;h3 class=&#34;relative group&#34;&gt;后端 
-    &lt;div id=&#34;后端-1&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E5%90%8E%E7%AB%AF-1&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%90%8e%e7%ab%af-1&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%90%8E%E7%AB%AF-1&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
 &lt;p&gt;本站播放器的原方案是：在LeanCloud &lt;code&gt;数据存储 - 文件&lt;/code&gt; 中上传音频文件、专辑封面文件。歌词文件放在&lt;code&gt;static&lt;/code&gt;文件夹下，以便直接引用。&lt;/p&gt;
-&lt;p&gt;然而，这种部署方式仅运行两天就出现欠费的情况，于是改用直链工具：&lt;a
-  href=&#34;https://up.ly93.cc/&#34;
-    target=&#34;_blank&#34;
-  &gt;涟漪文件直链&lt;/a&gt;
-。&lt;/p&gt;
+&lt;p&gt;然而，这种部署方式仅运行两天就出现欠费的情况，于是改用直链工具：&lt;a href=&#34;https://up.ly93.cc/&#34; target=&#34;_blank&#34;&gt;涟漪文件直链&lt;/a&gt;。&lt;/p&gt;
+
 
 &lt;h3 class=&#34;relative group&#34;&gt;前端 
-    &lt;div id=&#34;前端-1&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E5%89%8D%E7%AB%AF-1&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%89%8d%e7%ab%af-1&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%89%8D%E7%AB%AF-1&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -1091,12 +1083,14 @@ Blowfish 是由&lt;a
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;p&#34;&gt;],&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;悬浮播放器的原理是：在退出网页时，如果音频处于播放状态，则在缓存中存储进度，新网页打开时，检查是否有缓存，若有则恢复播放。这个功能在苹果设备中不受支持。&lt;/p&gt;
 
+
 &lt;h2 class=&#34;relative group&#34;&gt;说说 
-    &lt;div id=&#34;说说&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E8%AF%B4%E8%AF%B4&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e8%af%b4%e8%af%b4&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E8%AF%B4%E8%AF%B4&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -1185,12 +1179,14 @@ document.getElementById(&#39;github-4d14627a6284367469b3e1753ed15067-forks&#39;)
 &lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&amp;ndash;更新于2024/2/12&amp;ndash;&lt;/p&gt;
 
+
 &lt;h2 class=&#34;relative group&#34;&gt;看板娘 
-    &lt;div id=&#34;看板娘&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E7%9C%8B%E6%9D%BF%E5%A8%98&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e7%9c%8b%e6%9d%bf%e5%a8%98&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E7%9C%8B%E6%9D%BF%E5%A8%98&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -1277,12 +1273,14 @@ document.getElementById(&#39;github-5243defe6dc593e5b718e5d34ac2b2d0-forks&#39;)
 &lt;/a&gt;&lt;br&gt;
 具体来说，该插件有两部分需要配置。&lt;/p&gt;
 
+
 &lt;h3 class=&#34;relative group&#34;&gt;页面引用 
-    &lt;div id=&#34;页面引用&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E9%A1%B5%E9%9D%A2%E5%BC%95%E7%94%A8&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e9%a1%b5%e9%9d%a2%e5%bc%95%e7%94%a8&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E9%A1%B5%E9%9D%A2%E5%BC%95%E7%94%A8&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -1298,12 +1296,14 @@ document.getElementById(&#39;github-5243defe6dc593e5b718e5d34ac2b2d0-forks&#39;)
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    {{ if .Site.Menus.footer }}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;请仔细阅读项目的README文件以了解如何自定义（如修改气泡提示文本、CSS等），这里不赘述。&lt;/p&gt;
 
+
 &lt;h3 class=&#34;relative group&#34;&gt;API 
     &lt;div id=&#34;api&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#api&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#api&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -1390,9 +1390,7 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
 &lt;/a&gt;&lt;br&gt;
 由于 Vercel 无法识别根目录不带 &lt;code&gt;index.html&lt;/code&gt; 的项目，你需要新建一个，里面可以写一写介绍等。&lt;br&gt;
 在目录中，&lt;code&gt;model_list.json&lt;/code&gt; 用于描述有哪些模型。如果要添加模型，请把模型放在&lt;code&gt;model&lt;/code&gt;目录中，并检查新加的模型的目录中的JSON文件是否更名为 &lt;code&gt;index.json&lt;/code&gt;，然后改写 Repo 根目录中的 &lt;code&gt;model_list.json&lt;/code&gt; 以便识别新模型。&lt;br&gt;
-修改完毕后，把 Repo 提交到 GitHub，部署到 Vercel 上(流程&lt;a
-  href=&#34;#vercel&#34;&gt;同前&lt;/a&gt;
-)
+修改完毕后，把 Repo 提交到 GitHub，部署到 Vercel 上(流程&lt;a href=&#34;#vercel&#34;&gt;同前&lt;/a&gt;)
 最后，把在博客的&lt;code&gt;static&lt;/code&gt;文件夹的 Repo 中的&lt;code&gt;autoload.js&lt;/code&gt;修改一下：&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-diff&#34; data-lang=&#34;diff&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    Promise.all([
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        loadExternalResource(live2d_path + &amp;#34;waifu-basic.css&amp;#34;, &amp;#34;css&amp;#34;),
@@ -1409,50 +1407,34 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;        });
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    });}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;至此，你在博客页面上看到看板娘了。&lt;br&gt;
-另外，本站的自建API地址是 &lt;a
-  href=&#34;https://live2d.api.karlukle.site&#34;
-    target=&#34;_blank&#34;
-  &gt;live2d.api.karlukle.site&lt;/a&gt;
-，如果不想自建API，也欢迎你来使用。&lt;br&gt;
+另外，本站的自建API地址是 &lt;a href=&#34;https://live2d.api.karlukle.site&#34; target=&#34;_blank&#34;&gt;live2d.api.karlukle.site&lt;/a&gt;，如果不想自建API，也欢迎你来使用。&lt;br&gt;
 &amp;ndash;更新于2024/2/18&amp;ndash;&lt;/p&gt;
 
+
 &lt;h2 class=&#34;relative group&#34;&gt;对 Blowfish 主题的贡献 
-    &lt;div id=&#34;对-blowfish-主题的贡献&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;%E5%AF%B9-blowfish-%E4%B8%BB%E9%A2%98%E7%9A%84%E8%B4%A1%E7%8C%AE&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#%e5%af%b9-blowfish-%e4%b8%bb%e9%a2%98%e7%9a%84%e8%b4%a1%e7%8c%ae&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E5%AF%B9-blowfish-%E4%B8%BB%E9%A2%98%E7%9A%84%E8%B4%A1%E7%8C%AE&#34; aria-label=&#34;锚点&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;增加简体中文翻译 &lt;a
-  href=&#34;https://github.com/nunocoracao/blowfish/pull/1208&#34;
-    target=&#34;_blank&#34;
-  &gt;#1208&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;修补Bug：中日韩文本标题无法页内定位 &lt;a
-  href=&#34;https://github.com/nunocoracao/blowfish/pull/1254&#34;
-    target=&#34;_blank&#34;
-  &gt;#1254&lt;/a&gt;
-&lt;/li&gt;
-&lt;li&gt;增加繁体中文翻译 &lt;a
-  href=&#34;https://github.com/nunocoracao/blowfish/pull/1255&#34;
-    target=&#34;_blank&#34;
-  &gt;#1255&lt;/a&gt;
-&lt;/li&gt;
+&lt;li&gt;增加简体中文翻译 &lt;a href=&#34;https://github.com/nunocoracao/blowfish/pull/1208&#34; target=&#34;_blank&#34;&gt;#1208&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;修补Bug：中日韩文本标题无法页内定位 &lt;a href=&#34;https://github.com/nunocoracao/blowfish/pull/1254&#34; target=&#34;_blank&#34;&gt;#1254&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;增加繁体中文翻译 &lt;a href=&#34;https://github.com/nunocoracao/blowfish/pull/1255&#34; target=&#34;_blank&#34;&gt;#1255&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;br/&gt;
 &lt;br/&gt;  
 &lt;p&gt;以上是关于本站建造的全部内容，如果你想进一步了解本站是如何部署、加速的，欢迎阅读：&lt;/p&gt;
 
-
-
-  
-
-
-  &lt;section class=&#34;space-y-10 w-full&#34;&gt;
+&lt;section class=&#34;space-y-10 w-full&#34;&gt;
     
+    
+        
+            
 
 
 
@@ -1475,7 +1457,7 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
 
 
 
-  &lt;a class=&#34;flex flex-wrap md:flex-nowrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://www.jukai.site/blogs/site-publish/&#34;&gt;
+  &lt;a class=&#34;flex flex-wrap article border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden&#34; href=&#34;https://www.jukai.site/blogs/site-publish/&#34;&gt;
     
         
         &lt;div class=&#34;w-full md:w-auto h-full thumbnail nozoom &#34; style=&#34;background-image:url(/blogs/site-publish/feature_hu5459c0360c2b0cb7a147d2df0eb350ca_1915460_600x0_resize_q75_box.jpg);&#34;&gt;&lt;/div&gt;
@@ -1498,89 +1480,73 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
 
 
 
-  
 
-  
-  
-  
 
-  
-  
-    
-  
 
-  
-    
-  
-
-  
-
-  
-    
-  
-
-  
-    
-  
-
-  
-
-  
-
-  
-
-  
 
   
 
 
-  &lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
-    
-    
-      &lt;time datetime=&#34;2024-02-20T13:42:42&amp;#43;08:00&#34;&gt;2024年2月20日&lt;/time&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span&gt;1400 字&lt;/span&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span title=&#34;预计阅读&#34;&gt;3 分钟&lt;/span&gt;
-    
 
-    
-    
-  &lt;/div&gt;
 
+
+  
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  &lt;time datetime=&#34;2024-02-20 13:42:42 &amp;#43;0800 CST&#34;&gt;2024年2月20日&lt;/time&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span&gt;1400 字&lt;/span&gt;&lt;span class=&#34;px-2 text-primary-500&#34;&gt;&amp;middot;&lt;/span&gt;&lt;span title=&#34;预计阅读&#34;&gt;3 分钟&lt;/span&gt;
   
 
   
   
-    &lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
-      
-        
-      
-        
-          
-        
-      
-        
-      
-        
-          
-            
-              &lt;span
-                class=&#34;mr-2 margin-top-[0.5rem]&#34;
-                onclick=&#34;window.open(&amp;#34;/tags/%E6%8A%80%E6%9C%AF/&amp;#34;,&#39;_self&#39;);return false;&#34;&gt;
-                &lt;span class=&#34;flex cursor-pointer&#34;&gt;
-  &lt;span
-    class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
+&lt;/div&gt;
+
+
+
+
+
+&lt;div class=&#34;flex flex-row flex-wrap items-center&#34;&gt;
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  &lt;span style=&#34;margin-top:0.5rem&#34; class=&#34;mr-2&#34; onclick=&#34;window.open(&amp;#34;/tags/%E6%8A%80%E6%9C%AF/&amp;#34;,&#39;_self&#39;);&#34;&gt;
+    &lt;span class=&#34;flex&#34; style=&#34;cursor: pointer;&#34;&gt;
+  &lt;span class=&#34;rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400&#34;&gt;
     技术
   &lt;/span&gt;
 &lt;/span&gt;
-
-              &lt;/span&gt;
-            
-          
-        
-      
-    &lt;/div&gt;
-  
-
+  &lt;/span&gt;
   
   
+  
+  
+&lt;/div&gt;
 
 
 
@@ -1589,9 +1555,9 @@ document.getElementById(&#39;github-b4af9da902f97ae74adaf5d7dafb7818-forks&#39;)
     &lt;/div&gt;
   &lt;/a&gt;
 
-  &lt;/section&gt;
-
-
+        
+    
+&lt;/section&gt;
 </description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/blogs/site-build/feature.jpg" />
     </item>

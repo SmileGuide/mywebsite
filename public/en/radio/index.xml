@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>:copyright: 2025 Jukai Sarai</copyright>
-    <lastBuildDate>Wed, 02 Jul 2025 10:52:15 +0800</lastBuildDate><atom:link href="https://www.jukai.site/en/radio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Jul 2025 11:02:20 +0800</lastBuildDate><atom:link href="https://www.jukai.site/en/radio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Classical</title>
       <link>https://www.jukai.site/en/radio/classical/</link>
@@ -22,12 +22,10 @@
 &lt;meting-js server=&#34;netease&#34; type=&#34;playlist&#34; id=&#34;9177890344&#34; autoplay=&#34;true&#34; listFolded=&#34;true&#34;&gt;&lt;/meting-js&gt;
 &lt;/span&gt;&lt;hr/&gt;
 
-
-
-  
-
-
-</description>
+&lt;section class=&#34;space-y-10 w-full&#34;&gt;
+    
+    
+&lt;/section&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/en/radio/classical/feature.jpg" />
     </item>
     
@@ -45,12 +43,10 @@
 &lt;meting-js server=&#34;netease&#34; type=&#34;playlist&#34; id=&#34;9178337946&#34; autoplay=&#34;true&#34; listFolded=&#34;true&#34;&gt;&lt;/meting-js&gt;
 &lt;/span&gt;&lt;hr/&gt;
 
-
-
-  
-
-
-</description>
+&lt;section class=&#34;space-y-10 w-full&#34;&gt;
+    
+    
+&lt;/section&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/en/radio/newage/feature.jpg" />
     </item>
     
@@ -68,12 +64,10 @@
 &lt;meting-js server=&#34;netease&#34; type=&#34;playlist&#34; id=&#34;9177267468&#34; autoplay=&#34;true&#34; listFolded=&#34;true&#34;&gt;&lt;/meting-js&gt;
 &lt;/span&gt;&lt;hr/&gt;
 
-
-
-  
-
-
-</description>
+&lt;section class=&#34;space-y-10 w-full&#34;&gt;
+    
+    
+&lt;/section&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/en/radio/panpop/feature.jpg" />
     </item>
     
@@ -91,12 +85,10 @@
 &lt;meting-js server=&#34;netease&#34; type=&#34;playlist&#34; id=&#34;9178226536&#34; autoplay=&#34;true&#34; listFolded=&#34;true&#34;&gt;&lt;/meting-js&gt;
 &lt;/span&gt;&lt;hr/&gt;
 
-
-
-  
-
-
-
+&lt;section class=&#34;space-y-10 w-full&#34;&gt;
+    
+    
+&lt;/section&gt;
 </description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/en/radio/rocks/feature.jpg" />
     </item>
@@ -115,12 +107,10 @@
 &lt;meting-js server=&#34;netease&#34; type=&#34;album&#34; id=&#34;2848433&#34; autoplay=&#34;true&#34; listFolded=&#34;true&#34;&gt;&lt;/meting-js&gt;
 &lt;/span&gt;&lt;hr/&gt;
 
-
-
-  
-
-
-</description>
+&lt;section class=&#34;space-y-10 w-full&#34;&gt;
+    
+    
+&lt;/section&gt;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/en/radio/murmurs/feature.jpg" />
     </item>
     

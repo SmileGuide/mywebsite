@@ -1,6 +1,10 @@
 ---
 title: "ショーケース"
 description: "Blowfish で何が出来るか見てみる。"
+
+showLikes: true
+showViews: true
+
 cascade:
   showEdit: false
   showReadingTime: false

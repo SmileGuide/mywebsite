@@ -13,7 +13,7 @@ features = ["syntax highlighting", "dark mode", "emoji", "firebase", "views"]
 
 [author]
   name = "Nuno Coracao"
-  homepage = "https://n9o.xyz/"
+  homepage = "https://nunocoracao.com/"
 
 [original]
   author = "James Panther"

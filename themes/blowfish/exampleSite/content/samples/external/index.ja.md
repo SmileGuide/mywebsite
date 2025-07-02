@@ -1,10 +1,10 @@
 ---
 title: "外部の記事"
 date: 2019-01-24
-externalUrl: "https://n9o.xyz/projects/"
+externalUrl: "https://nunocoracao.com/projects/"
 summary: "`externalUrl` 表示は任意の URL にリンクすることができます。"
 showReadingTime: true
-build:
+_build:
   render: "false"
   list: "local"
 type: 'sample'
