@@ -1,10 +1,10 @@
 @echo off
  
-title 群青流星~网站局域网预览
+title JUKAI.SITE~��վ������Ԥ��
 color 3
-echo 当前目录：%cd%
+echo ��ǰĿ¼��%cd%
 echo;
  
-echo 正在发送指令...
+echo ���ڷ���ָ��...
 hugo server --bind="0.0.0.0"
 echo;

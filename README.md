@@ -1,4 +1,5 @@
-# The root of my website [karlukle.site](https://karlukle.site/) .
+# The root of [juki.site](https://jukai.site/).
+- Hugo version v0.122.0
 <!-- 
 # TIPS(for me)
 - in layouts  

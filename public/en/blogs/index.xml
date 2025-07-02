@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>:copyright: 2025 Jukai Sarai</copyright>
-    <lastBuildDate>Thu, 12 Jun 2025 18:46:20 +0800</lastBuildDate><atom:link href="https://www.jukai.site/en/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Jul 2025 10:52:15 +0800</lastBuildDate><atom:link href="https://www.jukai.site/en/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Miscellaneous Talk — Summary and Outlook</title>
       <link>https://www.jukai.site/en/blogs/summary-outlook/</link>
@@ -492,150 +492,211 @@ While ICP filing enables Baidu indexing and domestic CDN access, it&amp;rsquo;s 
 
 
 
+  
     
-        
-    
+  
 
+  
     
-        
-    
+  
 
+  
     
-        
-    
+  
 
+  
     
-        
-    
+  
 
+  
     
-        
-    
+  
+
 
 
 &lt;div id=&#34;carousel-2d2119dadbf007e75129e371fb78f4d6&#34; class=&#34;relative&#34; data-twe-carousel-init data-twe-ride=&#34;carousel&#34;&gt;
-    &lt;div class=&#34;absolute right-0 bottom-0 left-0 z-[2] mx-[15%] mb-10 flex list-none justify-center p-0&#34;
-        data-twe-carousel-indicators&gt;
-
-        
-        
-
-        &lt;button type=&#34;button&#34; data-twe-target=&#34;#carousel-2d2119dadbf007e75129e371fb78f4d6&#34; data-twe-slide-to=&#34;0&#34;  data-twe-carousel-active aria-current=&#34;true&#34;  
+  &lt;div
+    class=&#34;absolute right-0 bottom-0 left-0 z-[2] mx-[15%] mb-10 flex list-none justify-center p-0&#34;
+    data-twe-carousel-indicators&gt;
+    
+    
+      &lt;button
+        type=&#34;button&#34;
+        data-twe-target=&#34;#carousel-2d2119dadbf007e75129e371fb78f4d6&#34;
+        data-twe-slide-to=&#34;0&#34;
+        data-twe-carousel-active aria-current=&#34;true&#34;
         class=&#34;mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none&#34;
         aria-label=&#34;Slide 0&#34;&gt;&lt;/button&gt;
 
+      
+    
+      &lt;button
+        type=&#34;button&#34;
+        data-twe-target=&#34;#carousel-2d2119dadbf007e75129e371fb78f4d6&#34;
+        data-twe-slide-to=&#34;1&#34;
         
-        
-
-        &lt;button type=&#34;button&#34; data-twe-target=&#34;#carousel-2d2119dadbf007e75129e371fb78f4d6&#34; data-twe-slide-to=&#34;1&#34;  
         class=&#34;mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none&#34;
         aria-label=&#34;Slide 1&#34;&gt;&lt;/button&gt;
 
+      
+    
+      &lt;button
+        type=&#34;button&#34;
+        data-twe-target=&#34;#carousel-2d2119dadbf007e75129e371fb78f4d6&#34;
+        data-twe-slide-to=&#34;2&#34;
         
-        
-
-        &lt;button type=&#34;button&#34; data-twe-target=&#34;#carousel-2d2119dadbf007e75129e371fb78f4d6&#34; data-twe-slide-to=&#34;2&#34;  
         class=&#34;mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none&#34;
         aria-label=&#34;Slide 2&#34;&gt;&lt;/button&gt;
 
+      
+    
+      &lt;button
+        type=&#34;button&#34;
+        data-twe-target=&#34;#carousel-2d2119dadbf007e75129e371fb78f4d6&#34;
+        data-twe-slide-to=&#34;3&#34;
         
-        
-
-        &lt;button type=&#34;button&#34; data-twe-target=&#34;#carousel-2d2119dadbf007e75129e371fb78f4d6&#34; data-twe-slide-to=&#34;3&#34;  
         class=&#34;mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none&#34;
         aria-label=&#34;Slide 3&#34;&gt;&lt;/button&gt;
 
+      
+    
+      &lt;button
+        type=&#34;button&#34;
+        data-twe-target=&#34;#carousel-2d2119dadbf007e75129e371fb78f4d6&#34;
+        data-twe-slide-to=&#34;4&#34;
         
-        
-
-        &lt;button type=&#34;button&#34; data-twe-target=&#34;#carousel-2d2119dadbf007e75129e371fb78f4d6&#34; data-twe-slide-to=&#34;4&#34;  
         class=&#34;mx-[3px] box-content h-[3px] w-[30px] flex-initial cursor-pointer border-0 border-y-[10px] border-solid border-transparent bg-neutral bg-clip-padding p-0 -indent-[999px] opacity-50 transition-opacity duration-[600ms] ease-[cubic-bezier(0.25,0.1,0.25,1.0)] motion-reduce:transition-none&#34;
         aria-label=&#34;Slide 4&#34;&gt;&lt;/button&gt;
 
-        
-        
+      
+    
 
-    &lt;/div&gt;
-    &lt;div class=&#34;relative w-full overflow-hidden after:clear-both after:block after:content-[&#39;&#39;]&#34;&gt;
-
-        
-        
-
-        &lt;div class=&#34;relative float-left -mr-[100%]  w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none&#34;
-            data-twe-carousel-item  data-twe-carousel-active &gt;
-            &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
-                &lt;img src=&#34;https://www.jukai.site/en/blogs/summary-outlook/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241231125803-1.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 0&#34;/&gt;
-            &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;relative w-full overflow-hidden after:clear-both after:block after:content-[&#39;&#39;]&#34;&gt;
+    
+    
+      &lt;div
+        class=&#34;relative float-left -mr-[100%]  w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none&#34;
+        data-twe-carousel-item
+        data-twe-carousel-active&gt;
+        &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
+          &lt;img
+            src=&#34;https://www.jukai.site/en/blogs/summary-outlook/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241231125803-1.jpg&#34;
+            class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34;
+            alt=&#34;carousel image 0&#34;&gt;
         &lt;/div&gt;
+      &lt;/div&gt;
 
-        
-        
-
-        &lt;div class=&#34;relative float-left -mr-[100%]  hidden  w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none&#34;
-            data-twe-carousel-item &gt;
-            &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
-                &lt;img src=&#34;https://www.jukai.site/en/blogs/summary-outlook/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241231125759-1.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 1&#34;/&gt;
-            &lt;/div&gt;
+      
+    
+      &lt;div
+        class=&#34;relative float-left -mr-[100%] 
+          hidden
+         w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none&#34;
+        data-twe-carousel-item
+        &gt;
+        &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
+          &lt;img
+            src=&#34;https://www.jukai.site/en/blogs/summary-outlook/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241231125759-1.jpg&#34;
+            class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34;
+            alt=&#34;carousel image 1&#34;&gt;
         &lt;/div&gt;
+      &lt;/div&gt;
 
-        
-        
-
-        &lt;div class=&#34;relative float-left -mr-[100%]  hidden  w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none&#34;
-            data-twe-carousel-item &gt;
-            &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
-                &lt;img src=&#34;https://www.jukai.site/en/blogs/summary-outlook/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241231125755-1.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 2&#34;/&gt;
-            &lt;/div&gt;
+      
+    
+      &lt;div
+        class=&#34;relative float-left -mr-[100%] 
+          hidden
+         w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none&#34;
+        data-twe-carousel-item
+        &gt;
+        &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
+          &lt;img
+            src=&#34;https://www.jukai.site/en/blogs/summary-outlook/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241231125755-1.jpg&#34;
+            class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34;
+            alt=&#34;carousel image 2&#34;&gt;
         &lt;/div&gt;
+      &lt;/div&gt;
 
-        
-        
-
-        &lt;div class=&#34;relative float-left -mr-[100%]  hidden  w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none&#34;
-            data-twe-carousel-item &gt;
-            &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
-                &lt;img src=&#34;https://www.jukai.site/en/blogs/summary-outlook/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241231125743-1.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 3&#34;/&gt;
-            &lt;/div&gt;
+      
+    
+      &lt;div
+        class=&#34;relative float-left -mr-[100%] 
+          hidden
+         w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none&#34;
+        data-twe-carousel-item
+        &gt;
+        &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
+          &lt;img
+            src=&#34;https://www.jukai.site/en/blogs/summary-outlook/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241231125743-1.jpg&#34;
+            class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34;
+            alt=&#34;carousel image 3&#34;&gt;
         &lt;/div&gt;
+      &lt;/div&gt;
 
-        
-        
-
-        &lt;div class=&#34;relative float-left -mr-[100%]  hidden  w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none&#34;
-            data-twe-carousel-item &gt;
-            &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
-                &lt;img src=&#34;https://www.jukai.site/en/blogs/summary-outlook/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241231125750-1.jpg&#34; class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34; alt=&#34;carousel image 4&#34;/&gt;
-            &lt;/div&gt;
+      
+    
+      &lt;div
+        class=&#34;relative float-left -mr-[100%] 
+          hidden
+         w-full transition-transform duration-[2000ms] ease-in-out motion-reduce:transition-none&#34;
+        data-twe-carousel-item
+        &gt;
+        &lt;div class=&#34;ratio-16-9 single_hero_background&#34;&gt;
+          &lt;img
+            src=&#34;https://www.jukai.site/en/blogs/summary-outlook/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20241231125750-1.jpg&#34;
+            class=&#34;block absolute top-0 object-cover w-full h-full nozoom&#34;
+            alt=&#34;carousel image 4&#34;&gt;
         &lt;/div&gt;
+      &lt;/div&gt;
 
-        
-        
+      
+    
 
-    &lt;/div&gt;
-    &lt;button
-        class=&#34;absolute top-0 bottom-0 left-0 z-[2] flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center text-white opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:text-white hover:no-underline hover:opacity-90 hover:outline-none focus:text-white focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none&#34;
-        type=&#34;button&#34; data-twe-target=&#34;#carousel-2d2119dadbf007e75129e371fb78f4d6&#34; data-twe-slide=&#34;prev&#34;&gt;
-        &lt;span class=&#34;inline-block h-8 w-8&#34;&gt;
-            &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;4.5&#34;
-                stroke=&#34;currentColor&#34; class=&#34;h-6 w-6&#34;&gt;
-                &lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M15.75 19.5L8.25 12l7.5-7.5&#34; /&gt;
-            &lt;/svg&gt;
-        &lt;/span&gt;
-        &lt;span
-            class=&#34;!absolute !-m-px !h-px !w-px !overflow-hidden !whitespace-nowrap !border-0 !p-0 ![clip:rect(0,0,0,0)]&#34;&gt;Previous&lt;/span&gt;
-    &lt;/button&gt;
-    &lt;button
-        class=&#34;absolute top-0 bottom-0 right-0 z-[1] flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center text-white opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:text-white hover:no-underline hover:opacity-90 hover:outline-none focus:text-white focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none&#34;
-        type=&#34;button&#34; data-twe-target=&#34;#carousel-2d2119dadbf007e75129e371fb78f4d6&#34; data-twe-slide=&#34;next&#34;&gt;
-        &lt;span class=&#34;inline-block h-8 w-8&#34;&gt;
-            &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;4.5&#34;
-                stroke=&#34;currentColor&#34; class=&#34;h-6 w-6&#34;&gt;
-                &lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M8.25 4.5l7.5 7.5-7.5 7.5&#34; /&gt;
-            &lt;/svg&gt;
-        &lt;/span&gt;
-        &lt;span
-            class=&#34;!absolute !-m-px !h-px !w-px !overflow-hidden !whitespace-nowrap !border-0 !p-0 ![clip:rect(0,0,0,0)]&#34;&gt;Nextsads&lt;/span&gt;
-    &lt;/button&gt;
+  &lt;/div&gt;
+  &lt;button
+    class=&#34;absolute top-0 bottom-0 left-0 z-[2] flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center text-white opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:text-white hover:no-underline hover:opacity-90 hover:outline-none focus:text-white focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none&#34;
+    type=&#34;button&#34;
+    data-twe-target=&#34;#carousel-2d2119dadbf007e75129e371fb78f4d6&#34;
+    data-twe-slide=&#34;prev&#34;&gt;
+    &lt;span class=&#34;inline-block h-8 w-8&#34;&gt;
+      &lt;svg
+        xmlns=&#34;http://www.w3.org/2000/svg&#34;
+        fill=&#34;none&#34;
+        viewBox=&#34;0 0 24 24&#34;
+        stroke-width=&#34;4.5&#34;
+        stroke=&#34;currentColor&#34;
+        class=&#34;h-6 w-6&#34;&gt;
+        &lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M15.75 19.5L8.25 12l7.5-7.5&#34; /&gt;
+      &lt;/svg&gt;
+    &lt;/span&gt;
+    &lt;span
+      class=&#34;!absolute !-m-px !h-px !w-px !overflow-hidden !whitespace-nowrap !border-0 !p-0 ![clip:rect(0,0,0,0)]&#34;
+      &gt;Previous&lt;/span
+    &gt;
+  &lt;/button&gt;
+  &lt;button
+    class=&#34;absolute top-0 bottom-0 right-0 z-[1] flex w-[15%] items-center justify-center border-0 bg-none p-0 text-center text-white opacity-50 transition-opacity duration-150 ease-[cubic-bezier(0.25,0.1,0.25,1.0)] hover:text-white hover:no-underline hover:opacity-90 hover:outline-none focus:text-white focus:no-underline focus:opacity-90 focus:outline-none motion-reduce:transition-none&#34;
+    type=&#34;button&#34;
+    data-twe-target=&#34;#carousel-2d2119dadbf007e75129e371fb78f4d6&#34;
+    data-twe-slide=&#34;next&#34;&gt;
+    &lt;span class=&#34;inline-block h-8 w-8&#34;&gt;
+      &lt;svg
+        xmlns=&#34;http://www.w3.org/2000/svg&#34;
+        fill=&#34;none&#34;
+        viewBox=&#34;0 0 24 24&#34;
+        stroke-width=&#34;4.5&#34;
+        stroke=&#34;currentColor&#34;
+        class=&#34;h-6 w-6&#34;&gt;
+        &lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M8.25 4.5l7.5 7.5-7.5 7.5&#34; /&gt;
+      &lt;/svg&gt;
+    &lt;/span&gt;
+    &lt;span
+      class=&#34;!absolute !-m-px !h-px !w-px !overflow-hidden !whitespace-nowrap !border-0 !p-0 ![clip:rect(0,0,0,0)]&#34;
+      &gt;Nextsads&lt;/span
+    &gt;
+  &lt;/button&gt;
 &lt;/div&gt;
 
 (the smile of &lt;em&gt;Fuwapuchi&lt;/em&gt;)&lt;/p&gt;
@@ -649,16 +710,18 @@ While ICP filing enables Baidu indexing and domestic CDN access, it&amp;rsquo;s 
       <pubDate>Fri, 26 Jan 2024 10:11:15 +0800</pubDate>
       
       <guid>https://www.jukai.site/en/blogs/music/</guid>
-      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;p&gt;The music system of this website is divided into two parts: &lt;a href=&#34;#hover-player&#34;&gt;Hover Player&lt;/a&gt; and &lt;a href=&#34;#music-station&#34;&gt;Music Station&lt;/a&gt;.&lt;/p&gt;
-
+      <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;p&gt;The music system of this website is divided into two parts: &lt;a
+  href=&#34;#hover-player&#34;&gt;Hover Player&lt;/a&gt;
+ and &lt;a
+  href=&#34;#music-station&#34;&gt;Music Station&lt;/a&gt;
+.&lt;/p&gt;
 
 &lt;h2 class=&#34;relative group&#34;&gt;Hover Player 
     &lt;div id=&#34;hover-player&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#hover-player&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#hover-player&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -689,13 +752,13 @@ While ICP filing enables Baidu indexing and domestic CDN access, it&amp;rsquo;s 
 &lt;div
   
     class=&#34;flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900&#34;
+  
   &gt;
-
   &lt;span
     
       class=&#34;text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center&#34;
+    
     &gt;
-
     
 
   &lt;span class=&#34;relative block icon&#34;&gt;
@@ -708,9 +771,9 @@ While ICP filing enables Baidu indexing and domestic CDN access, it&amp;rsquo;s 
   &lt;span
     
       class=&#34;dark:text-neutral-300&#34;
+    
     &gt;Since Apple does not allow background autoplay and backend cache, the hover player&amp;rsquo;s &lt;strong&gt;Continuous Play Across Pages&lt;/strong&gt; feature is &lt;strong&gt;invalid&lt;/strong&gt; in Safari.&lt;/span&gt;
 &lt;/div&gt;
-
 
 
 &lt;h2 class=&#34;relative group&#34;&gt;Music Station (Removed) 
@@ -718,8 +781,7 @@ While ICP filing enables Baidu indexing and domestic CDN access, it&amp;rsquo;s 
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#music-station-removed&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#music-station-removed&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -737,14 +799,12 @@ While ICP filing enables Baidu indexing and domestic CDN access, it&amp;rsquo;s 
       
       <guid>https://www.jukai.site/en/blogs/gothic-stake/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>
-
 &lt;h3 class=&#34;relative group&#34;&gt;The Chinese-English version is as follows: 
     &lt;div id=&#34;the-chinese-english-version-is-as-follows&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#the-chinese-english-version-is-as-follows&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#the-chinese-english-version-is-as-follows&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -909,14 +969,12 @@ While ICP filing enables Baidu indexing and domestic CDN access, it&amp;rsquo;s 
       
       <guid>https://www.jukai.site/en/blogs/memoriam/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>
-
 &lt;h3 class=&#34;relative group&#34;&gt;The Chinese-English version is as follows: 
     &lt;div id=&#34;the-chinese-english-version-is-as-follows&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#the-chinese-english-version-is-as-follows&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#the-chinese-english-version-is-as-follows&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h3&gt;
@@ -1008,14 +1066,12 @@ While ICP filing enables Baidu indexing and domestic CDN access, it&amp;rsquo;s 
       
       <guid>https://www.jukai.site/en/blogs/hello-world/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>
-
 &lt;h2 class=&#34;relative group&#34;&gt;My first blog. 
     &lt;div id=&#34;my-first-blog&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#my-first-blog&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#my-first-blog&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -1023,14 +1079,12 @@ While ICP filing enables Baidu indexing and domestic CDN access, it&amp;rsquo;s 
 I mainly share my thoughts on blogs and exchange technology.&lt;br&gt;
 From now on, I will record my thoughts and bring help and good feelings to everyone.&lt;/p&gt;
 
-
 &lt;h2 class=&#34;relative group&#34;&gt;How is this site made? 
     &lt;div id=&#34;how-is-this-site-made&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#how-is-this-site-made&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#how-is-this-site-made&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -1041,14 +1095,12 @@ For more information, please search the following keywords on google:&lt;/p&gt;
 &lt;li&gt;Hugo&lt;/li&gt;
 &lt;/ul&gt;
 
-
 &lt;h2 class=&#34;relative group&#34;&gt;My Heart Will Go On, by Céline Dion  (Test Text) 
-    &lt;div id=&#34;my-heart-will-go-on-by-c%C3%A9line-dion--test-text&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    &lt;div id=&#34;my-heart-will-go-on-by-céline-dion--test-text&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
     
     &lt;span
         class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#my-heart-will-go-on-by-c%C3%A9line-dion--test-text&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline&#34; href=&#34;#my-heart-will-go-on-by-c%c3%a9line-dion--test-text&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
     &lt;/span&gt;        
     
 &lt;/h2&gt;
@@ -1067,6 +1119,7 @@ For more information, please search the following keywords on google:&lt;/p&gt;
       }).go();
     });
 &lt;/script&gt;
+
 </description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/en/blogs/hello-world/feature.jpg" />
     </item>

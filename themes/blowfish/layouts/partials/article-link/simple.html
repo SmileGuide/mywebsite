@@ -1,6 +1,6 @@
 {{ $constrainItemsWidth := .Page.Site.Params.list.constrainItemsWidth | default false }}
 
-{{ $articleClasses := "flex flex-wrap article" }}
+{{ $articleClasses := "flex flex-wrap md:flex-nowrap article" }}
 {{ if .Site.Params.list.showCards }}
 {{ $articleClasses = delimit (slice $articleClasses "border border-neutral-200 dark:border-neutral-700 border-2 rounded-md overflow-hidden") " " }}
 {{ else }}
@@ -94,7 +94,7 @@
       </div>
       {{ if .Params.showSummary | default (.Site.Params.list.showSummary | default false) }}
       <div class="py-1 max-w-fit prose dark:prose-invert">
-        {{ .Summary }}
+        {{ .Summary | plainify }}
       </div>
       {{ end }}
     </div>

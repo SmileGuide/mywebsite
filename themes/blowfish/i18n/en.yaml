@@ -62,11 +62,14 @@ search:
 sharing:
   email: "Send via email"
   facebook: "Share on Facebook"
+  line: "Share on LINE"
   linkedin: "Share on LinkedIn"
   pinterest: "Pin on Pinterest"
   reddit: "Submit to Reddit"
   twitter: "Tweet on Twitter"
   bluesky: "Post on Bluesky"
+  whatsapp: "Share via WhatsApp"
+  telegram: "Share via Telegram"
 
 shortcode:
   recent_articles: "Recent"
