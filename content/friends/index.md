@@ -97,14 +97,14 @@ Internet 是一张大网，而友情链接是一根蛛丝，把本站和广大�
 ### 1.3 本站信息
 |1.3.1|本站信息如下：|
 |  ----  | ---- |
-| `name` | 樹海サライ 或 JUKAI.SITE |
+| `name` | JUKAI.SITE |
 | `link `| https://jukai.site/ |
 | `avatar` | https://jukai.site/avatar.png |
 | `description` | 我喜欢听花开的声音，更想自由地深情地呼吸 | 
 
 |1.3.2|本站信息的多语版本如下：|
 |  ----  | ---- |
-| `name` | 樹海サライ 或 JUKAI.SITE |
+| `name` | JUKAI.SITE |
 | `link` | https://jukai.site/<br>https://jukai.site/en/<br>https://jukai.site/ja/ |
 | `avatar` | https://jukai.site/avatar.png |
 | `description` | 我喜欢听花开的声音，更想自由地深情地呼吸<br>Twilight descends in woodlands.<br>風渡る樹海に夕闇降る。 | 

@@ -74,14 +74,14 @@ If your site has a links section, please **add this site**.
 ### 1.3 Our Site Info
 | 1.3.1 Basic Info |
 | ---- | ---- |
-| `name` | 樹海サライ or JUKAI.SITE |
+| `name` | JUKAI.SITE |
 | `link` | https://jukai.site/ |
 | `avatar` | https://jukai.site/avatar.png |
 | `description` | I listen to blossoms blooming, and breathe freely with passion |
 
 | 1.3.2 Multilingual Version |
 | ---- | ---- |
-| `name` | 樹海サライ or JUKAI.SITE |
+| `name` | JUKAI.SITE |
 | `link` | https://jukai.site/<br>https://jukai.site/en/<br>https://jukai.site/ja/ |
 | `avatar` | https://jukai.site/avatar.png |
 | `description` | 我喜欢听花开的声音，更想自由地深情地呼吸<br>Twilight descends in woodlands.<br>風渡る樹海に夕闇降る。 |

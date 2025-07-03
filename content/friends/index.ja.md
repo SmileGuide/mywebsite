@@ -69,14 +69,14 @@ showPagination: false
 ### 1.3 当サイト情報
 | 1.3.1 基本情報 |
 | ---- | ---- |
-| `name` | 樹海サライ または JUKAI.SITE |
+| `name` | JUKAI.SITE |
 | `link` | https://jukai.site/ |
 | `avatar` | https://jukai.site/avatar.png |
 | `description` | 花開く音に耳を澄ませ、自由に深く息をしたい |
 
 | 1.3.2 多言語版情報 |
 | ---- | ---- |
-| `name` | 樹海サライ または JUKAI.SITE |
+| `name` | JUKAI.SITE |
 | `link` | https://jukai.site/<br>https://jukai.site/en/<br>https://jukai.site/ja/ |
 | `avatar` | https://jukai.site/avatar.png |
 | `description` | 花開く音に耳を澄ませ、自由に深く息をしたい<br>Twilight descends in woodlands.<br>風渡る樹海に夕闇降る。 |
