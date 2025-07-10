@@ -53,7 +53,6 @@ showPagination: false
 
 {{< friend name="Yeppioo" link=https://blog.yeppioo.vip/ avatar=yeppioo.png description="梦想成为庄稼地里的读书人....." >}}
 {{< friend name="Pinpe 的云端" link=https://pinpe.top avatar=https://i0.hdslb.com/bfs/face/a2bb7859939871165f438ab2f96d72b8343dae41.jpg description=一个属于自己的云朵。 >}}
-{{< friend name="Pinpe 的云端" link=https://pinpe.top avatar=https://i0.hdslb.com/bfs/face/a2bb7859939871165f438ab2f96d72b8343dae41.jpg description=一个属于自己的云朵。 >}}
 {{< friend name=Kegongteng link=https://kegongteng.cn/ avatar=kegongteng.jpeg description="Blogger / Technophile / Student" >}} 
 {{< friend name=张洪Heo link=https://blog.zhheo.com/ avatar=https://bu.dusays.com/2022/12/28/63ac2812183aa.png description=分享设计与科技生活 >}}
 {{< friend name=冰火之砺 link=https://blog.marice.top/link/ avatar=marice-1.jpg description=以坚冰信念铸烈火雄心 >}}
