@@ -25,7 +25,7 @@ showPagination: false
 	</div>
 </div>
 
-
+{{< friend name="Yeppioo" link=https://blog.yeppioo.vip/ avatar=yeppioo.png description="畑の中で読書をする人になりたいという夢を持っています。" >}}
 {{< friend name="ピンペの雲" link="https://pinpe.top" avatar="https://i0.hdslb.com/bfs/face/a2bb7859939871165f438ab2f96d72b8343dae41.jpg" description="自分のクラウドです。" >}}  
 {{< friend name="Kegongteng" link="https://kegongteng.cn/" avatar="kegongteng.jpeg" description="Blogger / Technophile / Student" >}}  
 {{< friend name="張洪Heo" link="https://blog.zhheo.com/" avatar="https://bu.dusays.com/2022/12/28/63ac2812183aa.png" description="生活のためのデザインと技術を共有します。" >}}  
