@@ -39,7 +39,8 @@ Twilight descends in woodlands.
 {{< friend name="Mr Byte" link="https://blog.lvbyte.top/" avatar="https://npm.elemecdn.com/lvbyte-cdn/20230104/%E8%8B%B9%E6%9E%9C.156l7bksen40.jpg" description="Love is boundless, life has its limits" >}}
 {{< friend name="Rainy-Heights" link="https://todreamr.github.io/" avatar="chunjianghuayueye.png" description="In spring the river rises as high as the sea, and with the river’s tide uprises the moon bright." >}}
 {{< friend name=Mare_Infinitus link=https://lab.imgb.space/ avatar=mare.png description="Log files containing a large amount of redundant information will be generated here at irregular intervals." >}}
-{{< friend name="Henry Moreau" link=https://blog.henrywhu.cn avatar=henry.png description="Student / Designer / Dreamchaser" >}}　　
+{{< friend name="Henry Moreau" link=https://henry.city/ avatar=henry.png description="Student / Designer / Dreamchaser" >}}　　
+{{< friend name="TopTea Society" link=https://www.toptea.xin avatar=favicon.ico description="ora ora ora" >}}　　
 
 ----
 <br/><br/><br/>

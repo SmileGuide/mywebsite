@@ -36,7 +36,8 @@ showPagination: false
 {{< friend name="バイト君" link="https://blog.lvbyte.top/" avatar="https://npm.elemecdn.com/lvbyte-cdn/20230104/%E8%8B%B9%E6%9E%9C.156l7bksen40.jpg" description="愛は無限だが、人生には限界がある。" >}}  
 {{< friend name="春川花朝秋月夜" link="https://todreamr.github.io/" avatar="chunjianghuayueye.png" description="川の春の潮が海面とつながり、明るい月が海面に一斉に昇ります。" >}}  
 {{< friend name=Mare_Infinitus link=https://lab.imgb.space/ avatar=mare.png description="ここでは、大量の冗長な内容を含むログファイルが不定期に生成されます。" >}}
-{{< friend name="Henry Moreau" link=https://blog.henrywhu.cn avatar=henry.png description="学生／デザイナー／ドリーマー" >}}　　
+{{< friend name="Henry Moreau" link=https://henry.city/ avatar=henry.png description="Student / Designer / Dreamchaser" >}}　　
+{{< friend name="頂茶社" link=https://www.toptea.xin avatar=favicon.ico description="オラオラオラ" >}}　　
 
 ----
 ## 1. 相互リンクについて
