@@ -9,7 +9,7 @@ Hello, this is Jukai Sarai.
 I am publishing this post for identity verification to manage my artist profiles on VocaDB and other platforms. 
 This post is hosted on my official domain, which is already listed as the 'Homepage' on my VocaDB artist profile. This serves as a proof of the authenticity of this verification.
 
-**Official VocaDB Username:** ***jukaisr***  
+**Official VocaDB Username:** [***jukaisr***](https://vocadb.net/Profile/jukaisr)  
 
 
 **Privacy Statement:**  
