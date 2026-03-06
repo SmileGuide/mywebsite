@@ -4,7 +4,7 @@
 
 theme = "blowfish"
 baseURL = "https://www.jukai.site/"
-defaultContentLanguage = "zh-cn"
+defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 pluralizeListTitles = "true" 
 

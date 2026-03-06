@@ -1,29 +1,7 @@
 <footer id="site-footer" class="py-10 print:hidden">
-<!--          <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
-        <script src="https://cdn.bootcss.com/JQuery-Snowfall/1.7.4/snowfall.jquery.min.js">
-
-</script>
 
 
 
-<style>
-.snowfall-flakes{animation:sakura 1s linear 0s infinite;}
-@keyframes sakura{
-0% {transform:rotate3d(0, 0, 0, 0deg);}
-25%{transform:rotate3d(1, 1, 0, 60deg);}
-50%{transform:rotate3d(1, 1, 0, 0deg);}
-75%{transform:rotate3d(1, 0, 0, 60deg);}
-100% {transform:rotate3d(1, 0, 0, 0deg);}
-}
-</style>
-<script>
-$(document).snowfall('clear');
-$(document).snowfall({image:"/snowflake.png", flakeCount:90, minSpeed:1, minSize:10, maxSize:25,});
-</script>
-
- -->
-
-<script src="/live2d/autoload.js"></script>
 
   {{/* Footer menu */}}
   {{ if .Site.Params.footer.showMenu | default true }}
@@ -42,14 +20,6 @@ $(document).snowfall({image:"/snowflake.png", flakeCount:90, minSpeed:1, minSize
   {{ end }}
 
 
-<!-- 
-
-
-<br>
-    <p class="text-sm text-neutral-500 dark:text-neutral-400" style="text-align: center;">
-<a href="https://beian.miit.gov.cn/" class="hover:text-primary-500 beian" target="_blank" >辽ICP备2024021519号-1</a>
-</p>
- -->
 
     
 
@@ -57,44 +27,13 @@ $(document).snowfall({image:"/snowflake.png", flakeCount:90, minSpeed:1, minSize
 
 {{ if eq .IsHome true }}
 <div class="flex items-center justify-between">
-  <p class="text-sm text-neutral-500 dark:text-neutral-400">
-  {{i18n "footer.visitors"}}
-    <span class="waline-pageview-count" data-path="/" id="pagec">——</span>
-  </p>
-  <script type="module">
 
-    import { pageviewCount } from '/waline/pageview.js'; //@3.1.0
-    pageviewCount({
-      serverURL: '//comments.jukai.site/',
-      path: '/',
-    });
-</script>
-<script type="text/javascript">
-    var pagect = document.getElementById('pagec');
-var observer = new MutationObserver(function(){
-      var itl,itll;
-      var element = document.getElementById("pagec");  
-      observer.disconnect();
-      itl  = element.innerText;
-      itll = Number(itl).toLocaleString();
-      document.getElementById('pagec').innerHTML = itll;
-});
-var article = document.getElementById('pagec');
 
-var options = {
-  'childList': true,
-    'subtree': true
-};
-
-observer.observe(article, options);
-</script>
-{{ if eq $.Language.Lang "zh-cn" }}
-<p class="text-sm text-neutral-500 dark:text-neutral-400">
-<a href="https://icp.gov.moe/?keyword=20257766" class="hover:text-primary-500 beian" target="_blank">萌ICP备20257766号</a>
+<p class="text-sm text-neutral-500 dark:text-neutral-400" style="line-height:210%;opacity:70%;">
+<a href="https://icp.gov.moe/?keyword=20257766" class="hover:text-primary-500 beian" target="_blank">Moe-ICP Reg. 20257766</a>
 </p>
-{{ end }}
+
 </div>
-{{ else }}  
 {{ end }}
 
 
