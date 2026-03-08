@@ -76,9 +76,9 @@
  weight = 60
 
 [[main]]
- name = "Drift➚"
+ pre = "train"
  url = "https://www.travellings.cn/go-by-clouds.html"
- weight = 70
+ weight = 140
 #[[main]]
 #  name = "Parent"
 #  weight = 20

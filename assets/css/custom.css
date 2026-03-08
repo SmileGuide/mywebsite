@@ -10,63 +10,6 @@
     font-family: Noto Serif JP,Noto Serif SC,Noto Serif;
 }
 
-/* 1. 为所有四个链接建立相对定位基准 */
-a[href*="travellings.cn"],
-a[href="/friends"],
-a[href="/posts/"],
-a[href="/contact"] {
-    position: relative; 
-}
-
-/* 2. 定义提示框的“初始状态”（透明、稍微靠下一点） */
-a[href*="travellings.cn"]::after,
-a[href="/friends"]::after,
-a[href="/posts/"]::after,
-a[href="/contact"]::after {
-    position: absolute;
-    bottom: -150%;
-    left: 50%;
-    transform: translateX(-50%) translateY(8px); 
-    font-size: 12px;
-    color: --color-secondary-800; 
-    white-space: nowrap;
-    pointer-events: none; 
-    
-    /* 核心动画逻辑：默认完全透明且不可见 */
-    opacity: 0;
-    visibility: hidden;
-    
-    /* 设定丝滑过渡：透明度和位置在 0.3 秒内平滑改变 */
-    transition: opacity 0.3s ease, transform 0.3s ease, visibility 0.3s;
-}
-
-/* 3. 填入各自的专属文案 */
-a[href*="travellings.cn"]::after {
-    content: "Depart to a random independent blog #Travellings Project";
-}
-
-a[href="/friends"]::after {
-    content: "Connect with friendship links of my companions";
-}
-
-a[href="/posts/"]::after {
-    content: "Fragmented records of light, sound, and logic";
-}
-
-a[href="/contact"]::after {
-    content: "Reach out for creative collaborations and inquiries";
-}
-
-/* 4. 定义“悬停状态”（完全显示、浮动回原位） */
-a[href*="travellings.cn"]:hover::after,
-a[href="/friends"]:hover::after,
-a[href="/posts/"]:hover::after,
-a[href="/contact"]:hover::after {
-    opacity: 1;
-    visibility: visible;
-    transform: translateX(-50%) translateY(0); 
-}
-
 
 
 /*网站全面黑白*/
