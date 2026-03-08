@@ -1,19 +1,20 @@
 ---
-title: 欢迎热爱音乐的你与我联系！
+title: "Connect & Inquiries"
 showDate: false
 showAuthor: false
 layoutBackgroundHeaderSpace: false
 groupByYear: false
 showZenMode: false
 showPagination: false
-showComments: false
+showComments: true
 showReadingTime: false
 showWordCount: false
 ---  
-- 洽谈合作
-- 插图、PV提供
-- 意见、音乐感想  
+
+- Illustration & PV Contributions
+- Collaborations & Professional Inquiries
+- Feedback & Musical Reflections
 - ......
 
-邮箱：[jukaisr@outlook.com](mailto:jukaisr@outlook.com)  
-Bilibili私信亦随时开放
+**Email:** [jukaisr@outlook.com](mailto:jukaisr@outlook.com)  
+*Direct messages on Bilibili are also welcome.*

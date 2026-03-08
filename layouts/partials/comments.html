@@ -1,11 +1,125 @@
-<div id="tcomment"></div>
+<div style="text-align: center; margin: 40px 0;">
+  <button id="twikoo-toggle" class="twikoo-toggle-btn">[ Show Comments ]</button>
+</div>
+
+<div id="twikoo-wrapper" class="twikoo-wrapper">
+  <div id="tcomment"></div>
+</div>
+<style>
+  /* 前面的按钮和容器样式保持不变... */
+  .twikoo-toggle-btn {
+    background: transparent;
+    border: 1px solid rgba(0, 0, 0, 0); 
+    color: #888; 
+    padding: 10px 24px;
+    font-size: 14px;
+    font-family: 'Noto Serif', 'Noto Serif JP', 'Noto Serif SC', Georgia, serif;
+    letter-spacing: 0.5px;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: all 0.4s ease;
+    outline: none;
+  }
+  
+  .twikoo-toggle-btn:hover {
+    border-color: #4A90E2;
+    color: #4A90E2;
+    background-color: rgba(74, 144, 226, 0.03);
+  }
+
+  .twikoo-wrapper {
+    max-height: 0;
+    opacity: 0;
+    overflow: hidden;
+    transition: max-height 0.8s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.6s ease;
+  }
+  
+  .twikoo-wrapper.expanded {
+    max-height: 5000px;
+    opacity: 1;
+    margin-top: 20px;
+  }
+
+  /* 核心修正：稍微加强并延长了动画的时间 (4s) */
+  /* 核心修正：三次递减的呼吸闪烁 (4.5s) */
+  @keyframes resonance-pulse {
+    0%   { background-color: transparent; }
+    
+    /* 第一次：最清晰的提醒 */
+    12%  { background-color: rgba(74, 144, 226, 0.16); } 
+    28%  { background-color: transparent; }
+    
+    /* 第二次：柔和的回响 */
+    45%  { background-color: rgba(74, 144, 226, 0.13); } 
+    62%  { background-color: transparent; }
+    
+    /* 第三次：极其微弱的余音 */
+    82%  { background-color: rgba(74, 144, 226, 0.08); } 
+    100% { background-color: transparent; }
+  }
+
+  .target-comment-flash {
+    animation: resonance-pulse 4.5s ease-in-out forwards;
+    border-radius: 6px; 
+  }
+</style>
+
 <script src="https://cdn.jsdelivr.net/npm/twikoo@1.7.1/dist/twikoo.min.js"></script>
 <script>
-twikoo.init({
-  envId: 'https://twikoo.jukai.site', // 腾讯云环境填 envId；Vercel 环境填地址（https://xxx.vercel.app）
-  el: '#tcomment', // 容器元素
-  // region: 'ap-guangzhou', // 环境地域，默认为 ap-shanghai，腾讯云环境填 ap-shanghai 或 ap-guangzhou；Vercel 环境不填
-  // path: location.pathname, // 用于区分不同文章的自定义 js 路径，如果您的文章路径不是 location.pathname，需传此参数
-  lang: 'zh-cn', // 用于手动设定评论区语言，支持的语言列表 https://github.com/twikoojs/twikoo/blob/main/src/client/utils/i18n/index.js
-})
+  document.addEventListener('DOMContentLoaded', function () {
+    const toggleBtn = document.getElementById('twikoo-toggle');
+    const wrapper = document.getElementById('twikoo-wrapper');
+    let isTwikooLoaded = false;
+
+    function expandAndLoadTwikoo() {
+      wrapper.classList.add('expanded');
+      toggleBtn.innerText = '[ Hide Comments ]';
+
+      if (!isTwikooLoaded) {
+        twikoo.init({
+          envId: 'https://twikoo.jukai.site',
+          el: '#tcomment',
+          lang: 'en-us',
+          onCommentLoaded: function () {
+            const currentHash = window.location.hash;
+            if (currentHash && /^#[0-9a-fA-F]{24,32}$/.test(currentHash)) {
+              const targetId = currentHash.substring(1);
+              const targetElement = document.getElementById(targetId);
+              
+              if (targetElement) {
+                // 1. 等待极短时间让 DOM 结构稳定，然后立刻触发平滑滚动
+                setTimeout(() => {
+                  // 计算目标位置，-100 像素是为了避免评论贴着浏览器顶端
+                  const y = targetElement.getBoundingClientRect().top + window.scrollY - 100;
+                  window.scrollTo({ top: y, behavior: 'smooth' });
+                  
+                  // 2. 【高级方案核心】: 等待平滑滚动完成（估算为 800ms）后，再注入闪烁动画
+                  // 这样当访客的视线正好落在该评论上时，它才开始优雅地“亮起”
+                  setTimeout(() => {
+                    targetElement.classList.add('target-comment-flash');
+                  }, 800);
+                  
+                }, 100); 
+              }
+            }
+          }
+        });
+        isTwikooLoaded = true;
+      }
+    }
+
+    toggleBtn.addEventListener('click', function () {
+      if (wrapper.classList.contains('expanded')) {
+        wrapper.classList.remove('expanded');
+        toggleBtn.innerText = '[ Show Comments ]';
+      } else {
+        expandAndLoadTwikoo();
+      }
+    });
+
+    const initialHash = window.location.hash;
+    if (initialHash && /^#[0-9a-fA-F]{24,32}$/.test(initialHash)) {
+      expandAndLoadTwikoo();
+    }
+  });
 </script>

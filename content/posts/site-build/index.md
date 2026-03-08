@@ -14,7 +14,7 @@ keywords:
 - 个人网站
 - 个人博客
 ---
-{{< lead >}}这里在技术上梳理了本站的建造流程及一些功能的实现方法。{{</ lead >}}  
+{{< lead >}}这里在技术上梳理了本站的建造流程及一些功能的实现方法。<br/>注意：由于本站已经历多次改版，一些特性已经被移除或更换架构。文中提到的组件可能已经移出本站，但实现逻辑依旧具有参考价值。{{</ lead >}}  
  
 ## 前端框架
 ### Hugo
@@ -95,7 +95,8 @@ ssh-keygen -t rsa - -C "$(git config user.email)"
 
 
 ## 评论系统和浏览量统计
-本站采用带后端的评论系统 [Waline](https://waline.js.org/) ，但完全免费。
+本站采用带后端的评论系统 [Waline](https://waline.js.org/) ，但完全免费。  
+2026/3/8更新：鉴于本站风格正在向简洁演化，本站评论系统已迁移至Twikoo。  
 
 ### LeanCloud
 
@@ -419,11 +420,6 @@ $(element).wrap("<a href='{{i18n "pathAppendix"}}/radio/pick/'></a>");
 至此，你在博客页面上看到看板娘了。  
 另外，本站的自建API地址是 [live2d.api.karlukle.site](https://live2d.api.karlukle.site)，如果不想自建API，也欢迎你来使用。  
 --更新于2024/2/18--  
-
-## 对 Blowfish 主题的贡献  
-- 增加简体中文翻译 [#1208](https://github.com/nunocoracao/blowfish/pull/1208)
-- 修补Bug：中日韩文本标题无法页内定位 [#1254](https://github.com/nunocoracao/blowfish/pull/1254)
-- 增加繁体中文翻译 [#1255](https://github.com/nunocoracao/blowfish/pull/1255)   
 
 <br/>
 <br/>  

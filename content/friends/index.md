@@ -1,5 +1,5 @@
 ---
-title: "友情链接"
+title: "Friends"
 date: 2024-02-05T09:09:28+08:00
 showAuthor: false
 showZenMode: false
@@ -40,10 +40,10 @@ showPagination: false
 		<img class="!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image" src="avatar.png" referrerpolicy="no-referrer">
 		<div class="place-self-center" >
 			<div class="font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral-300">
-				樹海サライ
+				Jukai Sarai
 			</div>
 			<div class="text-[0.8rem] leading-3 text-neutral-500 dark:text-neutral-400">
-				我喜欢听花开的声音，更想自由地深情地呼吸
+				Twilight descends in woodlands.
 			</div>
 		</div>
 	</div>
@@ -64,7 +64,7 @@ showPagination: false
 {{< friend name=草方块 link=https://lab.imgb.space/ avatar=mare.png description=此处会不定时产生包含大量废话的日志文件 >}}
 {{< friend name="Henry Moreau" link=https://henry.city/ avatar=henry.png description="Student / Designer / Dreamchaser" >}}
 {{< friend name="顶茶社" link=https://www.toptea.xin avatar=favicon.ico description="乌拉乌拉乌拉" >}}　　
-
+<!-- 
 ----
 <br/><br/><br/>
 
@@ -111,4 +111,4 @@ Internet 是一张大网，而友情链接是一根蛛丝，把本站和广大�
 
 ## 2. 须知
 为保证简洁优雅，请言简意赅地填写`description`字段。  
-若有疑问，请留言或发邮箱。
+若有疑问，请留言或发邮箱。 -->
