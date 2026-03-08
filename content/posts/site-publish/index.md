@@ -3,7 +3,7 @@ title: "关于本站的部署"
 date: 2024-02-20T13:42:42+08:00
 draft: false
 isCJKLanguage: true
-tags: ["技术"]
+tags: [Web,ZH-CN]
 keywords:
 - 建站
 - Vercel

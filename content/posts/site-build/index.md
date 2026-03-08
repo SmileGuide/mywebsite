@@ -4,7 +4,7 @@ date: 2024-02-02T09:57:23+08:00
 draft: false
 showWordCount: true
 isCJKLanguage: true
-tags: ["技术"]
+tags: ["Web",ZH-CN]
 keywords:
 - 建站
 - hugo

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>:copyright: 2026 Jukai Sarai</copyright>
-    <lastBuildDate>Sun, 08 Mar 2026 15:34:21 +0800</lastBuildDate><atom:link href="https://www.jukai.site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 08 Mar 2026 15:36:09 +0800</lastBuildDate><atom:link href="https://www.jukai.site/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Life</title>
       <link>https://www.jukai.site/tags/life/</link>
@@ -49,11 +49,11 @@
     </item>
     
     <item>
-      <title>技术</title>
-      <link>https://www.jukai.site/tags/%E6%8A%80%E6%9C%AF/</link>
+      <title>Web</title>
+      <link>https://www.jukai.site/tags/web/</link>
       <pubDate>Tue, 20 Feb 2024 13:42:42 +0800</pubDate>
       
-      <guid>https://www.jukai.site/tags/%E6%8A%80%E6%9C%AF/</guid>
+      <guid>https://www.jukai.site/tags/web/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/></description>
       
     </item>
