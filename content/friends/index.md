@@ -52,18 +52,18 @@ showPagination: false
 
 
 {{< friend name="Yeppioo" link=https://blog.yeppioo.vip/ avatar=yeppioo.png description="梦想成为庄稼地里的读书人....." >}}
-{{< friend name="Pinpe 的云端" link=https://pinpe.top avatar=https://i0.hdslb.com/bfs/face/a2bb7859939871165f438ab2f96d72b8343dae41.jpg description=一个属于自己的云朵。 >}}
+{{< friend name="Pinpe 的云端" link=https://pinpe.top avatar=https://pinpe.jpg description=一个属于自己的云朵。 >}}
 {{< friend name=Kegongteng link=https://kegongteng.cn/ avatar=kegongteng.jpeg description="Blogger / Technophile / Student" >}} 
-{{< friend name=张洪Heo link=https://blog.zhheo.com/ avatar=https://bu.dusays.com/2022/12/28/63ac2812183aa.png description=分享设计与科技生活 >}}
+{{< friend name=张洪Heo link=https://blog.zhheo.com/ avatar=heo.png description=分享设计与科技生活 >}}
 {{< friend name=冰火之砺 link=https://blog.marice.top/link/ avatar=marice-1.jpg description=以坚冰信念铸烈火雄心 >}}
 {{< friend name=冻符「Minus-K」 link=https://bkryofu.xyz/ avatar=minus-k.webp description=绝望之于虚妄，正与希望相同 >}}
-{{< friend name=雪萌天文台 link=https://blog.snowy.moe avatar=https://img.snowy.moe/head.png description=发现巷子里的那颗星星 >}}
-{{< friend name=安知鱼 link=https://blog.anheyu.com/ avatar=https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg description=生活明朗，万物可爱 >}}
-{{< friend name=字节君 link=https://blog.lvbyte.top/ avatar=https://npm.elemecdn.com/lvbyte-cdn/20230104/%E8%8B%B9%E6%9E%9C.156l7bksen40.jpg description=热爱漫无边际,生活自有分寸 >}}
+{{< friend name=雪萌天文台 link=https://blog.snowy.moe avatar=snowymoe.png description=发现巷子里的那颗星星 >}}
+{{< friend name=安知鱼 link=https://blog.anheyu.com/ avatar=anheyu.jpg description=生活明朗，万物可爱 >}}
+{{< friend name=字节君 link=https://blog.lvbyte.top/ avatar=bytekun.jpg description=热爱漫无边际,生活自有分寸 >}}
 {{< friend name=春江花朝秋月夜 link=https://todreamr.github.io/ avatar=chunjianghuayueye.png description=春江潮水连海平，海上明月共潮生 >}}
 {{< friend name=草方块 link=https://lab.imgb.space/ avatar=mare.png description=此处会不定时产生包含大量废话的日志文件 >}}
 {{< friend name="Henry Moreau" link=https://henry.city/ avatar=henry.png description="Student / Designer / Dreamchaser" >}}
-{{< friend name="顶茶社" link=https://www.toptea.xin avatar=favicon.ico description="乌拉乌拉乌拉" >}}　　
+{{< friend name="顶茶社" link=https://www.toptea.xin avatar=toptea.ico description="乌拉乌拉乌拉" >}}　　
 <!-- 
 ----
 <br/><br/><br/>
