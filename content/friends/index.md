@@ -52,7 +52,7 @@ showPagination: false
 
 
 {{< friend name="Yeppioo" link=https://blog.yeppioo.vip/ avatar=yeppioo.png description="梦想成为庄稼地里的读书人....." >}}
-{{< friend name="Pinpe 的云端" link=https://pinpe.top avatar=https://pinpe.jpg description=一个属于自己的云朵。 >}}
+{{< friend name="Pinpe 的云端" link=https://pinpe.top avatar=pinpe.jpg description=一个属于自己的云朵。 >}}
 {{< friend name=Kegongteng link=https://kegongteng.cn/ avatar=kegongteng.jpeg description="Blogger / Technophile / Student" >}} 
 {{< friend name=张洪Heo link=https://blog.zhheo.com/ avatar=heo.png description=分享设计与科技生活 >}}
 {{< friend name=冰火之砺 link=https://blog.marice.top/link/ avatar=marice-1.jpg description=以坚冰信念铸烈火雄心 >}}
@@ -63,7 +63,9 @@ showPagination: false
 {{< friend name=春江花朝秋月夜 link=https://todreamr.github.io/ avatar=chunjianghuayueye.png description=春江潮水连海平，海上明月共潮生 >}}
 {{< friend name=草方块 link=https://lab.imgb.space/ avatar=mare.png description=此处会不定时产生包含大量废话的日志文件 >}}
 {{< friend name="Henry Moreau" link=https://henry.city/ avatar=henry.png description="Student / Designer / Dreamchaser" >}}
-{{< friend name="顶茶社" link=https://www.toptea.xin avatar=toptea.ico description="乌拉乌拉乌拉" >}}　　
+{{< friend name="顶茶社" link=https://www.toptea.xin avatar=toptea.ico description="乌拉乌拉乌拉" >}}
+
+--------------------------
 <!-- 
 ----
 <br/><br/><br/>

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>:copyright: 2026 Jukai Sarai</copyright>
-    <lastBuildDate>Mon, 09 Mar 2026 12:24:11 +0800</lastBuildDate><atom:link href="https://www.jukai.site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Mar 2026 12:29:38 +0800</lastBuildDate><atom:link href="https://www.jukai.site/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>杂谈——总结和展望</title>
       <link>https://www.jukai.site/posts/summary-outlook/</link>
@@ -1037,7 +1037,7 @@ Rest assured, all meaningful past interactions have been migrated and preserved 
 &lt;div&gt;
 	&lt;hr/&gt;
 	&lt;div class=&#34;flex author&#34;&gt;
-		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;https://pinpe.jpg&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
+		&lt;img class=&#34;!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image&#34; src=&#34;pinpe.jpg&#34; referrerpolicy=&#34;no-referrer&#34;&gt;
 		&lt;div class=&#34;place-self-center&#34; onclick=&#39;window.open(&amp;#34;https://pinpe.top&amp;#34;)&#39;&gt;
 			&lt;div class=&#34;font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral-300&#34;&gt;
 				Pinpe 的云端
@@ -1434,7 +1434,8 @@ Rest assured, all meaningful past interactions have been migrated and preserved 
 	&lt;/div&gt;
 &lt;/div&gt;
 
-　　&lt;/p&gt;
+&lt;/p&gt;
+&lt;hr&gt;
 &lt;!-- 
 ----
 &lt;br/&gt;&lt;br/&gt;&lt;br/&gt;
