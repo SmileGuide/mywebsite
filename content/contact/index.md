@@ -16,5 +16,5 @@ showWordCount: false
 - Feedback & Musical Reflections
 - ......
 
-**Email:** [me@jukai.site](mailto:me@jukai.site)  
+**Email:** [sarai@jukai.site](mailto:sarai@jukai.site)  
 *Direct messages on Bilibili are also welcome.*

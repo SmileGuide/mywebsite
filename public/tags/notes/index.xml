@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>JUKAI.SITE</title>
-    <link>https://www.jukai.site/tags/notes/</link>
+    <link>https://jukai.site/tags/notes/</link>
     <description>Twilight descends in woodlands.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>:copyright: 2026 Jukai Sarai</copyright>
-    <lastBuildDate>Tue, 12 May 2026 22:33:25 +0800</lastBuildDate><atom:link href="https://www.jukai.site/tags/notes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 May 2026 11:00:14 +0800</lastBuildDate><atom:link href="https://jukai.site/tags/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>杂谈——总结和展望</title>
-      <link>https://www.jukai.site/posts/summary-outlook/</link>
+      <link>https://jukai.site/posts/summary-outlook/</link>
       <pubDate>Sat, 22 Feb 2025 12:03:06 +0800</pubDate>
       
-      <guid>https://www.jukai.site/posts/summary-outlook/</guid>
+      <guid>https://jukai.site/posts/summary-outlook/</guid>
       <description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>
 
 &lt;h2 class=&#34;relative group&#34;&gt;VOCALOID P主新身份 
@@ -256,7 +256,7 @@ auto=&#34;https://music.163.com/song?id=1417631440&#34;&gt;
 }
 &lt;/style&gt;，在想好作为P主的正式名称后，会把新名称作为线上活动的唯一标识名。本站的域名也会因此改变。&lt;/p&gt;
 </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://www.jukai.site/posts/summary-outlook/feature.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://jukai.site/posts/summary-outlook/feature.jpg" />
     </item>
     
   </channel>
