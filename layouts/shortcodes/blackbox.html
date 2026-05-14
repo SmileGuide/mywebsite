@@ -1,4 +1,60 @@
 <span class="blackbox-container">
+  <span class="blackbox-mask" 
+        title="You know too much." 
+        style="background-color: #000; color: #000; display: inline-block;">
+    {{ .Inner | markdownify }}
+  </span>
+</span>
+
+<style>
+.blackbox-mask {
+  background: #000;
+  color: #000;
+  padding: 0;
+  margin: 0 -0.05em;
+  letter-spacing: -0.05em;
+  box-shadow: 0 0 0 1px #000;
+  display: inline-block;
+  line-height: 1;
+  position: relative;
+  transition: 
+    color 0.4s cubic-bezier(0.32, 0.72, 0, 1),
+    text-shadow 0.3s ease,
+    filter 0.4s ease;
+
+  filter: 
+    grayscale(100%) 
+    brightness(0%) 
+    contrast(1000%);
+}
+
+.blackbox-mask:hover,
+.blackbox-mask.active {
+  color: #fff !important;
+  filter: none; 
+  text-shadow: 
+    0 0 2px rgba(255,255,255,0.2),
+    0 0 4px rgba(255,255,255,0.1);
+}
+
+.blackbox-mask::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -1px;
+  bottom: -1px;
+  background: inherit;
+  z-index: -1;
+  transition: inherit;
+  opacity: 0.98;
+}
+</style>
+
+
+
+
+<!-- <span class="blackbox-container">
   <span class="blackbox-mask">{{ .Inner | markdownify }}</span>
 </span>
 
@@ -49,4 +105,4 @@
   transition: inherit;
   opacity: 0.98;
 }
-</style>
+</style> -->
