@@ -34,6 +34,123 @@
     {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
     {{- end -}}
     
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{{- $urlsToClear := slice 
+      "https://www.karlukle.site/blogs/summary-expectations/"
+      "https://www.jukai.site/blogs/summary-outlook/"
+      "https://www.jukai.site/shuoshuo-single/hajimeno-fuwapuchi/"
+      "https://www.karlukle.site/shuoshuo-single/hajimeno-fuwapuchi/"
+      "https://www.karlukle.site/blogs/hidden-pages/"
+      "https://www.jukai.site/blogs/hidden-pages/"
+      "https://www.jukai.site/shuoshuo-single/blowfish-fix-bug/"
+      "https://www.karlukle.site/blogs/site-publish/"
+      "https://www.jukai.site/blogs/site-publish/"
+      "https://www.jukai.site/posts/site-publish/"
+      "https://www.jukai.site/shuoshuo-single/add-kanban/"
+      "https://www.jukai.site/shuoshuo-single/attack/"
+      "https://www.karlukle.site/shuoshuo-single/attack/"
+      "https://www.jukai.site/notice/"
+      "https://www.karlukle.site/shuoshuo-single/first/"
+      "https://www.karlukle.site/notice/"
+      "https://www.jukai.site/shuoshuo-single/first/"
+      "https://www.jukai.site/friends/"
+      "https://www.karlukle.site/friends/"
+      "https://www.jukai.site/posts/site-build/"
+      "https://www.karlukle.site/blogs/site-build/"
+      "https://www.jukai.site/blogs/site-build/"
+      "https://www.karlukle.site/player/"
+      "https://www.jukai.site/radio/pick/"
+      "https://www.jukai.site/blogs/music/"
+      "https://www.karlukle.site/radio/pick/"
+      "https://www.karlukle.site/blogs/music/"
+      "https://www.karlukle.site/blogs/gothic-stake/"
+      "https://www.jukai.site/blogs/gothic-stake/"
+      "https://www.karlukle.site/blogs/memoriam/"
+      "https://www.jukai.site/blogs/memoriam/"
+      "https://www.karlukle.site/radio/panpop/"
+      "https://www.karlukle.site/contact/myqq/"
+      "https://www.jukai.site/radio/panpop/"
+      "https://www.karlukle.site/contact/myweixin/"
+      "https://www.karlukle.site/radio/rocks/"
+      "https://www.karlukle.site/radio/classical/"
+      "https://www.jukai.site/radio/newage/"
+      "https://www.jukai.site/radio/murmurs/"
+      "https://www.jukai.site/radio/rocks/"
+      "https://www.karlukle.site/radio/murmurs/"
+      "https://www.jukai.site/radio/classical/"
+      "https://www.karlukle.site/radio/newage/"
+      "https://www.karlukle.site/docs/myoc/questionaire/"
+      "https://www.jukai.site/docs/myoc/questionaire/"
+      "https://www.jukai.site/docs/myoc/pedia/"
+      "https://www.karlukle.site/docs/myoc/pedia/"
+      "https://www.jukai.site/docs/myoc/characters/"
+      "https://www.karlukle.site/docs/myoc/characters/"
+      "https://www.karlukle.site/docs/myoc/relationship/"
+      "https://www.jukai.site/docs/myoc/relationship/"
+      "https://www.karlukle.site/blogs/my-pre-slogan/"
+      "https://www.jukai.site/blogs/my-pre-slogan/"
+      "https://www.jukai.site/docs/vb/schedule/"
+      "https://www.jukai.site/docs/vb/screenshot/"
+      "https://www.karlukle.site/docs/vb/schedule/"
+      "https://www.jukai.site/docs/vb/31infsystem/"
+      "https://www.jukai.site/docs/vb/board/"
+      "https://www.jukai.site/docs/vb/glass/"
+      "https://www.karlukle.site/docs/vb/cipher/"
+      "https://www.jukai.site/docs/vb/cipher/"
+      "https://www.karlukle.site/docs/vb/screenshot/"
+      "https://www.karlukle.site/docs/vb/31infsystem/"
+      "https://www.karlukle.site/docs/vb/glass/"
+      "https://www.karlukle.site/docs/vb/board/"
+      "https://www.jukai.site/blogs/2-photos/"
+      "https://www.karlukle.site/blogs/2-photos/"
+      "https://www.karlukle.site/blogs/childhood-photography/"
+      "https://www.jukai.site/blogs/childhood-photography/"
+      "https://www.karlukle.site/blogs/hello-world/"
+      "https://www.jukai.site/blogs/hello-world/"
+      "https://www.jukai.site/go/"
+      "https://www.karlukle.site/shuoshuo/"
+      "https://www.karlukle.site/go/"
+      "https://www.jukai.site/shuoshuo/"
+      "https://www.jukai.site/contact/"
+      "https://www.karlukle.site/contact/"
+    -}}
+
+    {{ range $urlsToClear }}
+    <item>
+      <title>[Content Removed]</title>
+      <link>{{ . | safeHTML }}</link>
+      <guid>{{ . | safeHTML }}</guid>
+      <pubDate>{{ now.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+      <description>This article has been permanently removed by the author.</description>
+    </item>
+    {{ end }}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     {{ range $pages }}
     <item>
       <title>{{ .Title }}</title>
