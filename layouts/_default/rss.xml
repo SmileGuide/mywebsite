@@ -48,7 +48,7 @@
 
 
 
-{{- $urlsToClear := slice 
+<!-- {{- $urlsToClear := slice 
       "https://www.karlukle.site/blogs/summary-expectations/"
       "https://www.jukai.site/blogs/summary-outlook/"
       "https://www.jukai.site/shuoshuo-single/hajimeno-fuwapuchi/"
@@ -136,7 +136,7 @@
       <pubDate>{{ now.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
       <description>This article has been permanently removed by the author.</description>
     </item>
-    {{ end }}
+    {{ end }} -->
 
 
 

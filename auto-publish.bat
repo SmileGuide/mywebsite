@@ -1,31 +1,30 @@
 @echo off
- 
-title JUKAI.SITE~ÍøÕ¾¸üĞÂ¿ì½İ·¢²¼
+chcp 65001 >nul
+
+title JUKAI.SITE ~ Hugoè‡ªåŠ¨éƒ¨ç½²è„šæœ¬
 color 3
+
+echo æ­£åœ¨ç”Ÿæˆé™æ€æ–‡ä»¶...
 hugo 
-echo µ±Ç°Ä¿Â¼£º%cd%
+echo å½“å‰å·¥ä½œç›®å½•ï¼š%cd%
 echo;
- echo;
-echo ¿ªÊ¼add...
-git add .
-echo;
- 
-echo addÍê³É!
 echo;
 
-:: set /p declation=ÇëÊäÈëcommitĞÅÏ¢:
-:: git commit -m "%declation%"
-:: echo;
- 
-echo ÕıÔÚcommit...
+echo æ­£åœ¨æ‰§è¡Œ git add...
+git add .
+echo;
+echo add æ‰§è¡Œå®Œæ¯•ï¼
+echo;
+
+echo æ­£åœ¨æ‰§è¡Œé»˜è®¤ commit...
 git commit -m "routine update"
 echo;
 
-echo ÕıÔÚ½«commitÌá½»µ½Ô¶³Ì·şÎñÆ÷...
+echo æ­£åœ¨å°†ä»£ç æ¨åˆ°è¿œç¨‹ä»“åº“ (github main)...
 git push -u github main
 echo;
- 
-echo ·¢²¼Íê±Ï£¡
+
+echo éƒ¨ç½²å®Œæˆï¼æ‰€æœ‰æ›´æ–°å·²æ¨é€åˆ°æœåŠ¡å™¨ã€‚
 echo;
- 
+
 pause
