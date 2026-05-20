@@ -7,18 +7,19 @@ baseURL = "https://jukai.site/"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 pluralizeListTitles = "true" 
-
 enableRobotsTXT = true
 paginate = 10
 summaryLength = 0
 smartTOC = true
 buildDrafts = false
 buildFuture = false
-
+timeout=120000
 
 
 [imaging]
   anchor = 'Center'
+  quality = 90
+  resampleFilter = "lanczos"
 
 [taxonomies]
   tag = "tags"

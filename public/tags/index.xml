@@ -8,7 +8,7 @@
     
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><copyright>:copyright: 2026 Jukai Sarai</copyright>
-    <lastBuildDate>Mon, 18 May 2026 11:41:30 +0800</lastBuildDate><atom:link href="https://jukai.site/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 May 2026 20:02:19 +0800</lastBuildDate><atom:link href="https://jukai.site/tags/index.xml" rel="self" type="application/rss+xml" />
 
 
 
@@ -27,9 +27,23 @@
     <item>
       <title>Life</title>
       <link>https://jukai.site/tags/life/</link>
-      <pubDate>Sat, 22 Feb 2025 12:03:06 +0800</pubDate>
+      <pubDate>Mon, 18 May 2026 12:30:38 +0800</pubDate>
       
       <guid>https://jukai.site/tags/life/</guid><description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/></description></item>
+    
+    <item>
+      <title>Trip</title>
+      <link>https://jukai.site/tags/trip/</link>
+      <pubDate>Mon, 18 May 2026 12:30:38 +0800</pubDate>
+      
+      <guid>https://jukai.site/tags/trip/</guid><description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/></description></item>
+    
+    <item>
+      <title>ZH-CN</title>
+      <link>https://jukai.site/tags/zh-cn/</link>
+      <pubDate>Mon, 18 May 2026 12:30:38 +0800</pubDate>
+      
+      <guid>https://jukai.site/tags/zh-cn/</guid><description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/></description></item>
     
     <item>
       <title>Music</title>
@@ -44,13 +58,6 @@
       <pubDate>Sat, 22 Feb 2025 12:03:06 +0800</pubDate>
       
       <guid>https://jukai.site/tags/notes/</guid><description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/></description></item>
-    
-    <item>
-      <title>ZH-CN</title>
-      <link>https://jukai.site/tags/zh-cn/</link>
-      <pubDate>Sat, 22 Feb 2025 12:03:06 +0800</pubDate>
-      
-      <guid>https://jukai.site/tags/zh-cn/</guid><description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/></description></item>
     
     <item>
       <title>Web</title>

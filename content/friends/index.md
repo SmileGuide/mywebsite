@@ -37,7 +37,7 @@ showPagination: false
  <div tag="friends">
 	<hr/>
 	<div class="flex author">
-		<img class="!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image" src="avatar.png" referrerpolicy="no-referrer">
+		<img class="!mt-0 !mb-0 h-24 w-24 rounded-full ltr:mr-4 rtl:ml-4 medium-zoom-image" src="avatar.jpg" referrerpolicy="no-referrer">
 		<div class="place-self-center" >
 			<div class="font-semibold leading-6 text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral-300">
 				Jukai Sarai

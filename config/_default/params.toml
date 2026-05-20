@@ -73,7 +73,7 @@ highlightCurrentMenuArea = true
   showAuthorsBadges = false
   showWordCount = true
   # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
-  showZenMode = true
+  showZenMode = false
   showComments = true
 [list]
   showHero = true

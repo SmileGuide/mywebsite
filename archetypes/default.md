@@ -46,7 +46,7 @@ tags: [标签1,标签2,ZH-CN]
 
 
 
-<!-- 背景图片需要放在文章目录下，命名为feature.xxx -->
+<!-- 背景图片需要放在文章目录下，命名为feature.* -->
 {{< alert "music" >}}这里可以填提示{{< /alert >}}
 {{<lead>}} "这里可以填引子 {{</lead>}}
 {{< bilibili BV16J411q7MH >}}  
