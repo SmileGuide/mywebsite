@@ -8,7 +8,7 @@
     
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><copyright>:copyright: 2026 Jukai Sarai</copyright>
-    <lastBuildDate>Wed, 20 May 2026 21:52:23 +0800</lastBuildDate><atom:link href="https://jukai.site/tags/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 May 2026 21:58:48 +0800</lastBuildDate><atom:link href="https://jukai.site/tags/zh-cn/index.xml" rel="self" type="application/rss+xml" />
 
 
 
@@ -29,7 +29,7 @@
       <link>https://jukai.site/posts/trip-to-au/</link>
       <pubDate>Mon, 18 May 2026 12:30:38 +0800</pubDate>
       
-      <guid>https://jukai.site/posts/trip-to-au/</guid><description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
+      <guid>https://jukai.site/posts/trip-to-au/</guid><description>&lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
@@ -1501,14 +1501,14 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
-</description><media:content url="https://jukai.site/posts/trip-to-au/feature.jpg" type="image/jpeg" medium="image" /></item>
+<br/>Since RSS readers do not display the blog content perfectly, please read this article in your browser.</description><media:content url="https://jukai.site/posts/trip-to-au/feature.jpg" type="image/jpeg" medium="image" /></item>
     
     <item>
       <title>杂谈——总结和展望</title>
       <link>https://jukai.site/posts/summary-outlook/</link>
       <pubDate>Sat, 22 Feb 2025 12:03:06 +0800</pubDate>
       
-      <guid>https://jukai.site/posts/summary-outlook/</guid><description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>
+      <guid>https://jukai.site/posts/summary-outlook/</guid><description>
 
 &lt;h2 class=&#34;relative group&#34;&gt;VOCALOID P主新身份 
     &lt;div id=&#34;vocaloid-p%E4%B8%BB%E6%96%B0%E8%BA%AB%E4%BB%BD&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
@@ -1620,14 +1620,14 @@ auto=&#34;https://music.163.com/song?id=1417631440&#34;&gt;
 
 
 ，在想好作为P主的正式名称后，会把新名称作为线上活动的唯一标识名。本站的域名也会因此改变。&lt;/p&gt;
-</description><media:content url="https://jukai.site/posts/summary-outlook/feature.jpg" type="image/jpeg" medium="image" /></item>
+<br/>Since RSS readers do not display the blog content perfectly, please read this article in your browser.</description><media:content url="https://jukai.site/posts/summary-outlook/feature.jpg" type="image/jpeg" medium="image" /></item>
     
     <item>
       <title>关于本站的部署</title>
       <link>https://jukai.site/posts/site-publish/</link>
       <pubDate>Tue, 20 Feb 2024 13:42:42 +0800</pubDate>
       
-      <guid>https://jukai.site/posts/site-publish/</guid><description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+      <guid>https://jukai.site/posts/site-publish/</guid><description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   此文是上一篇《关于本站的建造》的延申，是关于把已搭建的 Hugo 站点进行部署和加速的文章。与上一篇不同，这是一篇普适性教程。
 &lt;/div&gt;
 
@@ -2254,14 +2254,14 @@ auto=&#34;https://music.163.com/song?id=1417631440&#34;&gt;
 &lt;li&gt;CDN加速后&lt;img src=&#34;https://jukai.site/posts/site-publish/%E6%88%AA%E5%9B%BE_%E9%80%89%E6%8B%A9%E5%8C%BA%E5%9F%9F_20240220205156.png&#34; alt=&#34;&#34;  /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&amp;ndash;完&amp;ndash;&lt;/p&gt;
-</description><media:content url="https://jukai.site/posts/site-publish/feature.jpg" type="image/jpeg" medium="image" /></item>
+<br/>Since RSS readers do not display the blog content perfectly, please read this article in your browser.</description><media:content url="https://jukai.site/posts/site-publish/feature.jpg" type="image/jpeg" medium="image" /></item>
     
     <item>
       <title>关于本站的建造</title>
       <link>https://jukai.site/posts/site-build/</link>
       <pubDate>Fri, 02 Feb 2024 09:57:23 +0800</pubDate>
       
-      <guid>https://jukai.site/posts/site-build/</guid><description>Since RSS readers do not display the blog content perfectly, please read this article in your browser.<br/>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+      <guid>https://jukai.site/posts/site-build/</guid><description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
   这里在技术上梳理了本站的建造流程及一些功能的实现方法。&lt;br/&gt;注意：由于本站已经历多次改版，一些特性已经被移除或更换架构。文中提到的组件可能已经移出本站，但实现逻辑依旧具有参考价值。
 &lt;/div&gt;
 
@@ -3055,7 +3055,7 @@ document.getElementById(&#39;github-04420d49ee7907f08c281dfe4d75cc0a-forks&#39;)
     
     
 &lt;/section&gt;
-</description><media:content url="https://jukai.site/posts/site-build/feature.jpg" type="image/jpeg" medium="image" /></item>
+<br/>Since RSS readers do not display the blog content perfectly, please read this article in your browser.</description><media:content url="https://jukai.site/posts/site-build/feature.jpg" type="image/jpeg" medium="image" /></item>
     
   </channel>
 </rss>

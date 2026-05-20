@@ -162,7 +162,7 @@
       {{- $itemContent := .Content -}}
       {{- $itemContent = $itemContent | replaceRE "(?si)<svg.*?</svg>" "" -}}
       {{- $itemContent = $itemContent | replaceRE "(?si)<style.*?</style>" "" -}}
-      <description>{{ i18n "rss" }}<br/>{{ $itemContent | html }}</description>
+      <description>{{ $itemContent | html }}<br/>{{ i18n "rss" }}</description>
       
       {{- $images := .Resources.ByType "image" -}}
       {{- $featured := $images.GetMatch "*feature*" -}}
