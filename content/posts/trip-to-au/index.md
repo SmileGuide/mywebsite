@@ -8,15 +8,14 @@ tags: [Trip,Life,ZH-CN]
 ---  
   
 
-<!-- 下面是音乐播放器Aplayer↓ -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
 <script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js"></script>
 <meting-js
-    auto="https://music.163.com/song?id=1892743037"><!--这里填网易云歌曲链接 -->
+    auto="https://music.163.com/song?id=1892743037">
 </meting-js>
-<!-- 以上音乐播放器 -->
+
 
 
 {{<lead>}} 树海老师停更博客一年有余，终于再次拿起了祂的笔。{{</lead>}}
