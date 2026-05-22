@@ -51,19 +51,19 @@ showPagination: false
 
 
 
-{{< friend name="Yeppioo" link=https://blog.yeppioo.vip/ avatar=https://www.jukai.site/friends/yeppioo.png description="梦想成为庄稼地里的读书人....." >}}
-{{< friend name="Pinpe 的云端" link=https://pinpe.top avatar=https://www.jukai.site/friends/pinpe.jpg description=一个属于自己的云朵。 >}}
-{{< friend name=Kegongteng link=https://kegongteng.cn/ avatar=https://www.jukai.site/friends/kegongteng.jpeg description="Blogger / Technophile / Student" >}} 
-{{< friend name=张洪Heo link=https://blog.zhheo.com/ avatar=https://www.jukai.site/friends/heo.png description=分享设计与科技生活 >}}
-{{< friend name=冰火之砺 link=https://blog.marice.top/link/ avatar=https://www.jukai.site/friends/marice-1.jpg description=以坚冰信念铸烈火雄心 >}}
-{{< friend name=冻符「Minus-K」 link=https://bkryofu.xyz/ avatar=https://www.jukai.site/friends/minus-k.webp description=绝望之于虚妄，正与希望相同 >}}
-{{< friend name=雪萌天文台 link=https://blog.snowy.moe avatar=https://www.jukai.site/friends/snowymoe.png description=发现巷子里的那颗星星 >}}
-{{< friend name=安知鱼 link=https://blog.anheyu.com/ avatar=https://www.jukai.site/friends/anheyu.jpg description=生活明朗，万物可爱 >}}
-{{< friend name=字节君 link=https://blog.lvbyte.top/ avatar=https://www.jukai.site/friends/bytekun.jpg description=热爱漫无边际,生活自有分寸 >}}
-{{< friend name=春江花朝秋月夜 link=https://todreamr.github.io/ avatar=https://www.jukai.site/friends/chunjianghuayueye.png description=春江潮水连海平，海上明月共潮生 >}}
-{{< friend name=草方块 link=https://lab.imgb.space/ avatar=https://www.jukai.site/friends/mare.png description=此处会不定时产生包含大量废话的日志文件 >}}
-{{< friend name="Henry Moreau" link=https://henry.city/ avatar=https://www.jukai.site/friends/henry.png description="Student / Designer / Dreamchaser" >}}
-{{< friend name="顶茶社" link=https://www.toptea.xin avatar=https://www.jukai.site/friends/toptea.ico description="乌拉乌拉乌拉" >}}
+{{< friend name="Yeppioo" link=https://blog.yeppioo.vip/ avatar=https://jukai.site/friends/yeppioo.png description="梦想成为庄稼地里的读书人....." >}}
+{{< friend name="Pinpe 的云端" link=https://pinpe.top avatar=https://jukai.site/friends/pinpe.jpg description=一个属于自己的云朵。 >}}
+{{< friend name=Kegongteng link=https://kegongteng.cn/ avatar=https://jukai.site/friends/kegongteng.jpeg description="Blogger / Technophile / Student" >}} 
+{{< friend name=张洪Heo link=https://blog.zhheo.com/ avatar=https://jukai.site/friends/heo.png description=分享设计与科技生活 >}}
+{{< friend name=冰火之砺 link=https://blog.marice.top/link/ avatar=https://jukai.site/friends/marice.jpg description=以坚冰信念铸烈火雄心 >}}
+{{< friend name=冻符「Minus-K」 link=https://bkryofu.xyz/ avatar=https://jukai.site/friends/minus-k.webp description=绝望之于虚妄，正与希望相同 >}}
+{{< friend name=雪萌天文台 link=https://blog.snowy.moe avatar=https://jukai.site/friends/snowymoe.png description=发现巷子里的那颗星星 >}}
+{{< friend name=安知鱼 link=https://blog.anheyu.com/ avatar=https://jukai.site/friends/anheyu.jpg description=生活明朗，万物可爱 >}}
+{{< friend name=字节君 link=https://blog.lvbyte.top/ avatar=https://jukai.site/friends/bytekun.jpg description=热爱漫无边际,生活自有分寸 >}}
+{{< friend name=春江花朝秋月夜 link=https://todreamr.github.io/ avatar=https://jukai.site/friends/chunjianghuayueye.png description=春江潮水连海平，海上明月共潮生 >}}
+{{< friend name=草方块 link=https://lab.imgb.space/ avatar=https://jukai.site/friends/mare.png description=此处会不定时产生包含大量废话的日志文件 >}}
+{{< friend name="Henry Moreau" link=https://henry.city/ avatar=https://jukai.site/friends/henry.png description="Student / Designer / Dreamchaser" >}}
+{{< friend name="顶茶社" link=https://www.toptea.xin avatar=https://jukai.site/friends/toptea.ico description="乌拉乌拉乌拉" >}}
 
 --------------------------
 <!-- 
