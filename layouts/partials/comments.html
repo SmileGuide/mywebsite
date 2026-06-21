@@ -45,15 +45,15 @@
   @keyframes resonance-pulse {
     0%   { background-color: transparent; }
     
-    /* 第一次：最清晰的提醒 */
+    /* 第一次，清晰 */
     12%  { background-color: rgba(74, 144, 226, 0.16); } 
     28%  { background-color: transparent; }
     
-    /* 第二次：柔和的回响 */
+    /* 第二次，柔和 */
     45%  { background-color: rgba(74, 144, 226, 0.13); } 
     62%  { background-color: transparent; }
     
-    /* 第三次：极其微弱的余音 */
+    /* 第三次，微弱 */
     82%  { background-color: rgba(74, 144, 226, 0.08); } 
     100% { background-color: transparent; }
   }
@@ -62,6 +62,93 @@
     animation: resonance-pulse 4.5s ease-in-out forwards;
     border-radius: 6px; 
   }
+
+
+
+
+/* Twikoo 在 Vue 挂载后会替换 #tcomment；
+   因此必须以外层仍然存在的 .twikoo-wrapper 为锚点。 */
+
+/* 英文按完整单词换行，不再 bee / n、reco / mmend */
+.twikoo-wrapper .tk-comment,
+.twikoo-wrapper .tk-comment * {
+  word-break: normal !important;
+  overflow-wrap: normal !important;
+  word-wrap: normal !important;
+  hyphens: none !important;
+}
+
+/* 只有特别长的 URL、代码字符串才允许在必要时折行 */
+.twikoo-wrapper .tk-content a,
+.twikoo-wrapper .tk-content code,
+.twikoo-wrapper .tk-content pre {
+  overflow-wrap: anywhere;
+  word-break: normal !important;
+}
+
+/* Markdown 链接 */
+.twikoo-wrapper .tk-content a {
+  color: rgb(var(--color-primary-400)) !important;
+  text-decoration: none !important;
+}
+
+.twikoo-wrapper .tk-content a:hover {
+  color: rgb(var(--color-primary-400)) !important;
+  text-decoration: none !important;
+}
+
+
+/* Markdown 标题 */
+.twikoo-wrapper .tk-content h1,
+.twikoo-wrapper .tk-content h2,
+.twikoo-wrapper .tk-content h3,
+.twikoo-wrapper .tk-content h4,
+.twikoo-wrapper .tk-content h5,
+.twikoo-wrapper .tk-content h6 {
+  display: block;
+  margin: 1.05em 0 0.45em;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.twikoo-wrapper .tk-content h1 { font-size: 1.45em; }
+.twikoo-wrapper .tk-content h2 { font-size: 1.30em; }
+.twikoo-wrapper .tk-content h3 { font-size: 1.18em; }
+.twikoo-wrapper .tk-content h4,
+.twikoo-wrapper .tk-content h5,
+.twikoo-wrapper .tk-content h6 { font-size: 1.08em; }
+
+/* Markdown 段落、列表、图片 */
+.twikoo-wrapper .tk-content p {
+  margin: 0.7em 0;
+}
+
+.twikoo-wrapper .tk-content p:first-child {
+  margin-top: 0;
+}
+
+.twikoo-wrapper .tk-content p:last-child {
+  margin-bottom: 0;
+}
+
+.twikoo-wrapper .tk-content ul,
+.twikoo-wrapper .tk-content ol {
+  margin: 0.7em 0;
+  padding-left: 1.4em;
+}
+
+.twikoo-wrapper .tk-content img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0.75em 0;
+  border-radius: 0.35rem;
+}
+
+
+
+
+
 </style>
 
 <script src="https://cdn.jsdelivr.net/npm/twikoo@1.7.1/dist/twikoo.min.js"></script>
@@ -87,13 +174,13 @@
               const targetElement = document.getElementById(targetId);
               
               if (targetElement) {
-                // 1. 等待极短时间让 DOM 结构稳定，然后立刻触发平滑滚动
+                // 等待极短时间让 DOM 结构稳定，然后立刻触发平滑滚动
                 setTimeout(() => {
-                  // 计算目标位置，-100 像素是为了避免评论贴着浏览器顶端
+                  // 计算目标位置，-100 像素避免评论紧贴浏览器顶端
                   const y = targetElement.getBoundingClientRect().top + window.scrollY - 100;
                   window.scrollTo({ top: y, behavior: 'smooth' });
                   
-                  // 2. 【高级方案核心】: 等待平滑滚动完成（估算为 800ms）后，再注入闪烁动画
+                  // 等待平滑滚动完成后，注入闪烁动画
                   // 这样当访客的视线正好落在该评论上时，它才开始优雅地“亮起”
                   setTimeout(() => {
                     targetElement.classList.add('target-comment-flash');
