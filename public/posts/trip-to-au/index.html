@@ -3217,6 +3217,29 @@
       expandAndLoadTwikoo();
     }
   });
+
+
+
+
+
+
+
+    
+    document.addEventListener('pointerdown', function (event) {
+      const target = event.target;
+
+      if (!(target instanceof Element)) return;
+
+      const select = target.closest('.twikoo-wrapper .tk-sort-select');
+
+
+      if (!select || target !== select || !select.matches(':open')) return;
+
+      event.preventDefault();
+      select.blur();
+    }, true);
+
+
 </script>
       </div>
     </div>
