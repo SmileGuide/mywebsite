@@ -7,8 +7,11 @@ isCJKLanguage: true
 tags: [Music,Life, Notes,ZH-CN]
 ---
 
-## VOCALOID P主新身份
-{{< bilibili BV1dLNCeJE94 >}}
+{{<lead>}} "此随笔记录了本站定位的一次转折。2025 年初，本站所有者以 Aoki-P 的身份在 Bilibili 和ニコニコ動画首次投稿原创术曲，从此开始了作为同人创作者的生涯。此随笔略显稚拙，是当时心境的反映。 {{</lead>}}
+{{< bilibili BV1dLNCeJE94 >}}  
+
+## 新身份  
+
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
 <script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
@@ -16,10 +19,9 @@ tags: [Music,Life, Notes,ZH-CN]
 <script src="https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js"></script>
 
 <meting-js
-	auto="https://music.163.com/song?id=1417631440">
+	auto="https://music.163.com/song?id=2672507555">
 </meting-js>
 
-{{<lead>}} "此随笔记录了本站及其创作者身份的一次重要转折。在2025年年初，我以Aoki-P的身份在Bilibili和ニコニコ首次投稿原创术曲，从此开始了作为同人创作者的生涯。此随笔略显稚拙，是当时心境的反映。 {{</lead>}}
 
 投稿这首曲子主要是为了~~尝试新的东西~~{{<blackbox>}}未成年投稿P的属性🤭{{</blackbox>}}。
 
@@ -38,4 +40,4 @@ tags: [Music,Life, Notes,ZH-CN]
 
 之前一年忙于学业，加上寄宿生的身份，打理网站的时间少之又少，所以断更了差不多一年。不过，接下来的日子里，从六月份开始，网站将**恢复正常状态**。届时，我将会把一些乐理、编曲、混音方面的知识心得分享在网站上；大学入学后，我会把在学习过程中获得的体会写成文章，把本站打造成一个**技术型博客**。“说说”将会关闭，生活动态等非技术类内容将转移到网易云音乐笔记和 Bilibili {{<blackbox>}}BB空间🐶{{</blackbox>}}动态之类的平台。
 
-正式成为一名业余P主后，会多一个网络身份，或许也会得到很大的群众关注度。因此，本次更新的同时去除了原有的敏感信息{{<blackbox>}}（防止被开盒）{{</blackbox>}}，在想好作为P主的正式名称后，会把新名称作为线上活动的唯一标识名。本站的域名也会因此改变。
+正式成为一名业余P主后，或许会得到较大的关注度。因此，本次更新同时去除了一些信息{{<blackbox>}}（防止被盒）{{</blackbox>}}，在想好作为P主的正式名称后，会把新名称作为线上活动的唯一标识名。本站的域名也会因此改变。

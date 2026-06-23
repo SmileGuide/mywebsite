@@ -8,7 +8,7 @@
     
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><copyright>:copyright: 2026 Jukai Sarai</copyright>
-    <lastBuildDate>Mon, 22 Jun 2026 01:03:33 +0800</lastBuildDate><atom:link href="https://jukai.site/tags/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Jun 2026 13:06:23 +0800</lastBuildDate><atom:link href="https://jukai.site/tags/zh-cn/index.xml" rel="self" type="application/rss+xml" />
 
 
 
@@ -1508,18 +1508,10 @@
       <link>https://jukai.site/posts/summary-outlook/</link>
       <pubDate>Sat, 22 Feb 2025 12:03:06 +0800</pubDate>
       
-      <guid>https://jukai.site/posts/summary-outlook/</guid><description>
+      <guid>https://jukai.site/posts/summary-outlook/</guid><description>&lt;p&gt;&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  &amp;ldquo;此随笔记录了本站定位的一次转折。2025 年初，本站所有者以 Aoki-P 的身份在 Bilibili 和ニコニコ動画首次投稿原创术曲，从此开始了作为同人创作者的生涯。此随笔略显稚拙，是当时心境的反映。
+&lt;/div&gt;
 
-&lt;h2 class=&#34;relative group&#34;&gt;VOCALOID P主新身份 
-    &lt;div id=&#34;vocaloid-p%E4%B8%BB%E6%96%B0%E8%BA%AB%E4%BB%BD&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
-    
-    &lt;span
-        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
-        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
-            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#vocaloid-p%E4%B8%BB%E6%96%B0%E8%BA%AB%E4%BB%BD&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
-    &lt;/span&gt;        
-    
-&lt;/h2&gt;
 
           
     
@@ -1537,18 +1529,26 @@
 
 
 
+&lt;/p&gt;
 
+
+&lt;h2 class=&#34;relative group&#34;&gt;新身份 
+    &lt;div id=&#34;%E6%96%B0%E8%BA%AB%E4%BB%BD&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;
+    
+    &lt;span
+        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100&#34;&gt;
+        &lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34;
+            style=&#34;text-decoration-line: none !important;&#34; href=&#34;#%E6%96%B0%E8%BA%AB%E4%BB%BD&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;
+    &lt;/span&gt;        
+    
+&lt;/h2&gt;
 &lt;link rel=&#34;stylesheet&#34; href=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css&#34;&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js&#34;&gt;&lt;/script&gt;
 &lt;script src=&#34;https://cdn.jsdelivr.net/npm/color-thief@2.2.5/js/color-thief.min.js&#34;&gt;&lt;/script&gt;
 &lt;p&gt;&lt;meting-js
-auto=&#34;https://music.163.com/song?id=1417631440&#34;&gt;
+auto=&#34;https://music.163.com/song?id=2672507555&#34;&gt;
 &lt;/meting-js&gt;&lt;/p&gt;
-&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
-  &amp;ldquo;此随笔记录了本站及其创作者身份的一次重要转折。在2025年年初，我以Aoki-P的身份在Bilibili和ニコニコ首次投稿原创术曲，从此开始了作为同人创作者的生涯。此随笔略显稚拙，是当时心境的反映。
-&lt;/div&gt;
-
 &lt;p&gt;投稿这首曲子主要是为了&lt;del&gt;尝试新的东西&lt;/del&gt;&lt;span class=&#34;blackbox-container&#34;&gt;
   &lt;span class=&#34;blackbox-mask&#34; 
         title=&#34;You know too much.&#34; 
@@ -1606,11 +1606,11 @@ auto=&#34;https://music.163.com/song?id=1417631440&#34;&gt;
 
 
 动态之类的平台。&lt;/p&gt;
-&lt;p&gt;正式成为一名业余P主后，会多一个网络身份，或许也会得到很大的群众关注度。因此，本次更新的同时去除了原有的敏感信息&lt;span class=&#34;blackbox-container&#34;&gt;
+&lt;p&gt;正式成为一名业余P主后，或许会得到较大的关注度。因此，本次更新同时去除了一些信息&lt;span class=&#34;blackbox-container&#34;&gt;
   &lt;span class=&#34;blackbox-mask&#34; 
         title=&#34;You know too much.&#34; 
         style=&#34;background-color: #000; color: #000; display: inline-block;&#34;&gt;
-    （防止被开盒）
+    （防止被盒）
   &lt;/span&gt;
 &lt;/span&gt;
 
@@ -1627,15 +1627,7 @@ auto=&#34;https://music.163.com/song?id=1417631440&#34;&gt;
       <link>https://jukai.site/posts/site-publish/</link>
       <pubDate>Tue, 20 Feb 2024 13:42:42 +0800</pubDate>
       
-      <guid>https://jukai.site/posts/site-publish/</guid><description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
-  此文是上一篇《关于本站的建造》的延申，是关于把已搭建的 Hugo 站点进行部署和加速的文章。与上一篇不同，这是一篇普适性教程。
-&lt;/div&gt;
-
-&lt;!-- &lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
-  这是由上一篇《关于本站的建造》引申出来的文章，主要讲解的是把构建好的 Hugo 网站进行部署和加速的过程。与上一篇不同，这是一篇普遍使用的教程。
-&lt;/div&gt;
- --&gt;
-
+      <guid>https://jukai.site/posts/site-publish/</guid><description>
   
 
 
@@ -1663,9 +1655,17 @@ auto=&#34;https://music.163.com/song?id=1417631440&#34;&gt;
   &lt;span
     
       class=&#34;dark:text-neutral-300&#34;
-    &gt;敬请留意：此文撰写于多年以前。时过境迁，本站现已挂载于 Cloudflare 上，已脱离国内的网络服务框架；本文所述内容可能仍有指引性意义，但本站或许已不采用下文的某些方式或服务。&lt;/span&gt;
+    &gt;敬请留意：此文撰写于多年以前。时过境迁，本站现已已脱离境内的网络服务框架，挂载于 Cloudflare ；本文所述内容可能仍有指引性意义，但本站或许已不采用下文的某些方式提供服务。&lt;/span&gt;
 &lt;/div&gt;
 
+&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  此文是上一篇《关于本站的建造》的内容延伸，是关于把搭建完成的 Hugo 站点进行部署和CDN加速的教程文章。与前篇不同，这是一篇普遍适用的教程。
+&lt;/div&gt;
+
+&lt;!-- &lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  这是由上一篇《关于本站的建造》引申出来的文章，主要讲解的是把构建好的 Hugo 网站进行部署和加速的过程。与上一篇不同，这是一篇普遍使用的教程。
+&lt;/div&gt;
+ --&gt;
 &lt;h2 id=&#34;部署网站&#34;&gt;部署网站&lt;/h2&gt;
 &lt;h3 id=&#34;部署到github-pages&#34;&gt;部署到GitHub Pages&lt;/h3&gt;
 &lt;p&gt;首先，你需要拥有一个名为 &lt;code&gt;&amp;lt;账号&amp;gt;.github.io&lt;/code&gt; 的 GitHub 公开仓库，然后把网站源代码 push 上去。（不要只上传 public 文件夹，建议连根上传，方便管理）。&lt;/p&gt;
@@ -2261,10 +2261,41 @@ auto=&#34;https://music.163.com/song?id=1417631440&#34;&gt;
       <link>https://jukai.site/posts/site-build/</link>
       <pubDate>Fri, 02 Feb 2024 09:57:23 +0800</pubDate>
       
-      <guid>https://jukai.site/posts/site-build/</guid><description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
-  这里在技术上梳理了本站的建造流程及一些功能的实现方法。&lt;br/&gt;注意：由于本站已经历多次改版，一些特性已经被移除或更换架构。文中提到的组件可能已经移出本站，但实现逻辑依旧具有参考价值。
+      <guid>https://jukai.site/posts/site-build/</guid><description>&lt;p&gt;
+  
+
+
+
+&lt;div
+  
+    class=&#34;flex px-4 py-3 rounded-md bg-primary-100 dark:bg-primary-900&#34;
+  &gt;
+
+  &lt;span
+    
+      class=&#34;text-primary-400 ltr:pr-3 rtl:pl-3 flex items-center&#34;
+    &gt;
+
+    
+
+  &lt;span class=&#34;relative block icon&#34;&gt;
+    
+
+  &lt;/span&gt;
+
+
+  &lt;/span&gt;
+
+  &lt;span
+    
+      class=&#34;dark:text-neutral-300&#34;
+    &gt;注意：本站已经历多次改版，其中一些特性已被移除或重构。文中提到的组件可能已不再存于本站，但其实现逻辑具有参考价值，故未作删除。&lt;/span&gt;
 &lt;/div&gt;
 
+&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;
+  这里在技术上梳理了本站的建造流程及一些功能的实现方法。
+&lt;/div&gt;
+&lt;/p&gt;
 
 
 &lt;h2 class=&#34;relative group&#34;&gt;前端框架 
@@ -2736,7 +2767,7 @@ Blowfish 是由&lt;a href=&#34;https://n9o.xyz/&#34; target=&#34;_blank&#34;&gt;
 前者使用了Hugo的新特性，从指定路径获取渲染好的HTML并放置在页面上；后者是一个支持在内部写入 Markdown 和短代码的&lt;code&gt;&amp;lt;span&amp;gt;&lt;/code&gt;元素。&lt;br&gt;
 另外，说说页的布局也做了个性化修改（见&lt;code&gt;/layouts/partials&lt;/code&gt;），我还写了一个自动新建说说的 Shell 脚本（在&lt;code&gt;/content/shuoshuo-single/&lt;/code&gt;中）。&lt;/p&gt;
 &lt;p&gt;具体请见本站 Hugo 源代码仓库：
-&lt;a id=&#34;github-cb26a9c0afc7dd20d0dff700ebd1eccc&#34; target=&#34;_blank&#34; href=&#34;https://github.com/SmileGuide/mywebsite&#34; class=&#34;cursor-pointer&#34;&gt;
+&lt;a id=&#34;github-7bb2c3fbc6e7a431b8c9970e5cbfd65e&#34; target=&#34;_blank&#34; href=&#34;https://github.com/SmileGuide/mywebsite&#34; class=&#34;cursor-pointer&#34;&gt;
   &lt;div
 class=&#34;w-full md:w-auto pt-3 p-5 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl&#34;&gt;
 
@@ -2752,13 +2783,13 @@ class=&#34;w-full md:w-auto pt-3 p-5 border border-neutral-200 dark:border-neutr
 
   &lt;/span&gt;
   &lt;div
-id=&#34;github-cb26a9c0afc7dd20d0dff700ebd1eccc-full_name&#34;
+id=&#34;github-7bb2c3fbc6e7a431b8c9970e5cbfd65e-full_name&#34;
 class=&#34;m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;&gt;
 SmileGuide/mywebsite
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p id=&#34;github-cb26a9c0afc7dd20d0dff700ebd1eccc-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+&lt;p id=&#34;github-7bb2c3fbc6e7a431b8c9970e5cbfd65e-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
   
 &lt;/p&gt;
 
@@ -2779,7 +2810,7 @@ style=&#34;background-color: #f1e05a&#34;&gt;&lt;/span&gt;
 
 
   &lt;/span&gt;
-  &lt;div id=&#34;github-cb26a9c0afc7dd20d0dff700ebd1eccc-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+  &lt;div id=&#34;github-7bb2c3fbc6e7a431b8c9970e5cbfd65e-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
 3
   &lt;/div&gt;
 
@@ -2792,7 +2823,7 @@ style=&#34;background-color: #f1e05a&#34;&gt;&lt;/span&gt;
 
 
   &lt;/span&gt;
-  &lt;div id=&#34;github-cb26a9c0afc7dd20d0dff700ebd1eccc-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+  &lt;div id=&#34;github-7bb2c3fbc6e7a431b8c9970e5cbfd65e-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
 0
   &lt;/div&gt;
 
@@ -2807,10 +2838,10 @@ fetch(&#34;https://api.github.com/repos/SmileGuide/mywebsite&#34;, {
 })
   .then(response =&gt; response.json())
   .then(data =&gt; {
-document.getElementById(&#39;github-cb26a9c0afc7dd20d0dff700ebd1eccc-full_name&#39;).innerHTML = data.full_name;
-document.getElementById(&#39;github-cb26a9c0afc7dd20d0dff700ebd1eccc-description&#39;).innerHTML = data.description;
-document.getElementById(&#39;github-cb26a9c0afc7dd20d0dff700ebd1eccc-stargazers&#39;).innerHTML = data.stargazers_count;
-document.getElementById(&#39;github-cb26a9c0afc7dd20d0dff700ebd1eccc-forks&#39;).innerHTML = data.forks;
+document.getElementById(&#39;github-7bb2c3fbc6e7a431b8c9970e5cbfd65e-full_name&#39;).innerHTML = data.full_name;
+document.getElementById(&#39;github-7bb2c3fbc6e7a431b8c9970e5cbfd65e-description&#39;).innerHTML = data.description;
+document.getElementById(&#39;github-7bb2c3fbc6e7a431b8c9970e5cbfd65e-stargazers&#39;).innerHTML = data.stargazers_count;
+document.getElementById(&#39;github-7bb2c3fbc6e7a431b8c9970e5cbfd65e-forks&#39;).innerHTML = data.forks;
   })
   .catch(error =&gt; console.error(error))
   &lt;/script&gt;
@@ -2830,7 +2861,7 @@ document.getElementById(&#39;github-cb26a9c0afc7dd20d0dff700ebd1eccc-forks&#39;)
 &lt;/h2&gt;
 &lt;p&gt;看板娘一词源于日语，是店铺为吸引人气而设置的形象代言。&lt;br&gt;
 页面右下角的人偶即为本站的「数字看板娘」。它源于GitHub上的开源项目：
-&lt;a id=&#34;github-7bb2c3fbc6e7a431b8c9970e5cbfd65e&#34; target=&#34;_blank&#34; href=&#34;https://github.com/stevenjoezhang/live2d-widget&#34; class=&#34;cursor-pointer&#34;&gt;
+&lt;a id=&#34;github-04420d49ee7907f08c281dfe4d75cc0a&#34; target=&#34;_blank&#34; href=&#34;https://github.com/stevenjoezhang/live2d-widget&#34; class=&#34;cursor-pointer&#34;&gt;
   &lt;div
 class=&#34;w-full md:w-auto pt-3 p-5 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl&#34;&gt;
 
@@ -2846,13 +2877,13 @@ class=&#34;w-full md:w-auto pt-3 p-5 border border-neutral-200 dark:border-neutr
 
   &lt;/span&gt;
   &lt;div
-id=&#34;github-7bb2c3fbc6e7a431b8c9970e5cbfd65e-full_name&#34;
+id=&#34;github-04420d49ee7907f08c281dfe4d75cc0a-full_name&#34;
 class=&#34;m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;&gt;
 stevenjoezhang/live2d-widget
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p id=&#34;github-7bb2c3fbc6e7a431b8c9970e5cbfd65e-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+&lt;p id=&#34;github-04420d49ee7907f08c281dfe4d75cc0a-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
   把萌萌哒的看板娘抱回家 (ノ≧∇≦)ノ | Live2D widget for web platform
 &lt;/p&gt;
 
@@ -2873,7 +2904,7 @@ style=&#34;background-color: #f1e05a&#34;&gt;&lt;/span&gt;
 
 
   &lt;/span&gt;
-  &lt;div id=&#34;github-7bb2c3fbc6e7a431b8c9970e5cbfd65e-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+  &lt;div id=&#34;github-04420d49ee7907f08c281dfe4d75cc0a-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
 9787
   &lt;/div&gt;
 
@@ -2886,7 +2917,7 @@ style=&#34;background-color: #f1e05a&#34;&gt;&lt;/span&gt;
 
 
   &lt;/span&gt;
-  &lt;div id=&#34;github-7bb2c3fbc6e7a431b8c9970e5cbfd65e-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+  &lt;div id=&#34;github-04420d49ee7907f08c281dfe4d75cc0a-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
 2507
   &lt;/div&gt;
 
@@ -2901,10 +2932,10 @@ fetch(&#34;https://api.github.com/repos/stevenjoezhang/live2d-widget&#34;, {
 })
   .then(response =&gt; response.json())
   .then(data =&gt; {
-document.getElementById(&#39;github-7bb2c3fbc6e7a431b8c9970e5cbfd65e-full_name&#39;).innerHTML = data.full_name;
-document.getElementById(&#39;github-7bb2c3fbc6e7a431b8c9970e5cbfd65e-description&#39;).innerHTML = data.description;
-document.getElementById(&#39;github-7bb2c3fbc6e7a431b8c9970e5cbfd65e-stargazers&#39;).innerHTML = data.stargazers_count;
-document.getElementById(&#39;github-7bb2c3fbc6e7a431b8c9970e5cbfd65e-forks&#39;).innerHTML = data.forks;
+document.getElementById(&#39;github-04420d49ee7907f08c281dfe4d75cc0a-full_name&#39;).innerHTML = data.full_name;
+document.getElementById(&#39;github-04420d49ee7907f08c281dfe4d75cc0a-description&#39;).innerHTML = data.description;
+document.getElementById(&#39;github-04420d49ee7907f08c281dfe4d75cc0a-stargazers&#39;).innerHTML = data.stargazers_count;
+document.getElementById(&#39;github-04420d49ee7907f08c281dfe4d75cc0a-forks&#39;).innerHTML = data.forks;
   })
   .catch(error =&gt; console.error(error))
   &lt;/script&gt;
@@ -2947,7 +2978,7 @@ document.getElementById(&#39;github-7bb2c3fbc6e7a431b8c9970e5cbfd65e-forks&#39;)
 &lt;/h3&gt;
 &lt;p&gt;你可以使用该项目的官方API地址，但是更推荐在 Vercel 上部署一个，以便自定义模型。
 先克隆（或者复刻）下面的 Repo 到本地：&lt;br&gt;
-&lt;a id=&#34;github-04420d49ee7907f08c281dfe4d75cc0a&#34; target=&#34;_blank&#34; href=&#34;https://github.com/fghrsh/live2d_api&#34; class=&#34;cursor-pointer&#34;&gt;
+&lt;a id=&#34;github-4baad3a0f0ee4ec10f54d9a676d7fb65&#34; target=&#34;_blank&#34; href=&#34;https://github.com/fghrsh/live2d_api&#34; class=&#34;cursor-pointer&#34;&gt;
   &lt;div
 class=&#34;w-full md:w-auto pt-3 p-5 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl&#34;&gt;
 
@@ -2963,13 +2994,13 @@ class=&#34;w-full md:w-auto pt-3 p-5 border border-neutral-200 dark:border-neutr
 
   &lt;/span&gt;
   &lt;div
-id=&#34;github-04420d49ee7907f08c281dfe4d75cc0a-full_name&#34;
+id=&#34;github-4baad3a0f0ee4ec10f54d9a676d7fb65-full_name&#34;
 class=&#34;m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;&gt;
 fghrsh/live2d_api
   &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;p id=&#34;github-04420d49ee7907f08c281dfe4d75cc0a-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+&lt;p id=&#34;github-4baad3a0f0ee4ec10f54d9a676d7fb65-description&#34; class=&#34;m-0 mt-2 text-md text-neutral-800 dark:text-neutral&#34;&gt;
   Live2D 看板娘插件 后端 API
 &lt;/p&gt;
 
@@ -2990,7 +3021,7 @@ style=&#34;background-color: #4F5D95&#34;&gt;&lt;/span&gt;
 
 
   &lt;/span&gt;
-  &lt;div id=&#34;github-04420d49ee7907f08c281dfe4d75cc0a-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+  &lt;div id=&#34;github-4baad3a0f0ee4ec10f54d9a676d7fb65-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
 1236
   &lt;/div&gt;
 
@@ -3003,7 +3034,7 @@ style=&#34;background-color: #4F5D95&#34;&gt;&lt;/span&gt;
 
 
   &lt;/span&gt;
-  &lt;div id=&#34;github-04420d49ee7907f08c281dfe4d75cc0a-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
+  &lt;div id=&#34;github-4baad3a0f0ee4ec10f54d9a676d7fb65-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
 548
   &lt;/div&gt;
 
@@ -3018,10 +3049,10 @@ fetch(&#34;https://api.github.com/repos/fghrsh/live2d_api&#34;, {
 })
   .then(response =&gt; response.json())
   .then(data =&gt; {
-document.getElementById(&#39;github-04420d49ee7907f08c281dfe4d75cc0a-full_name&#39;).innerHTML = data.full_name;
-document.getElementById(&#39;github-04420d49ee7907f08c281dfe4d75cc0a-description&#39;).innerHTML = data.description;
-document.getElementById(&#39;github-04420d49ee7907f08c281dfe4d75cc0a-stargazers&#39;).innerHTML = data.stargazers_count;
-document.getElementById(&#39;github-04420d49ee7907f08c281dfe4d75cc0a-forks&#39;).innerHTML = data.forks;
+document.getElementById(&#39;github-4baad3a0f0ee4ec10f54d9a676d7fb65-full_name&#39;).innerHTML = data.full_name;
+document.getElementById(&#39;github-4baad3a0f0ee4ec10f54d9a676d7fb65-description&#39;).innerHTML = data.description;
+document.getElementById(&#39;github-4baad3a0f0ee4ec10f54d9a676d7fb65-stargazers&#39;).innerHTML = data.stargazers_count;
+document.getElementById(&#39;github-4baad3a0f0ee4ec10f54d9a676d7fb65-forks&#39;).innerHTML = data.forks;
   })
   .catch(error =&gt; console.error(error))
   &lt;/script&gt;

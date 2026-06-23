@@ -105,7 +105,7 @@
     "keywords": ["建站","Vercel","CDN","域名解析","GitHub Pages","静态","部署","云加速","测速"],
     
     "mainEntityOfPage": "true",
-    "wordCount": "1470"
+    "wordCount": "1479"
   }]
   </script>
 
@@ -591,7 +591,7 @@
 <div class="flex flex-row flex-wrap items-center">
   
   
-  <time datetime="2024-02-20 13:42:42 &#43;0800 CST">20 February 2024</time><span class="px-2 text-primary-500">&middot;</span><span>1470 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span>
+  <time datetime="2024-02-20 13:42:42 &#43;0800 CST">20 February 2024</time><span class="px-2 text-primary-500">&middot;</span><span>1479 words</span><span class="px-2 text-primary-500">&middot;</span><span title="Reading time">3 mins</span>
   
 
   
@@ -1026,15 +1026,7 @@
 
 
         <div class="article-content max-w-prose mb-20">
-          <div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
-  此文是上一篇《关于本站的建造》的延申，是关于把已搭建的 Hugo 站点进行部署和加速的文章。与上一篇不同，这是一篇普适性教程。
-</div>
-
-<!-- <div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
-  这是由上一篇《关于本站的建造》引申出来的文章，主要讲解的是把构建好的 Hugo 网站进行部署和加速的过程。与上一篇不同，这是一篇普遍使用的教程。
-</div>
- -->
-
+          
   
 
 
@@ -1062,9 +1054,17 @@
   <span
     
       class="dark:text-neutral-300"
-    >敬请留意：此文撰写于多年以前。时过境迁，本站现已挂载于 Cloudflare 上，已脱离国内的网络服务框架；本文所述内容可能仍有指引性意义，但本站或许已不采用下文的某些方式或服务。</span>
+    >敬请留意：此文撰写于多年以前。时过境迁，本站现已已脱离境内的网络服务框架，挂载于 Cloudflare ；本文所述内容可能仍有指引性意义，但本站或许已不采用下文的某些方式提供服务。</span>
 </div>
 
+<div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+  此文是上一篇《关于本站的建造》的内容延伸，是关于把搭建完成的 Hugo 站点进行部署和CDN加速的教程文章。与前篇不同，这是一篇普遍适用的教程。
+</div>
+
+<!-- <div class="lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl">
+  这是由上一篇《关于本站的建造》引申出来的文章，主要讲解的是把构建好的 Hugo 网站进行部署和加速的过程。与上一篇不同，这是一篇普遍使用的教程。
+</div>
+ -->
 
 
 <h2 class="relative group">部署网站 
@@ -2160,6 +2160,147 @@
   border-radius: 0.35rem;
 }
 
+```css
+ 
+
+.twikoo-wrapper .tk-comments-sort {
+  position: relative;
+  display: inline-block;
+  color: rgb(var(--color-neutral-800));
+}
+
+.dark .twikoo-wrapper .tk-comments-sort {
+  color: rgb(var(--color-neutral-100));
+}
+
+ 
+.twikoo-wrapper .tk-comments-sort::after {
+  content: "⌄";
+  position: absolute;
+  top: 50%;
+  right: 0.18rem;
+  transform: translateY(-56%);
+  pointer-events: none;
+  color: currentColor;
+  font-size: 0.95em;
+  line-height: 1;
+  transition: color 0.24s ease, transform 0.24s ease;
+}
+
+.twikoo-wrapper .tk-sort-select {
+  appearance: none;
+  -webkit-appearance: none;
+
+  min-height: 2.35rem;
+  padding: 0.42rem 1.35rem 0.48rem 0.28rem !important;
+
+  border: 0 !important;
+  border-radius: 0 !important;
+  outline: 0 !important;
+  box-shadow: none !important;
+
+  color: inherit !important;
+  background-color: transparent !important;
+  background-image: linear-gradient(currentColor, currentColor) !important;
+  background-repeat: no-repeat !important;
+  background-position: 0.28rem calc(100% - 3px) !important;
+  background-size: 0 1px !important;
+
+  font-family: 'Noto Serif', 'Noto Serif JP', 'Noto Serif SC', Georgia, serif;
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+
+  transition:
+    color 0.24s ease,
+    background-size 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+ 
+.twikoo-wrapper .tk-sort-select:hover,
+.twikoo-wrapper .tk-sort-select:focus-visible {
+  color: rgb(var(--color-primary-400)) !important;
+  background-size: calc(100% - 1.45rem) 1px !important;
+}
+
+.twikoo-wrapper .tk-comments-sort:hover::after,
+.twikoo-wrapper .tk-comments-sort:focus-within::after {
+  color: rgb(var(--color-primary-400));
+}
+
+ 
+@supports (appearance: base-select) {
+  .twikoo-wrapper .tk-sort-select,
+  .twikoo-wrapper .tk-sort-select::picker(select) {
+    appearance: base-select;
+  }
+
+   
+  .twikoo-wrapper .tk-comments-sort::after {
+    content: none;
+  }
+
+  .twikoo-wrapper .tk-sort-select::picker-icon {
+    color: currentColor;
+    margin-left: 0.28rem;
+    transition: rotate 0.24s ease;
+  }
+
+  .twikoo-wrapper .tk-sort-select:open {
+    color: rgb(var(--color-primary-400)) !important;
+    background-size: calc(100% - 1.45rem) 1px !important;
+  }
+
+  .twikoo-wrapper .tk-sort-select:open::picker-icon {
+    rotate: 180deg;
+  }
+
+   
+  .twikoo-wrapper .tk-sort-select::picker(select) {
+    margin-top: 0.35rem;
+    padding: 0.25rem 0;
+    min-width: 7rem;
+
+    color: rgb(var(--color-neutral-800));
+    background: rgba(255, 255, 255, 0.94);
+    border: 1px solid rgba(15, 23, 42, 0.13);
+    border-radius: 6px;
+    box-shadow: 0 10px 24px rgba(15, 23, 42, 0.12);
+  }
+
+  .dark .twikoo-wrapper .tk-sort-select::picker(select) {
+    color: rgb(var(--color-neutral-100));
+    background: rgba(30, 41, 59, 0.97);
+    border-color: rgba(255, 255, 255, 0.14);
+    box-shadow: 0 10px 24px rgba(0, 0, 0, 0.28);
+  }
+
+   
+  .twikoo-wrapper .tk-sort-select option {
+    padding: 0.52rem 0.82rem;
+    color: inherit;
+    background: transparent;
+    border: 0;
+    font-family: 'Noto Serif', 'Noto Serif JP', 'Noto Serif SC', Georgia, serif;
+    font-weight: 700;
+  }
+
+  .twikoo-wrapper .tk-sort-select option:hover,
+  .twikoo-wrapper .tk-sort-select option:focus {
+    background: rgba(var(--color-primary-400), 0.12);
+  }
+
+  .twikoo-wrapper .tk-sort-select option:checked {
+    color: rgb(var(--color-primary-400));
+    background: rgba(var(--color-primary-400), 0.14);
+  }
+
+   
+  .twikoo-wrapper .tk-sort-select::checkmark {
+    content: "";
+  }
+}
+```
 
 
 
