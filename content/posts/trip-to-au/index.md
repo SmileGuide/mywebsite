@@ -4,7 +4,7 @@ date: 2026-05-18T12:30:38+08:00
 draft: false
 language: zh-cn
 isCJKLanguage: true
-tags: [Trip,Life,ZH-CN]
+tags: [Trip,Life,Australia,ZH-CN]
 ---  
   
 

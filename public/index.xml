@@ -8,7 +8,7 @@
     
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><copyright>:copyright: 2026 Jukai Sarai</copyright>
-    <lastBuildDate>Tue, 23 Jun 2026 13:17:08 +0800</lastBuildDate><atom:link href="https://jukai.site/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 09 Aug 2026 11:15:14 +0800</lastBuildDate><atom:link href="https://jukai.site/index.xml" rel="self" type="application/rss+xml" />
 
 
 
@@ -23,6 +23,13 @@
 
 
 
+    
+    <item>
+      <title>樹海的長江逆流而上</title>
+      <link>https://jukai.site/posts/up-the-yangtze/</link>
+      <pubDate>Sat, 25 Jul 2026 15:58:39 +0800</pubDate>
+      
+      <guid>https://jukai.site/posts/up-the-yangtze/</guid><description><br/>Since RSS readers do not display the blog content perfectly, please read this article in your browser.</description><media:content url="https://jukai.site/posts/up-the-yangtze/feature.jpg" type="image/jpeg" medium="image" /></item>
     
     <item>
       <title>樹海的オーストラリア之旅</title>
@@ -2292,7 +2299,7 @@ auto=&#34;https://music.163.com/song?id=2672507555&#34;&gt;
     &gt;本站主要域名 &lt;a href=&#34;https://karlukle.site&#34; target=&#34;_blank&#34;&gt;karlukle.site&lt;/a&gt; 已备案完成，2024/2/19起使用该域名作为唯一网址，原 &lt;a href=&#34;https://smileguide.github.io&#34; target=&#34;_blank&#34;&gt;smileguide.github.io&lt;/a&gt; 和 &lt;a href=&#34;https://i.karlukle.site&#34; target=&#34;_blank&#34;&gt;i.karlukle.site&lt;/a&gt; 停止解析。&lt;/span&gt;
 &lt;/div&gt;
  --&gt;
-
+&lt;!-- 
   
 
 
@@ -2323,8 +2330,9 @@ auto=&#34;https://music.163.com/song?id=2672507555&#34;&gt;
     &gt;To better serve as a streamlined official artist homepage, this site has been transitioned into a minimalist, static style. Dynamic features—including the music player and Live2D Web Widget—have been removed to ensure a more focused experience.&lt;br&gt;
 Rest assured, all meaningful past interactions have been migrated and preserved within a new framework.&lt;/span&gt;
 &lt;/div&gt;
+  
 
-&lt;br/&gt;<br/>Since RSS readers do not display the blog content perfectly, please read this article in your browser.</description></item>
+&lt;br/&gt; --&gt;<br/>Since RSS readers do not display the blog content perfectly, please read this article in your browser.</description></item>
     
     <item>
       <title>Friends</title>
