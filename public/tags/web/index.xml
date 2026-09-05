@@ -8,7 +8,7 @@
     
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><copyright>:copyright: 2026 Jukai Sarai</copyright>
-    <lastBuildDate>Sun, 09 Aug 2026 11:34:43 +0800</lastBuildDate><atom:link href="https://jukai.site/tags/web/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Sep 2026 17:37:52 +0800</lastBuildDate><atom:link href="https://jukai.site/tags/web/index.xml" rel="self" type="application/rss+xml" />
 
 
 
@@ -1169,7 +1169,7 @@ Blowfish 是由&lt;a href=&#34;https://n9o.xyz/&#34; target=&#34;_blank&#34;&gt;
 前者使用了Hugo的新特性，从指定路径获取渲染好的HTML并放置在页面上；后者是一个支持在内部写入 Markdown 和短代码的&lt;code&gt;&amp;lt;span&amp;gt;&lt;/code&gt;元素。&lt;br&gt;
 另外，说说页的布局也做了个性化修改（见&lt;code&gt;/layouts/partials&lt;/code&gt;），我还写了一个自动新建说说的 Shell 脚本（在&lt;code&gt;/content/shuoshuo-single/&lt;/code&gt;中）。&lt;/p&gt;
 &lt;p&gt;具体请见本站 Hugo 源代码仓库：
-&lt;a id=&#34;github-7bb2c3fbc6e7a431b8c9970e5cbfd65e&#34; target=&#34;_blank&#34; href=&#34;https://github.com/SmileGuide/mywebsite&#34; class=&#34;cursor-pointer&#34;&gt;
+&lt;a id=&#34;github-7bb2c3fbc6e7a431b8c9970e5cbfd65e&#34; target=&#34;_blank&#34; href=&#34;https://github.com/jukaisr/mywebsite&#34; class=&#34;cursor-pointer&#34;&gt;
   &lt;div
 class=&#34;w-full md:w-auto pt-3 p-5 border border-neutral-200 dark:border-neutral-700 border rounded-md shadow-2xl&#34;&gt;
 
@@ -1187,7 +1187,7 @@ class=&#34;w-full md:w-auto pt-3 p-5 border border-neutral-200 dark:border-neutr
   &lt;div
 id=&#34;github-7bb2c3fbc6e7a431b8c9970e5cbfd65e-full_name&#34;
 class=&#34;m-0 font-bold text-xl text-neutral-800 decoration-primary-500 hover:underline hover:underline-offset-2 dark:text-neutral&#34;&gt;
-SmileGuide/mywebsite
+jukaisr/mywebsite
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -1213,7 +1213,7 @@ style=&#34;background-color: #f1e05a&#34;&gt;&lt;/span&gt;
 
   &lt;/span&gt;
   &lt;div id=&#34;github-7bb2c3fbc6e7a431b8c9970e5cbfd65e-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-3
+2
   &lt;/div&gt;
 
   &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -1226,7 +1226,7 @@ style=&#34;background-color: #f1e05a&#34;&gt;&lt;/span&gt;
 
   &lt;/span&gt;
   &lt;div id=&#34;github-7bb2c3fbc6e7a431b8c9970e5cbfd65e-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-0
+1
   &lt;/div&gt;
 
 &lt;/div&gt;
@@ -1292,9 +1292,9 @@ stevenjoezhang/live2d-widget
 &lt;div class=&#34;m-0 mt-2 flex items-center&#34;&gt;
 
   &lt;span class=&#34;mr-1 inline-block h-3 w-3 rounded-full&#34;
-style=&#34;background-color: #f1e05a&#34;&gt;&lt;/span&gt;
+style=&#34;background-color: #2b7489&#34;&gt;&lt;/span&gt;
   &lt;div class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
- JavaScript 
+ TypeScript 
   &lt;/div&gt;
 
   &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -1307,7 +1307,7 @@ style=&#34;background-color: #f1e05a&#34;&gt;&lt;/span&gt;
 
   &lt;/span&gt;
   &lt;div id=&#34;github-04420d49ee7907f08c281dfe4d75cc0a-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-9787
+10935
   &lt;/div&gt;
 
   &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -1320,7 +1320,7 @@ style=&#34;background-color: #f1e05a&#34;&gt;&lt;/span&gt;
 
   &lt;/span&gt;
   &lt;div id=&#34;github-04420d49ee7907f08c281dfe4d75cc0a-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-2507
+2605
   &lt;/div&gt;
 
 &lt;/div&gt;
@@ -1424,7 +1424,7 @@ style=&#34;background-color: #4F5D95&#34;&gt;&lt;/span&gt;
 
   &lt;/span&gt;
   &lt;div id=&#34;github-4baad3a0f0ee4ec10f54d9a676d7fb65-stargazers&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-1236
+1320
   &lt;/div&gt;
 
   &lt;span class=&#34;text-md mr-1 text-neutral-800 dark:text-neutral&#34;&gt;
@@ -1437,7 +1437,7 @@ style=&#34;background-color: #4F5D95&#34;&gt;&lt;/span&gt;
 
   &lt;/span&gt;
   &lt;div id=&#34;github-4baad3a0f0ee4ec10f54d9a676d7fb65-forks&#34; class=&#34;m-0 mr-5 text-md text-neutral-800 dark:text-neutral&#34;&gt;
-548
+556
   &lt;/div&gt;
 
 &lt;/div&gt;
